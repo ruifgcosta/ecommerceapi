@@ -13,61 +13,61 @@
 	},
 	{
 		"id": 3,
-		"img": "../img/product/product6.jpg",
+		"img": "https://cdn.autodoc.de/thumb?id=10975291&m=0&n=0&lng=pt&rev=94077854",
 		"name": "LIGHTING",
 		"price": "55.00"
 	},
 	{
 		"id": 4,
-		"img": "../img/product/product5.jpg",
+		"img": "https://bizonagro.com/upload/images/code172187.jpg",
 		"name": "BATHROOM",
 		"price": "55.00"
 	},
 	{
 		"id": 5,
-		"img": "../img/product/product4.jpg",
+		"img": "https://www.niparts.com/Graphics/full/DATA_68/2691209.jpg",
 		"name": "KITCHEN",
 		"price": "55.00"
 	},
 	{
 		"id": 6,
-		"img": "../img/product/product3.jpg",
+		"img": "https://www.shc.co.uk/wp-content/uploads/2015/10/gs0601.jpg",
 		"name": "INTERIOR",
 		"price": "55.00"
 	},
 	{
 		"id": 7,
-		"img": "../img/product/product7.jpg",
+		"img": "https://images.milanuncios.com/api/v1/ma-ad-media-pro/images/483aca71-f1d3-4d59-b61c-33634083bef8?rule=hw396",
 		"name": "LIVING ROOM",
 		"price": "55.00"
 	},
 	{
 		"id": 8,
-		"img": "../img/product/product8.jpg",
+		"img": "https://www.smartkat.net/55-home_default/double-action-hand-pump.jpg",
 		"name": "DECOR",
 		"price": "55.00"
 	},
 	{
 		"id": 9,
-		"img": "../img/product/product9.jpg",
+		"img": "https://www.shc.co.uk/wp-content/uploads/2015/10/wo0103.jpg",
 		"name": "LIVING ROOM",
 		"price": "55.00"
 	},
 	{
 		"id": 10,
-		"img": "../img/product/product10.jpg",
+		"img": "https://www.constructionarea.co.uk/imgdb/products/21000/20530/117990.jpg",
 		"name": "SOFA",
 		"price": "55.00"
 	},
 	{
 		"id": 11,
-		"img": "../img/product/product11.jpg",
+		"img": "https://a365.acdc.co.za/Images/acdc-web-images/ima1/TC1-D25K02.PNG",
 		"name": "LIVING ROOM",
 		"price": "55.00"
 	},
 	{
 		"id": 13,
-		"img": "../img/product/product12.jpg",
+		"img": "https://ortopedia.exclusivasiglesias.com/7891-home_default/motor-dobravel-para-cadeira-de-rodas-ref-empulse-r20.jpg",
 		"name": "SOFA",
 		"price": "55.00"
 	}
