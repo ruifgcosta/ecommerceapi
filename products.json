@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"img": "https://th-live-01.slatic.net/p/a920007df1a5bdbb9c26f52f2e485a09.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988396/Products/filtro_1.jpg",
 		"name": "BEDROOM",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -9,7 +9,7 @@
 	},
 	{
 		"id": 2,
-		"img": "https://th-live-01.slatic.net/p/33ee5b1afda4c400e7062777222e542b.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988395/Products/Filtro_2.jpg",
 		"name": "OFFICE",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -17,7 +17,7 @@
 	},
 	{
 		"id": 3,
-		"img": "https://cdn.autodoc.de/thumb?id=10975291&m=0&n=0&lng=pt&rev=94077854",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988395/Products/Parafusos.jpg",
 		"name": "LIGHTING",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -25,7 +25,7 @@
 	},
 	{
 		"id": 4,
-		"img": "https://bizonagro.com/upload/images/code172187.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988393/Products/Ferramenta.jpg",
 		"name": "BATHROOM",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -33,7 +33,7 @@
 	},
 	{
 		"id": 5,
-		"img": "https://www.niparts.com/Graphics/full/DATA_68/2691209.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988393/Products/minibomba.jpg",
 		"name": "KITCHEN",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -41,7 +41,7 @@
 	},
 	{
 		"id": 6,
-		"img": "https://www.shc.co.uk/wp-content/uploads/2015/10/gs0601.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988392/Products/limpinjetores.jpg",
 		"name": "INTERIOR",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -49,7 +49,7 @@
 	},
 	{
 		"id": 7,
-		"img": "https://images.milanuncios.com/api/v1/ma-ad-media-pro/images/483aca71-f1d3-4d59-b61c-33634083bef8?rule=hw396",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988391/Products/roquete.avif",
 		"name": "LIVING ROOM",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -57,7 +57,7 @@
 	},
 	{
 		"id": 8,
-		"img": "https://www.smartkat.net/55-home_default/double-action-hand-pump.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988390/Products/bomba_ar.jpg",
 		"name": "DECOR",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 9,
-		"img": "https://www.shc.co.uk/wp-content/uploads/2015/10/wo0103.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988389/Products/bombito.jpg",
 		"name": "LIVING ROOM",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -73,7 +73,7 @@
 	},
 	{
 		"id": 10,
-		"img": "https://www.constructionarea.co.uk/imgdb/products/21000/20530/117990.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988388/Products/acmaquina.jpg",
 		"name": "SOFA",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -81,7 +81,7 @@
 	},
 	{
 		"id": 11,
-		"img": "https://a365.acdc.co.za/Images/acdc-web-images/ima1/TC1-D25K02.PNG",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988388/Products/acinterr.png",
 		"name": "LIVING ROOM",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
@@ -89,7 +89,7 @@
 	},
 	{
 		"id": 13,
-		"img": "https://ortopedia.exclusivasiglesias.com/7891-home_default/motor-dobravel-para-cadeira-de-rodas-ref-empulse-r20.jpg",
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988397/Products/acmotor.webp",
 		"name": "SOFA",
 		"ref": "#123456A",
 		"desc": "Descrição artigo",
