@@ -73,7 +73,8 @@
   "EspecificacaoACEA": "E7",
   "Especificacao": "API CI-4 \/ CH-4",
   "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.3;REN. TRUCKS RVI RLD2;RENAULT RVI RLD-2;VOLVO VDS-3",
-  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-2;Cummins CES 20071;Cummins CES 20072;Cummins CES 20076;Cummins CES 20077;Cummins CES 20078;"
+  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-2;Cummins CES 20071;Cummins CES 20072;Cummins CES 20076;Cummins CES 20077;Cummins CES 20078;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "62",
