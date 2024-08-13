@@ -39,7 +39,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-40",
-  "EspecificacaoACEA": "E5"
+  "EspecificacaoACEA": "E5",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "60",
@@ -105,7 +106,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W",
-  "RecomendacaoFrabricanteOleo": "CATERPILLAR"
+  "RecomendacaoFrabricanteOleo": "CATERPILLAR",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "140",
@@ -122,7 +124,8 @@
   "EspecificacaoACEA": "E7",
   "Especificacao": "API CI-4 \/ CH-4",
   "AprovacaoFabricante": "EURO IV;EURO V ecological;KAMAZ approval Euro3;MACK EO-N;MB-Freigabe 228.3;REN. TRUCKS RVI RLD2;RENAULT RVI RLD-2;VOLVO VDS-3;",
-  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-2;Cummins CES 20071;Cummins CES 20072"
+  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-2;Cummins CES 20071;Cummins CES 20072",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "141",
@@ -170,7 +173,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-40",
-  "EspecificacaoACEA": "E5"
+  "EspecificacaoACEA": "E5",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "47",
@@ -200,7 +204,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-30",
-  "EspecificacaoACEA": "E7;E2;"
+  "EspecificacaoACEA": "E7;E2;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "41",
@@ -230,7 +235,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C3",
-  "AprovacaoFabricante": "VW 504 00 507 00"
+  "AprovacaoFabricante": "VW 504 00 507 00",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "43",
@@ -262,7 +268,8 @@
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C1",
   "AprovacaoFabricante": "FORD WSS M2C 934 B;STJLR.03.5005;",
-  "RecomendacaoFrabricanteOleo": "JALOS JASO DL-1"
+  "RecomendacaoFrabricanteOleo": "JALOS JASO DL-1",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_101580_8100_ECO-CLEAN%2B_5W30_1L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "234",
@@ -293,7 +300,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-40",
   "Especificacao": "API CF-4 \/ CF;CCMC D-4;",
-  "RecomendacaoFrabricanteOleo": "MB 228.1"
+  "RecomendacaoFrabricanteOleo": "MB 228.1",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "128",
@@ -308,7 +316,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "40",
   "Especificacao": "API CF-4 \/ CF;CCMC D-4;",
-  "RecomendacaoFrabricanteOleo": "MB 228.0"
+  "RecomendacaoFrabricanteOleo": "MB 228.0",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "142",
@@ -404,7 +413,8 @@
   "EspecificacaoACEA": "C3",
   "Especificacao": "API SERVICE SN",
   "AprovacaoFabricante": "GM dexos2",
-  "RecomendacaoFrabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;Fiat 9.55535-S2;FIAT 9.55535-T2;FORD WSS M2C 917 A;VW 505 00 505 01"
+  "RecomendacaoFrabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;Fiat 9.55535-S2;FIAT 9.55535-T2;FORD WSS M2C 917 A;VW 505 00 505 01",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "33",
@@ -482,7 +492,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C3",
-  "AprovacaoFabricante": "BMW LL-04;MB-Freigabe 229.51;Porsche C30;VW 504 00 507 00;"
+  "AprovacaoFabricante": "BMW LL-04;MB-Freigabe 229.51;Porsche C30;VW 504 00 507 00;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "36",
@@ -498,7 +509,8 @@
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C4",
   "AprovacaoFabricante": "RENAULT RN0720",
-  "RecomendacaoFrabricanteOleo": "MB 226.51"
+  "RecomendacaoFrabricanteOleo": "MB 226.51",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "85",
@@ -563,7 +575,8 @@
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "A5\/B5",
   "Especificacao": "ACEA A5 \/ B5;API SERVICE SL;",
-  "AprovacaoFabricante": "FORD WSS M2C 913 D;RENAULT RN0700;STJLR.03.5003"
+  "AprovacaoFabricante": "FORD WSS M2C 913 D;RENAULT RN0700;STJLR.03.5003",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_102782_8100_ECO-NERGY_5W30_1L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "97",
@@ -660,7 +673,8 @@
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "A5\/B5",
   "Especificacao": "ACEA A5 \/ B5;API SERVICE SL;",
-  "AprovacaoFabricante": "FORD WSS M2C 913 D;RENAULT RN0700;STJLR.03.5003"
+  "AprovacaoFabricante": "FORD WSS M2C 913 D;RENAULT RN0700;STJLR.03.5003",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "15",
@@ -691,7 +705,8 @@
   "ViscosidadeSAE": "10W-30",
   "Especificacao": "ACEA E7 \/ E9",
   "AprovacaoFabricante": "MACK EOS 4.5;REN. TRUCKS RVI RLD3;RENAULT RVI RLD-3;Volvo VDS-4.5;",
-  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-3;Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;"
+  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-3;Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "59",
@@ -708,7 +723,8 @@
   "EspecificacaoACEA": "E7",
   "Especificacao": "API CI-4 \/ CH-4",
   "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.3;REN. TRUCKS RVI RLD2;RENAULT RVI RLD-2;VOLVO VDS-3",
-  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-2;Cummins CES 20071;Cummins CES 20072;Cummins CES 20076;Cummins CES 20077;Cummins CES 20078;"
+  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-2;Cummins CES 20071;Cummins CES 20072;Cummins CES 20076;Cummins CES 20077;Cummins CES 20078;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "139",
@@ -725,7 +741,8 @@
   "EspecificacaoACEA": "E7",
   "Especificacao": "API CI-4 \/ CH-4",
   "AprovacaoFabricante": "EURO IV;EURO V ecological;KAMAZ approval Euro3;MACK EO-N;MB-Freigabe 228.3;REN. TRUCKS RVI RLD2;RENAULT RVI RLD-2;VOLVO VDS-3;",
-  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-2;Cummins CES 20071;Cummins CES 20072"
+  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-2;Cummins CES 20071;Cummins CES 20072",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "143",
@@ -740,7 +757,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-40",
   "Especificacao": "API CF-4 \/ CF;CCMC D-4;",
-  "RecomendacaoFrabricanteOleo": "MB 228.1"
+  "RecomendacaoFrabricanteOleo": "MB 228.1",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "127",
@@ -755,7 +773,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "30",
   "Especificacao": "API CF-4 \/ CF;CCMC D-4;",
-  "RecomendacaoFrabricanteOleo": "MB 228.0"
+  "RecomendacaoFrabricanteOleo": "MB 228.0",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "130",
@@ -769,7 +788,8 @@
   "Capacidade": "20",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-40",
-  "EspecificacaoACEA": "E5"
+  "EspecificacaoACEA": "E5",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "135",
@@ -783,7 +803,8 @@
   "Capacidade": "20",
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-40",
-  "EspecificacaoACEA": "E5"
+  "EspecificacaoACEA": "E5",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "144",
@@ -799,7 +820,8 @@
   "ViscosidadeSAE": "10W-40",
   "Especificacao": "ACEA E4 \/ E7",
   "AprovacaoFabricante": "DEUTZ DQC-III;MACK EO-N;MAN 3277;MB-Freigabe 228.5;REN. TRUCKS RVI RLD2;RENAULT RVI RLD-2;SCANIA LDF-3;VOLVO VDS-3;",
-  "RecomendacaoFrabricanteOleo": "DAF Extended Drain;MTU MTU Type 3;"
+  "RecomendacaoFrabricanteOleo": "DAF Extended Drain;MTU MTU Type 3;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "12",
@@ -814,7 +836,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C3",
-  "AprovacaoFabricante": "BMW LL-04;MB-Freigabe 229.51;Porsche C30;VW 504 00 507 00;"
+  "AprovacaoFabricante": "BMW LL-04;MB-Freigabe 229.51;Porsche C30;VW 504 00 507 00;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "82",
@@ -831,7 +854,8 @@
   "EspecificacaoACEA": "C3",
   "Especificacao": "API SERVICE SN",
   "AprovacaoFabricante": "GM dexos2",
-  "RecomendacaoFrabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;Fiat 9.55535-S2;FIAT 9.55535-T2;FORD WSS M2C 917 A;VW 505 00 505 01"
+  "RecomendacaoFrabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;Fiat 9.55535-S2;FIAT 9.55535-T2;FORD WSS M2C 917 A;VW 505 00 505 01",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "148",
@@ -887,7 +911,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-40",
-  "Especificacao": "API SL\/SJ\/SH\/SG"
+  "Especificacao": "API SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "180",
@@ -901,7 +926,8 @@
   "Capacidade": "1",
   "Quantidade": "12",
   "ViscosidadeSAE": "10W-30",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104062_5100%252010W30%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "181",
@@ -929,7 +955,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-30",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "183",
@@ -943,7 +970,8 @@
   "Capacidade": "1",
   "Quantidade": "12",
   "ViscosidadeSAE": "10W-40",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104066_5100%252010W40%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "184",
@@ -957,7 +985,8 @@
   "Capacidade": "4",
   "Quantidade": "4",
   "ViscosidadeSAE": "10W-40",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104068_5100%252010W40%25204T%25204L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "185",
@@ -971,7 +1000,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-40",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "186",
@@ -985,7 +1015,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-40",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "187",
@@ -999,7 +1030,8 @@
   "Capacidade": "1",
   "Quantidade": "12",
   "ViscosidadeSAE": "10W-50",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104074_5100%252010W50%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "188",
@@ -1055,7 +1087,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-50",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "192",
@@ -1083,7 +1116,8 @@
   "Capacidade": "4",
   "Quantidade": "4",
   "ViscosidadeSAE": "15W-50",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104083_5100%252015W50%25204T%25204L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "146",
@@ -1097,7 +1131,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-50",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "147",
@@ -1111,7 +1146,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-50",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "207",
@@ -1124,7 +1160,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "1",
   "Quantidade": "12",
-  "ViscosidadeSAE": "5W-40"
+  "ViscosidadeSAE": "5W-40",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104086_7100%25205W40%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "208",
@@ -1137,7 +1174,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "4",
   "Quantidade": "4",
-  "ViscosidadeSAE": "5W-40"
+  "ViscosidadeSAE": "5W-40",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104087_7100%25205W40%25204T%25204L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "210",
@@ -1150,7 +1188,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "1",
   "Quantidade": "12",
-  "ViscosidadeSAE": "10W-30"
+  "ViscosidadeSAE": "10W-30",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104089_7100%252010W30%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "211",
@@ -1176,7 +1215,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "1",
   "Quantidade": "12",
-  "ViscosidadeSAE": "10W-40"
+  "ViscosidadeSAE": "10W-40",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104091_7100%252010W40%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "213",
@@ -1215,7 +1255,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "208",
   "Quantidade": "1",
-  "ViscosidadeSAE": "10W-40"
+  "ViscosidadeSAE": "10W-40",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "216",
@@ -1228,7 +1269,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "1",
   "Quantidade": "12",
-  "ViscosidadeSAE": "10W-50"
+  "ViscosidadeSAE": "10W-50",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104097_7100%252010W50%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "217",
@@ -1254,7 +1296,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "1",
   "Quantidade": "12",
-  "ViscosidadeSAE": "10W-60"
+  "ViscosidadeSAE": "10W-60",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104100_7100%252010W60%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "170",
@@ -1280,7 +1323,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "60",
   "Quantidade": "1",
-  "ViscosidadeSAE": "10W-60"
+  "ViscosidadeSAE": "10W-60",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "176",
@@ -1294,7 +1338,8 @@
   "Capacidade": "1",
   "Quantidade": "12",
   "ViscosidadeSAE": "20W-50",
-  "RecomendacaoFrabricanteOleo": "Harley Davidson spec"
+  "RecomendacaoFrabricanteOleo": "Harley Davidson spec",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104103_7100%252020W50%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "177",
@@ -1322,7 +1367,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "20W-50",
-  "RecomendacaoFrabricanteOleo": "Harley Davidson spec"
+  "RecomendacaoFrabricanteOleo": "Harley Davidson spec",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "179",
@@ -1336,7 +1382,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "20W-50",
-  "RecomendacaoFrabricanteOleo": "Harley Davidson spec"
+  "RecomendacaoFrabricanteOleo": "Harley Davidson spec",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "224",
@@ -1362,7 +1409,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "1",
   "Quantidade": "12",
-  "ViscosidadeSAE": "5W-40"
+  "ViscosidadeSAE": "5W-40",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104112_300V%2520RR%25205W-40_1L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "226",
@@ -1389,7 +1437,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-40",
-  "RecomendacaoFrabricanteOleo": "JALOS JASO - Test"
+  "RecomendacaoFrabricanteOleo": "JALOS JASO - Test",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "195",
@@ -1403,7 +1452,8 @@
   "Capacidade": "1",
   "Quantidade": "12",
   "ViscosidadeSAE": "10W-40",
-  "RecomendacaoFrabricanteOleo": "JALOS JASO - Test"
+  "RecomendacaoFrabricanteOleo": "JALOS JASO - Test",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104118_300V%2520RR%252010W-40_1L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "196",
@@ -1431,7 +1481,8 @@
   "Capacidade": "20",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-40",
-  "RecomendacaoFrabricanteOleo": "JALOS JASO - Test"
+  "RecomendacaoFrabricanteOleo": "JALOS JASO - Test",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "198",
@@ -1445,7 +1496,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-40",
-  "RecomendacaoFrabricanteOleo": "JALOS JASO - Test"
+  "RecomendacaoFrabricanteOleo": "JALOS JASO - Test",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "199",
@@ -1459,7 +1511,8 @@
   "Capacidade": "1",
   "Quantidade": "12",
   "ViscosidadeSAE": "15W-50",
-  "RecomendacaoFrabricanteOleo": "JALOS JASO"
+  "RecomendacaoFrabricanteOleo": "JALOS JASO",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104125_300V%2520RR%252015W-50_1L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "200",
@@ -1487,7 +1540,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-50",
-  "RecomendacaoFrabricanteOleo": "JALOS JASO"
+  "RecomendacaoFrabricanteOleo": "JALOS JASO",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "202",
@@ -1557,7 +1611,8 @@
   "Capacidade": "20",
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-60",
-  "RecomendacaoFrabricanteOleo": "JALOS JASO"
+  "RecomendacaoFrabricanteOleo": "JALOS JASO",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "172",
@@ -1570,7 +1625,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "1",
   "Quantidade": "12",
-  "ViscosidadeSAE": "15W-50"
+  "ViscosidadeSAE": "15W-50",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMOTUL_104298_7100%252015W50%25204T%25201L_NEW_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "173",
@@ -1596,7 +1652,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "60",
   "Quantidade": "1",
-  "ViscosidadeSAE": "15W-50"
+  "ViscosidadeSAE": "15W-50",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "175",
@@ -1609,7 +1666,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "208",
   "Quantidade": "1",
-  "ViscosidadeSAE": "15W-50"
+  "ViscosidadeSAE": "15W-50",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "209",
@@ -1622,7 +1680,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "208",
   "Quantidade": "1",
-  "ViscosidadeSAE": "5W-40"
+  "ViscosidadeSAE": "5W-40",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "218",
@@ -1635,7 +1694,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "208",
   "Quantidade": "1",
-  "ViscosidadeSAE": "10W-50"
+  "ViscosidadeSAE": "10W-50",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "65",
@@ -1651,7 +1711,8 @@
   "ViscosidadeSAE": "10W-40",
   "Especificacao": "ACEA E6 \/ E7 \/ E9",
   "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.51;REN. TRUCKS RVI RLD2;REN. TRUCKS RVI RXD;RENAULT RVI RLD-2;RENAULT RVI RXD;VOLVO VDS-3",
-  "RecomendacaoFrabricanteOleo": "CUMMINS CES 20076\/77;DAF Extended Drain;DEUTZ DQC-IV LA"
+  "RecomendacaoFrabricanteOleo": "CUMMINS CES 20076\/77;DAF Extended Drain;DEUTZ DQC-IV LA",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "219",
@@ -1664,7 +1725,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "2",
   "Quantidade": "6",
-  "ViscosidadeSAE": "30"
+  "ViscosidadeSAE": "30",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_104509_classic_oil_30_2l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "220",
@@ -1677,7 +1739,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "2",
   "Quantidade": "10",
-  "ViscosidadeSAE": "20W-50"
+  "ViscosidadeSAE": "20W-50",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_104511_classic_oil_20w50_2l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "81",
@@ -1690,7 +1753,8 @@
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": "2",
   "Quantidade": "10",
-  "ViscosidadeSAE": "15W-50"
+  "ViscosidadeSAE": "15W-50",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_104512_classic_oil_15w50_2l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "8",
@@ -1737,7 +1801,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "A5\/B5",
-  "AprovacaoFabricante": "FORD WSS M2C 913 D"
+  "AprovacaoFabricante": "FORD WSS M2C 913 D",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "66",
@@ -1769,7 +1834,8 @@
   "ViscosidadeSAE": "10W-40",
   "Especificacao": "ACEA E6 \/ E7 \/ E9",
   "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.51;REN. TRUCKS RVI RLD2;REN. TRUCKS RVI RXD;RENAULT RVI RLD-2;RENAULT RVI RXD;VOLVO VDS-3",
-  "RecomendacaoFrabricanteOleo": "CUMMINS CES 20076\/77;DAF Extended Drain;DEUTZ DQC-IV LA"
+  "RecomendacaoFrabricanteOleo": "CUMMINS CES 20076\/77;DAF Extended Drain;DEUTZ DQC-IV LA",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "132",
@@ -1783,7 +1849,8 @@
   "Capacidade": "20",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-30",
-  "EspecificacaoACEA": "E7;E2;"
+  "EspecificacaoACEA": "E7;E2;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "37",
@@ -1831,7 +1898,8 @@
   "ViscosidadeSAE": "10W-40",
   "Especificacao": "ACEA E7 \/ E9",
   "AprovacaoFabricante": "MACK EOS 4.5;REN. TRUCKS RVI RLD3;RENAULT RVI RLD-3;Volvo VDS-4.5;",
-  "RecomendacaoFrabricanteOleo": "Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;MAN M 3775;"
+  "RecomendacaoFrabricanteOleo": "Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;MAN M 3775;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "29",
@@ -1847,7 +1915,8 @@
   "ViscosidadeSAE": "5W-20",
   "EspecificacaoACEA": "C5",
   "Especificacao": "API SERV SN+ SNRC",
-  "AprovacaoFabricante": "913 B;913 C;925 A &;FORD WSS M2C 948 B;"
+  "AprovacaoFabricante": "913 B;913 C;925 A &;FORD WSS M2C 948 B;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "17",
@@ -1862,7 +1931,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "0W-30",
   "EspecificacaoACEA": "C2",
-  "AprovacaoFabricante": "PSA Groupe B71 2312"
+  "AprovacaoFabricante": "PSA Groupe B71 2312",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "18",
@@ -1877,7 +1947,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "0W-30",
   "EspecificacaoACEA": "C2",
-  "AprovacaoFabricante": "PSA Groupe B71 2312"
+  "AprovacaoFabricante": "PSA Groupe B71 2312",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "69",
@@ -1909,7 +1980,8 @@
   "ViscosidadeSAE": "10W-40",
   "Especificacao": "ACEA E7 \/ E9",
   "AprovacaoFabricante": "MACK EOS 4.5;REN. TRUCKS RVI RLD3;RENAULT RVI RLD-3;Volvo VDS-4.5;",
-  "RecomendacaoFrabricanteOleo": "Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;MAN M 3775;"
+  "RecomendacaoFrabricanteOleo": "Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;MAN M 3775;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "63",
@@ -1925,7 +1997,8 @@
   "ViscosidadeSAE": "10W-40",
   "Especificacao": "ACEA E6 \/ E7 \/ E9",
   "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.51;REN. TRUCKS RVI RLD2;REN. TRUCKS RVI RXD;RENAULT RVI RLD-2;RENAULT RVI RXD;VOLVO VDS-3",
-  "RecomendacaoFrabricanteOleo": "CUMMINS CES 20076\/77;DAF Extended Drain;DEUTZ DQC-IV LA"
+  "RecomendacaoFrabricanteOleo": "CUMMINS CES 20076\/77;DAF Extended Drain;DEUTZ DQC-IV LA",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "159",
@@ -2021,7 +2094,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-40",
-  "Especificacao": "API SN\/SM\/SL\/SJ"
+  "Especificacao": "API SN\/SM\/SL\/SJ",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "164",
@@ -2035,7 +2109,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-40",
-  "Especificacao": "API SN\/SM\/SL\/SJ"
+  "Especificacao": "API SN\/SM\/SL\/SJ",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "167",
@@ -2049,7 +2124,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "10W-40",
-  "Especificacao": "API SM\/SL\/SJ\/SH\/SG"
+  "Especificacao": "API SM\/SL\/SJ\/SH\/SG",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "168",
@@ -2134,7 +2210,8 @@
   "Quantidade": "12",
   "ViscosidadeSAE": "0W-20",
   "EspecificacaoACEA": "C5",
-  "AprovacaoFabricante": "VOLVO VCC RBS0-2AE"
+  "AprovacaoFabricante": "VOLVO VCC RBS0-2AE",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_106044_SPECIFIC_RBSO_2AE_1L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "45",
@@ -2164,7 +2241,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "0W-20",
   "EspecificacaoACEA": "C5",
-  "AprovacaoFabricante": "VOLVO VCC RBS0-2AE"
+  "AprovacaoFabricante": "VOLVO VCC RBS0-2AE",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "86",
@@ -2180,7 +2258,8 @@
   "ViscosidadeSAE": "10W-60",
   "EspecificacaoACEA": "A3\/B4",
   "Especificacao": "ACEA A3 \/ B4;API SN \/ CF;",
-  "RecomendacaoFrabricanteOleo": "FIAT 9.55535-H3"
+  "RecomendacaoFrabricanteOleo": "FIAT 9.55535-H3",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_106142_8100_x_power_10w60_1l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "87",
@@ -2212,7 +2291,8 @@
   "ViscosidadeSAE": "10W-60",
   "EspecificacaoACEA": "A3\/B4",
   "Especificacao": "ACEA A3 \/ B4;API SN \/ CF;",
-  "RecomendacaoFrabricanteOleo": "FIAT 9.55535-H3"
+  "RecomendacaoFrabricanteOleo": "FIAT 9.55535-H3",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "2",
@@ -2290,7 +2370,8 @@
   "Quantidade": "12",
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C3",
-  "AprovacaoFabricante": "BMW LL-04;MB-Freigabe 229.51;Porsche C30;VW 504 00 507 00;"
+  "AprovacaoFabricante": "BMW LL-04;MB-Freigabe 229.51;Porsche C30;VW 504 00 507 00;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_106376_8100_x-clean__5w30_1l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "11",
@@ -2397,7 +2478,8 @@
   "ViscosidadeSAE": "0W-30",
   "EspecificacaoACEA": "A5\/B5",
   "Especificacao": "ACEA A5 \/ B5;API PERF.E SL\/CF;",
-  "AprovacaoFabricante": "VOLVO VCC 95200377"
+  "AprovacaoFabricante": "VOLVO VCC 95200377",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "1",
@@ -2412,7 +2494,8 @@
   "Quantidade": "12",
   "ViscosidadeSAE": "0W-30",
   "EspecificacaoACEA": "C3",
-  "AprovacaoFabricante": "Porsche C30;VW 504 00 507 00;"
+  "AprovacaoFabricante": "Porsche C30;VW 504 00 507 00;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_107049_specific-50400-50700-0w30_1l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "23",
@@ -2443,7 +2526,8 @@
   "EspecificacaoACEA": "C2",
   "Especificacao": "API PERFORMANCE SN",
   "AprovacaoFabricante": "FORD WSS M2C 950 A;STJLR.03.5007;",
-  "RecomendacaoFrabricanteOleo": "CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-DS1;FIAT 9.55535-GS1;"
+  "RecomendacaoFrabricanteOleo": "CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-DS1;FIAT 9.55535-GS1;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "152",
@@ -2488,7 +2572,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "20W-50",
   "Especificacao": "API SL\/SJ\/SH\/SG",
-  "RecomendacaoFrabricanteOleo": "Harley Davidson spec"
+  "RecomendacaoFrabricanteOleo": "Harley Davidson spec",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "22",
@@ -2533,7 +2618,8 @@
   "Quantidade": "12",
   "ViscosidadeSAE": "0W-20",
   "EspecificacaoACEA": "C5",
-  "Especificacao": "API PERF. SN Plus"
+  "Especificacao": "API PERF. SN Plus",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_107385_SPECIFIC_50800_50900_0W20_1L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "232",
@@ -2565,7 +2651,8 @@
   "ViscosidadeSAE": "5W-40",
   "EspecificacaoACEA": "C3",
   "Especificacao": "API SERVICE SN",
-  "RecomendacaoFrabricanteOleo": "BMW LL-04;FORD WSS M2C 917 A;GM dexos2™"
+  "RecomendacaoFrabricanteOleo": "BMW LL-04;FORD WSS M2C 917 A;GM dexos2™",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "230",
@@ -2599,7 +2686,8 @@
   "EspecificacaoACEA": "C3",
   "Especificacao": "API SERVICE SN",
   "AprovacaoFabricante": "MB-Freigabe 229.51;VW 505 00 505 01;",
-  "RecomendacaoFrabricanteOleo": "CHRYSLER MS 11106;GM dexos2™;"
+  "RecomendacaoFrabricanteOleo": "CHRYSLER MS 11106;GM dexos2™;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "228",
@@ -2631,7 +2719,8 @@
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C2",
   "Especificacao": "API SERVICE SN",
-  "RecomendacaoFrabricanteOleo": "Fiat 9.55535-S1;PSA B71 2290;RENAULT RN0700"
+  "RecomendacaoFrabricanteOleo": "Fiat 9.55535-S1;PSA B71 2290;RENAULT RN0700",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "145",
@@ -2645,7 +2734,8 @@
   "Capacidade": "208",
   "Quantidade": "1",
   "Especificacao": "ACEA E6 \/ E7 \/ E9",
-  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-3;CUMMINS CES 20081;DAF Extended Drain;DEUTZ DQC-IV LA;IVECO Iveco;MACK EOS 4.5;MAN 3677;MTU Type 3.1;REN. TRUCKS RVI RLD3;Volvo VDS-4.5;"
+  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-3;CUMMINS CES 20081;DAF Extended Drain;DEUTZ DQC-IV LA;IVECO Iveco;MACK EOS 4.5;MAN 3677;MTU Type 3.1;REN. TRUCKS RVI RLD3;Volvo VDS-4.5;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "26",
@@ -2677,7 +2767,8 @@
   "ViscosidadeSAE": "5W-30",
   "Especificacao": "API SERVICE SP-RC;ILSAC GF-6a;",
   "AprovacaoFabricante": "GM dexos1 GEN2",
-  "RecomendacaoFrabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD WSS M2C 929 A;FORD WSS M2C 946 A;FORD WSS M2C 946 B1;GM 4718;GM 6094 M;FORD WSS M2C 946 B1;GM 4718;GM 6094 M;"
+  "RecomendacaoFrabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD WSS M2C 929 A;FORD WSS M2C 946 A;FORD WSS M2C 946 B1;GM 4718;GM 6094 M;FORD WSS M2C 946 B1;GM 4718;GM 6094 M;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "24",
@@ -2693,7 +2784,8 @@
   "ViscosidadeSAE": "0W-20",
   "Especificacao": "API SERVICE SP-RC;ILSAC GF-6a;",
   "AprovacaoFabricante": "GM dexos1 GEN2",
-  "RecomendacaoFrabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD WSS M2C 947 A;FORD WSS M2C 947 B1;"
+  "RecomendacaoFrabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD WSS M2C 947 A;FORD WSS M2C 947 B1;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_108534_8100_ECO-lite_0W-20_1L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "25",
@@ -2725,7 +2817,8 @@
   "ViscosidadeSAE": "15W-40",
   "Especificacao": "ACEA E7 \/ E9;API CK-4 \/ SN;",
   "AprovacaoFabricante": "MACK EOS 4.5;MB-Freigabe 228.31;REN. TRUCKS RVI RLD3;RENAULT RVI RLD-3;Volvo VDS-4.5",
-  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-3;Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;"
+  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-3;Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "56",
@@ -2741,7 +2834,8 @@
   "ViscosidadeSAE": "15W-40",
   "Especificacao": "ACEA E7 \/ E9;API CK-4 \/ SN;",
   "AprovacaoFabricante": "MACK EOS 4.5;MB-Freigabe 228.31;REN. TRUCKS RVI RLD3;RENAULT RVI RLD-3;Volvo VDS-4.5",
-  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-3;Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;"
+  "RecomendacaoFrabricanteOleo": "Caterpillar ECF-3;Cummins CES 20086;DAF Standard Drain;DD DFS 93K222;DetroitD DFS 93K222;Deutz DQC III-10 LA;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "57",
@@ -2774,7 +2868,8 @@
   "EspecificacaoACEA": "A3\/B4",
   "Especificacao": "ACEA A3 \/ B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01 505 00;",
-  "RecomendacaoFrabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;"
+  "RecomendacaoFrabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "78",
@@ -2791,7 +2886,8 @@
   "EspecificacaoACEA": "A3\/B4",
   "Especificacao": "ACEA A3 \/ B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01 505 00;",
-  "RecomendacaoFrabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;"
+  "RecomendacaoFrabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "76",
@@ -2808,7 +2904,8 @@
   "EspecificacaoACEA": "A3\/B4",
   "Especificacao": "ACEA A3 \/ B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01 505 00;",
-  "RecomendacaoFrabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;"
+  "RecomendacaoFrabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "90",
@@ -2825,7 +2922,8 @@
   "EspecificacaoACEA": "A3\/B4",
   "Especificacao": "ACEA A3 \/ B4;API SERVICE SN \/ CF;",
   "AprovacaoFabricante": "MB-Freigabe 229.3;RN0710 - RN0700;VW 501 01 505 00",
-  "RecomendacaoFrabricanteOleo": "PSA B71 2300"
+  "RecomendacaoFrabricanteOleo": "PSA B71 2300",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "74",
@@ -2842,7 +2940,8 @@
   "EspecificacaoACEA": "A3\/B4",
   "Especificacao": "ACEA A3 \/ B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01 505 00;",
-  "RecomendacaoFrabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;"
+  "RecomendacaoFrabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_108644_4100%2520turbolight%252010w40%25201l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "75",
@@ -2929,7 +3028,8 @@
   "EspecificacaoACEA": "E7",
   "Especificacao": "API CI-4 \/ CH-4",
   "AprovacaoFabricante": "EURO IV;EURO V ecological;KAMAZ approval Euro3;MACK EO-N;MAN 3275;MB-Freigabe 228.3;REN. TRUCKS RVI RLD2;RENAULT RVI RLD-2;VOLVO VDS-3",
-  "RecomendacaoFrabricanteOleo": "CATERPILLAR ECF-1"
+  "RecomendacaoFrabricanteOleo": "CATERPILLAR ECF-1",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "3",
@@ -2946,7 +3046,8 @@
   "EspecificacaoACEA": "E7",
   "Especificacao": "API CI-4 \/ CH-4",
   "AprovacaoFabricante": "EURO IV;EURO V ecological;KAMAZ approval Euro3;MACK EO-N;MAN 3275;MB-Freigabe 228.3;REN. TRUCKS RVI RLD2;RENAULT RVI RLD-2;VOLVO VDS-3",
-  "RecomendacaoFrabricanteOleo": "CATERPILLAR ECF-1"
+  "RecomendacaoFrabricanteOleo": "CATERPILLAR ECF-1",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "54",
@@ -2980,7 +3081,8 @@
   "EspecificacaoACEA": "E7",
   "Especificacao": "API CI-4 \/ CH-4",
   "AprovacaoFabricante": "EURO IV;EURO V ecological;KAMAZ approval Euro3;MACK EO-N;MAN 3275;MB-Freigabe 228.3;REN. TRUCKS RVI RLD2;RENAULT RVI RLD-2;VOLVO VDS-3",
-  "RecomendacaoFrabricanteOleo": "CATERPILLAR ECF-1"
+  "RecomendacaoFrabricanteOleo": "CATERPILLAR ECF-1",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "19",
@@ -3010,7 +3112,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C2",
-  "AprovacaoFabricante": "PSA B71 2290"
+  "AprovacaoFabricante": "PSA B71 2290",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "21",
@@ -3025,7 +3128,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C2",
-  "AprovacaoFabricante": "PSA B71 2290"
+  "AprovacaoFabricante": "PSA B71 2290",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "91",
@@ -3041,7 +3145,8 @@
   "ViscosidadeSAE": "5W-30",
   "Especificacao": "ACEA C2 \/ C3;API SERVICE SN;",
   "AprovacaoFabricante": "BMW LL-04;GM dexos2™;",
-  "RecomendacaoFrabricanteOleo": "Fiat 9.55535-S1;Fiat 9.55535-S3;"
+  "RecomendacaoFrabricanteOleo": "Fiat 9.55535-S1;Fiat 9.55535-S3;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_109470_8100_X_CLEAN_EFE_5W30_1L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "92",
@@ -3089,7 +3194,8 @@
   "ViscosidadeSAE": "5W-30",
   "Especificacao": "ACEA C2 \/ C3;API SERVICE SN;",
   "AprovacaoFabricante": "BMW LL-04;GM dexos2™;",
-  "RecomendacaoFrabricanteOleo": "Fiat 9.55535-S1;Fiat 9.55535-S3;"
+  "RecomendacaoFrabricanteOleo": "Fiat 9.55535-S1;Fiat 9.55535-S3;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "95",
@@ -3105,7 +3211,8 @@
   "ViscosidadeSAE": "5W-30",
   "Especificacao": "ACEA C2 \/ C3;API SERVICE SN;",
   "AprovacaoFabricante": "BMW LL-04;GM dexos2™;",
-  "RecomendacaoFrabricanteOleo": "Fiat 9.55535-S1;Fiat 9.55535-S3;"
+  "RecomendacaoFrabricanteOleo": "Fiat 9.55535-S1;Fiat 9.55535-S3;",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "96",
@@ -3137,7 +3244,8 @@
   "ViscosidadeSAE": "5W-30",
   "EspecificacaoACEA": "C3",
   "AprovacaoFabricante": "RN17",
-  "RecomendacaoFrabricanteOleo": "MB 226.52"
+  "RecomendacaoFrabricanteOleo": "MB 226.52",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "106",
@@ -3167,7 +3275,8 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "0W-20",
   "EspecificacaoACEA": "C5",
-  "Especificacao": "API PERF. SN Plus"
+  "Especificacao": "API PERF. SN Plus",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "107",
@@ -3250,7 +3359,8 @@
   "Capacidade": "2",
   "Quantidade": "10",
   "ViscosidadeSAE": "5W-30",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_110814_300V_POWER_5W-30_2L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "113",
@@ -3264,7 +3374,8 @@
   "Capacidade": "2",
   "Quantidade": "10",
   "ViscosidadeSAE": "5W-40",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_110817_300V_COMPETITION_5W-40_2L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "114",
@@ -3278,7 +3389,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "5W-40",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "115",
@@ -3306,7 +3418,8 @@
   "Capacidade": "2",
   "Quantidade": "10",
   "ViscosidadeSAE": "20W-60",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_110824_300V_LE_MANS_20W-60_2L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "123",
@@ -3320,7 +3433,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "20W-60",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "108",
@@ -3376,7 +3490,8 @@
   "Capacidade": "2",
   "Quantidade": "10",
   "ViscosidadeSAE": "5W-50",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_110859_300V_COMPETITION_5W-50_2L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "117",
@@ -3390,7 +3505,8 @@
   "Capacidade": "2",
   "Quantidade": "10",
   "ViscosidadeSAE": "15W-50",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_110860_300V_COMPETITION_15W-50_2L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "118",
@@ -3418,7 +3534,8 @@
   "Capacidade": "60",
   "Quantidade": "1",
   "ViscosidadeSAE": "15W-50",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "120",
@@ -3432,7 +3549,8 @@
   "Capacidade": "2",
   "Quantidade": "10",
   "ViscosidadeSAE": "10W-60",
-  "Especificacao": "Above standards"
+  "Especificacao": "Above standards",
+  "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_110864_300V_LE_MANS_10W-60_2L_png.png&w=640&q=75"
  },
  {
   "IdArtigo": "121",
