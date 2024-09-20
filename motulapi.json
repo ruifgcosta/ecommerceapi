@@ -799,7 +799,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "C3",
   "Especificacao": "API PERFORMANCE SN",
-  "AprovacaoFabricante": "BMW LL-04"
+  "AprovacaoFabricante": "BMW LL-04;"
  },
  {
   "IdArtigo": 48,
@@ -932,7 +932,7 @@
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75",
   "Especificacao": "ACEA E7 / E9;API CK-4 / SN;",
   "AprovacaoFabricante": "MACK EOS-4.5;MB-Freigabe 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DD DFS 93K222;DETROIT DDFS 93K222;DEUTZ DQC III-10 LA;"
+  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;"
  },
  {
   "IdArtigo": 56,
@@ -950,7 +950,7 @@
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA E7 / E9;API CK-4 / SN;",
   "AprovacaoFabricante": "MACK EOS-4.5;MB-Freigabe 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DD DFS 93K222;DETROIT DDFS 93K222;DEUTZ DQC III-10 LA;"
+  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;"
  },
  {
   "IdArtigo": 57,
@@ -967,7 +967,7 @@
   "ViscosidadeSAE": "15W40",
   "Especificacao": "ACEA E7 / E9;API CK-4 / SN;",
   "AprovacaoFabricante": "MACK EOS-4.5;MB-Freigabe 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DD DFS 93K222;DETROIT DDFS 93K222;DEUTZ DQC III-10 LA;"
+  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;"
  },
  {
   "IdArtigo": 58,
@@ -1148,7 +1148,7 @@
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75",
   "Especificacao": "ACEA E7 / E9",
   "AprovacaoFabricante": "MACK EOS-4.5;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "CUMMINS CES 20086;DAF Standard Drain;DD DFS 93K222;DETROIT DDFS 93K222;DEUTZ DQC III-10 LA;MAN M 3775;"
+  "RecomendacaoFabricanteOleo": "CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;MAN M 3775;"
  },
  {
   "IdArtigo": 68,
@@ -1166,7 +1166,7 @@
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA E7 / E9",
   "AprovacaoFabricante": "MACK EOS-4.5;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "CUMMINS CES 20086;DAF Standard Drain;DD DFS 93K222;DETROIT DDFS 93K222;DEUTZ DQC III-10 LA;MAN M 3775;"
+  "RecomendacaoFabricanteOleo": "CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;MAN M 3775;"
  },
  {
   "IdArtigo": 69,
@@ -1183,7 +1183,7 @@
   "ViscosidadeSAE": "10W40",
   "Especificacao": "ACEA E7 / E9",
   "AprovacaoFabricante": "MACK EOS-4.5;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "CUMMINS CES 20086;DAF Standard Drain;DD DFS 93K222;DETROIT DDFS 93K222;DEUTZ DQC III-10 LA;MAN M 3775;"
+  "RecomendacaoFabricanteOleo": "CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;MAN M 3775;"
  },
  {
   "IdArtigo": 70,
@@ -1201,7 +1201,7 @@
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA E7 / E9",
   "AprovacaoFabricante": "MACK EOS-4.5;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DD DFS 93K222;DETROIT DDFS 93K222;DEUTZ DQC III-10 LA;"
+  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;"
  },
  {
   "IdArtigo": 71,
@@ -1218,7 +1218,7 @@
   "ViscosidadeSAE": "10W30",
   "Especificacao": "ACEA E7 / E9",
   "AprovacaoFabricante": "MACK EOS-4.5;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DD DFS 93K222;DETROIT DDFS 93K222;DEUTZ DQC III-10 LA;"
+  "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;"
  },
  {
   "IdArtigo": 72,
@@ -10362,7 +10362,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W8",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV;ILSAC GF-6A"
  },
  {
   "IdArtigo": 739,
@@ -10376,7 +10376,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W8",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 740,
@@ -10390,7 +10390,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W8",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 741,
@@ -10404,7 +10404,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W8",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 742,
@@ -10418,7 +10418,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 4,
   "ViscosidadeSAE": "0W8",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 743,
@@ -10432,7 +10432,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W12",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 744,
@@ -10446,7 +10446,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W12",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 745,
@@ -10460,7 +10460,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W12",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 746,
@@ -10474,7 +10474,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W12",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 747,
@@ -10488,7 +10488,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 4,
   "ViscosidadeSAE": "0W12",
-  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "JALOS JASO GLV-1;ILSAC GF-6A"
  },
  {
   "IdArtigo": 748,
@@ -10587,7 +10587,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT  RN17"
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17"
  },
  {
   "IdArtigo": 755,
@@ -10602,7 +10602,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT  RN17"
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17"
  },
  {
   "IdArtigo": 756,
@@ -10617,7 +10617,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT  RN17"
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17"
  },
  {
   "IdArtigo": 757,
@@ -10632,7 +10632,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT  RN17"
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17"
  },
  {
   "IdArtigo": 758,
@@ -10647,7 +10647,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT  RN17"
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17"
  },
  {
   "IdArtigo": 759,
@@ -10662,7 +10662,7 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT  RN17"
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17"
  },
  {
   "IdArtigo": 760,
@@ -10987,7 +10987,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340 / MS-90047;FIAT 9.55535-GS1/DS1"
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;"
  },
  {
   "IdArtigo": 782,
@@ -11002,7 +11002,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340 / MS-90047;FIAT 9.55535-GS1/DS1"
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;"
  },
  {
   "IdArtigo": 783,
@@ -11017,7 +11017,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340 / MS-90047;FIAT 9.55535-GS1/DS1"
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;"
  },
  {
   "IdArtigo": 784,
@@ -11032,7 +11032,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340 / MS-90047;FIAT 9.55535-GS1/DS1"
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;"
  },
  {
   "IdArtigo": 785,
@@ -11047,7 +11047,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340 / MS-90047;FIAT 9.55535-GS1/DS1"
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;"
  },
  {
   "IdArtigo": 786,
@@ -11062,7 +11062,7 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340 / MS-90047;FIAT 9.55535-GS1/DS1"
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;"
  },
  {
   "IdArtigo": 787,
@@ -11286,7 +11286,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W30",
-  "RecomendacaoFabricanteOleo": "ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A"
  },
  {
   "IdArtigo": 802,
@@ -11300,7 +11300,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W30",
-  "RecomendacaoFabricanteOleo": "ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A"
  },
  {
   "IdArtigo": 803,
@@ -11314,7 +11314,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W30",
-  "RecomendacaoFabricanteOleo": "ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A"
  },
  {
   "IdArtigo": 804,
@@ -11328,7 +11328,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W30",
-  "RecomendacaoFabricanteOleo": "ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A"
  },
  {
   "IdArtigo": 805,
@@ -11342,7 +11342,7 @@
   "UnidadeMedida": "L",
   "Quantidade": 4,
   "ViscosidadeSAE": "0W30",
-  "RecomendacaoFabricanteOleo": "ILSAC  GF-6A"
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A"
  },
  {
   "IdArtigo": 806,
@@ -11357,7 +11357,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "C3",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB  229.51;BMW LL-04;Porsche A40"
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.51;BMW LL-04;Porsche A40"
  },
  {
   "IdArtigo": 807,
@@ -11372,7 +11372,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "C3",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB  229.51;BMW LL-04;Porsche A40"
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.51;BMW LL-04;Porsche A40"
  },
  {
   "IdArtigo": 808,
@@ -11387,7 +11387,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "C3",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB  229.51;BMW LL-04;Porsche A40"
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.51;BMW LL-04;Porsche A40"
  },
  {
   "IdArtigo": 809,
@@ -11402,7 +11402,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "C3",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB  229.51;BMW LL-04;Porsche A40"
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.51;BMW LL-04;Porsche A40"
  },
  {
   "IdArtigo": 810,
@@ -11417,7 +11417,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "C3",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB  229.51;BMW LL-04;Porsche A40"
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.51;BMW LL-04;Porsche A40"
  },
  {
   "IdArtigo": 811,
@@ -11432,7 +11432,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "A3 / B4",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB  229.5;Porsche A40;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB 229.5;Porsche A40;"
  },
  {
   "IdArtigo": 812,
@@ -11447,7 +11447,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "A3 / B4",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB  229.5;Porsche A40;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB 229.5;Porsche A40;"
  },
  {
   "IdArtigo": 813,
@@ -11462,7 +11462,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "A3 / B4",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB  229.5;Porsche A40;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB 229.5;Porsche A40;"
  },
  {
   "IdArtigo": 814,
@@ -11477,7 +11477,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "A3 / B4",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB  229.5;Porsche A40;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB 229.5;Porsche A40;"
  },
  {
   "IdArtigo": 815,
@@ -11492,7 +11492,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "0W40",
   "EspecificacaoACEA": "A3 / B4",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB  229.5;Porsche A40;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C937-A;VW 502 00;VW 505 00;RENAULT RN0700;RENAULT RN0710;BMW LL-01;MB 229.5;Porsche A40;"
  },
  {
   "IdArtigo": 816,
@@ -11582,7 +11582,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA  B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
  },
  {
   "IdArtigo": 822,
@@ -11597,7 +11597,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA  B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
  },
  {
   "IdArtigo": 823,
@@ -11612,7 +11612,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA  B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
  },
  {
   "IdArtigo": 824,
@@ -11627,7 +11627,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA  B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
  },
  {
   "IdArtigo": 825,
@@ -11642,7 +11642,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA  B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
  },
  {
   "IdArtigo": 826,
@@ -11657,7 +11657,7 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA  B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-1106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;"
  },
  {
   "IdArtigo": 827,
@@ -11672,7 +11672,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA  B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
+  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
  },
  {
   "IdArtigo": 828,
@@ -11687,7 +11687,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA  B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
+  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
  },
  {
   "IdArtigo": 829,
@@ -11702,7 +11702,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA  B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
+  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
  },
  {
   "IdArtigo": 830,
@@ -11717,7 +11717,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA  B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
+  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
  },
  {
   "IdArtigo": 831,
@@ -11732,7 +11732,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA  B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
+  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
  },
  {
   "IdArtigo": 832,
@@ -11747,7 +11747,7 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA  B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
+  "RecomendacaoFabricanteOleo": "MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;BMW LL-04;PSA B71 2290;Porsche C30;FIAT 9.55535-DS1;FIAT 9.55535-GS1"
  },
  {
   "IdArtigo": 833,
@@ -12171,7 +12171,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT  9.55535-S1"
+  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT 9.55535-S1"
  },
  {
   "IdArtigo": 862,
@@ -12186,7 +12186,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT  9.55535-S1"
+  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT 9.55535-S1"
  },
  {
   "IdArtigo": 863,
@@ -12201,7 +12201,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT  9.55535-S1"
+  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT 9.55535-S1"
  },
  {
   "IdArtigo": 864,
@@ -12216,7 +12216,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT  9.55535-S1"
+  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT 9.55535-S1"
  },
  {
   "IdArtigo": 865,
@@ -12231,7 +12231,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2",
-  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT  9.55535-S1"
+  "RecomendacaoFabricanteOleo": "PSA B71 2290;BMW LL-04;FIAT 9.55535-S1"
  },
  {
   "IdArtigo": 866,
@@ -12246,7 +12246,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW  LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
  },
  {
   "IdArtigo": 867,
@@ -12261,7 +12261,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW  LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
  },
  {
   "IdArtigo": 868,
@@ -12276,7 +12276,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW  LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
  },
  {
   "IdArtigo": 869,
@@ -12291,7 +12291,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW  LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
  },
  {
   "IdArtigo": 870,
@@ -12306,7 +12306,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW  LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;"
  },
  {
   "IdArtigo": 871,
@@ -12321,7 +12321,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C4 / C3",
-  "RecomendacaoFabricanteOleo": "MB 226.51/MB 229.51;RENAULT RN0720"
+  "RecomendacaoFabricanteOleo": "MB 226.51;MB 229.51;RENAULT RN0720"
  },
  {
   "IdArtigo": 872,
@@ -12336,7 +12336,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C4 / C3",
-  "RecomendacaoFabricanteOleo": "MB 226.51/MB 229.51;RENAULT RN0720"
+  "RecomendacaoFabricanteOleo": "MB 226.51;MB 229.51;RENAULT RN0720"
  },
  {
   "IdArtigo": 873,
@@ -12351,7 +12351,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C4 / C3",
-  "RecomendacaoFabricanteOleo": "MB 226.51/MB 229.51;RENAULT RN0720"
+  "RecomendacaoFabricanteOleo": "MB 226.51;MB 229.51;RENAULT RN0720"
  },
  {
   "IdArtigo": 874,
@@ -12366,7 +12366,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C4 / C3",
-  "RecomendacaoFabricanteOleo": "MB 226.51/MB 229.51;RENAULT RN0720"
+  "RecomendacaoFabricanteOleo": "MB 226.51;MB 229.51;RENAULT RN0720"
  },
  {
   "IdArtigo": 875,
@@ -12381,7 +12381,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C4 / C3",
-  "RecomendacaoFabricanteOleo": "MB 226.51/MB 229.51;RENAULT RN0720"
+  "RecomendacaoFabricanteOleo": "MB 226.51;MB 229.51;RENAULT RN0720"
  },
  {
   "IdArtigo": 876,
@@ -12616,7 +12616,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "A5 / B5",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C 913-D;RENAULT RN0700;STJLR.03.5003;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C913-D;RENAULT RN0700;STJLR.03.5003;"
  },
  {
   "IdArtigo": 892,
@@ -12631,7 +12631,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "A5 / B5",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C 913-D;RENAULT RN0700;STJLR.03.5003;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C913-D;RENAULT RN0700;STJLR.03.5003;"
  },
  {
   "IdArtigo": 893,
@@ -12646,7 +12646,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "A5 / B5",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C 913-D;RENAULT RN0700;STJLR.03.5003;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C913-D;RENAULT RN0700;STJLR.03.5003;"
  },
  {
   "IdArtigo": 894,
@@ -12661,7 +12661,7 @@
   "Quantidade": 1,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "A5 / B5",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C 913-D;RENAULT RN0700;STJLR.03.5003;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C913-D;RENAULT RN0700;STJLR.03.5003;"
  },
  {
   "IdArtigo": 895,
@@ -12676,7 +12676,7 @@
   "Quantidade": 4,
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "A5 / B5",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C 913-D;RENAULT RN0700;STJLR.03.5003;"
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C913-D;RENAULT RN0700;STJLR.03.5003;"
  },
  {
   "IdArtigo": 896,
@@ -13425,7 +13425,7 @@
   "ViscosidadeSAE": "25W60",
   "EspecificacaoACEA": "E11(9) / E7",
   "Especificacao": " MB 228.31;CUMMINS CES20086;DETROIT FLUID SERVICE DFS 93K222;MACK E0S-4.5;VOLVO VDS-4.5;MAN M3575;MTU 2.1;DEUTZ DQCIII-10",
-  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS 4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
+  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS-4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
  },
  {
   "IdArtigo": 946,
@@ -13441,7 +13441,7 @@
   "ViscosidadeSAE": "25W60",
   "EspecificacaoACEA": "E11(9) / E7",
   "Especificacao": " MB 228.31;CUMMINS CES20086;DETROIT FLUID SERVICE DFS 93K222;MACK E0S-4.5;VOLVO VDS-4.5;MAN M3575;MTU 2.1;DEUTZ DQCIII-10",
-  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS 4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
+  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS-4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
  },
  {
   "IdArtigo": 947,
@@ -13457,7 +13457,7 @@
   "ViscosidadeSAE": "25W60",
   "EspecificacaoACEA": "E11(9) / E7",
   "Especificacao": " MB 228.31;CUMMINS CES20086;DETROIT FLUID SERVICE DFS 93K222;MACK E0S-4.5;VOLVO VDS-4.5;MAN M3575;MTU 2.1;DEUTZ DQCIII-10",
-  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS 4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
+  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS-4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
  },
  {
   "IdArtigo": 948,
@@ -13473,7 +13473,7 @@
   "ViscosidadeSAE": "25W60",
   "EspecificacaoACEA": "E11(9) / E7",
   "Especificacao": " MB 228.31;CUMMINS CES20086;DETROIT FLUID SERVICE DFS 93K222;MACK E0S-4.5;VOLVO VDS-4.5;MAN M3575;MTU 2.1;DEUTZ DQCIII-10",
-  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS 4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
+  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS-4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
  },
  {
   "IdArtigo": 949,
@@ -13489,7 +13489,7 @@
   "ViscosidadeSAE": "25W60",
   "EspecificacaoACEA": "E11(9) / E7",
   "Especificacao": " MB 228.31;CUMMINS CES20086;DETROIT FLUID SERVICE DFS 93K222;MACK E0S-4.5;VOLVO VDS-4.5;MAN M3575;MTU 2.1;DEUTZ DQCIII-10",
-  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS 4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
+  "RecomendacaoFabricanteOleo": "MB 228.31;CUMMINS CES 20086;DETROIT FLUID SERVICE DFS 93K222;MACK EOS-4.5;VOLVO VDS-4.5;MAN M 3575;MTU 2.1;DEUTZ DQCIII-10"
  },
  {
   "IdArtigo": 950,
