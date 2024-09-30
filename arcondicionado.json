@@ -120,7 +120,7 @@
   "Descricao": "Kit Conexões e Mangueiras R1234YF, 5000 mm,  para R134A-R407C-R404A-R407C-R452A",
   "NomeComercial": "Kit Conexões e Mangueiras R1234YF, 5000 mm,  para R134A-R407C-R404A-R407C-R452A",
   "Gas": "R134a;R404A;R407C;R452A;",
-  "ArtigoRelacionado": "X-CROSS; X-TREME\/20; 150 HP;"
+  "ArtigoRelacionado": "X-CROSS; X-TREME\/20;150 HP;"
  },
  {
   "IdArtigo": 14,
@@ -131,7 +131,7 @@
   "Descricao": "Mangueira vermelha de alta pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "NomeComercial": "Mangueira vermelha de alta pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "Gas": "R134a;",
-  "ArtigoRelacionado": "X-TREME\/20; 150 HP;"
+  "ArtigoRelacionado": "X-TREME\/20;150 HP;"
  },
  {
   "IdArtigo": 15,
@@ -753,7 +753,7 @@
   "Descricao": "kit conexões e mangueiras 2500 mm, R134A, para serie OPTIMA - XTREME20 - X CROSS",
   "NomeComercial": "kit conexões e mangueiras 2500 mm, R134A, para serie OPTIMA - XTREME20 - X CROSS",
   "Gas": "R134a;",
-  "ArtigoRelacionado": "OPTIMA; OPTIMA +; X-CROSS; X-TREME\/20; 150 HP;"
+  "ArtigoRelacionado": "OPTIMA; OPTIMA +; X-CROSS; X-TREME\/20;150 HP;"
  },
  {
   "IdArtigo": 77,
@@ -1610,7 +1610,7 @@
   "Descricao": "Mangueira azul de baixa pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "NomeComercial": "Mangueira azul de baixa pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "Gas": "R134a;",
-  "ArtigoRelacionado": "X-TREME\/20; 150 HP;"
+  "ArtigoRelacionado": "X-TREME\/20;150 HP;"
  },
  {
   "IdArtigo": 165,
@@ -1661,7 +1661,7 @@
   "Descricao": "kit conexões e mangueiras 2500 mm, R1234YF, para serie OPTIMA - XTREME20 - X CROSS",
   "NomeComercial": "kit conexões e mangueiras 2500 mm, R1234YF, para serie OPTIMA - XTREME20 - X CROSS",
   "Gas": "R1234yf;",
-  "ArtigoRelacionado": "OPTIMA; OPTIMA +; X-CROSS; X-TREME\/20; 150 HP;"
+  "ArtigoRelacionado": "OPTIMA; OPTIMA +; X-CROSS; X-TREME\/20;150 HP;"
  },
  {
   "IdArtigo": 170,
