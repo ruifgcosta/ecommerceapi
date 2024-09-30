@@ -131,7 +131,7 @@
   "Descricao": "Mangueira vermelha de alta pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "NomeComercial": "Mangueira vermelha de alta pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "Gas": "R134a;",
-  "ArtigoRelacionado": "X-TREME\/20; 150 HP"
+  "ArtigoRelacionado": "X-TREME\/20; 150 HP;"
  },
  {
   "IdArtigo": 15,
@@ -1610,7 +1610,7 @@
   "Descricao": "Mangueira azul de baixa pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "NomeComercial": "Mangueira azul de baixa pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "Gas": "R134a;",
-  "ArtigoRelacionado": "X-TREME\/20; 150 HP"
+  "ArtigoRelacionado": "X-TREME\/20; 150 HP;"
  },
  {
   "IdArtigo": 165,
@@ -1621,7 +1621,7 @@
   "Descricao": "Manómetro alta, R134A, para Piccola Plus-Piccola Evo-Piccola Data-Amica-Amica Data-150HP",
   "NomeComercial": "Manómetro alta, R134A, para Piccola Plus-Piccola Evo-Piccola Data-Amica-Amica Data-150HP",
   "Gas": "R134a;",
-  "ArtigoRelacionado": "150 HP"
+  "ArtigoRelacionado": "150 HP;"
  },
  {
   "IdArtigo": 166,
@@ -1830,7 +1830,7 @@
   "Descricao": "Kit Conexões e Mangueiras, 5000 mm, R1234YF",
   "NomeComercial": "Kit Conexões e Mangueiras, 5000 mm, R1234YF",
   "Gas": "R1234yf;",
-  "ArtigoRelacionado": "150 HP"
+  "ArtigoRelacionado": "150 HP;"
  },
  {
   "IdArtigo": 187,
@@ -1841,7 +1841,7 @@
   "Descricao": "Manómetro baixa, R134A, para Piccola Plus-Piccola Evo-Piccola Data-Amica-Amica Data-150HP",
   "NomeComercial": "Manómetro baixa, R134A, para Piccola Plus-Piccola Evo-Piccola Data-Amica-Amica Data-150HP",
   "Gas": "R134a;",
-  "ArtigoRelacionado": "150 HP"
+  "ArtigoRelacionado": "150 HP;"
  },
  {
   "IdArtigo": 188,
