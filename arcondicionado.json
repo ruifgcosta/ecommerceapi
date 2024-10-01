@@ -7,7 +7,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit Teste R1234Y",
   "NomeComercial": "Kit Teste R1234Y",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 2,
@@ -17,7 +17,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente hermético aditivo UV universal, 60 ml (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente hermético aditivo UV universal, 60 ml (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 3,
@@ -72,7 +72,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit de pressurização de 48 bar para Azoto e Azoidro (válido para garrafas descartavéis e recarregavéis)",
   "NomeComercial": "Kit de pressurização de 48 bar para Azoto e Azoidro (válido para garrafas descartavéis e recarregavéis)",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 9,
@@ -109,7 +109,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit 5 Adaptadores 1\/4 \"SAE x baixa R134A",
   "NomeComercial": "Kit 5 Adaptadores 1\/4 \"SAE x baixa R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 13,
@@ -119,8 +119,8 @@
   "Produto": "Acessórios",
   "Descricao": "Kit Conexões e Mangueiras R1234YF, 5000 mm,  para R134A-R407C-R404A-R407C-R452A",
   "NomeComercial": "Kit Conexões e Mangueiras R1234YF, 5000 mm,  para R134A-R407C-R404A-R407C-R452A",
-  "Gas": "R134a;R404A;R407C;R452A;",
-  "ArtigoRelacionado": "X-CROSS; X-TREME\/20;150 HP;"
+  "Gas": "R134a \/ R404A \/ R407C \/ R452A \/ ",
+  "ArtigoRelacionado": "X-CROSS;X-TREME\/20;150 HP"
  },
  {
   "IdArtigo": 14,
@@ -130,8 +130,8 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira vermelha de alta pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "NomeComercial": "Mangueira vermelha de alta pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
-  "Gas": "R134a;",
-  "ArtigoRelacionado": "X-TREME\/20;150 HP;"
+  "Gas": "R134a",
+  "ArtigoRelacionado": "X-TREME\/20;150 HP"
  },
  {
   "IdArtigo": 15,
@@ -141,7 +141,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml )",
   "NomeComercial": "Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml )",
-  "ArtigoRelacionado": "OPTIMA; OPTIMA +;"
+  "ArtigoRelacionado": "OPTIMA;OPTIMA +"
  },
  {
   "IdArtigo": 16,
@@ -151,7 +151,7 @@
   "Produto": "Acessórios",
   "Descricao": "Identificador de refrigerante para R1234YF",
   "NomeComercial": "Identificador de refrigerante para R1234YF",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 17,
@@ -161,7 +161,7 @@
   "Produto": "Acessórios",
   "Descricao": "Garrafa óleo POE, 250 ml ( (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Garrafa óleo POE, 250 ml ( (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 18,
@@ -171,7 +171,7 @@
   "Produto": "Acessórios",
   "Descricao": "Manómetro baixa, R134A-R1234YF, para Piccola 3 Variant-200\/4-Xtreme20",
   "NomeComercial": "Manómetro baixa, R134A-R1234YF, para Piccola 3 Variant-200\/4-Xtreme20",
-  "Gas": "R134a;R1234yf;",
+  "Gas": "R134a \/ R1234yf",
   "ArtigoRelacionado": "X-TREME\/20"
  },
  {
@@ -182,7 +182,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente hermético, 260 ml, óleo POE (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente hermético, 260 ml, óleo POE (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 20,
@@ -201,8 +201,8 @@
   "Produto": "Acessórios",
   "Descricao": "Kit de analisador de refrigerante para serie OPTIMA, válido para R1234YF e R134A",
   "NomeComercial": "Kit de analisador de refrigerante para serie OPTIMA, válido para R1234YF e R134A",
-  "Gas": "R134a;R1234yf;",
-  "ArtigoRelacionado": "OPTIMA; OPTIMA +;"
+  "Gas": "R134a \/ R1234yf",
+  "ArtigoRelacionado": "OPTIMA;OPTIMA +"
  },
  {
   "IdArtigo": 22,
@@ -246,9 +246,9 @@
   "Marca": "WIGAM",
   "Referencia": "13003106\/1234YF",
   "Produto": "Máquina",
-  "Descricao": "Equipo Rec\/Recic\/Vacío\/Carga \"Reco+\" + Ligações e Mangueiras R1234Yf",
+  "Descricao": "Equip. R R V C  \"Reco+\" + Ligações + Mangueiras R1234Yf",
   "NomeComercial": "RECO +",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Automática"
  },
  {
@@ -277,7 +277,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida baixa R1234YF, conexão M 1\/4 \"SAE",
   "NomeComercial": "Conexão rápida baixa R1234YF, conexão M 1\/4 \"SAE",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 30,
@@ -306,7 +306,7 @@
   "Produto": "Acessórios",
   "Descricao": "Manometro alta, R134A, para Pitagoras",
   "NomeComercial": "Manometro alta, R134A, para Pitagoras",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 33,
@@ -334,7 +334,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente aditivo UV universal, 250 ml (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente aditivo UV universal, 250 ml (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 36,
@@ -344,7 +344,7 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira azul de baixa pressão, 1800 mm, R134A, para Pitagoras",
   "NomeComercial": "Mangueira azul de baixa pressão, 1800 mm, R134A, para Pitagoras",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 37,
@@ -352,7 +352,7 @@
   "Marca": "WIGAM",
   "Referencia": "13003103",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento com impressora para R744 (CO2)",
+  "Descricao": "Equip. R R V C + impressora para R744 (CO2)",
   "NomeComercial": "PICOLLA R744",
   "Gas": "R744",
   "Funcionamento": "Totalmente Automática",
@@ -366,7 +366,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit de carregamento \"SPY\" com mangueiras 1500 mm  e conexões para R134A e R1234YF",
   "NomeComercial": "Kit de carregamento \"SPY\" com mangueiras 1500 mm  e conexões para R134A e R1234YF",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 39,
@@ -376,7 +376,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit 10 tampões conexão rápida baixa R134A",
   "NomeComercial": "Kit 10 tampões conexão rápida baixa R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 40,
@@ -386,7 +386,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida alta R1234YF, conexão M 1\/4 \"SAE",
   "NomeComercial": "Conexão rápida alta R1234YF, conexão M 1\/4 \"SAE",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 41,
@@ -406,7 +406,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente hermético, 260 ml, óleo PAG46 (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente hermético, 260 ml, óleo PAG46 (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 43,
@@ -414,11 +414,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003098",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento e impressora, garrafa 40 kgs, para R134A,R1234YF, R404A, R452A, R407C",
+  "Descricao": "Equip. R R V C + impressora, garrafa 40 kgs, para R134A,R1234YF, R404A, R452A, R407C",
   "NomeComercial": "150 HP",
-  "Gas": "R134a;R1234yf;R404a;R407c;R452a",
+  "Gas": "R134a \/ R1234yf \/ R404a \/ R407c \/ R452a",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5000 m - R134A, R407C, R404A, R407C, R452A;14010115£Kit Conexões e Mangueiras - 5 m - R1234YF;"
+  "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5000 m - R134A, R407C, R404A, R407C, R452A;14010115£Kit Conexões e Mangueiras - 5 m - R1234YF"
  },
  {
   "IdArtigo": 44,
@@ -437,7 +437,7 @@
   "Produto": "Acessórios",
   "Descricao": "Equipamento de recuperação válido para R1234YF e R134A",
   "NomeComercial": "Equipamento de recuperação válido para R1234YF e R134A",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 46,
@@ -447,7 +447,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida baixa R1234YF, conexão H - M12 x 1,5",
   "NomeComercial": "Conexão rápida baixa R1234YF, conexão H - M12 x 1,5",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 47,
@@ -477,7 +477,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit de acoplamentos para garrafas R1234YF",
   "NomeComercial": "Kit de acoplamentos para garrafas R1234YF",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 50,
@@ -505,7 +505,7 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira azul de baixa pressão, 2500 mm, R1234YF para Piccola 3 Variant",
   "NomeComercial": "Mangueira azul de baixa pressão, 2500 mm, R1234YF para Piccola 3 Variant",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 53,
@@ -515,7 +515,7 @@
   "Produto": "Acessórios",
   "Descricao": "Manómetro alta, R134A-R1234YF, para Piccola 3 Variant-200\/4-Xtreme20",
   "NomeComercial": "Manómetro alta, R134A-R1234YF, para Piccola 3 Variant-200\/4-Xtreme20",
-  "Gas": "R134a;R1234yf;",
+  "Gas": "R134a \/ R1234yf",
   "ArtigoRelacionado": "X-TREME\/20"
  },
  {
@@ -544,7 +544,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit de reciclagem para centros de reciclagem com conexões para R134A (válido para R1234YF e R134A)",
   "NomeComercial": "Kit de reciclagem para centros de reciclagem com conexões para R134A (válido para R1234YF e R134A)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 57,
@@ -554,7 +554,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida alta R134A, longo 90º, para BMW-Volvo-Galaxy",
   "NomeComercial": "Conexão rápida alta R134A, longo 90º, para BMW-Volvo-Galaxy",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 58,
@@ -564,7 +564,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit 10 borrachas para mangueiras M 12x1.5 (R1234YF)",
   "NomeComercial": "Kit 10 borrachas para mangueiras M 12x1.5 (R1234YF)",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 59,
@@ -572,11 +572,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003096",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento com impressora, garrafa 20 kgs, para R134A,R1234YF, R404A, R452A, R407C",
+  "Descricao": "Equip. R R V C + impressora, garrafa 20 kgs, para R134A,R1234YF, R404A, R452A, R407C",
   "NomeComercial": "X-TREME\/20",
-  "Gas": "R134a;R1234yf;R404a;R407c;R452a",
+  "Gas": "R134a \/ R1234yf \/ R404a \/ R407c \/ R452a",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5 m - R1234yf, R134A , R407C, R404A, R407C, R452A;"
+  "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5 m - R1234yf, R134A , R407C, R404A, R407C, R452A"
  },
  {
   "IdArtigo": 60,
@@ -586,7 +586,7 @@
   "Produto": "Acessórios",
   "Descricao": "Detetor de fugas para R134A, R1234YF e Azoidro ( N2+ H2 ), sensor pentodo aquecido ",
   "NomeComercial": "Detetor de fugas para R134A, R1234YF e Azoidro ( N2+ H2 ), sensor pentodo aquecido ",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 61,
@@ -596,7 +596,7 @@
   "Produto": "Acessórios",
   "Descricao": "Garrafa óleo PAG100, 250 ml ( (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Garrafa óleo PAG100, 250 ml ( (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 62,
@@ -606,7 +606,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit Mangueiras ECO para 134a - RECO +",
   "NomeComercial": "Kit Mangueiras ECO para 134a - RECO +",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "ArtigoRelacionado": "RECO +"
  },
  {
@@ -624,11 +624,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003100",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/con bomba de Carregamento e  impressora, garrafa 40 kgs, para R134A,R1234YF, R404A, R452A, R407C",
+  "Descricao": "Equip.R R V C com bomba de Carregamento + impressora, garrafa 40 kgs, para R134A,R1234YF, R404A, R452A, R407C",
   "NomeComercial": "150 HP",
-  "Gas": "R134a;R1234yf;R404a;R407c;R452a",
+  "Gas": "R134a \/ R1234yf \/ R404a \/ R407c \/ R452a",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5000 m - R134A, R407C, R404A, R407C, R452A;14010115£Kit Conexões e Mangueiras - 5 m - R1234YF;"
+  "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5000 m - R134A, R407C, R404A, R407C, R452A;14010115£Kit Conexões e Mangueiras - 5 m - R1234YF"
  },
  {
   "IdArtigo": 65,
@@ -636,11 +636,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003102\/134A",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento + Analisador + Conexões e Mangueiras R134A",
+  "Descricao": "Equip. R R V C + Analisador + Conexões + Mangueiras R134A",
   "NomeComercial": "OPTIMA",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 66,
@@ -650,7 +650,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit de recuperação para centros de con conexões para R134A (válido para R1234YF e R134A)",
   "NomeComercial": "Kit de recuperação para centros de con conexões para R134A (válido para R1234YF e R134A)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 67,
@@ -660,7 +660,7 @@
   "Produto": "Acessórios",
   "Descricao": "Garrafa de recuperação de válvulas duplas para R1234YF, capacidade 12 Litros",
   "NomeComercial": "Garrafa de recuperação de válvulas duplas para R1234YF, capacidade 12 Litros",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 68,
@@ -687,11 +687,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003095\/134A",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento + Analisador e Impressora + Conexões e Mangueiras R134A",
+  "Descricao": "Equip. R R V C + Analisador + Impressora + Conexões + Mangueiras R134A",
   "NomeComercial": "OPTIMA",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 71,
@@ -701,7 +701,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit 25 Conjuntos de selo de protecção CLICK-LOCK para R1234YF",
   "NomeComercial": "Kit 25 Conjuntos de selo de protecção CLICK-LOCK para R1234YF",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 72,
@@ -738,11 +738,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003104",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento com impressora para R134A-R1234YF para veículos agrícolas",
+  "Descricao": "Equip. R R V C + impressora para R134A-R1234YF para veículos agrícolas",
   "NomeComercial": "X-CROSS",
-  "Gas": "R134a;R1234yf;",
+  "Gas": "R134a \/ R1234yf",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5 m - R1234yf;14025171£Kit de conectividade Wi -Fi;"
+  "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5 m - R1234yf;14025171£Kit de conectividade Wi -Fi"
  },
  {
   "IdArtigo": 76,
@@ -752,8 +752,8 @@
   "Produto": "Acessórios",
   "Descricao": "kit conexões e mangueiras 2500 mm, R134A, para serie OPTIMA - XTREME20 - X CROSS",
   "NomeComercial": "kit conexões e mangueiras 2500 mm, R134A, para serie OPTIMA - XTREME20 - X CROSS",
-  "Gas": "R134a;",
-  "ArtigoRelacionado": "OPTIMA; OPTIMA +; X-CROSS; X-TREME\/20;150 HP;"
+  "Gas": "R134a",
+  "ArtigoRelacionado": "OPTIMA;OPTIMA +;X-CROSS;X-TREME\/20;150 HP"
  },
  {
   "IdArtigo": 77,
@@ -799,7 +799,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida alta R1234YF, conexão H - M12 X 1,5",
   "NomeComercial": "Conexão rápida alta R1234YF, conexão H - M12 X 1,5",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 82,
@@ -809,7 +809,7 @@
   "Produto": "Acessórios",
   "Descricao": "Equipamento de reciclagem de alta capacidade, para R134A-R1234YF",
   "NomeComercial": "Equipamento de reciclagem de alta capacidade, para R134A-R1234YF",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 83,
@@ -819,7 +819,7 @@
   "Produto": "Acessórios",
   "Descricao": "Garrafa de recuperação de válvula duplas para R134A, capacidade 12 Litros",
   "NomeComercial": "Garrafa de recuperação de válvula duplas para R134A, capacidade 12 Litros",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 84,
@@ -829,7 +829,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit Mangueiras ECO para 1234yf - RECO +",
   "NomeComercial": "Kit Mangueiras ECO para 1234yf - RECO +",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "ArtigoRelacionado": "RECO +"
  },
  {
@@ -840,7 +840,7 @@
   "Produto": "Acessórios",
   "Descricao": "Equipe de recuperação e reciclagem (válida para R1234YF e R134A)",
   "NomeComercial": "Equipe de recuperação e reciclagem (válida para R1234YF e R134A)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 86,
@@ -850,7 +850,7 @@
   "Produto": "Acessórios",
   "Descricao": "134A Adaptador de garrafas, conexão H 21,7 x M 3\/8 \"SAE",
   "NomeComercial": "134A Adaptador de garrafas, conexão H 21,7 x M 3\/8 \"SAE",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 87,
@@ -869,7 +869,7 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira azul de baixa pressão, 3000 mm, R134A, para Piccola Plus-Piccola Data-Amica",
   "NomeComercial": "Mangueira azul de baixa pressão, 3000 mm, R134A, para Piccola Plus-Piccola Data-Amica",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 89,
@@ -879,8 +879,8 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira azul de baixa pressão, 2500 mm, R134A,  para Piccola Evo, Piccola 3 Variant, Optima, Xtreme20",
   "NomeComercial": "Mangueira azul de baixa pressão, 2500 mm, R134A,  para Piccola Evo, Piccola 3 Variant, Optima, Xtreme20",
-  "Gas": "R134a;",
-  "ArtigoRelacionado": "OPTIMA; X-TREME\/20"
+  "Gas": "R134a",
+  "ArtigoRelacionado": "OPTIMA;X-TREME\/20"
  },
  {
   "IdArtigo": 90,
@@ -916,11 +916,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003097\/134A",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento com válvulas automáticas, emissões \"zero\" e impressora + Conexões e Mangueiras R134A",
+  "Descricao": "Equip. R R V C com válvulas automáticas + emissões \"zero\" + impressora + Conexões + Mangueiras R134A",
   "NomeComercial": "OPTIMA +",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Totalmente Automática",
-  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 94,
@@ -976,7 +976,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida alta R1234YF para BMW-Volvo-Galaxy",
   "NomeComercial": "Conexão rápida alta R1234YF para BMW-Volvo-Galaxy",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 100,
@@ -986,7 +986,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit lavagem com refrigerante para R134A e R1234YF",
   "NomeComercial": "Kit lavagem com refrigerante para R134A e R1234YF",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 101,
@@ -1033,7 +1033,7 @@
   "Produto": "Acessórios",
   "Descricao": "Identificador de refrigerante para R134A",
   "NomeComercial": "Identificador de refrigerante para R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 106,
@@ -1041,11 +1041,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003094\/134A",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vácuo\/Carragemento+Impressora+ Conexões e Mangueiras R134A",
+  "Descricao": "Equip. R R V C  + Impressora + Conexões + Mangueiras R134A",
   "NomeComercial": "OPTIMA",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 107,
@@ -1053,11 +1053,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003094\/1234YF",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento+Impressora+ Conexões e Mangueiras R1234YF",
+  "Descricao": "Equip. R R V C + Impressora + Conexões e Mangueiras R1234YF",
   "NomeComercial": "OPTIMA",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 108,
@@ -1076,7 +1076,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida alta R134A, conexão M 1\/4 \"SAE con adaptador a 3\/8\" SAE",
   "NomeComercial": "Conexão rápida alta R134A, conexão M 1\/4 \"SAE con adaptador a 3\/8\" SAE",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 110,
@@ -1095,7 +1095,7 @@
   "Produto": "Acessórios",
   "Descricao": "Racor H 1\/4\" Sae Gir X Ligação Rápida Baixa R1234Yf",
   "NomeComercial": "Racor H 1\/4\" Sae Gir X Ligação Rápida Baixa R1234Yf",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 112,
@@ -1114,7 +1114,7 @@
   "Produto": "Acessórios",
   "Descricao": "134A Adaptador de garrafas, conexão H 21,7 x M 1\/4 \"SAE",
   "NomeComercial": "134A Adaptador de garrafas, conexão H 21,7 x M 1\/4 \"SAE",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 114,
@@ -1133,7 +1133,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente hermético, 60 ml, óleo PAG46 (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente hermético, 60 ml, óleo PAG46 (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 116,
@@ -1161,8 +1161,8 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira vermelha de alta pressão, 2500 mm, R134A para Piccola Evo, Piccola 3 Variant-Xtreme20-Optima",
   "NomeComercial": "Mangueira vermelha de alta pressão, 2500 mm, R134A para Piccola Evo, Piccola 3 Variant-Xtreme20-Optima",
-  "Gas": "R134a;",
-  "ArtigoRelacionado": "OPTIMA; X-TREME\/20"
+  "Gas": "R134a",
+  "ArtigoRelacionado": "OPTIMA;X-TREME\/20"
  },
  {
   "IdArtigo": 119,
@@ -1181,7 +1181,7 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira vermelha de alta pressão, 3000 mm, R134A, para Piccola Plus-Piccola Data-Amica",
   "NomeComercial": "Mangueira vermelha de alta pressão, 3000 mm, R134A, para Piccola Plus-Piccola Data-Amica",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 121,
@@ -1218,7 +1218,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit De Carga Básico Com Mangueiras Para R22-R134A-R400A-R407C",
   "NomeComercial": "Kit De Carga Básico Com Mangueiras Para R22-R134A-R400A-R407C",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 125,
@@ -1237,7 +1237,7 @@
   "Produto": "Acessórios",
   "Descricao": "Adaptador Para Botijas 134A, Ligação H 1\/4 Sae X M 3\/8\" Sae",
   "NomeComercial": "Adaptador Para Botijas 134A, Ligação H 1\/4 Sae X M 3\/8\" Sae",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 127,
@@ -1283,7 +1283,7 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira vermelha de alta pressão, 1800 mm, R134A, para Pitagoras",
   "NomeComercial": "Mangueira vermelha de alta pressão, 1800 mm, R134A, para Pitagoras",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 132,
@@ -1291,11 +1291,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003099\/1234YF",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento com válvulas automáticas, analisador, emissões \"zero\" e impressora + Conexões e Mangueiras R1234YF",
+  "Descricao": "Equip. R R V C com válvulas automáticas + analisador + emissões \"zero\" + impressora + Conexões + Mangueiras R1234YF",
   "NomeComercial": "OPTIMA +",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Totalmente Automática",
-  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 133,
@@ -1305,7 +1305,7 @@
   "Produto": "Acessórios",
   "Descricao": "Obús interno para R134a",
   "NomeComercial": "Obús interno para R134a",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 134,
@@ -1315,7 +1315,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente hermético, 260 ml, óleo PAG100 (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente hermético, 260 ml, óleo PAG100 (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 135,
@@ -1325,7 +1325,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit 10 tampões conexão rápida alta R134A",
   "NomeComercial": "Kit 10 tampões conexão rápida alta R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 136,
@@ -1333,11 +1333,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003102\/1234YF",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento + Analisador + Conexões e Mangueiras R1234YF",
+  "Descricao": "Equip. R R V C + Analisador + Conexões + Mangueiras R1234YF",
   "NomeComercial": "OPTIMA",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 137,
@@ -1347,7 +1347,7 @@
   "Produto": "Acessórios",
   "Descricao": "Detetor de fugas para R134A e R1234YF sensor infra-vermelhos",
   "NomeComercial": "Detetor de fugas para R134A e R1234YF sensor infra-vermelhos",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 138,
@@ -1357,7 +1357,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente hermético aditivo UV universal, 125 ml (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente hermético aditivo UV universal, 125 ml (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 139,
@@ -1367,7 +1367,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida baixa R134A longo e recto para Ford-Jaguar",
   "NomeComercial": "Conexão rápida baixa R134A longo e recto para Ford-Jaguar",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 140,
@@ -1413,7 +1413,7 @@
   "Produto": "Acessórios",
   "Descricao": "Mecanismo Interno Para R134A (Kit 10 Pz)",
   "NomeComercial": "Mecanismo Interno Para R134A (Kit 10 Pz)",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 145,
@@ -1423,7 +1423,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida baixa R1234YF longo e recto para Ford-Jaguar",
   "NomeComercial": "Conexão rápida baixa R1234YF longo e recto para Ford-Jaguar",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 146,
@@ -1449,9 +1449,9 @@
   "Marca": "WIGAM",
   "Referencia": "13003106\/134A",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vacuo\/Carregamento \"RECO+\" R134A",
+  "Descricao": "Equip. R R V C  \"RECO+\" + Ligações + Mangueiras R134A",
   "NomeComercial": "RECO +",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Automática"
  },
  {
@@ -1462,7 +1462,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit 5 Adaptadores 1\/4 \"SAE x Alta R134A",
   "NomeComercial": "Kit 5 Adaptadores 1\/4 \"SAE x Alta R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 150,
@@ -1470,11 +1470,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003097\/1234YF",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento com válvulas automáticas, emissões \"zero\" e impressora + Conexões e Mangueiras R1234YF",
+  "Descricao": "Equip. R R V C com válvulas automáticas + emissões \"zero\" + impressora + Conexões + Mangueiras R1234YF",
   "NomeComercial": "OPTIMA +",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Totalmente Automática",
-  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 151,
@@ -1503,7 +1503,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit 25 Conjuntos de selo de protecção CLICK LOCK para R134A",
   "NomeComercial": "Kit 25 Conjuntos de selo de protecção CLICK LOCK para R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 154,
@@ -1522,7 +1522,7 @@
   "Produto": "Acessórios",
   "Descricao": "Manometro baixa, R134A, para Pitagoras",
   "NomeComercial": "Manometro baixa, R134A, para Pitagoras",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 156,
@@ -1541,7 +1541,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida alta R134a para BMW-Volvo-Galaxy",
   "NomeComercial": "Conexão rápida alta R134a para BMW-Volvo-Galaxy",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 158,
@@ -1549,11 +1549,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003095\/1234YF",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento + Analisador e Impressora + Conexões e Mangueiras R1234YF",
+  "Descricao": "Equip. R R V C + Analisador + Impressora + Conexões + Mangueiras R1234YF",
   "NomeComercial": "OPTIMA",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 159,
@@ -1572,7 +1572,7 @@
   "Produto": "Acessórios",
   "Descricao": "Garrafa óleo POE, viscosidade 100, 1 litro (válido para R134A-R1234YF, veículos térmicos)",
   "NomeComercial": "Garrafa óleo POE, viscosidade 100, 1 litro (válido para R134A-R1234YF, veículos térmicos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 161,
@@ -1609,8 +1609,8 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira azul de baixa pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
   "NomeComercial": "Mangueira azul de baixa pressão, 5000 mm, R134A -R404A -R452A-R07C para XTREME20 e 150HP",
-  "Gas": "R134a;",
-  "ArtigoRelacionado": "X-TREME\/20;150 HP;"
+  "Gas": "R134a",
+  "ArtigoRelacionado": "X-TREME\/20;150 HP"
  },
  {
   "IdArtigo": 165,
@@ -1620,8 +1620,8 @@
   "Produto": "Acessórios",
   "Descricao": "Manómetro alta, R134A, para Piccola Plus-Piccola Evo-Piccola Data-Amica-Amica Data-150HP",
   "NomeComercial": "Manómetro alta, R134A, para Piccola Plus-Piccola Evo-Piccola Data-Amica-Amica Data-150HP",
-  "Gas": "R134a;",
-  "ArtigoRelacionado": "150 HP;"
+  "Gas": "R134a",
+  "ArtigoRelacionado": "150 HP"
  },
  {
   "IdArtigo": 166,
@@ -1631,7 +1631,7 @@
   "Produto": "Acessórios",
   "Descricao": "Garrafa óleo POE, viscosidade 100, 4 litros (válido para R134A-R1234YF, veículos térmicos)",
   "NomeComercial": "Garrafa óleo POE, viscosidade 100, 4 litros (válido para R134A-R1234YF, veículos térmicos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 167,
@@ -1650,7 +1650,7 @@
   "Produto": "Acessórios",
   "Descricao": "Racor H 1\/4\" Sae Gir X Ligação Rápida Alta R134A",
   "NomeComercial": "Racor H 1\/4\" Sae Gir X Ligação Rápida Alta R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 169,
@@ -1660,8 +1660,8 @@
   "Produto": "Acessórios",
   "Descricao": "kit conexões e mangueiras 2500 mm, R1234YF, para serie OPTIMA - XTREME20 - X CROSS",
   "NomeComercial": "kit conexões e mangueiras 2500 mm, R1234YF, para serie OPTIMA - XTREME20 - X CROSS",
-  "Gas": "R1234yf;",
-  "ArtigoRelacionado": "OPTIMA; OPTIMA +; X-CROSS; X-TREME\/20;150 HP;"
+  "Gas": "R1234yf",
+  "ArtigoRelacionado": "OPTIMA;OPTIMA +;X-CROSS;X-TREME\/20;150 HP"
  },
  {
   "IdArtigo": 170,
@@ -1689,7 +1689,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit de conectividade Wi -Fi para series Optima  - Xtreme\/20 Multivariant e 150HP Multivariant",
   "NomeComercial": "Kit de conectividade Wi -Fi para series Optima  - Xtreme\/20 Multivariant e 150HP Multivariant",
-  "ArtigoRelacionado": "PICOLLA R744; X-CROSS"
+  "ArtigoRelacionado": "PICOLLA R744;X-CROSS"
  },
  {
   "IdArtigo": 173,
@@ -1708,7 +1708,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida baixa R134A, conexão H - M14 x 1,5 con adaptador a 3\/8\" SAE",
   "NomeComercial": "Conexão rápida baixa R134A, conexão H - M14 x 1,5 con adaptador a 3\/8\" SAE",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 175,
@@ -1727,7 +1727,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida alta R134A, conexão H - M14 x 1,5 con adaptador a 3\/8\" SAE",
   "NomeComercial": "Conexão rápida alta R134A, conexão H - M14 x 1,5 con adaptador a 3\/8\" SAE",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 177,
@@ -1737,7 +1737,7 @@
   "Produto": "Acessórios",
   "Descricao": "Analisador Preventivo De Polimerização e De Qualidade, Contaminantes e Mistura R1234Yf",
   "NomeComercial": "Analisador Preventivo De Polimerização e De Qualidade, Contaminantes e Mistura R1234Yf",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 178,
@@ -1747,7 +1747,7 @@
   "Produto": "Acessórios",
   "Descricao": "Racor H 1\/4\" Sae Gir X Ligação Rápida Baixa R134A",
   "NomeComercial": "Racor H 1\/4\" Sae Gir X Ligação Rápida Baixa R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 179,
@@ -1755,11 +1755,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003093\/1234YF",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento + Conexões e Mangueiras R1234YF",
+  "Descricao": "Equip. R R V C + Conexões + Mangueiras R1234YF",
   "NomeComercial": "OPTIMA",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml);"
  },
  {
   "IdArtigo": 180,
@@ -1787,7 +1787,7 @@
   "Produto": "Acessórios",
   "Descricao": "Conexão rápida baixa R134A, conexão M 1\/4 \"SAE con adaptador a 3\/8\" SAE",
   "NomeComercial": "Conexão rápida baixa R134A, conexão M 1\/4 \"SAE con adaptador a 3\/8\" SAE",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 183,
@@ -1806,8 +1806,8 @@
   "Produto": "Acessórios",
   "Descricao": "Mangueira vermelha de alta pressão, 2500 mm, R1234YF para Piccola 3 Variant-Xtreme20-Optima",
   "NomeComercial": "Mangueira vermelha de alta pressão, 2500 mm, R1234YF para Piccola 3 Variant-Xtreme20-Optima",
-  "Gas": "R1234yf;",
-  "ArtigoRelacionado": "OPTIMA; X-TREME\/20"
+  "Gas": "R1234yf",
+  "ArtigoRelacionado": "OPTIMA;X-TREME\/20"
  },
  {
   "IdArtigo": 185,
@@ -1815,11 +1815,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003099\/134A",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento com válvulas automáticas, analisador, emissões \"zero\" e impressora + Conexões e Mangueiras R134A",
+  "Descricao": "Equip. R R V C com válvulas automáticas + analisador + emissões \"zero\" + impressora + Conexões + Mangueiras R134A",
   "NomeComercial": "OPTIMA +",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Totalmente Automática",
-  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 186,
@@ -1829,8 +1829,8 @@
   "Produto": "Acessórios",
   "Descricao": "Kit Conexões e Mangueiras, 5000 mm, R1234YF",
   "NomeComercial": "Kit Conexões e Mangueiras, 5000 mm, R1234YF",
-  "Gas": "R1234yf;",
-  "ArtigoRelacionado": "150 HP;"
+  "Gas": "R1234yf",
+  "ArtigoRelacionado": "150 HP"
  },
  {
   "IdArtigo": 187,
@@ -1840,8 +1840,8 @@
   "Produto": "Acessórios",
   "Descricao": "Manómetro baixa, R134A, para Piccola Plus-Piccola Evo-Piccola Data-Amica-Amica Data-150HP",
   "NomeComercial": "Manómetro baixa, R134A, para Piccola Plus-Piccola Evo-Piccola Data-Amica-Amica Data-150HP",
-  "Gas": "R134a;",
-  "ArtigoRelacionado": "150 HP;"
+  "Gas": "R134a",
+  "ArtigoRelacionado": "150 HP"
  },
  {
   "IdArtigo": 188,
@@ -1851,7 +1851,7 @@
   "Produto": "Acessórios",
   "Descricao": "Garrafa óleo PAG46, 250 ml ( (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Garrafa óleo PAG46, 250 ml ( (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 189,
@@ -1861,7 +1861,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente hermético, 60 ml, óleo POE (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente hermético, 60 ml, óleo POE (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 190,
@@ -1869,11 +1869,11 @@
   "Marca": "WIGAM",
   "Referencia": "13003093\/134A",
   "Produto": "Máquina",
-  "Descricao": "Equipamento Rec\/Reciclagem\/Vaçuo\/Carregamento + Conexões e Mangueiras R134A",
+  "Descricao": "Equip. R R V C + Conexões + Mangueiras R134A",
   "NomeComercial": "OPTIMA",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Automática",
-  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml );"
+  "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)"
  },
  {
   "IdArtigo": 191,
@@ -1911,7 +1911,7 @@
   "Produto": "Acessórios",
   "Descricao": "Recipiente hermético, 60 ml, óleo PAG100 (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
   "NomeComercial": "Recipiente hermético, 60 ml, óleo PAG100 (válido para R134A-R1234YF, veículos térmicos, hibrídos e eléctricos)",
-  "Gas": "R134a;R1234yf;"
+  "Gas": "R134a \/ R1234yf"
  },
  {
   "IdArtigo": 195,
@@ -1948,7 +1948,7 @@
   "Produto": "Acessórios",
   "Descricao": "Racor H 1\/4\" Sae Gir X Ligação Rápida Alta R1234Yf",
   "NomeComercial": "Racor H 1\/4\" Sae Gir X Ligação Rápida Alta R1234Yf",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 199,
@@ -2048,7 +2048,7 @@
   "Produto": "Acessórios",
   "Descricao": "KIT TAPPI E VALVOLE R1234F",
   "NomeComercial": "KIT TAPPI E VALVOLE R1234F",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 210,
@@ -2112,7 +2112,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALVOLA DI CARICA ALTA PRESS.R134a FILETTO M",
   "NomeComercial": "TAPPO VALVOLA DI CARICA ALTA PRESS.R134a FILETTO M",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 217,
@@ -2140,7 +2140,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-1234yf BA",
   "NomeComercial": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-1234yf BA",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 220,
@@ -2168,7 +2168,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALV CARICA-R1234-BP-M8X1- FILET LUNGO+CAVO ",
   "NomeComercial": "TAPPO VALV CARICA-R1234-BP-M8X1- FILET LUNGO+CAVO ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 223,
@@ -2250,7 +2250,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALVOLA DI CARICA BASSA PRES.R134a",
   "NomeComercial": "TAPPO VALVOLA DI CARICA BASSA PRES.R134a",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 232,
@@ -2278,7 +2278,7 @@
   "Produto": "Acessórios",
   "Descricao": "KR\\KRB\\WFRK05\\06 - R1234YF GAS DRYER FILTER KIT   ",
   "NomeComercial": "KR\\KRB\\WFRK05\\06 - R1234YF GAS DRYER FILTER KIT   ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 235,
@@ -2288,7 +2288,7 @@
   "Produto": "Acessórios",
   "Descricao": "KR\\KRB - R1234YF HP SERVICE HOSE KIT",
   "NomeComercial": "KR\\KRB - R1234YF HP SERVICE HOSE KIT",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 236,
@@ -2361,7 +2361,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit adaptadores para botija externa R1234YF",
   "NomeComercial": "Kit adaptadores para botija externa R1234YF",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 244,
@@ -2542,7 +2542,7 @@
   "Produto": "Máquina",
   "Descricao": "KRISTAL BASE - Automática R-1234YF",
   "NomeComercial": "KRISTAL",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Totalmente Automática"
  },
  {
@@ -2571,7 +2571,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-1234yf BA",
   "NomeComercial": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-1234yf BA",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 267,
@@ -2950,7 +2950,7 @@
   "Produto": "Acessórios",
   "Descricao": "KIT TRACER EZ-JECT  R134a  CAPSULA DA 14 gr .  10 ",
   "NomeComercial": "KIT TRACER EZ-JECT  R134a  CAPSULA DA 14 gr .  10 ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 309,
@@ -3095,7 +3095,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALV CARICA-R1234-BP-M9X1-FILET CORTO+CAVO  ",
   "NomeComercial": "TAPPO VALV CARICA-R1234-BP-M9X1-FILET CORTO+CAVO  ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 325,
@@ -3114,7 +3114,7 @@
   "Produto": "Acessórios",
   "Descricao": "CORPO VALVOLA ALTA PRES.R134a  ACCIAIO FILETTATURA",
   "NomeComercial": "CORPO VALVOLA ALTA PRES.R134a  ACCIAIO FILETTATURA",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 327,
@@ -3133,7 +3133,7 @@
   "Produto": "Máquina",
   "Descricao": "KRISTAL C\/ ANALISADOR",
   "NomeComercial": "KRISTAL",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Totalmente Automática"
  },
  {
@@ -3351,7 +3351,7 @@
   "Produto": "Acessórios",
   "Descricao": "GRUPPO MANOMETRICO 2 VIE R-134a R404A - R22 - R407",
   "NomeComercial": "GRUPPO MANOMETRICO 2 VIE R-134a R404A - R22 - R407",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 353,
@@ -3415,7 +3415,7 @@
   "Produto": "Acessórios",
   "Descricao": "Óleo para compressores R1234YF",
   "NomeComercial": "Óleo para compressores R1234YF",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 360,
@@ -3425,7 +3425,7 @@
   "Produto": "Acessórios",
   "Descricao": "CILINDRO CARICA 2 Kg. SVCCOMPLETO C\/RESIST. R134A ",
   "NomeComercial": "CILINDRO CARICA 2 Kg. SVCCOMPLETO C\/RESIST. R134A ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 361,
@@ -3507,7 +3507,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALV CARICA-R1234-BP-M8X1-FILET CORTO+CAVO  ",
   "NomeComercial": "TAPPO VALV CARICA-R1234-BP-M8X1-FILET CORTO+CAVO  ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 370,
@@ -3553,7 +3553,7 @@
   "Produto": "Máquina",
   "Descricao": "KRISTAL BASE c\/impressora (Automática Gas 1234YF)",
   "NomeComercial": "KRISTAL",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Totalmente Automática"
  },
  {
@@ -3618,7 +3618,7 @@
   "Produto": "Acessórios",
   "Descricao": "Adaptadores botija R134A",
   "NomeComercial": "Adaptadores botija R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 382,
@@ -3637,7 +3637,7 @@
   "Produto": "Acessórios",
   "Descricao": "A\\Ap\\A2P\\Ak\\Kh\\Kha\\D - R134A Hp Quick Coupling Kit",
   "NomeComercial": "A\\Ap\\A2P\\Ak\\Kh\\Kha\\D - R134A Hp Quick Coupling Kit",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 384,
@@ -3692,7 +3692,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VAL CARICA R1234 HP M10X1.25 FIL CORTO+CAVO ",
   "NomeComercial": "TAPPO VAL CARICA R1234 HP M10X1.25 FIL CORTO+CAVO ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 390,
@@ -3729,7 +3729,7 @@
   "Produto": "Acessórios",
   "Descricao": "KIT TRACER BIG-EZ  R134a",
   "NomeComercial": "KIT TRACER BIG-EZ  R134a",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 394,
@@ -3766,7 +3766,7 @@
   "Produto": "Acessórios",
   "Descricao": "KR\\KRB - R1234YF HIGH PRESSURE GAUGE KIT",
   "NomeComercial": "KR\\KRB - R1234YF HIGH PRESSURE GAUGE KIT",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 398,
@@ -3794,7 +3794,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAP.BP HFO-1234YF - M 1\/4 SAE ",
   "NomeComercial": "ATTACCO RAP.BP HFO-1234YF - M 1\/4 SAE ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 401,
@@ -3975,7 +3975,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO HP R1234yf KRISTAL ",
   "NomeComercial": "ATTACCO RAPIDO HP R1234yf KRISTAL ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 421,
@@ -4012,7 +4012,7 @@
   "Produto": "Acessórios",
   "Descricao": "MANOMETRO R404A\/R134a\/R407C HP  ROSSO 1\/8\" NP     ",
   "NomeComercial": "MANOMETRO R404A\/R134a\/R407C HP  ROSSO 1\/8\" NP     ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 425,
@@ -4067,7 +4067,7 @@
   "Produto": "Acessórios",
   "Descricao": "CORPO VALVOLA ALTA PRES. R134a IN ALLUM. FILETTATU",
   "NomeComercial": "CORPO VALVOLA ALTA PRES. R134a IN ALLUM. FILETTATU",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 431,
@@ -4140,7 +4140,7 @@
   "Produto": "Acessórios",
   "Descricao": "IDENTIFICATORE ARIA - R-134a",
   "NomeComercial": "IDENTIFICATORE ARIA - R-134a",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 439,
@@ -4717,7 +4717,7 @@
   "Produto": "Acessórios",
   "Descricao": "SIGILLANTE MONODOSE R134a ",
   "NomeComercial": "SIGILLANTE MONODOSE R134a ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 503,
@@ -4808,7 +4808,7 @@
   "Produto": "Acessórios",
   "Descricao": "CORPO VALVOLA BASSA PRES. R134a ACCIAIO FILETTATUR",
   "NomeComercial": "CORPO VALVOLA BASSA PRES. R134a ACCIAIO FILETTATUR",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 513,
@@ -4890,7 +4890,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO ATTACCO RAPIDO R-134a ALTA PRESSION",
   "NomeComercial": "ATTACCO RAPIDO ATTACCO RAPIDO R-134a ALTA PRESSION",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 522,
@@ -4945,7 +4945,7 @@
   "Produto": "Acessórios",
   "Descricao": "Ponteira carga alta pressão - R134a X Femeâ",
   "NomeComercial": "Ponteira carga alta pressão - R134a X Femeâ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 528,
@@ -5279,7 +5279,7 @@
   "Produto": "Acessórios",
   "Descricao": "R1234yf QUICK COUPLING KIT - LOW PRESSURE ",
   "NomeComercial": "R1234yf QUICK COUPLING KIT - LOW PRESSURE ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 565,
@@ -5370,7 +5370,7 @@
   "Produto": "Máquina",
   "Descricao": "KRISTAL C\/ Impressora",
   "NomeComercial": "KRISTAL",
-  "Gas": "R1234yf;",
+  "Gas": "R1234yf",
   "Funcionamento": "Totalmente Automática"
  },
  {
@@ -5399,7 +5399,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALVOLA DI CARICA BASSA PRES.R134a FILETTATU",
   "NomeComercial": "TAPPO VALVOLA DI CARICA BASSA PRES.R134a FILETTATU",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 578,
@@ -5508,7 +5508,7 @@
   "Produto": "Acessórios",
   "Descricao": "KIT O-RING e GUARNIZ.134aCONTIENE 130 O.R.",
   "NomeComercial": "KIT O-RING e GUARNIZ.134aCONTIENE 130 O.R.",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 590,
@@ -5581,7 +5581,7 @@
   "Produto": "Acessórios",
   "Descricao": "SIGILLANTE MONODOSE R134a ",
   "NomeComercial": "SIGILLANTE MONODOSE R134a ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 598,
@@ -5591,7 +5591,7 @@
   "Produto": "Acessórios",
   "Descricao": "TRACCIANTE CONF. 6 PZ CARTUCCIA  R-134a - OLIO PAG",
   "NomeComercial": "TRACCIANTE CONF. 6 PZ CARTUCCIA  R-134a - OLIO PAG",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 599,
@@ -5628,7 +5628,7 @@
   "Produto": "Acessórios",
   "Descricao": "TRACCIANTE CONF. 6 PZ FIALA MONODOSE  R-134a - OLI",
   "NomeComercial": "TRACCIANTE CONF. 6 PZ FIALA MONODOSE  R-134a - OLI",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 603,
@@ -5701,7 +5701,7 @@
   "Produto": "Acessórios",
   "Descricao": "GRUPPO MANOMETRICO 2 VIE R-134aR404A - R22 - R407C",
   "NomeComercial": "GRUPPO MANOMETRICO 2 VIE R-134aR404A - R22 - R407C",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 611,
@@ -5729,7 +5729,7 @@
   "Produto": "Acessórios",
   "Descricao": "KIT O.RING   X VETTURE GIAPPONESI R134a - JAPANESE",
   "NomeComercial": "KIT O.RING   X VETTURE GIAPPONESI R134a - JAPANESE",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 614,
@@ -5739,7 +5739,7 @@
   "Produto": "Acessórios",
   "Descricao": "Adaptador para botija R1234 Honeywell  HFO-1234",
   "NomeComercial": "Adaptador para botija R1234 Honeywell  HFO-1234",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 615,
@@ -5902,7 +5902,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALV DI CARICA-R1234-BP-M8X1-FILET.LUNGO    ",
   "NomeComercial": "TAPPO VALV DI CARICA-R1234-BP-M8X1-FILET.LUNGO    ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 633,
@@ -5957,7 +5957,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO  FEMM. BASSA PRESS. - R134a X MASCH",
   "NomeComercial": "ATTACCO RAPIDO  FEMM. BASSA PRESS. - R134a X MASCH",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 639,
@@ -6048,7 +6048,7 @@
   "Produto": "Acessórios",
   "Descricao": "KR\\KRB - R1234YF LP SERVICE HOSE KIT",
   "NomeComercial": "KR\\KRB - R1234YF LP SERVICE HOSE KIT",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 649,
@@ -6076,7 +6076,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-1234yf AL",
   "NomeComercial": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-1234yf AL",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 652,
@@ -6104,7 +6104,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALV DI CARICA-R1234-BP-M9X1-FILET.CORTO    ",
   "NomeComercial": "TAPPO VALV DI CARICA-R1234-BP-M9X1-FILET.CORTO    ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 655,
@@ -6150,7 +6150,7 @@
   "Produto": "Acessórios",
   "Descricao": "COMPRESSORE DI RECUPERO  SISTEMA R134A",
   "NomeComercial": "COMPRESSORE DI RECUPERO  SISTEMA R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 660,
@@ -6232,7 +6232,7 @@
   "Produto": "Acessórios",
   "Descricao": "GRUPPO MANOMETRICO 2 VIE R-134aR404A - R407C - R50",
   "NomeComercial": "GRUPPO MANOMETRICO 2 VIE R-134aR404A - R407C - R50",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 669,
@@ -6557,7 +6557,7 @@
   "Produto": "Acessórios",
   "Descricao": "TRACCIANTE CONF. 1 PZ CARTUCCIA  R-134a - OLIO PAG",
   "NomeComercial": "TRACCIANTE CONF. 1 PZ CARTUCCIA  R-134a - OLIO PAG",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 705,
@@ -6675,7 +6675,7 @@
   "Produto": "Acessórios",
   "Descricao": "IDENTIFICATORE ARIA - HFO-1234YF",
   "NomeComercial": "IDENTIFICATORE ARIA - HFO-1234YF",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 718,
@@ -6730,7 +6730,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALVOLA DI CARICA BASSA PRES.R134a FILETTO M",
   "NomeComercial": "TAPPO VALVOLA DI CARICA BASSA PRES.R134a FILETTO M",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 724,
@@ -6776,7 +6776,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALV CARICA-R1234-HP- M10X1.25-FILET.LUNGO  ",
   "NomeComercial": "TAPPO VALV CARICA-R1234-HP- M10X1.25-FILET.LUNGO  ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 729,
@@ -6813,7 +6813,7 @@
   "Produto": "Acessórios",
   "Descricao": "Kit adaptadores para botija externa R1234YF",
   "NomeComercial": "Kit adaptadores para botija externa R1234YF",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 733,
@@ -6922,7 +6922,7 @@
   "Produto": "Acessórios",
   "Descricao": "KRçKRB - R1234yf LP QUICK",
   "NomeComercial": "KRçKRB - R1234yf LP QUICK",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 745,
@@ -6932,7 +6932,7 @@
   "Produto": "Acessórios",
   "Descricao": "COMPRESSORE KRISTAL R1234 ",
   "NomeComercial": "COMPRESSORE KRISTAL R1234 ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 746,
@@ -7302,7 +7302,7 @@
   "Produto": "Acessórios",
   "Descricao": "TUBO BASSA PRESSIONE R134a x EZ- Ject ",
   "NomeComercial": "TUBO BASSA PRESSIONE R134a x EZ- Ject ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 787,
@@ -7330,7 +7330,7 @@
   "Produto": "Acessórios",
   "Descricao": "TESTER X OLIO CMPR R134a  CONFEZ. 4 pz. ",
   "NomeComercial": "TESTER X OLIO CMPR R134a  CONFEZ. 4 pz. ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 790,
@@ -7385,7 +7385,7 @@
   "Produto": "Acessórios",
   "Descricao": "MANOMETRO R404A\/R134a\/r407C\/R507 BP  BLU 1\/8\" NPT ",
   "NomeComercial": "MANOMETRO R404A\/R134a\/r407C\/R507 BP  BLU 1\/8\" NPT ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 796,
@@ -7467,7 +7467,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO ALTA PRESS. - R134a X MASCHIO 1\/4\" ",
   "NomeComercial": "ATTACCO RAPIDO ALTA PRESS. - R134a X MASCHIO 1\/4\" ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 805,
@@ -7486,7 +7486,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO  FEMM. BASSA PRESS. - R134a X FEMM ",
   "NomeComercial": "ATTACCO RAPIDO  FEMM. BASSA PRESS. - R134a X FEMM ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 807,
@@ -7604,7 +7604,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALV DI CARICA R1234-BP-M8X1 FILET.CORTO    ",
   "NomeComercial": "TAPPO VALV DI CARICA R1234-BP-M8X1 FILET.CORTO    ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 820,
@@ -7686,7 +7686,7 @@
   "Produto": "Acessórios",
   "Descricao": "CORPO VALVOLA BASSA PRES.R134a IN ALLUM. FILETTATU",
   "NomeComercial": "CORPO VALVOLA BASSA PRES.R134a IN ALLUM. FILETTATU",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 829,
@@ -7867,7 +7867,7 @@
   "Produto": "Acessórios",
   "Descricao": "CORPO VALVOLA BASSA PRES. R134a IN ALLUM FILETTATU",
   "NomeComercial": "CORPO VALVOLA BASSA PRES. R134a IN ALLUM FILETTATU",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 849,
@@ -7913,7 +7913,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALVOLA DI CARICA ALTA PRES.R134a FILETTATUR",
   "NomeComercial": "TAPPO VALVOLA DI CARICA ALTA PRES.R134a FILETTATUR",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 854,
@@ -8049,7 +8049,7 @@
   "Produto": "Máquina",
   "Descricao": "DUAL-Totalmente Automática R-134a - Convertível",
   "NomeComercial": "DUAL",
-  "Gas": "R134a;R1234yf;",
+  "Gas": "R134a \/ R1234yf",
   "Funcionamento": "Totalmente Automática"
  },
  {
@@ -8276,7 +8276,7 @@
   "Produto": "Acessórios",
   "Descricao": "Ponteira carga baixa pressão - R134a",
   "NomeComercial": "Ponteira carga baixa pressão - R134a",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 894,
@@ -8385,7 +8385,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-134a ALTA",
   "NomeComercial": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-134a ALTA",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 906,
@@ -8440,7 +8440,7 @@
   "Produto": "Acessórios",
   "Descricao": "CORPO VALVOLA ALTA PRES.R134a IN ALLUM. FILETTATUR",
   "NomeComercial": "CORPO VALVOLA ALTA PRES.R134a IN ALLUM. FILETTATUR",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 912,
@@ -8513,7 +8513,7 @@
   "Produto": "Acessórios",
   "Descricao": "TUBO 360mm 1\/4sae f C\/Valv.x ATT.RAP.AP134a\/M ROSS",
   "NomeComercial": "TUBO 360mm 1\/4sae f C\/Valv.x ATT.RAP.AP134a\/M ROSS",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 920,
@@ -8757,7 +8757,7 @@
   "Produto": "Máquina",
   "Descricao": "KHEOS S\/Impressora",
   "NomeComercial": "KHEOS",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Semi-Automática"
  },
  {
@@ -8777,7 +8777,7 @@
   "Produto": "Acessórios",
   "Descricao": "INSERITORE\/ESTRATTORE PER VALVOLA SPILLO PER R134A",
   "NomeComercial": "INSERITORE\/ESTRATTORE PER VALVOLA SPILLO PER R134A",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 949,
@@ -8841,7 +8841,7 @@
   "Produto": "Máquina",
   "Descricao": "KHEOS PLUS S\/impressora",
   "NomeComercial": "KHEOS PLUS",
-  "Gas": "R134a;",
+  "Gas": "R134a",
   "Funcionamento": "Automática"
  },
  {
@@ -8897,7 +8897,7 @@
   "Produto": "Acessórios",
   "Descricao": "KR\\KRB - R1234YF LOW PRESSURE GAUGE KIT ",
   "NomeComercial": "KR\\KRB - R1234YF LOW PRESSURE GAUGE KIT ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 962,
@@ -8943,7 +8943,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALVOLA DI CARICA ALTA PRES.R134a FILLETTATU",
   "NomeComercial": "TAPPO VALVOLA DI CARICA ALTA PRES.R134a FILLETTATU",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 967,
@@ -8971,7 +8971,7 @@
   "Produto": "Acessórios",
   "Descricao": "VETRO SPIA 1\/4sae f X Att.Rap. BP.134a M C\/V BL   ",
   "NomeComercial": "VETRO SPIA 1\/4sae f X Att.Rap. BP.134a M C\/V BL   ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 970,
@@ -9044,7 +9044,7 @@
   "Produto": "Acessórios",
   "Descricao": "Ponteira carga baixa pressão - R134a X Macho",
   "NomeComercial": "Ponteira carga baixa pressão - R134a X Macho",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 978,
@@ -9117,7 +9117,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VALV CARICA-R1234-HP-M10X1.25- FILET.CORTO  ",
   "NomeComercial": "TAPPO VALV CARICA-R1234-HP-M10X1.25- FILET.CORTO  ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 986,
@@ -9190,7 +9190,7 @@
   "Produto": "Acessórios",
   "Descricao": "KIT RUBINETTI R134A      AP + BP attacchi rapidi  ",
   "NomeComercial": "KIT RUBINETTI R134A      AP + BP attacchi rapidi  ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 994,
@@ -9245,7 +9245,7 @@
   "Produto": "Acessórios",
   "Descricao": "SENSORE PRESSIONE BASSA PRESSIONE R1234 ",
   "NomeComercial": "SENSORE PRESSIONE BASSA PRESSIONE R1234 ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 1000,
@@ -9354,7 +9354,7 @@
   "Produto": "Acessórios",
   "Descricao": "SIGILLANTE MONODOSE R134a ",
   "NomeComercial": "SIGILLANTE MONODOSE R134a ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 1012,
@@ -9418,7 +9418,7 @@
   "Produto": "Acessórios",
   "Descricao": "TAPPO VAL CARICA R1234 HP M10X1.25 FIL LUNGO+CAVO ",
   "NomeComercial": "TAPPO VAL CARICA R1234 HP M10X1.25 FIL LUNGO+CAVO ",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 1019,
@@ -9491,7 +9491,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-134a BASS",
   "NomeComercial": "ATTACCO RAPIDO SPECIALE ATTACCO RAPIDO R-134a BASS",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 1027,
@@ -9546,7 +9546,7 @@
   "Produto": "Acessórios",
   "Descricao": "Ponteira carga alta pressão - R134a X Macho",
   "NomeComercial": "Ponteira carga alta pressão - R134a X Macho",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 1033,
@@ -9574,7 +9574,7 @@
   "Produto": "Acessórios",
   "Descricao": "CHIAVE A BUSSOLA 3\/8\"    PER BASSA P.134a ",
   "NomeComercial": "CHIAVE A BUSSOLA 3\/8\"    PER BASSA P.134a ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 1036,
@@ -9602,7 +9602,7 @@
   "Produto": "Acessórios",
   "Descricao": "KIT TRACER  STICK  R134a HYBRID OIL ",
   "NomeComercial": "KIT TRACER  STICK  R134a HYBRID OIL ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 1039,
@@ -9675,7 +9675,7 @@
   "Produto": "Acessórios",
   "Descricao": "ATTACCO RAPIDO BASSA PRESS. - R134a X MASCHIO 1\/4\"",
   "NomeComercial": "ATTACCO RAPIDO BASSA PRESS. - R134a X MASCHIO 1\/4\"",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 1047,
@@ -9982,7 +9982,7 @@
   "Produto": "Acessórios",
   "Descricao": "SIGILLANTE MONODOSE R134a ",
   "NomeComercial": "SIGILLANTE MONODOSE R134a ",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 1081,
@@ -10010,7 +10010,7 @@
   "Produto": "Acessórios",
   "Descricao": "TUBO FLESSIBILE   R-134a X 4017115 C\/ATTACCO RAPID",
   "NomeComercial": "TUBO FLESSIBILE   R-134a X 4017115 C\/ATTACCO RAPID",
-  "Gas": "R134a;"
+  "Gas": "R134a"
  },
  {
   "IdArtigo": 1084,
@@ -10110,7 +10110,7 @@
   "Produto": "Acessórios",
   "Descricao": "R1234yf QUICK COUPLING KIT - HIGH PRESSURE",
   "NomeComercial": "R1234yf QUICK COUPLING KIT - HIGH PRESSURE",
-  "Gas": "R1234yf;"
+  "Gas": "R1234yf"
  },
  {
   "IdArtigo": 1095,
