@@ -54,7 +54,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MAN 3275;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MAN 3275;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-1",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -75,7 +75,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API PERFORMANCE SN",
   "AprovacaoFabricante": "FORD WSS-M2C950-A;STJLR.03.5007;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-DS1;FIAT 9.55535-GS1;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-DS1;FIAT 9.55535-GS1;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -95,7 +95,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "API PERFORMANCE SN",
   "AprovacaoFabricante": "FORD WSS-M2C950-A;STJLR.03.5007;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-DS1;FIAT 9.55535-GS1;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-DS1;FIAT 9.55535-GS1;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -114,7 +114,7 @@
   "EspecificacaoACEA": "C5",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API SERV SN+ SNRC",
-  "AprovacaoFabricante": "BMW LL-17 FE+;MB-Freigabe 229.71;GM OPEL OV0401547;",
+  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;",
   "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;",
   "EspecificacaoILSAC": "GF-5",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
@@ -135,7 +135,7 @@
   "EspecificacaoACEA": "C5",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API SERV SN+ SNRC",
-  "AprovacaoFabricante": "BMW LL-17 FE+;MB-Freigabe 229.71;GM OPEL OV0401547;",
+  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;",
   "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;",
   "EspecificacaoILSAC": "GF-5",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
@@ -453,7 +453,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_108534_8100_ECO-lite_0W-20_1L_png.png&w=640&q=75",
   "Especificacao": "API SERVICE SP-RC;ILSAC GF-6a;",
   "AprovacaoFabricante": "GM OPEL Dexos 1 Gen 2;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD WSS-M2C947-A;FORD WSS-M2C947-B1;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD WSS-M2C947-A;FORD WSS-M2C947-B1;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -472,7 +472,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API SERVICE SP-RC;ILSAC GF-6a;",
   "AprovacaoFabricante": "GM OPEL Dexos 1 Gen 2;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD WSS-M2C947-A;FORD WSS-M2C947-B1;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD WSS-M2C947-A;FORD WSS-M2C947-B1;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -491,7 +491,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API SERVICE SP-RC;ILSAC GF-6a;",
   "AprovacaoFabricante": "GM OPEL Dexos 1 Gen 2;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD WSS-M2C929-A;FORD WSS-M2C946-A;FORD WSS-M2C946-B1;GM OPEL 4718;GM OPEL 6094 M;FORD WSS-M2C946-B1;GM OPEL 4718;GM OPEL 6094 M;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD WSS-M2C929-A;FORD WSS-M2C946-A;FORD WSS-M2C946-B1;GM OPEL 4718;GM OPEL 6094 M;FORD WSS-M2C946-B1;GM OPEL 4718;GM OPEL 6094 M;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -510,7 +510,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "API SERVICE SP-RC;ILSAC GF-6a;",
   "AprovacaoFabricante": "GM OPEL Dexos 1 Gen 2;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD WSS-M2C929-A;FORD WSS-M2C946-A;FORD WSS-M2C946-B1;GM OPEL 4718;GM OPEL 6094 M;FORD WSS-M2C946-B1;GM OPEL 4718;GM OPEL 6094 M;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD WSS-M2C929-A;FORD WSS-M2C946-A;FORD WSS-M2C946-B1;GM OPEL 4718;GM OPEL 6094 M;FORD WSS-M2C946-B1;GM OPEL 4718;GM OPEL 6094 M;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -530,7 +530,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API PERFORMANCE SN",
   "AprovacaoFabricante": "FORD WSS-M2C950-A;STJLR.03.5007;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-DS1;FIAT 9.55535-GS1;FIAT 9.55535-GS1",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-DS1;FIAT 9.55535-GS1;FIAT 9.55535-GS1",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -703,7 +703,7 @@
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API PERF. SN/CF",
-  "AprovacaoFabricante": "MB-Freigabe 229.52",
+  "AprovacaoFabricante": "MB 229.52",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112771",
   "DesignacaoComercialSubstituta": "8100 X-CLEAN FE C2/C3 5W30"
@@ -1028,7 +1028,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MAN 3275;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MAN 3275;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-1;MTU Type 2;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1048,7 +1048,7 @@
   "EspecificacaoACEA": "E7 / E9",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75",
   "Especificacao": "ACEA E7 / E9;API CK-4 / SN;",
-  "AprovacaoFabricante": "MACK EOS-4.5;MB-Freigabe 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
+  "AprovacaoFabricante": "MACK EOS-4.5;MB 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1068,7 +1068,7 @@
   "EspecificacaoACEA": "E7 / E9",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA E7 / E9;API CK-4 / SN;",
-  "AprovacaoFabricante": "MACK EOS-4.5;MB-Freigabe 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
+  "AprovacaoFabricante": "MACK EOS-4.5;MB 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1088,7 +1088,7 @@
   "EspecificacaoACEA": "E7 / E9",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "ACEA E7 / E9;API CK-4 / SN;",
-  "AprovacaoFabricante": "MACK EOS-4.5;MB-Freigabe 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
+  "AprovacaoFabricante": "MACK EOS-4.5;MB 228.31;RENAULT TRUCKS RVI RLD3;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-3;CUMMINS CES 20086;DAF Standard Drain;DETROIT FLUID SERVICE DFS 93K222;DETROIT FLUID SERVICE DFS 93K222;DEUTZ DQC III-10 LA;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1108,7 +1108,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072;CUMMINS CES 20076;CUMMINS CES 20077;CUMMINS CES 20078;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1128,7 +1128,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072;CUMMINS CES 20076;CUMMINS CES 20077;CUMMINS CES 20078;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1148,7 +1148,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072;CUMMINS CES 20076;CUMMINS CES 20077;CUMMINS CES 20078;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1168,7 +1168,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072;CUMMINS CES 20076;CUMMINS CES 20077;CUMMINS CES 20078;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1188,7 +1188,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072;CUMMINS CES 20076;CUMMINS CES 20077;CUMMINS CES 20078;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1208,7 +1208,7 @@
   "EspecificacaoACEA": "E6",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75",
   "Especificacao": "ACEA E6 / E7 / E9",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.51;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.51;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CUMMINS CES 20076/77;DAF Extended Drain;DEUTZ DQC IV LA",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1228,7 +1228,7 @@
   "EspecificacaoACEA": "E6",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA E6 / E7 / E9",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.51;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.51;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CUMMINS CES 20076/77;DAF Extended Drain;DEUTZ DQC IV LA",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1248,7 +1248,7 @@
   "EspecificacaoACEA": "E6",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA E6 / E7 / E9",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.51;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.51;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CUMMINS CES 20076/77;DAF Extended Drain;DEUTZ DQC IV LA",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1268,7 +1268,7 @@
   "EspecificacaoACEA": "E6",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "ACEA E6 / E7 / E9",
-  "AprovacaoFabricante": "MACK EO-N;MB-Freigabe 228.51;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;VOLVO VDS-3",
+  "AprovacaoFabricante": "MACK EO-N;MB 228.51;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RXD;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CUMMINS CES 20076/77;DAF Extended Drain;DEUTZ DQC IV LA",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1388,7 +1388,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MAN 3275;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MAN 3275;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-1",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1408,7 +1408,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MAN 3275;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
+  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MAN 3275;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-1",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -1429,7 +1429,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_108644_4100%2520turbolight%252010w40%25201l_png.png&w=640&q=75",
   "Especificacao": "ACEA A3 / B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01; VW 505 00;",
-  "RecomendacaoFabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "RecomendacaoFabricanteOleo": "MB 229.3;PSA B71 2300;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112890",
   "DesignacaoComercialSubstituta": "4100 SYN-NERGY SPEC 10W40"
@@ -1451,7 +1451,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "ACEA A3 / B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01; VW 505 00;",
-  "RecomendacaoFabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "RecomendacaoFabricanteOleo": "MB 229.3;PSA B71 2300;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112892",
   "DesignacaoComercialSubstituta": "4100 SYN-NERGY SPEC 10W40"
@@ -1473,7 +1473,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75",
   "Especificacao": "ACEA A3 / B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01; VW 505 00;",
-  "RecomendacaoFabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "RecomendacaoFabricanteOleo": "MB 229.3;PSA B71 2300;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112893",
   "DesignacaoComercialSubstituta": "4100 SYN-NERGY SPEC 10W40"
@@ -1495,7 +1495,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA A3 / B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01; VW 505 00;",
-  "RecomendacaoFabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "RecomendacaoFabricanteOleo": "MB 229.3;PSA B71 2300;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112918",
   "DesignacaoComercialSubstituta": "4100 SYN-NERGY SPEC 10W40"
@@ -1517,7 +1517,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA A3 / B4;API SERVICE SN;",
   "AprovacaoFabricante": "RENAULT RN0700;VW 501 01; VW 505 00;",
-  "RecomendacaoFabricanteOleo": "MB-Freigabe 229.3;PSA B71 2300;",
+  "RecomendacaoFabricanteOleo": "MB 229.3;PSA B71 2300;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112919",
   "DesignacaoComercialSubstituta": "4100 SYN-NERGY SPEC 10W40"
@@ -1539,7 +1539,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "ACEA A3 / B4;API SL / CF;",
   "AprovacaoFabricante": "VW 501 01; VW 505 00;",
-  "RecomendacaoFabricanteOleo": "MB-Freigabe 229.1",
+  "RecomendacaoFabricanteOleo": "MB 229.1",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -1557,7 +1557,7 @@
   "ViscosidadeSAE": "15W40",
   "EspecificacaoACEA": "A3 / B3",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "AprovacaoFabricante": "MB-Freigabe 229.1",
+  "AprovacaoFabricante": "MB 229.1",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -1594,7 +1594,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "API SERVICE SN",
   "AprovacaoFabricante": "GM OPEL Dexos 2;",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -1614,7 +1614,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API SERVICE SN",
   "AprovacaoFabricante": "GM OPEL Dexos 2;",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -1634,7 +1634,7 @@
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "API SERVICE SN",
   "AprovacaoFabricante": "GM OPEL Dexos 2;",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -1654,7 +1654,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API SERVICE SN",
   "AprovacaoFabricante": "GM OPEL Dexos 2;",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -1730,7 +1730,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "ACEA A3 / B4;API SERVICE SN / CF;",
-  "AprovacaoFabricante": "MB-Freigabe 229.3;RENAULT RN0710;RENAULT RN0700;VW 501 01; VW 505 00;",
+  "AprovacaoFabricante": "MB 229.3;RENAULT RN0710;RENAULT RN0700;VW 501 01; VW 505 00;",
   "RecomendacaoFabricanteOleo": "PSA B71 2300",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112890",
@@ -1752,7 +1752,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA A3 / B4;API SERVICE SN / CF;",
-  "AprovacaoFabricante": "MB-Freigabe 229.3;RENAULT RN0710;RENAULT RN0700;VW 501 01; VW 505 00;",
+  "AprovacaoFabricante": "MB 229.3;RENAULT RN0710;RENAULT RN0700;VW 501 01; VW 505 00;",
   "RecomendacaoFabricanteOleo": "PSA B71 2300",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112919",
@@ -2614,7 +2614,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3;",
+  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3;",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -2634,7 +2634,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_jerry_can-red_20l_png.png&w=640&q=75",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3;",
+  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3;",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -2654,7 +2654,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3;",
+  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3;",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -2674,7 +2674,7 @@
   "EspecificacaoACEA": "E7",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API CI-4 / CH-4",
-  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MB-Freigabe 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3;",
+  "AprovacaoFabricante": "KAMAZ APPROVAL EUR 4;KAMAZ APPROV. ECO EUR 5;KAMAZ APPROVAL EURO 3;MACK EO-N;MB 228.3;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;VOLVO VDS-3;",
   "RecomendacaoFabricanteOleo": "CATERPILLAR ECF-2;CUMMINS CES 20071;CUMMINS CES 20072",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -2730,7 +2730,7 @@
   "EspecificacaoACEA": "E7 / E4",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "ACEA E4 / E7",
-  "AprovacaoFabricante": "DEUTZ DQC III;MACK EO-N;MAN 3277;MB-Freigabe 228.5;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;SCANIA LDF-3;VOLVO VDS-3;",
+  "AprovacaoFabricante": "DEUTZ DQC III;MACK EO-N;MAN 3277;MB 228.5;RENAULT TRUCKS RVI RLD2;RENAULT TRUCKS RVI RLD2;SCANIA LDF-3;VOLVO VDS-3;",
   "RecomendacaoFabricanteOleo": "DAF Extended Drain;MTU Type 3;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
@@ -4121,7 +4121,7 @@
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API SERVICE SN",
   "AprovacaoFabricante": "GM OPEL Dexos 2;",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS-12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;VW 505 00; VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -4182,8 +4182,8 @@
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "Especificacao": "API SERVICE SN",
-  "AprovacaoFabricante": "MB-Freigabe 229.51;VW 505 00; VW 505 01;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-11106;GM OPEL Dexos 2;",
+  "AprovacaoFabricante": "MB 229.51;VW 505 00; VW 505 01;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 11106;GM OPEL Dexos 2;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -4202,8 +4202,8 @@
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "Especificacao": "API SERVICE SN",
-  "AprovacaoFabricante": "MB-Freigabe 229.51;VW 505 00; VW 505 01;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-11106;GM OPEL Dexos 2;",
+  "AprovacaoFabricante": "MB 229.51;VW 505 00; VW 505 01;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 11106;GM OPEL Dexos 2;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -4319,7 +4319,7 @@
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "FORD WSS-M2C961-A1;GM OPEL Dexos 1 Gen 3;OV 040 1547 - G30;GM OPEL Dexos 1 Gen 2;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-6395;FIAT 9.55535-CR1;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -4407,7 +4407,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "BMW LL-01;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;FIAT 9.55535-G2;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;FIAT 9.55535-G2;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -4425,7 +4425,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "MB 229.5;PORSCHE A40;VW 502 00;VW 505 00;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-G2;FIAT 9.55535-Z2;BMW LL-01;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-G2;FIAT 9.55535-Z2;BMW LL-01;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -4899,7 +4899,7 @@
   "EspecificacaoACEA": "C5 / C6",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "ASTON MARTIN;MB 229.72;FORD WSS-M2C947-B1;FORD WSS-M2C962-A1;STJLR.03.5006;OV 040 1547 - A20;VOLVO VCC RBS0-2AE;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12145;FIAT 9.55535-GSX;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12145;FIAT 9.55535-GSX;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -4945,7 +4945,7 @@
   "EspecificacaoACEA": "C5 / C6",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "ASTON MARTIN;MB 229.72;FORD WSS-M2C947-B1;FORD WSS-M2C962-A1;STJLR.03.5006;OV 040 1547 - A20;VOLVO VCC RBS0-2AE;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12145;FIAT 9.55535-GSX;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12145;FIAT 9.55535-GSX;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -5117,7 +5117,7 @@
   "EspecificacaoACEA": "E4 / E6 / E7 / E8 / E9 / E11",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "CUMMINS CES 20086 ;DTFR 15C110;DTFR 15C120;MACK EOS-4.5;MAN M 3775;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "DAF PSQL 2.1E LD;MAN M 3477;MAN M 3271-1;IVECOFPT TLS CK4;IVECO18-1809 CLASSE NG2 ;",
+  "RecomendacaoFabricanteOleo": "DAF PSQL 2.1E LD;MAN M 3477;MAN M 3271-1;IVECOFPT TLS CK4;IVECO 18-1809 CLASSE NG2 ;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -5273,7 +5273,7 @@
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "FORD WSS-M2C961-A1;GM OPEL Dexos 1 Gen 3;OV 040 1547 - G30;GM OPEL Dexos 1 Gen 2;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-6395;FIAT 9.55535-CR1;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -5575,7 +5575,7 @@
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "BMW LL-04;MB 229.52;KIA ENGINE OIL;OV 040 1547 - D30;OV 040 1547 - G30;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-11106;VW 505 01;FIAT 9.55535-S3;HYUNDAI MOTORS;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 11106;VW 505 01;FIAT 9.55535-S3;HYUNDAI MOTORS;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -5849,7 +5849,7 @@
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "BMW LL-04;MB 229.52;KIA ENGINE OIL;OV 040 1547 - D30;OV 040 1547 - G30;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-11106;VW 505 01;FIAT 9.55535-S3;HYUNDAI MOTORS;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 11106;VW 505 01;FIAT 9.55535-S3;HYUNDAI MOTORS;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -5985,7 +5985,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "BMW LL-01;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;FIAT 9.55535-G2;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;FIAT 9.55535-G2;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -6034,7 +6034,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "MB 229.5;PORSCHE A40;VW 502 00;VW 505 00;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-G2;FIAT 9.55535-Z2;BMW LL-01;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-G2;FIAT 9.55535-Z2;BMW LL-01;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -6527,7 +6527,7 @@
   "EspecificacaoACEA": "E4 / E6 / E7 / E8 / E9 / E11",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "CUMMINS CES 20086 ;DTFR 15C110;DTFR 15C120;MACK EOS-4.5;MAN M 3775;RENAULT TRUCKS RVI RLD3;VOLVO VDS-4.5;",
-  "RecomendacaoFabricanteOleo": "DAF PSQL 2.1E LD;MAN M 3477;MAN M 3271-1;IVECOFPT TLS CK4;IVECO18-1809 CLASSE NG2 ;",
+  "RecomendacaoFabricanteOleo": "DAF PSQL 2.1E LD;MAN M 3477;MAN M 3271-1;IVECOFPT TLS CK4;IVECO 18-1809 CLASSE NG2 ;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -7833,7 +7833,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "BMW LL-01;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;FIAT 9.55535-G2;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;FIAT 9.55535-G2;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -8080,7 +8080,7 @@
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "BMW LL-04;MB 229.52;KIA ENGINE OIL;OV 040 1547 - D30;OV 040 1547 - G30;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-11106;VW 505 01;FIAT 9.55535-S3;HYUNDAI MOTORS;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 11106;VW 505 01;FIAT 9.55535-S3;HYUNDAI MOTORS;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -8200,7 +8200,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS-11106;MB 229.52;KIA ENGINE OIL;OV 040 1547 - D30;OV 040 1547 - G30;FIAT 9.55535-S3;VW 505 00;VW 505 01 ;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 11106;MB 229.52;KIA ENGINE OIL;OV 040 1547 - D30;OV 040 1547 - G30;FIAT 9.55535-S3;VW 505 00;VW 505 01 ;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -8291,7 +8291,7 @@
   "EspecificacaoACEA": "C5 / C6",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "ASTON MARTIN;MB 229.72;FORD WSS-M2C947-B1;FORD WSS-M2C962-A1;STJLR.03.5006;OV 040 1547 - A20;VOLVO VCC RBS0-2AE;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12145;FIAT 9.55535-GSX;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12145;FIAT 9.55535-GSX;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -8308,7 +8308,7 @@
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "FORD WSS-M2C961-A1;GM OPEL Dexos 1 Gen 3;OV 040 1547 - G30;GM OPEL Dexos 1 Gen 2;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-6395;FIAT 9.55535-CR1;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 6395;FIAT 9.55535-CR1;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -8666,7 +8666,7 @@
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "BMW LL-04;MB 229.52;KIA ENGINE OIL;OV 040 1547 - D30;OV 040 1547 - G30;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-11106;VW 505 01;FIAT 9.55535-S3;HYUNDAI MOTORS;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 11106;VW 505 01;FIAT 9.55535-S3;HYUNDAI MOTORS;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -9031,7 +9031,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "MB 229.5;PORSCHE A40;VW 502 00;VW 505 00;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-G2;FIAT 9.55535-Z2;BMW LL-01;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12991;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-G2;FIAT 9.55535-Z2;BMW LL-01;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -9557,7 +9557,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS-11106;MB 229.52;KIA ENGINE OIL;OV 040 1547 - D30;OV 040 1547 - G30;FIAT 9.55535-S3;VW 505 00;VW 505 01 ;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 11106;MB 229.52;KIA ENGINE OIL;OV 040 1547 - D30;OV 040 1547 - G30;FIAT 9.55535-S3;VW 505 00;VW 505 01 ;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -10055,7 +10055,7 @@
   "EspecificacaoACEA": "C5 / C6",
   "ImgUrl": "https://lubconsult.totalenergies.com/img/totalenergies-logo.svg",
   "AprovacaoFabricante": "ASTON MARTIN;MB 229.72;FORD WSS-M2C947-B1;FORD WSS-M2C962-A1;STJLR.03.5006;OV 040 1547 - A20;VOLVO VCC RBS0-2AE;",
-  "RecomendacaoFabricanteOleo": "CHRYSLER MS-12145;FIAT 9.55535-GSX;",
+  "RecomendacaoFabricanteOleo": "CHRYSLER MS 12145;FIAT 9.55535-GSX;",
   "FichaTecnica": "https://lubconsult.totalenergies.com/LubricantsRecommendationTool"
  },
  {
@@ -12296,7 +12296,7 @@
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS 12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12313,7 +12313,7 @@
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS 12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12330,7 +12330,7 @@
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS 12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12347,7 +12347,7 @@
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS 12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12364,7 +12364,7 @@
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS 12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12381,7 +12381,7 @@
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C6 / C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS-12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
+  "RecomendacaoFabricanteOleo": "BMW LL-17 FE+;BMW LL-14 FE+;FORD WSS-M2C947-A; FORD WSS-M2C947-B1;FORD WSS-M2C952-A1; FORD WSS-M2C962-A1;FIAT 9.55535-GSX;CHRYSLER MS 12145;MB 229.72;MB 229.71;GM OPEL OV0401547;GM OPEL Dexos D; VOLVO VCC RBS0-2AE;RENAULT RN17",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12397,7 +12397,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "0W20",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;CHRYSLER MS-12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;CHRYSLER MS 12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12413,7 +12413,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "0W20",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;CHRYSLER MS-12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;CHRYSLER MS 12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12429,7 +12429,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "0W20",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;CHRYSLER MS-12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;CHRYSLER MS 12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12445,7 +12445,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "0W20",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;CHRYSLER MS-12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;CHRYSLER MS 12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12461,7 +12461,7 @@
   "Quantidade": "4",
   "ViscosidadeSAE": "0W20",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;CHRYSLER MS-12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
+  "RecomendacaoFabricanteOleo": "ILSAC GF-6A;GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;CHRYSLER MS 12145;FIAT 9.55535-CR1;FIAT 9.55535-GSX;FORD WSS-M2C947-A;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12750,7 +12750,7 @@
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12767,7 +12767,7 @@
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12784,7 +12784,7 @@
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12801,7 +12801,7 @@
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12818,7 +12818,7 @@
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -12835,7 +12835,7 @@
   "ViscosidadeSAE": "0W30",
   "EspecificacaoACEA": "C2",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS-13340;CHRYSLER MS-90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
+  "RecomendacaoFabricanteOleo": "STJLR.03.5007;CHRYSLER MS 13340;CHRYSLER MS 90047;FIAT 9.55535-GS1;FIAT 9.55535-DS1;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13340,7 +13340,7 @@
   "ViscosidadeSAE": "5W20",
   "EspecificacaoACEA": "C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS-6395;FIAT 9.55535-CR1;STJLR.03.5004;",
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS 6395;FIAT 9.55535-CR1;STJLR.03.5004;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13357,7 +13357,7 @@
   "ViscosidadeSAE": "5W20",
   "EspecificacaoACEA": "C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS-6395;FIAT 9.55535-CR1;STJLR.03.5004;",
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS 6395;FIAT 9.55535-CR1;STJLR.03.5004;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13374,7 +13374,7 @@
   "ViscosidadeSAE": "5W20",
   "EspecificacaoACEA": "C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS-6395;FIAT 9.55535-CR1;STJLR.03.5004;",
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS 6395;FIAT 9.55535-CR1;STJLR.03.5004;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13391,7 +13391,7 @@
   "ViscosidadeSAE": "5W20",
   "EspecificacaoACEA": "C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS-6395;FIAT 9.55535-CR1;STJLR.03.5004;",
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS 6395;FIAT 9.55535-CR1;STJLR.03.5004;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13408,7 +13408,7 @@
   "ViscosidadeSAE": "5W20",
   "EspecificacaoACEA": "C5",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS-6395;FIAT 9.55535-CR1;STJLR.03.5004;",
+  "RecomendacaoFabricanteOleo": "FORD WSS-M2C948-B;FORD WSS-M2C925-A ;FORD WSS-M2C925-B;CHRYSLER MS 6395;FIAT 9.55535-CR1;STJLR.03.5004;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13425,7 +13425,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS 11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13442,7 +13442,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS 11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13459,7 +13459,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS 11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13476,7 +13476,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS 11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13493,7 +13493,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS 11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13510,7 +13510,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS-11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;BMW LL-19 FE;CHRYSLER MS 11106;MB 229.31;MB 229.51;MB 229.52;GM OPEL Dexos 2;PSA B71 2290;Porsche C30;VW 501 01;VW 502 00;VW 503 00;VW 503 01;VW 504 00;VW 505 00;VW 505 01;VW 506 00;VW 506 01;VW 507 00;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13917,7 +13917,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13933,7 +13933,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13949,7 +13949,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13965,7 +13965,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13981,7 +13981,7 @@
   "Quantidade": "4",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS-6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 2;CHRYSLER MS 6395;FIAT 9.55535-CR1;FORD M2C929-A;FORD M2C945-A;FORD M2C946-A;FORD M2C947-A",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -13997,7 +13997,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS-6395;FORD M2C961-A1;CHRYSLER MS-6395;",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS 6395;FORD M2C961-A1;CHRYSLER MS 6395;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14013,7 +14013,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS-6395;FORD M2C961-A1;CHRYSLER MS-6395;",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS 6395;FORD M2C961-A1;CHRYSLER MS 6395;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14029,7 +14029,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS-6395;FORD M2C961-A1;CHRYSLER MS-6395;",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS 6395;FORD M2C961-A1;CHRYSLER MS 6395;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14045,7 +14045,7 @@
   "Quantidade": "1",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS-6395;FORD M2C961-A1;CHRYSLER MS-6395;",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS 6395;FORD M2C961-A1;CHRYSLER MS 6395;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14061,7 +14061,7 @@
   "Quantidade": "4",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS-6395;FORD M2C961-A1;CHRYSLER MS-6395;",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS 6395;FORD M2C961-A1;CHRYSLER MS 6395;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14077,7 +14077,7 @@
   "Quantidade": "12",
   "ViscosidadeSAE": "5W30",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS-6395;FORD M2C961-A1;CHRYSLER MS-6395;",
+  "RecomendacaoFabricanteOleo": "GM OPEL Dexos 1 Gen 3;FIAT 9.55535-CR1;FORD M2C961-A1;CHRYSLER MS 6395;FORD M2C961-A1;CHRYSLER MS 6395;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14179,7 +14179,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO 18-1811 CLASSE SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14196,7 +14196,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO 18-1811 CLASSE SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14213,7 +14213,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO 18-1811 CLASSE SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14230,7 +14230,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO 18-1811 CLASSE SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14247,7 +14247,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C2 / C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO: 18-1811 Classe SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
+  "RecomendacaoFabricanteOleo": "RENAULT RN17 FE;FORD WSS-M2C917-A;BMW LL-04;VW 505 00; VW 505 01;FIAT 9.55535-S1;FIAT 9.55535-S3;IVECO 18-1811 CLASSE SC1;MB 229.31;MB 229.51;MB 229.52;GM OPEL OV0401547;GM OPEL Dexos 2;GM OPEL LL-B-A-025;GM OPEL LL-B-025;",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14769,7 +14769,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS-12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS 12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14786,7 +14786,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS-12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS 12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14803,7 +14803,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS-12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS 12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14820,7 +14820,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS-12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS 12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14837,7 +14837,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS-12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS 12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -14854,7 +14854,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://grupocga.com/img/logo_grupocga.png",
-  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS-12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
+  "RecomendacaoFabricanteOleo": "VW 502 00; VW 505 00; VW 505 01;MB 229.52;BMW LL-04;CHRYSLER MS 12991;RENAULT RN0700;RENAULT RN0710;Porsche A40;FORD WSS-M2C917-A;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2",
   "FichaTecnica": "https://www.portalinnov.pt/Catalogos/Oleos/CGA_LUBRIFICANTES.pdf"
  },
  {
@@ -24199,7 +24199,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;OPEL GM LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;GM OPEL LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -24216,7 +24216,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;OPEL GM LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;GM OPEL LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -24233,7 +24233,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;OPEL GM LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;GM OPEL LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -24250,7 +24250,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;OPEL GM LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;GM OPEL LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -24267,7 +24267,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;OPEL GM LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;GM OPEL LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -24284,7 +24284,7 @@
   "ViscosidadeSAE": "5W40",
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;OPEL GM LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
+  "RecomendacaoFabricanteOleo": "BMW LL-01;CHRYSLER MS 12991;FIAT 9.55535-H2;FIAT 9.55535-M2;FIAT 9.55535-N2;FIAT 9.55535-Z2;GM OPEL LL-B-025;MB 226.5;MB 229.5;PORSCHE A40;PSA B71 2296;RENAULT RN0700;RENAULT RN0710;VW 502 00;VW 505 00;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -24356,7 +24356,7 @@
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "AprovacaoFabricante": "MB 229.51;RENAULT RN0700;RENAULT RN0710;",
-  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;OPEL GM dexos2;VW 505 00;VW 505 01;",
+  "RecomendacaoFabricanteOleo": "BMW LL-04;CHRYSLER MS 12991;FIAT 9.55535-GH2;FIAT 9.55535-S2;FIAT 9.55535-T2;FORD WSS-M2C917-A;GM OPEL DEXOS 2;VW 505 00;VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -24403,7 +24403,7 @@
   "ViscosidadeSAE": "15W40",
   "EspecificacaoACEA": "A3 / B3",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "AprovacaoFabricante": "MB-Freigabe 229.1",
+  "AprovacaoFabricante": "MB 229.1",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -24420,7 +24420,7 @@
   "ViscosidadeSAE": "15W40",
   "EspecificacaoACEA": "A3 / B3",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "AprovacaoFabricante": "MB-Freigabe 229.1",
+  "AprovacaoFabricante": "MB 229.1",
   "FichaTecnica": "https://www.motul.com/pt-PT/products"
  },
  {
@@ -27494,7 +27494,7 @@
   "ViscosidadeSAE": "5W30",
   "EspecificacaoACEA": "C3",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "AprovacaoFabricante": "MB-Freigabe 229.52",
+  "AprovacaoFabricante": "MB 229.52",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112781",
   "DesignacaoComercialSubstituta": "8100 X-CLEAN FE C2/C3 5W30"
@@ -27596,7 +27596,7 @@
   "ViscosidadeSAE": "10W40",
   "EspecificacaoACEA": "A3 / B4",
   "ImgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "AprovacaoFabricante": "MB-Freigabe 229.3;RENAULT RN0710;RENAULT RN0700;VW 501 01; VW 505 00;",
+  "AprovacaoFabricante": "MB 229.3;RENAULT RN0710;RENAULT RN0700;VW 501 01; VW 505 00;",
   "RecomendacaoFabricanteOleo": "PSA B71 2300",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "112891",
