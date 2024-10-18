@@ -13,16 +13,16 @@
   "Id": 2,
   "Titulo": "Campanha Total",
   "Descricao": "Campanha Óleo - Novembro 2024",
-  "DataInicio": "11/01/2024",
-  "DataFim": "11/30/2024",
+  "DataInicio": "2024-09-01",
+  "DataFim": "2024-09-31",
   "Destaque": 1
  },
  {
   "Id": 3,
   "Titulo": "Campanha Exide",
   "Descricao": "Campanha Baterias - Setembro 2024",
-  "DataInicio": "09/01/2024",
-  "DataFim": "09/30/2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
   "Destaque": 0
  }
 ]
