@@ -1,1 +1,28 @@
-
+[
+ {
+  "Id": 1,
+  "Titulo": "Campanha Ferramentas",
+  "Descricao": "Campanha Ferramentas Básicas - Outubro 2024",
+  "DataInicio": "10/01/2024",
+  "DataFim": "10/31/2024",
+  "Destaque": 1,
+  "ImgUrl": "https://pngimg.com/uploads/plier/plier_PNG10055.png",
+  "PdfUrl": "https://pngimg.com/uploads/plier/plier_PNG10055.png"
+ },
+ {
+  "Id": 2,
+  "Titulo": "Campanha Total",
+  "Descricao": "Campanha Óleo - Novembro 2024",
+  "DataInicio": "11/01/2024",
+  "DataFim": "11/30/2024",
+  "Destaque": 1
+ },
+ {
+  "Id": 3,
+  "Titulo": "Campanha Exide",
+  "Descricao": "Campanha Baterias - Setembro 2024",
+  "DataInicio": "09/01/2024",
+  "DataFim": "09/30/2024",
+  "Destaque": 0
+ }
+]
