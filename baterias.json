@@ -762,7 +762,7 @@
   "Largura": 135,
   "Altura": 225,
   "EsqLigacao": 1,
-  "Terminal": 0
+  "Terminal": "0+direita"
  },
  {
   "IdArtigo": 46,
