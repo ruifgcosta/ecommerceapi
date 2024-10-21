@@ -14,7 +14,7 @@
   "Largura": 173,
   "Altura": 206,
   "EsqLigacao": 9,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 2,
@@ -31,7 +31,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 3,
@@ -48,7 +48,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 4,
@@ -65,7 +65,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 5,
@@ -82,7 +82,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 6,
@@ -99,7 +99,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 7,
@@ -116,7 +116,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 8,
@@ -133,7 +133,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 9,
@@ -150,7 +150,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 10,
@@ -167,7 +167,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 11,
@@ -184,7 +184,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 12,
@@ -201,7 +201,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 13,
@@ -218,7 +218,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 14,
@@ -235,7 +235,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 15,
@@ -252,7 +252,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 16,
@@ -269,7 +269,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 17,
@@ -286,7 +286,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 18,
@@ -303,7 +303,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 19,
@@ -422,7 +422,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 26,
@@ -439,7 +439,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 27,
@@ -456,7 +456,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 28,
@@ -473,7 +473,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 29,
@@ -490,7 +490,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 30,
@@ -507,7 +507,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 31,
@@ -524,7 +524,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 32,
@@ -541,7 +541,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 33,
@@ -558,7 +558,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 34,
@@ -575,7 +575,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 35,
@@ -592,7 +592,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 36,
@@ -609,7 +609,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 37,
@@ -626,7 +626,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 38,
@@ -643,7 +643,7 @@
   "Largura": 175,
   "Altura": 205,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 39,
@@ -660,7 +660,7 @@
   "Largura": 135,
   "Altura": 225,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 40,
@@ -711,7 +711,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 43,
@@ -728,7 +728,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 44,
@@ -745,7 +745,7 @@
   "Largura": 135,
   "Altura": 225,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 45,
@@ -779,7 +779,7 @@
   "Largura": 127,
   "Altura": 227,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 47,
@@ -796,7 +796,7 @@
   "Largura": 127,
   "Altura": 227,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 48,
@@ -847,7 +847,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 51,
@@ -864,7 +864,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 52,
@@ -881,7 +881,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 53,
@@ -898,7 +898,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 54,
@@ -932,7 +932,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 56,
@@ -949,7 +949,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 57,
@@ -966,7 +966,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 58,
@@ -983,7 +983,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 59,
@@ -1000,7 +1000,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 60,
@@ -1017,7 +1017,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 61,
@@ -1034,7 +1034,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 62,
@@ -1051,7 +1051,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 63,
@@ -1068,7 +1068,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 64,
@@ -1085,7 +1085,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 65,
@@ -1119,7 +1119,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 67,
@@ -1136,7 +1136,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 68,
@@ -1153,7 +1153,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 69,
@@ -1170,7 +1170,7 @@
   "Largura": 192,
   "Altura": 192,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 70,
@@ -1187,7 +1187,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 71,
@@ -1204,7 +1204,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 72,
@@ -1221,7 +1221,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 73,
@@ -1238,7 +1238,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 74,
@@ -1255,7 +1255,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 75,
@@ -1272,7 +1272,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 76,
@@ -1289,7 +1289,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 77,
@@ -1306,7 +1306,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 78,
@@ -1323,7 +1323,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 79,
@@ -1340,7 +1340,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 80,
@@ -1357,7 +1357,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 81,
@@ -1374,7 +1374,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 82,
@@ -1391,7 +1391,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 83,
@@ -1408,7 +1408,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 84,
@@ -1425,7 +1425,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 85,
@@ -1442,7 +1442,7 @@
   "Largura": 175,
   "Altura": 235,
   "EsqLigacao": "ETN 1",
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 86,
@@ -1459,7 +1459,7 @@
   "Largura": 240,
   "Altura": 279,
   "EsqLigacao": "EAN 3",
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 87,
@@ -1476,7 +1476,7 @@
   "Largura": 240,
   "Altura": 279,
   "EsqLigacao": "EAN 3",
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 88,
@@ -1970,7 +1970,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 19
+  "Terminal": "1+esquerda"9
  },
  {
   "IdArtigo": 117,
@@ -1987,7 +1987,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 118,
@@ -2004,7 +2004,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 119,
@@ -2021,7 +2021,7 @@
   "Largura": 175,
   "Altura": 235,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 120,
@@ -2039,7 +2039,7 @@
   "Largura": 190,
   "Altura": 275,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 121,
@@ -2074,7 +2074,7 @@
   "Largura": 269,
   "Altura": 230,
   "EsqLigacao": 2,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 123,
@@ -2091,7 +2091,7 @@
   "Largura": 175,
   "Altura": 285,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 124,
@@ -2108,7 +2108,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 125,
@@ -2125,7 +2125,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 126,
@@ -2142,7 +2142,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 127,
@@ -2160,7 +2160,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 128,
@@ -2178,7 +2178,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 129,
@@ -2196,7 +2196,7 @@
   "Largura": 269,
   "Altura": 230,
   "EsqLigacao": 2,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 130,
@@ -2213,7 +2213,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 131,
@@ -2230,7 +2230,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 132,
@@ -2247,7 +2247,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 133,
@@ -2264,7 +2264,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 134,
@@ -2281,7 +2281,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 135,
@@ -2317,7 +2317,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 137,
@@ -2335,7 +2335,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 138,
@@ -2353,7 +2353,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 139,
@@ -2389,7 +2389,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 141,
@@ -2407,7 +2407,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 142,
@@ -2425,7 +2425,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 143,
@@ -2443,7 +2443,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 144,
@@ -2461,7 +2461,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 145,
@@ -2479,7 +2479,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 146,
@@ -2497,7 +2497,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 147,
@@ -2515,7 +2515,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 148,
@@ -2533,7 +2533,7 @@
   "Largura": 175,
   "Altura": 235,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 149,
@@ -2551,7 +2551,7 @@
   "Largura": 175,
   "Altura": 285,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 150,
@@ -2569,7 +2569,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 151,
@@ -2587,7 +2587,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 152,
@@ -2659,7 +2659,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 156,
@@ -2677,7 +2677,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 157,
@@ -2695,7 +2695,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 158,
@@ -2713,7 +2713,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 159,
@@ -2731,7 +2731,7 @@
   "Largura": 175,
   "Altura": 235,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 160,
@@ -2749,7 +2749,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 161,
@@ -2767,7 +2767,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 162,
@@ -2784,7 +2784,7 @@
   "Largura": 169,
   "Altura": 184,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 163,
@@ -2801,7 +2801,7 @@
   "Largura": 165,
   "Altura": 220,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 164,
@@ -2818,7 +2818,7 @@
   "Largura": 175,
   "Altura": 236,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 165,
@@ -2835,7 +2835,7 @@
   "Largura": 174,
   "Altura": 234,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 166,
@@ -2852,7 +2852,7 @@
   "Largura": 174,
   "Altura": 234,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 167,
@@ -2869,7 +2869,7 @@
   "Largura": 172,
   "Altura": 286,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 168,
@@ -4370,7 +4370,7 @@
   "Largura": 127,
   "Altura": 220,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 275,
@@ -4387,7 +4387,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 276,
@@ -4404,7 +4404,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 277,
@@ -4421,7 +4421,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 278,
@@ -4438,7 +4438,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 279,
@@ -4455,7 +4455,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 280,
@@ -4472,7 +4472,7 @@
   "Largura": 135,
   "Altura": 225,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 281,
@@ -4489,7 +4489,7 @@
   "Largura": 127,
   "Altura": 227,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 282,
@@ -4506,7 +4506,7 @@
   "Largura": 127,
   "Altura": 227,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 283,
@@ -4523,7 +4523,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 284,
@@ -4540,7 +4540,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 285,
@@ -4557,7 +4557,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 286,
@@ -4574,7 +4574,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 287,
@@ -4591,7 +4591,7 @@
   "Largura": 173,
   "Altura": 220,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 288,
@@ -4608,7 +4608,7 @@
   "Largura": 173,
   "Altura": 220,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 289,
@@ -4625,7 +4625,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 290,
@@ -4642,7 +4642,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 291,
@@ -4659,7 +4659,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 292,
@@ -4676,7 +4676,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 293,
@@ -4693,7 +4693,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 294,
@@ -4710,7 +4710,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 295,
@@ -4727,7 +4727,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 296,
@@ -4744,7 +4744,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 297,
@@ -4761,7 +4761,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 298,
@@ -4778,7 +4778,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 299,
@@ -4795,7 +4795,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 300,
@@ -4812,7 +4812,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 301,
@@ -4829,7 +4829,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 302,
@@ -4846,7 +4846,7 @@
   "Largura": 175,
   "Altura": 235,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 303,
@@ -4863,7 +4863,7 @@
   "Largura": 175,
   "Altura": 235,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 304,
@@ -4880,7 +4880,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 305,
@@ -4897,7 +4897,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 306,
@@ -4914,7 +4914,7 @@
   "Largura": 279,
   "Altura": 240,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 307,
@@ -5685,7 +5685,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 366,
@@ -5702,7 +5702,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 367,
@@ -5719,7 +5719,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 368,
@@ -5736,7 +5736,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 369,
@@ -5753,7 +5753,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 370,
@@ -5770,7 +5770,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 371,
@@ -5787,7 +5787,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 372,
@@ -5804,7 +5804,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 373,
@@ -5821,7 +5821,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 374,
@@ -5838,7 +5838,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 375,
@@ -5855,7 +5855,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 376,
@@ -5872,7 +5872,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 377,
@@ -5889,7 +5889,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 378,
@@ -5906,7 +5906,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 379,
@@ -5923,7 +5923,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 380,
@@ -5940,7 +5940,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 381,
@@ -5957,7 +5957,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 382,
@@ -5974,7 +5974,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 383,
@@ -5991,7 +5991,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 384,
@@ -6008,7 +6008,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 385,
@@ -6025,7 +6025,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 386,
@@ -6042,7 +6042,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 387,
@@ -6059,7 +6059,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 388,
@@ -6076,7 +6076,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 389,
@@ -6093,7 +6093,7 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 390,
@@ -6110,7 +6110,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 391,
@@ -6127,7 +6127,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 392,
@@ -6144,7 +6144,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 393,
@@ -6161,7 +6161,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 394,
@@ -6178,7 +6178,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 395,
@@ -6195,7 +6195,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 396,
@@ -6212,7 +6212,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 397,
@@ -6229,7 +6229,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 398,
@@ -6314,7 +6314,7 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 403,
@@ -6331,7 +6331,7 @@
   "Largura": 173,
   "Altura": 220,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 404,
@@ -6348,7 +6348,7 @@
   "Largura": 173,
   "Altura": 220,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 405,
@@ -6365,7 +6365,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 406,
@@ -6382,7 +6382,7 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 407,
@@ -6399,7 +6399,7 @@
   "Largura": 173,
   "Altura": 225,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 408,
@@ -6416,7 +6416,7 @@
   "Largura": 173,
   "Altura": 225,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 409,
@@ -6433,7 +6433,7 @@
   "Largura": 172,
   "Altura": 240,
   "EsqLigacao": "Central",
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 410,
@@ -6450,7 +6450,7 @@
   "Largura": 171,
   "Altura": 232,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 411,
@@ -6467,7 +6467,7 @@
   "Largura": 171,
   "Altura": 232,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 412,
@@ -6484,7 +6484,7 @@
   "Largura": 171,
   "Altura": 283,
   "EsqLigacao": 0,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 413,
@@ -6501,7 +6501,7 @@
   "Largura": 171,
   "Altura": 283,
   "EsqLigacao": 1,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 414,
@@ -6518,7 +6518,7 @@
   "Largura": 175,
   "Altura": 226,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 415,
@@ -6535,7 +6535,7 @@
   "Largura": 175,
   "Altura": 226,
   "EsqLigacao": 4,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 416,
@@ -6552,7 +6552,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 417,
@@ -6569,7 +6569,7 @@
   "Largura": 241,
   "Altura": 285,
   "EsqLigacao": 6,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 418,
@@ -6586,7 +6586,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 419,
@@ -6603,7 +6603,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 420,
@@ -6620,7 +6620,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 4,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 421,
@@ -6637,7 +6637,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 422,
@@ -6654,7 +6654,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 423,
@@ -6671,7 +6671,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 424,
@@ -6688,7 +6688,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 425,
@@ -6705,7 +6705,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 4,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 426,
@@ -6722,7 +6722,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 427,
@@ -6739,7 +6739,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  },
  {
   "IdArtigo": 428,
@@ -6756,6 +6756,6 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": "1+esquerda"
  }
 ]
