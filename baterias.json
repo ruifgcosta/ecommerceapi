@@ -14,7 +14,7 @@
   "Largura": 173,
   "Altura": 206,
   "EsqLigacao": 9,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 2,
@@ -30,8 +30,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 3,
@@ -47,8 +47,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 4,
@@ -64,8 +64,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 5,
@@ -81,8 +81,8 @@
   "Comprimento": 392,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 6,
@@ -98,8 +98,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 7,
@@ -115,8 +115,8 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 8,
@@ -132,8 +132,8 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 9,
@@ -149,8 +149,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 10,
@@ -166,8 +166,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 11,
@@ -183,8 +183,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 12,
@@ -200,8 +200,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 13,
@@ -217,8 +217,8 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 14,
@@ -234,8 +234,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 15,
@@ -251,8 +251,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 16,
@@ -268,8 +268,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 17,
@@ -285,8 +285,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 18,
@@ -302,8 +302,8 @@
   "Comprimento": 392,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 19,
@@ -319,7 +319,7 @@
   "Comprimento": 150,
   "Largura": 90,
   "Altura": 105,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "M12"
  },
  {
@@ -336,7 +336,7 @@
   "Comprimento": 150,
   "Largura": 90,
   "Altura": 130,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "M04"
  },
  {
@@ -353,7 +353,7 @@
   "Comprimento": 150,
   "Largura": 90,
   "Altura": 145,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "M04"
  },
  {
@@ -387,7 +387,7 @@
   "Comprimento": 150,
   "Largura": 90,
   "Altura": 145,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "Small taper"
  },
  {
@@ -404,7 +404,7 @@
   "Comprimento": 187,
   "Largura": 127,
   "Altura": 220,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": "3+Adapt"
  },
  {
@@ -421,8 +421,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 26,
@@ -438,8 +438,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 27,
@@ -455,8 +455,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 28,
@@ -472,8 +472,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 29,
@@ -489,8 +489,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 30,
@@ -506,8 +506,8 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 31,
@@ -523,8 +523,8 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 32,
@@ -540,8 +540,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 33,
@@ -557,8 +557,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 34,
@@ -574,8 +574,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 35,
@@ -591,8 +591,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 36,
@@ -608,8 +608,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 37,
@@ -625,8 +625,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 38,
@@ -642,8 +642,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 205,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 39,
@@ -659,8 +659,8 @@
   "Comprimento": 178,
   "Largura": 135,
   "Altura": 225,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 40,
@@ -676,7 +676,7 @@
   "Comprimento": 187,
   "Largura": 140,
   "Altura": 220,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 3
  },
  {
@@ -693,7 +693,7 @@
   "Comprimento": 187,
   "Largura": 127,
   "Altura": 220,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 3
  },
  {
@@ -710,8 +710,8 @@
   "Comprimento": 175,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 43,
@@ -727,8 +727,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 44,
@@ -744,8 +744,8 @@
   "Comprimento": 220,
   "Largura": 135,
   "Altura": 225,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 45,
@@ -761,8 +761,8 @@
   "Comprimento": 220,
   "Largura": 135,
   "Altura": 225,
-  "EsqLigacao": 1,
-  "Terminal": "0+direita"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": "EN"
  },
  {
   "IdArtigo": 46,
@@ -778,8 +778,8 @@
   "Comprimento": 237,
   "Largura": 127,
   "Altura": 227,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 47,
@@ -795,8 +795,8 @@
   "Comprimento": 237,
   "Largura": 127,
   "Altura": 227,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 48,
@@ -812,7 +812,7 @@
   "Comprimento": 237,
   "Largura": 127,
   "Altura": 227,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 3
  },
  {
@@ -829,7 +829,7 @@
   "Comprimento": 237,
   "Largura": 127,
   "Altura": 227,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 3
  },
  {
@@ -846,8 +846,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 51,
@@ -863,8 +863,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 52,
@@ -880,8 +880,8 @@
   "Comprimento": 200,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 53,
@@ -897,8 +897,8 @@
   "Comprimento": 200,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 54,
@@ -914,7 +914,7 @@
   "Comprimento": 230,
   "Largura": 180,
   "Altura": 186,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "SAE S"
  },
  {
@@ -931,8 +931,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 56,
@@ -948,8 +948,8 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 57,
@@ -965,8 +965,8 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 58,
@@ -982,8 +982,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 59,
@@ -999,8 +999,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 60,
@@ -1016,8 +1016,8 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 61,
@@ -1033,8 +1033,8 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 62,
@@ -1050,8 +1050,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 63,
@@ -1067,8 +1067,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 64,
@@ -1084,8 +1084,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 65,
@@ -1101,7 +1101,7 @@
   "Comprimento": 260,
   "Largura": 180,
   "Altura": 186,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "SAE S"
  },
  {
@@ -1118,8 +1118,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 67,
@@ -1135,8 +1135,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 68,
@@ -1152,8 +1152,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 69,
@@ -1169,8 +1169,8 @@
   "Comprimento": 306,
   "Largura": 192,
   "Altura": 192,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 70,
@@ -1186,8 +1186,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 71,
@@ -1203,8 +1203,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 72,
@@ -1220,8 +1220,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 73,
@@ -1237,8 +1237,8 @@
   "Comprimento": 392,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 74,
@@ -1254,8 +1254,8 @@
   "Comprimento": 175,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 75,
@@ -1271,8 +1271,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 76,
@@ -1288,8 +1288,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 77,
@@ -1305,8 +1305,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 78,
@@ -1322,8 +1322,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 79,
@@ -1339,8 +1339,8 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 80,
@@ -1356,8 +1356,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 81,
@@ -1373,8 +1373,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 82,
@@ -1390,8 +1390,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 83,
@@ -1407,8 +1407,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 84,
@@ -1424,8 +1424,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 85,
@@ -1442,7 +1442,7 @@
   "Largura": 175,
   "Altura": 235,
   "EsqLigacao": "ETN 1",
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 86,
@@ -1459,7 +1459,7 @@
   "Largura": 240,
   "Altura": 279,
   "EsqLigacao": "EAN 3",
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 87,
@@ -1476,7 +1476,7 @@
   "Largura": 240,
   "Altura": 279,
   "EsqLigacao": "EAN 3",
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 88,
@@ -1935,7 +1935,7 @@
   "Comprimento": 318,
   "Largura": 165,
   "Altura": 215,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "M8"
  },
  {
@@ -1952,7 +1952,7 @@
   "Comprimento": 165,
   "Largura": 175,
   "Altura": 125,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": "M5"
  },
  {
@@ -1969,8 +1969,8 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 19
  },
  {
   "IdArtigo": 117,
@@ -1986,8 +1986,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 118,
@@ -2003,8 +2003,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 119,
@@ -2020,8 +2020,8 @@
   "Comprimento": 349,
   "Largura": 175,
   "Altura": 235,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 120,
@@ -2038,8 +2038,8 @@
   "Comprimento": 244,
   "Largura": 190,
   "Altura": 275,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 121,
@@ -2056,7 +2056,7 @@
   "Comprimento": 244,
   "Largura": 190,
   "Altura": 275,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": "M10"
  },
  {
@@ -2074,7 +2074,7 @@
   "Largura": 269,
   "Altura": 230,
   "EsqLigacao": 2,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 123,
@@ -2090,8 +2090,8 @@
   "Comprimento": 349,
   "Largura": 175,
   "Altura": 285,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 124,
@@ -2108,7 +2108,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 125,
@@ -2125,7 +2125,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 126,
@@ -2142,7 +2142,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 127,
@@ -2159,8 +2159,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 128,
@@ -2177,8 +2177,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 129,
@@ -2196,7 +2196,7 @@
   "Largura": 269,
   "Altura": 230,
   "EsqLigacao": 2,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 130,
@@ -2212,8 +2212,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 131,
@@ -2229,8 +2229,8 @@
   "Comprimento": 350,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 132,
@@ -2247,7 +2247,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 133,
@@ -2264,7 +2264,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 134,
@@ -2281,7 +2281,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 135,
@@ -2298,7 +2298,7 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 206,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "SAE"
  },
  {
@@ -2316,8 +2316,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 137,
@@ -2334,8 +2334,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 138,
@@ -2352,8 +2352,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 139,
@@ -2370,7 +2370,7 @@
   "Comprimento": 330,
   "Largura": 173,
   "Altura": 240,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "SAE"
  },
  {
@@ -2389,7 +2389,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 141,
@@ -2407,7 +2407,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 142,
@@ -2425,7 +2425,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 143,
@@ -2442,8 +2442,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 144,
@@ -2460,8 +2460,8 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 145,
@@ -2478,8 +2478,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 146,
@@ -2496,8 +2496,8 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 147,
@@ -2514,8 +2514,8 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 148,
@@ -2532,8 +2532,8 @@
   "Comprimento": 349,
   "Largura": 175,
   "Altura": 235,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 149,
@@ -2550,8 +2550,8 @@
   "Comprimento": 349,
   "Largura": 175,
   "Altura": 285,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 150,
@@ -2569,7 +2569,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 151,
@@ -2587,7 +2587,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 152,
@@ -2604,7 +2604,7 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 206,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "SAE"
  },
  {
@@ -2622,7 +2622,7 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 206,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "SAE"
  },
  {
@@ -2640,7 +2640,7 @@
   "Comprimento": 330,
   "Largura": 173,
   "Altura": 240,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "SAE"
  },
  {
@@ -2658,8 +2658,8 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 156,
@@ -2676,8 +2676,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 157,
@@ -2694,8 +2694,8 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 158,
@@ -2712,8 +2712,8 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 159,
@@ -2730,8 +2730,8 @@
   "Comprimento": 349,
   "Largura": 175,
   "Altura": 235,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 160,
@@ -2749,7 +2749,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 161,
@@ -2767,7 +2767,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 162,
@@ -2783,8 +2783,8 @@
   "Comprimento": 215,
   "Largura": 169,
   "Altura": 184,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 163,
@@ -2800,8 +2800,8 @@
   "Comprimento": 158,
   "Largura": 165,
   "Altura": 220,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 164,
@@ -2817,8 +2817,8 @@
   "Comprimento": 257,
   "Largura": 175,
   "Altura": 236,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 165,
@@ -2834,8 +2834,8 @@
   "Comprimento": 330,
   "Largura": 174,
   "Altura": 234,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 166,
@@ -2851,8 +2851,8 @@
   "Comprimento": 398,
   "Largura": 174,
   "Altura": 234,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 167,
@@ -2868,8 +2868,8 @@
   "Comprimento": 345,
   "Largura": 172,
   "Altura": 286,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 168,
@@ -4360,7 +4360,7 @@
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN35",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "B19",
@@ -4369,15 +4369,15 @@
   "Comprimento": 187,
   "Largura": 127,
   "Altura": 220,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 275,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN44Q",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "L00",
@@ -4386,15 +4386,15 @@
   "Comprimento": 175,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 276,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN41",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "LB1",
@@ -4403,15 +4403,15 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 277,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN45B",
   "Descricao": "Bateria de arranque InnovParts PLUS",
   "Bloco": "LB1",
@@ -4420,15 +4420,15 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 278,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "in44",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "L01",
@@ -4437,15 +4437,15 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 279,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN50",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "L01",
@@ -4454,15 +4454,15 @@
   "Comprimento": 207,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 280,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN45",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "E02",
@@ -4471,15 +4471,15 @@
   "Comprimento": 220,
   "Largura": 135,
   "Altura": 225,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 281,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN45J",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "B24",
@@ -4488,15 +4488,15 @@
   "Comprimento": 237,
   "Largura": 127,
   "Altura": 227,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 282,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN45.1J",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "B24",
@@ -4505,15 +4505,15 @@
   "Comprimento": 237,
   "Largura": 127,
   "Altura": 227,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 283,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN54",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "LB2",
@@ -4522,15 +4522,15 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 284,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN60",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "LB2",
@@ -4539,15 +4539,15 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 285,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN55",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "L02",
@@ -4556,15 +4556,15 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 286,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN62",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "L02",
@@ -4573,15 +4573,15 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 287,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN70.4",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "D26",
@@ -4590,15 +4590,15 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 288,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN70.5",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "D26",
@@ -4607,15 +4607,15 @@
   "Comprimento": 270,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 289,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN65",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "LB3",
@@ -4624,15 +4624,15 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 290,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN71",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "LB3",
@@ -4641,15 +4641,15 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 291,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN70",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "L03",
@@ -4658,15 +4658,15 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 292,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN70.1",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "L03",
@@ -4675,15 +4675,15 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 293,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN74",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "L03",
@@ -4692,15 +4692,15 @@
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 294,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN80B",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "LB4",
@@ -4709,15 +4709,15 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 295,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN80",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
   "Bloco": "L04",
@@ -4726,15 +4726,15 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 296,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN90",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "L05",
@@ -4743,15 +4743,15 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 297,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN100",
   "Descricao": "Bateria de arranque InnovParts HIGH-TECH",
   "Bloco": "L05",
@@ -4760,15 +4760,15 @@
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 298,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN90.4",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "D31",
@@ -4777,15 +4777,15 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 299,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN90.5",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "D31",
@@ -4794,15 +4794,15 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 300,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN95.4",
   "Descricao": "Bateria de arranque InnovParts PLUS",
   "Bloco": "D31",
@@ -4811,15 +4811,15 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 301,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN95.5",
   "Descricao": "Bateria de arranque InnovParts PLUS",
   "Bloco": "D31",
@@ -4828,15 +4828,15 @@
   "Comprimento": 306,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 302,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN110",
   "Descricao": "Bateria de arranque InnovParts StartPRO",
   "Bloco": "D02",
@@ -4845,15 +4845,15 @@
   "Comprimento": 349,
   "Largura": 175,
   "Altura": 235,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 303,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN110.1",
   "Descricao": "Bateria de arranque InnovParts StartPRO",
   "Bloco": "D02",
@@ -4862,15 +4862,15 @@
   "Comprimento": 349,
   "Largura": 175,
   "Altura": 235,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 304,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN140.3",
   "Descricao": "Bateria de arranque InnovParts StartPRO",
   "Bloco": "D04",
@@ -4879,15 +4879,15 @@
   "Comprimento": 513,
   "Largura": 189,
   "Altura": 223,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 305,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN180.3",
   "Descricao": "Bateria de arranque InnovParts StartPRO",
   "Bloco": "D05",
@@ -4896,15 +4896,15 @@
   "Comprimento": 513,
   "Largura": 223,
   "Altura": 223,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 306,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
-  "Marca": "InnovParts",
+  "Marca": "INNOVPARTS",
   "Referencia": "IN215.3",
   "Descricao": "Bateria de arranque InnovParts HIGH-TECH",
   "Bloco": "D06",
@@ -4913,15 +4913,15 @@
   "Comprimento": 518,
   "Largura": 279,
   "Altura": 240,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 307,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CTR4ABS",
   "Descricao": "Bateria Mota AGM 12V 2,3AH +Dir.    ",
   "CapAh": 45,
@@ -4934,7 +4934,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX4B-BS",
   "Descricao": "Bateria Mota AGM 12V 2,3AH +Dir.\/CT4BBS",
   "CapAh": 40,
@@ -4947,7 +4947,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX4L-BS",
   "Descricao": "Bateria Mota AGM 12V 3AH +Dir.    ",
   "CapAh": 50,
@@ -4960,7 +4960,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX5L-BS",
   "Descricao": "Bateria Mota AGM 12V 4AH +Dir.    ",
   "CapAh": 70,
@@ -4973,7 +4973,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CTZ5-BS",
   "Descricao": "Bateria Mota AGM 12V 4AH +Dir.    ",
   "CapAh": 50,
@@ -4986,7 +4986,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX7A-BS",
   "Descricao": "Bateria Mota AGM 12V 6AH +Esq.",
   "CapAh": 90,
@@ -4999,7 +4999,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX7L-BS",
   "Descricao": "Bateria Mota AGM 12V 6AH +Dir.",
   "CapAh": 85,
@@ -5012,7 +5012,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CT7BBS",
   "Descricao": "Bateria Mota AGM 12V 6,5AH +Esq.",
   "CapAh": 70,
@@ -5025,7 +5025,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CTZ7-S",
   "Descricao": "Bateria Mota AGM 12V 5AH +Dir.",
   "CapAh": 85,
@@ -5038,7 +5038,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX9-BS",
   "Descricao": "Bateria Mota AGM 12V 8AH +Esq.",
   "CapAh": 120,
@@ -5051,7 +5051,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CT9B-BS (MF)",
   "Descricao": "Bateria Mota AGM 12V 8AH +Esq.",
   "CapAh": 90,
@@ -5064,7 +5064,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CTZ10S (MF)",
   "Descricao": "Bateria Mota AGM 12V 8,6AH +Esq.",
   "CapAh": 130,
@@ -5077,7 +5077,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX12-BS",
   "Descricao": "Bateria Mota AGM 12V 10AH +Esq. \/CB12B-B2",
   "CapAh": 180,
@@ -5090,7 +5090,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX12A-BS",
   "Descricao": "Bateria Mota AGM 12V 9,5AH +Esq.\/CT12ABS",
   "CapAh": 140,
@@ -5103,7 +5103,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CT12BBS",
   "Descricao": "Bateria Mota AGM 12V 10AH +Esq.",
   "CapAh": 125,
@@ -5116,7 +5116,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CTZ12S (MF)",
   "Descricao": "Bateria Mota AGM 12V 11AH +Esq.",
   "CapAh": 140,
@@ -5129,7 +5129,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX14-BS",
   "Descricao": "Bateria Mota AGM 12V 12AH +Esq.",
   "CapAh": 200,
@@ -5142,7 +5142,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CT14B-BS  (MF)",
   "Descricao": "Bateria Mota AGM 12V 12AH +Esq.",
   "CapAh": 140,
@@ -5155,7 +5155,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CTZ14S (MF)",
   "Descricao": "Bateria Mota AGM 12V 11AH +Esq.",
   "CapAh": 140,
@@ -5168,7 +5168,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX16BS",
   "Descricao": "Bateria Mota AGM 12V 14AH +Esq.",
   "CapAh": 230,
@@ -5181,7 +5181,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX20CH-BS",
   "Descricao": "Bateria Mota AGM 12V 18AH +Esq.",
   "CapAh": 240,
@@ -5194,7 +5194,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CBTX20L-BS",
   "Descricao": "Bateria Mota AGM 12V 18AH +Dir.",
   "CapAh": 270,
@@ -5207,7 +5207,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CP1812",
   "Descricao": "Bateria Mota AGM 12V 20AH +Dir. \/12N20AH",
   "CapAh": 170,
@@ -5220,7 +5220,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB3L-A",
   "Descricao": "Bateria Mota 12V 3AH +Dir. ",
   "CapAh": 35,
@@ -5233,7 +5233,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB4L-B",
   "Descricao": "Bateria Mota 12V 4AH +Dir. ",
   "CapAh": 45,
@@ -5246,7 +5246,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB5L-B",
   "Descricao": "Bateria Mota 12V 5AH +Dir. \/12N53B",
   "CapAh": 60,
@@ -5259,7 +5259,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB7-A",
   "Descricao": "Bateria Mota 12V 8AH +Esq.  ",
   "CapAh": 100,
@@ -5272,7 +5272,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB7CA",
   "Descricao": "Bateria Mota 12V 8AH +Dir.   ",
   "CapAh": 90,
@@ -5285,7 +5285,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB7L-B2 ",
   "Descricao": "Bateria Mota 12V 8AH +Dir. \/12N7-3B",
   "CapAh": 90,
@@ -5298,7 +5298,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB9L-A2",
   "Descricao": "Bateria Mota 12V 9AH +Dir. \/CB9L-B",
   "CapAh": 100,
@@ -5311,7 +5311,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB9-B",
   "Descricao": "Bateria Mota 12V 9AH +Esq. \/12N94B1",
   "CapAh": 100,
@@ -5324,7 +5324,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB10L-A2",
   "Descricao": "Bateria Mota 12V 11AH +Dir.\/12N103A\/CB10LB2",
   "CapAh": 160,
@@ -5337,7 +5337,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB12A-A",
   "Descricao": "Bateria Mota 12V 12AH +Esq. \/12N12A-4A-1\/CB12AB\/CB12CA",
   "CapAh": 155,
@@ -5350,7 +5350,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB12AL-A2",
   "Descricao": "Bateria Mota 12V 12AH +Dir. \/CB12AL-A",
   "CapAh": 155,
@@ -5363,7 +5363,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB14-A2",
   "Descricao": "Bateria Mota 12V 14AH +Esq. \/CB14AA2",
   "CapAh": 185,
@@ -5376,7 +5376,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB14-B2",
   "Descricao": "Bateria Mota 12V 14AH +Esq.    ",
   "CapAh": 185,
@@ -5389,7 +5389,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB14L-A2",
   "Descricao": "Bateria Mota 12V 14AH +Dir. \/12N14-3A",
   "CapAh": 185,
@@ -5402,7 +5402,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB14L-B2",
   "Descricao": "Bateria Mota 12V 14AH +Dir.    ",
   "CapAh": 185,
@@ -5415,7 +5415,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB16AL-A2",
   "Descricao": "Bateria Mota 12V 16AH +Esq.",
   "CapAh": 220,
@@ -5428,7 +5428,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB16B-A",
   "Descricao": "Bateria Mota 12V 16AH +Esq. \/CB16B-A1",
   "CapAh": 210,
@@ -5441,7 +5441,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "HCB16A-A",
   "Descricao": "Bateria Mota 12V 16AH +Esq.    ",
   "CapAh": 160,
@@ -5454,7 +5454,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB16LB",
   "Descricao": "Bateria Mota 12V 19AH +Dir. \/CB16CL-B\/CB18LA",
   "CapAh": 230,
@@ -5467,7 +5467,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "C50N18L-A",
   "Descricao": "Bateria Mota 12V 20AH +Dir. \/12N183A",
   "CapAh": 250,
@@ -5480,7 +5480,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "C60N30L-A",
   "Descricao": "Bateria Mota 12V 30AH +Dir.    ",
   "CapAh": 320,
@@ -5493,7 +5493,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "CB30LB",
   "Descricao": "Bateria Mota 12V 30AH +Dir. \/CB30CLB  ",
   "CapAh": 345,
@@ -5506,7 +5506,7 @@
   "Segmento": "JARDIM",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "U1MF-X",
   "Descricao": "Bateria MULTICULTOR\/CORTACÉSPED 12V 30AH +Esq.",
   "CapAh": 300,
@@ -5519,7 +5519,7 @@
   "Segmento": "JARDIM",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "U1RMF-X",
   "Descricao": "Bateria MULTICULTOR\/CORTACÉSPED 12V 30AH +Dir.",
   "CapAh": 300,
@@ -5532,10 +5532,10 @@
   "Segmento": "LAZER",
   "Tecnologia": "EQUIPAMENTO AGM",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "PE12-7,2",
   "Descricao": "Bateria  Cíclica AGM 12v 7,2Ah",
-  "CapAh": 0,
+  "CapAh": 7.2,
   "Comprimento": 151,
   "Largura": 65,
   "Altura": "94\/100"
@@ -5545,10 +5545,10 @@
   "Segmento": "LAZER",
   "Tecnologia": "EQUIPAMENTO AGM",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "PE12-12",
   "Descricao": "Bateria  Cíclica AGM 12v 12Ah",
-  "CapAh": 0,
+  "CapAh": 12,
   "Comprimento": 151,
   "Largura": 98,
   "Altura": "98\/100"
@@ -5558,7 +5558,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "6N2-2A",
   "Descricao": "Bateria Mota 6V 2AH +Esq.",
   "CapAh": 20,
@@ -5571,7 +5571,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "6N4-2A",
   "Descricao": "Bateria Mota 6V 4AH +Esq.",
   "CapAh": 30,
@@ -5584,7 +5584,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "6N4-2A-4",
   "Descricao": "Bateria Mota 6V 4AH +Dir.",
   "CapAh": 30,
@@ -5597,7 +5597,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "6CB8-3B",
   "Descricao": "Bateria Mota 6V 8AH +Dir.",
   "CapAh": 64,
@@ -5610,7 +5610,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "B49-6",
   "Descricao": "Bateria Mota 6V 10AH +Esq.",
   "CapAh": 90,
@@ -5623,7 +5623,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "6N11A-3A",
   "Descricao": "Bateria Mota 6V 11AH +Dir.",
   "CapAh": 100,
@@ -5636,7 +5636,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "B38-6A",
   "Descricao": "Bateria Mota 6V 13AH +Dir.",
   "CapAh": 120,
@@ -5649,7 +5649,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "12N5.5A-3B",
   "Descricao": "Bateria Mota 12V 5,5AH +Dir.",
   "CapAh": 50,
@@ -5662,7 +5662,7 @@
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
-  "Marca": "JP Baterias",
+  "Marca": "JP BATERIAS",
   "Referencia": "12N10-3B",
   "Descricao": "Bateria Mota 12V 10AH +Dir. \/CB10LB",
   "CapAh": 110,
@@ -5684,8 +5684,8 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 366,
@@ -5701,8 +5701,8 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 367,
@@ -5718,8 +5718,8 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 368,
@@ -5735,8 +5735,8 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 369,
@@ -5752,8 +5752,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 370,
@@ -5769,8 +5769,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 371,
@@ -5786,8 +5786,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 372,
@@ -5803,8 +5803,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 373,
@@ -5820,8 +5820,8 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 374,
@@ -5837,8 +5837,8 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 375,
@@ -5854,8 +5854,8 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 376,
@@ -5871,8 +5871,8 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 377,
@@ -5888,8 +5888,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 378,
@@ -5905,8 +5905,8 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 379,
@@ -5922,8 +5922,8 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 380,
@@ -5939,8 +5939,8 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 381,
@@ -5956,8 +5956,8 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 382,
@@ -5973,8 +5973,8 @@
   "Comprimento": 393,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 383,
@@ -5990,8 +5990,8 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 384,
@@ -6007,8 +6007,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 385,
@@ -6024,8 +6024,8 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 386,
@@ -6041,8 +6041,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 387,
@@ -6058,8 +6058,8 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 388,
@@ -6075,8 +6075,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 389,
@@ -6092,8 +6092,8 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 390,
@@ -6109,8 +6109,8 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 391,
@@ -6126,8 +6126,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 392,
@@ -6143,8 +6143,8 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 393,
@@ -6160,8 +6160,8 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 394,
@@ -6177,8 +6177,8 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 395,
@@ -6194,8 +6194,8 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 396,
@@ -6211,8 +6211,8 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 397,
@@ -6228,8 +6228,8 @@
   "Comprimento": 393,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 398,
@@ -6245,7 +6245,7 @@
   "Comprimento": 187,
   "Largura": 127,
   "Altura": 226,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 3
  },
  {
@@ -6262,7 +6262,7 @@
   "Comprimento": 187,
   "Largura": 127,
   "Altura": 226,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 3
  },
  {
@@ -6279,7 +6279,7 @@
   "Comprimento": 238,
   "Largura": 129,
   "Altura": 225,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": "1\/3"
  },
  {
@@ -6296,7 +6296,7 @@
   "Comprimento": 238,
   "Largura": 129,
   "Altura": 225,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "1\/3"
  },
  {
@@ -6313,8 +6313,8 @@
   "Comprimento": 175,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 403,
@@ -6330,8 +6330,8 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 404,
@@ -6347,8 +6347,8 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 405,
@@ -6364,8 +6364,8 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 406,
@@ -6381,8 +6381,8 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 407,
@@ -6398,8 +6398,8 @@
   "Comprimento": 303,
   "Largura": 173,
   "Altura": 225,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 408,
@@ -6415,8 +6415,8 @@
   "Comprimento": 303,
   "Largura": 173,
   "Altura": 225,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 409,
@@ -6433,7 +6433,7 @@
   "Largura": 172,
   "Altura": 240,
   "EsqLigacao": "Central",
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 410,
@@ -6449,8 +6449,8 @@
   "Comprimento": 344,
   "Largura": 171,
   "Altura": 232,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 411,
@@ -6466,8 +6466,8 @@
   "Comprimento": 344,
   "Largura": 171,
   "Altura": 232,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 412,
@@ -6483,8 +6483,8 @@
   "Comprimento": 344,
   "Largura": 171,
   "Altura": 283,
-  "EsqLigacao": 0,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "0+direita",
+  "Terminal": 1
  },
  {
   "IdArtigo": 413,
@@ -6500,8 +6500,8 @@
   "Comprimento": 344,
   "Largura": 171,
   "Altura": 283,
-  "EsqLigacao": 1,
-  "Terminal": "1+esquerda"
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1
  },
  {
   "IdArtigo": 414,
@@ -6518,7 +6518,7 @@
   "Largura": 175,
   "Altura": 226,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 415,
@@ -6535,7 +6535,7 @@
   "Largura": 175,
   "Altura": 226,
   "EsqLigacao": 4,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 416,
@@ -6552,7 +6552,7 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 417,
@@ -6569,7 +6569,7 @@
   "Largura": 241,
   "Altura": 285,
   "EsqLigacao": 6,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 418,
@@ -6586,7 +6586,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 419,
@@ -6603,7 +6603,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 420,
@@ -6620,7 +6620,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 4,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 421,
@@ -6637,7 +6637,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 422,
@@ -6654,7 +6654,7 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 423,
@@ -6671,7 +6671,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 424,
@@ -6688,7 +6688,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 425,
@@ -6705,7 +6705,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 4,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 426,
@@ -6722,7 +6722,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 427,
@@ -6739,7 +6739,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  },
  {
   "IdArtigo": 428,
@@ -6756,6 +6756,6 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": "1+esquerda"
+  "Terminal": 1
  }
 ]
