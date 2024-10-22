@@ -1,0 +1,2527 @@
+[
+ {
+  "IdArtigo": 1,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10202",
+  "Produto": "Cabos",
+  "Descricao": "Cabo Audi/Vw 2+2",
+  "NomeComercial": "Cabo Audi/Vw 2+2",
+  "Construtor": "Audi;VW"
+ },
+ {
+  "IdArtigo": 2,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10203",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 14-Pin Mercedes/Vw Lt",
+  "NomeComercial": "Cabo 14-Pin Mercedes/Vw Lt",
+  "Construtor": "Mercedes-Benz"
+ },
+ {
+  "IdArtigo": 3,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10204",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 10-Pin Opel",
+  "NomeComercial": "Cabo 10-Pin Opel",
+  "Construtor": "Opel"
+ },
+ {
+  "IdArtigo": 4,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10205",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 2-Pin Psa",
+  "NomeComercial": "Cabo 2-Pin Psa",
+  "Construtor": "PSA"
+ },
+ {
+  "IdArtigo": 5,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10206",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 30-Pin Psa",
+  "NomeComercial": "Cabo 30-Pin Psa",
+  "Construtor": "PSA"
+ },
+ {
+  "IdArtigo": 6,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10209",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 3-Pin Fiat",
+  "NomeComercial": "Cabo 3-Pin Fiat",
+  "Construtor": "Fiat"
+ },
+ {
+  "IdArtigo": 7,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10210",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 20-Pin Bmw",
+  "NomeComercial": "Cabo 20-Pin Bmw",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 8,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10211",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 38-Pin Mercerdes",
+  "NomeComercial": "Cabo 38-Pin Mercerdes",
+  "Construtor": "Mercedes-Benz"
+ },
+ {
+  "IdArtigo": 9,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10212",
+  "Produto": "Cabos",
+  "Descricao": "Cabo OBD Power",
+  "NomeComercial": "Cabo OBD Power"
+ },
+ {
+  "IdArtigo": 10,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10365",
+  "Produto": "Cabos",
+  "Descricao": "Kit De Cabos Especifico Para veículos ",
+  "NomeComercial": "Kit De Cabos Especifico Para veículos "
+ },
+ {
+  "IdArtigo": 11,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10477",
+  "Produto": "Peças Substituição",
+  "Descricao": "Fee de Reparação Vci",
+  "NomeComercial": "Fee de Reparação Vci"
+ },
+ {
+  "IdArtigo": 12,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10481",
+  "Produto": "Cabos",
+  "Descricao": "Cabo Ford/Vw/Volvo",
+  "NomeComercial": "Cabo Ford/Vw/Volvo",
+  "Construtor": "Ford;VW;Volvo"
+ },
+ {
+  "IdArtigo": 13,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10516",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença Max Car 1 Ano",
+  "NomeComercial": "Licença Max Car - DS150E",
+  "ArtigoRelacionado": "DS 150E"
+ },
+ {
+  "IdArtigo": 14,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10598",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença Car Max  3 Anos",
+  "NomeComercial": "Licença Max Car - DS150E",
+  "ArtigoRelacionado": "DS 150E"
+ },
+ {
+  "IdArtigo": 15,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10821",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença Max Truck 1 Ano",
+  "NomeComercial": "Licença Max Truck- DS150E",
+  "ArtigoRelacionado": "DS 150E"
+ },
+ {
+  "IdArtigo": 16,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10822",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 8-Pin Volvo  ",
+  "NomeComercial": "Cabo 8-Pin Volvo  ",
+  "Construtor": "Volvo"
+ },
+ {
+  "IdArtigo": 17,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10823",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 16-Pin Scania/Daf ",
+  "NomeComercial": "Cabo 16-Pin Scania/Daf ",
+  "Construtor": "Scania;DAF"
+ },
+ {
+  "IdArtigo": 18,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10824",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 12-Pin Man ",
+  "NomeComercial": "Cabo 12-Pin Man ",
+  "Construtor": "MAN"
+ },
+ {
+  "IdArtigo": 19,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10825",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 37-Pin Man ",
+  "NomeComercial": "Cabo 37-Pin Man ",
+  "Construtor": "MAN"
+ },
+ {
+  "IdArtigo": 20,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10826",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 12-Pin Renault",
+  "NomeComercial": "Cabo 12-Pin Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 21,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10827",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 4-Pin Haldex ",
+  "NomeComercial": "Cabo 4-Pin Haldex ",
+  "Construtor": "Haldex"
+ },
+ {
+  "IdArtigo": 22,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10828",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 7-Pin Knorr/Wabco ",
+  "NomeComercial": "Cabo 7-Pin Knorr/Wabco ",
+  "Construtor": "Knorr/Wabco"
+ },
+ {
+  "IdArtigo": 23,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10829",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 4-Pin Haldex Ecu",
+  "NomeComercial": "Cabo 4-Pin Haldex Ecu",
+  "Construtor": "Haldex"
+ },
+ {
+  "IdArtigo": 24,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10830",
+  "Produto": "Cabos",
+  "Descricao": "Kit De Cabos Pesados/Reboques/BUS",
+  "NomeComercial": "Kit De Cabos Pesados/Reboques/BUS"
+ },
+ {
+  "IdArtigo": 25,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10831",
+  "Produto": "Cabos",
+  "Descricao": "Kit De Cabos Ligeiros/Pesados/Reboques/BUS",
+  "NomeComercial": "Kit De Cabos Ligeiros/Pesados/Reboques/BUS"
+ },
+ {
+  "IdArtigo": 26,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV10833",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 30-Pin Iveco",
+  "NomeComercial": "Cabo 30-Pin Iveco",
+  "Construtor": "Iveco"
+ },
+ {
+  "IdArtigo": 27,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11047",
+  "Produto": "Assistência Técnica",
+  "Descricao": "Hotline",
+  "NomeComercial": "Assistência Técnica"
+ },
+ {
+  "IdArtigo": 28,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11049",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 7-Pin Iso 7638 Trailer ",
+  "NomeComercial": "Cabo 7-Pin Iso 7638 Trailer ",
+  "Construtor": "Trailer"
+ },
+ {
+  "IdArtigo": 29,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11050",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 38-Pin Iveco ",
+  "NomeComercial": "Cabo 38-Pin Iveco ",
+  "Construtor": "Iveco"
+ },
+ {
+  "IdArtigo": 30,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11061",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 7-Pin Knorr",
+  "NomeComercial": "Cabo 7-Pin Knorr",
+  "Construtor": "Knorr"
+ },
+ {
+  "IdArtigo": 31,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11174",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 9-Pin Deutsch (Allison Gb)",
+  "NomeComercial": "Cabo 9-Pin Deutsch (Allison Gb)",
+  "Construtor": "Deutsch"
+ },
+ {
+  "IdArtigo": 32,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11322",
+  "Produto": "Cabos",
+  "Descricao": "Extensão Cabo EOBD 16-Pin 2 M",
+  "NomeComercial": "Extensão Cabo EOBD 16-Pin 2 M"
+ },
+ {
+  "IdArtigo": 33,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11323",
+  "Produto": "Cabos",
+  "Descricao": "Extensão Cabo EOBD 16-Pin 6 M",
+  "NomeComercial": "Extensão Cabo EOBD 16-Pin 6 M"
+ },
+ {
+  "IdArtigo": 34,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11325",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 3+6+9-Pin Zf ",
+  "NomeComercial": "Cabo 3+6+9-Pin Zf "
+ },
+ {
+  "IdArtigo": 35,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11326",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 9-Pin Bus ",
+  "NomeComercial": "Cabo 9-Pin Bus "
+ },
+ {
+  "IdArtigo": 36,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11327",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 4+4-Pin Haldex ",
+  "NomeComercial": "Cabo 4+4-Pin Haldex "
+ },
+ {
+  "IdArtigo": 37,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11329",
+  "Produto": "Cabos",
+  "Descricao": "Cabo EOBD Para Reparação Vci",
+  "NomeComercial": "Cabo EOBD Para Reparação Vci"
+ },
+ {
+  "IdArtigo": 38,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11341",
+  "Produto": "Cabos",
+  "Descricao": "Kit De Cabos De Trailer",
+  "NomeComercial": "Kit De Cabos De Trailer"
+ },
+ {
+  "IdArtigo": 39,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11409",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "Mitsubishi Fuso 16Pin OBD Power Adaptor",
+  "NomeComercial": "Mitsubishi Fuso 16Pin OBD Power Adaptor",
+  "Construtor": "Mitsubishi Fuso"
+ },
+ {
+  "IdArtigo": 40,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11486",
+  "Produto": "Peças Substituição",
+  "Descricao": "Sobressalente Dongle - Pen Autenticação",
+  "NomeComercial": "Sobressalente Dongle - Pen Autenticação"
+ },
+ {
+  "IdArtigo": 41,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11497",
+  "Produto": "Cabos",
+  "Descricao": "Cabo 15 Pin Wabco OBD",
+  "NomeComercial": "Cabo 15 Pin Wabco OBD",
+  "Construtor": "Wabco"
+ },
+ {
+  "IdArtigo": 42,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11510",
+  "Produto": "Dados Técnicos",
+  "Descricao": "Vti Car - Upgrade de Básico para Ultimate",
+  "NomeComercial": "Dados Técnicos Ligeiros"
+ },
+ {
+  "IdArtigo": 43,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11520",
+  "Produto": "Dados Técnicos",
+  "Descricao": "Vti Truck",
+  "NomeComercial": "Dados Técnicos Pesados"
+ },
+ {
+  "IdArtigo": 44,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV11525",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença Truck Max 3 Anos",
+  "NomeComercial": "Licença Max Truck- DS150E",
+  "ArtigoRelacionado": "DS 150E"
+ },
+ {
+  "IdArtigo": 45,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60011",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "Estabilizador De Tensão",
+  "NomeComercial": "Estabilizador De Tensão"
+ },
+ {
+  "IdArtigo": 46,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60135",
+  "Produto": "Dados Técnicos",
+  "Descricao": "Vti - Ultimate",
+  "NomeComercial": "Dados Técnicos Ligeiros"
+ },
+ {
+  "IdArtigo": 47,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60161",
+  "Produto": "Dados Técnicos",
+  "Descricao": "Licença Vti Car 3 Anos",
+  "NomeComercial": "Licença VTI"
+ },
+ {
+  "IdArtigo": 48,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60163",
+  "Produto": "Dados Técnicos",
+  "Descricao": "3 Anos Vti Hd",
+  "NomeComercial": "Licença VTI"
+ },
+ {
+  "IdArtigo": 49,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60207",
+  "Produto": "Dados Técnicos",
+  "Descricao": "3 Anos Vti Upd Ultimate From Basic",
+  "NomeComercial": "Licença VTI"
+ },
+ {
+  "IdArtigo": 50,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60210",
+  "Produto": "Acessórios ADAS",
+  "Descricao": "Kit Básico Adas Crc-150",
+  "NomeComercial": "Kit Básico Adas Crc-150"
+ },
+ {
+  "IdArtigo": 51,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60220",
+  "Produto": "Acessórios ADAS",
+  "Descricao": "Kit De Painéis Inicial",
+  "NomeComercial": "Kit De Painéis Inicial"
+ },
+ {
+  "IdArtigo": 52,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60250",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "DS180E Kit",
+  "NomeComercial": "DS 180E Kit",
+  "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech"
+ },
+ {
+  "IdArtigo": 53,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60254",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "DS 480E Tablet And Bluetech",
+  "NomeComercial": "DS 480E Tablet And Bluetech",
+  "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech"
+ },
+ {
+  "IdArtigo": 54,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60270",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença 1 Ano Car Bluetech",
+  "NomeComercial": "Licença Car Bluetech",
+  "ArtigoRelacionado": "DS 180E;DS 480E Tablet And Bluetech;"
+ },
+ {
+  "IdArtigo": 55,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60270EX",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença 1 Ano Car Bluetech EX (Renove)",
+  "NomeComercial": "Licença Car Bluetech RENOVE",
+  "ArtigoRelacionado": "DS180E EX (Renove)"
+ },
+ {
+  "IdArtigo": 56,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60271",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença 2 Anos Car Bluetech",
+  "NomeComercial": "Licença Car Bluetech",
+  "ArtigoRelacionado": "DS 180E;DS 480E Tablet And Bluetech;"
+ },
+ {
+  "IdArtigo": 57,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60272",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença 3 Anos Car Bluetech",
+  "NomeComercial": "Licença Car Bluetech",
+  "ArtigoRelacionado": "DS 180E;DS 480E Tablet And Bluetech;"
+ },
+ {
+  "IdArtigo": 58,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60275",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença 1 Ano Hd Bluetech",
+  "NomeComercial": "Licença Hd Bluetech",
+  "ArtigoRelacionado": "DS 180E;DS 480E Tablet And Bluetech;"
+ },
+ {
+  "IdArtigo": 59,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60275EX",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença 1 Ano Hd Bluetech EX (Renove)",
+  "NomeComercial": "Licença Hd Bluetech RENOVE",
+  "ArtigoRelacionado": "DS 180E EX (Renove)"
+ },
+ {
+  "IdArtigo": 60,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60276",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença 2 Anos Hd Bluetech",
+  "NomeComercial": "Licença Hd Bluetech",
+  "ArtigoRelacionado": "DS 180E;DS 480E Tablet And Bluetech;"
+ },
+ {
+  "IdArtigo": 61,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60277",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Licença 3 Anos Hd Bluetech",
+  "NomeComercial": "Licença Hd Bluetech",
+  "ArtigoRelacionado": "DS 180E;DS 480E Tablet And Bluetech;"
+ },
+ {
+  "IdArtigo": 62,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60318",
+  "Produto": "Gateway",
+  "Descricao": "Iveco Sgw - Setup (Jan a Dez - Consultar)",
+  "NomeComercial": "Iveco Security Gateway",
+  "Construtor": "Iveco"
+ },
+ {
+  "IdArtigo": 63,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MX900",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "Autel MaxiCheck MX900 - 24 meses de atualizações",
+  "NomeComercial": "MaxiCHECK",
+  "FichaTecnica": "https://www.autelportugal.pt/mx900"
+ },
+ {
+  "IdArtigo": 64,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "DS900",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "Autel MaxiDAS DS900 - 24 meses de atualizações",
+  "NomeComercial": "MaxiDAS",
+  "FichaTecnica": "https://www.autelportugal.pt/ds900"
+ },
+ {
+  "IdArtigo": 65,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "DS900BT",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "Autel MaxiDAS DS900BT - 24 meses de atualizações",
+  "NomeComercial": "MaxiDAS",
+  "FichaTecnica": "https://www.autelportugal.pt/ds900bt"
+ },
+ {
+  "IdArtigo": 66,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MS906PRO",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "Autel MaxiSYS MS906 PRO - 24 meses de atualizações",
+  "NomeComercial": "MaxiSYS",
+  "ArtigoRelacionado": "Cabo-Tesla£Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS;",
+  "FichaTecnica": "https://www.autelportugal.pt/ms906pro"
+ },
+ {
+  "IdArtigo": 67,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MS906MAX",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "Autel MaxiSYS MS906 MAX - 24 meses de atualizações",
+  "NomeComercial": "MaxiSYS",
+  "ArtigoRelacionado": "Cabo-Tesla£Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS;"
+ },
+ {
+  "IdArtigo": 68,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MS908S3",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "Autel MaxiSYS MS908S3",
+  "NomeComercial": "MaxiSYS",
+  "ArtigoRelacionado": "Cabo-Tesla£Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS;"
+ },
+ {
+  "IdArtigo": 69,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MS909 ou MS909EV",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "Autel MaxiSYS MS909 - 24 meses de atualizações",
+  "NomeComercial": "MaxiSYS",
+  "ArtigoRelacionado": "Cabo-Tesla£Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS;"
+ },
+ {
+  "IdArtigo": 70,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MSULTRA",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "Autel MaxiSYS ULTRA - 24 meses de atualizações",
+  "NomeComercial": "MaxiSYS",
+  "ArtigoRelacionado": "Cabo-Tesla£Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS;",
+  "FichaTecnica": "https://www.autelportugal.pt/ultra"
+ },
+ {
+  "IdArtigo": 71,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "AutelEVKit",
+  "Produto": "Acessórios Máquina Diagnóstico",
+  "Descricao": "Autel KIT Veiculos elétricos - Compativél com: 909, 919 e Ultra",
+  "NomeComercial": "AutelEVKit",
+  "ArtigoRelacionado": "MS909;MS919;MSUltra",
+  "FichaTecnica": "https://www.autelportugal.pt/ev_ki"
+ },
+ {
+  "IdArtigo": 72,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MSOAK",
+  "Produto": "Acessórios Máquina Diagnóstico",
+  "Descricao": "Autel MaxiSYS Kit opcional para osciloscópio ",
+  "NomeComercial": "MSOAK",
+  "ArtigoRelacionado": "Gama MaxiSYS"
+ },
+ {
+  "IdArtigo": 73,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IA900WA",
+  "Produto": "Sistemas ADAS",
+  "Descricao": "Autel IA900W - KIT Inicial - Sistema ADAS + Alinhamento de direções",
+  "NomeComercial": "MaxiSYS ADAS IA900",
+  "FichaTecnica": "https://www.autelportugal.pt/ia900wa"
+ },
+ {
+  "IdArtigo": 74,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IA900WAFull",
+  "Produto": "Sistemas ADAS",
+  "Descricao": "Autel IA900W - KIT Full - Sistema ADAS + Alinhamento de direções Full",
+  "NomeComercial": "MaxiSYS ADAS",
+  "FichaTecnica": "https://www.autelportugal.pt/ia900wa"
+ },
+ {
+  "IdArtigo": 75,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IA900WAFull+",
+  "Produto": "Sistemas ADAS",
+  "Descricao": "Autel IA900W KIT Full + - Sistema ADAS + Alinhamento de direções Full PLUS",
+  "NomeComercial": "MaxiSYS ADAS",
+  "FichaTecnica": "https://www.autelportugal.pt/ia900wa"
+ },
+ {
+  "IdArtigo": 76,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IA900-TireClamp",
+  "Produto": "Acessórios ADAS",
+  "Descricao": "Grampo de Pneu para IA900WA",
+  "NomeComercial": "Grampo de Roda",
+  "ArtigoRelacionado": "IA900WA"
+ },
+ {
+  "IdArtigo": 77,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "ADAS-CSC0500/05",
+  "Produto": "Acessórios ADAS",
+  "Descricao": "Autel ADAS Kit de Lasers Auxiliares",
+  "NomeComercial": "Lasers Auxiliares",
+  "ArtigoRelacionado": "IA900WA;IA900WAFull;IA900WAFull+"
+ },
+ {
+  "IdArtigo": 78,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IA800-UPKIT",
+  "Produto": "Acessórios ADAS",
+  "Descricao": "Autel IA800 - Sistema de Posicionamento Ótico Inteligente (Apenas cameras)",
+  "NomeComercial": "Sistema Posicionamento",
+  "ArtigoRelacionado": "IA900WA;IA900WAFull;IA900WAFull+"
+ },
+ {
+  "IdArtigo": 79,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "ADAS-CSC0602/01",
+  "Produto": "Acessórios ADAS",
+  "Descricao": "Autel ADAS Calibrador de Radar - VAG, Hyunday, Kia, Ford, Nissan",
+  "NomeComercial": "Calibrador de Radar",
+  "ArtigoRelacionado": "IA900WA;IA900WAFull;IA900WAFull+"
+ },
+ {
+  "IdArtigo": 80,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IA600Basic",
+  "Produto": "Sistemas ADAS",
+  "Descricao": "Autel IA600 - Kit Báscio",
+  "NomeComercial": "MaxiSYS ADAS IA600",
+  "FichaTecnica": "https://www.autelportugal.pt/ia600"
+ },
+ {
+  "IdArtigo": 81,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IA600Full",
+  "Produto": "Sistemas ADAS",
+  "Descricao": "Autel IA600 - Kit Full",
+  "NomeComercial": "MaxiSYS ADAS IA600",
+  "FichaTecnica": "https://www.autelportugal.pt/ia600"
+ },
+ {
+  "IdArtigo": 82,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "CameraKIT800",
+  "Produto": "Acessórios ADAS",
+  "Descricao": "Kti de Camera opcional + Grampo de Roda",
+  "NomeComercial": "Kit Câmara + Grampo Roda",
+  "ArtigoRelacionado": "IA600Basic;IA600Full"
+ },
+ {
+  "IdArtigo": 83,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KM100",
+  "Produto": "Máquinas Programação Chaves",
+  "Descricao": "Autel MaxiIM KM100 - Update vitalicia",
+  "NomeComercial": "MaxiIM",
+  "FichaTecnica": "https://www.autelportugal.pt/km100"
+ },
+ {
+  "IdArtigo": 84,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IM508SPRO",
+  "Produto": "Máquinas Programação Chaves",
+  "Descricao": "Autel MaxiIM IM508 S PRO - 24 meses de atualizações (inc. XP400)",
+  "NomeComercial": "MaxiIM"
+ },
+ {
+  "IdArtigo": 85,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IM608PROII",
+  "Produto": "Máquinas Programação Chaves",
+  "Descricao": "Autel MaxiIM IM608 PRO II - 24 meses de atualizações",
+  "NomeComercial": "MaxiIM",
+  "FichaTecnica": "https://www.autelportugal.pt/im608prokpa"
+ },
+ {
+  "IdArtigo": 86,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "XP400PRO",
+  "Produto": "Máquinas Programação Chaves",
+  "Descricao": "Autel MaxiIM XP400PRO",
+  "NomeComercial": "MaxiIM",
+  "FichaTecnica": "https://www.autelportugal.pt/xp400pro"
+ },
+ {
+  "IdArtigo": 87,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "GBOX3",
+  "Produto": "Acessórios Programação de Chaves",
+  "Descricao": "Autel MaxiIM GBOX3",
+  "NomeComercial": "GBOX3",
+  "ArtigoRelacionado": "MaxiIM"
+ },
+ {
+  "IdArtigo": 88,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "APB112",
+  "Produto": "Acessórios Programação de Chaves",
+  "Descricao": "Autel MaxiIM APB112",
+  "NomeComercial": "APB112",
+  "ArtigoRelacionado": "MaxiIM"
+ },
+ {
+  "IdArtigo": 89,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IMKPA",
+  "Produto": "Acessórios Programação de Chaves",
+  "Descricao": "Autel IMKPA - Compativél com XP400 PRO",
+  "NomeComercial": "IMKPA",
+  "ArtigoRelacionado": "MaxiIM"
+ },
+ {
+  "IdArtigo": 90,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "T8AAKL",
+  "Produto": "Acessórios Programação de Chaves",
+  "Descricao": "Autel AKL Toyota 8A",
+  "NomeComercial": "T8AAKL",
+  "ArtigoRelacionado": "MaxiIM"
+ },
+ {
+  "IdArtigo": 91,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "CDT100",
+  "Produto": "EV Máquinas",
+  "Descricao": "Autel MaxiEV CDT100 - Descarregador / Carregador",
+  "NomeComercial": "MaxiEV"
+ },
+ {
+  "IdArtigo": 92,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "BCE100",
+  "Produto": "EV Máquinas",
+  "Descricao": "Autel MaxiEV BCE100 - Balanceador de baterias EV",
+  "NomeComercial": "MaxiEV"
+ },
+ {
+  "IdArtigo": 93,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "ALT100L",
+  "Produto": "EV Máquinas",
+  "Descricao": "Autel MaxiEV ALT100L - Testador de fugas",
+  "NomeComercial": "MaxiEV"
+ },
+ {
+  "IdArtigo": 94,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "EIT100",
+  "Produto": "EV Máquinas",
+  "Descricao": "Autel MaxiEV EIT100 - medidor de resistencia  ",
+  "NomeComercial": "MaxiEV"
+ },
+ {
+  "IdArtigo": 95,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "BT506",
+  "Produto": "Testadores de Baterias",
+  "Descricao": "Autel MaxiBAS BT506 - Testador de baterias (Necessita de máquina de diagnóstico)",
+  "NomeComercial": "MaxiBAS",
+  "FichaTecnica": "https://www.autelportugal.pt/maxibas_bt506"
+ },
+ {
+  "IdArtigo": 96,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "BT608",
+  "Produto": "Testadores de Baterias",
+  "Descricao": "Autel MaxiBAS BT608 - Testador de bateiras com impressora térmica",
+  "NomeComercial": "MaxiBAS",
+  "FichaTecnica": "https://www.autelportugal.pt/maxibas_bt508"
+ },
+ {
+  "IdArtigo": 97,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "BT609",
+  "Produto": "Testadores de Baterias",
+  "Descricao": "Autel MaxiBAS BT609 - Máquina de diagnóstico com testador de baterias",
+  "NomeComercial": "MaxiBAS",
+  "FichaTecnica": "https://www.autelportugal.pt/maxibas_bt609"
+ },
+ {
+  "IdArtigo": 98,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "AmpMeter",
+  "Produto": "Acessórios Testadores de Baterias",
+  "Descricao": "AMP-METER - Pinça amperiméticra compativél com BT608",
+  "NomeComercial": "Pinça Amperimétrica",
+  "ArtigoRelacionado": "BT608"
+ },
+ {
+  "IdArtigo": 99,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "1Sensor-Borracha",
+  "Produto": "Sensores TPMS",
+  "Descricao": "1Sensor - Sensor com válvula de Borracha",
+  "NomeComercial": "Sensor Borracha"
+ },
+ {
+  "IdArtigo": 100,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "1Sensor-Metal",
+  "Produto": "Sensores TPMS",
+  "Descricao": "1Sensor - Sensor com válvula Metálica",
+  "NomeComercial": "Sensor Metal"
+ },
+ {
+  "IdArtigo": 101,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MX-SensorBLEA001",
+  "Produto": "Sensores TPMS",
+  "Descricao": "MX-Sensor BLE - Sensor TPMS Bluetooth ",
+  "NomeComercial": "Sensor TPMS Bluetooth"
+ },
+ {
+  "IdArtigo": 102,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "TBE200PRO",
+  "Produto": "Máquinas Pneus",
+  "Descricao": "TBE200PRO  - Medidor de pneus + Discos de Travão",
+  "NomeComercial": "Medidor Pneus + Disco Travão"
+ },
+ {
+  "IdArtigo": 103,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "ITS600",
+  "Produto": "Máquinas Pneus",
+  "Descricao": "Autel MaxiTPMS ITS600 - Programador de vávulas TPMS",
+  "NomeComercial": "Programador Válvulas TPMS"
+ },
+ {
+  "IdArtigo": 104,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MV480",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "Camera Endoscopica MaxiVideo MV480",
+  "NomeComercial": "Camera Endoscopica MaxiVideo"
+ },
+ {
+  "IdArtigo": 105,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MV108",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "Camera Endoscopica MaxiVideo MV108 - 8,5mm 0,3MP",
+  "NomeComercial": "Camera Endoscopica MaxiVideo",
+  "FichaTecnica": "https://www.autelportugal.pt/tbe200"
+ },
+ {
+  "IdArtigo": 106,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MV21-L",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "Ponteira MaxiVideo MV21-L - 8,5mm 0,3MP",
+  "NomeComercial": "Ponteira MaxiVideo",
+  "FichaTecnica": "https://www.autelportugal.pt/its600"
+ },
+ {
+  "IdArtigo": 107,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "PS100",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "Autel PS100 - Caneta de testes",
+  "NomeComercial": "Caneta de Testes",
+  "FichaTecnica": "https://www.autelportugal.pt/mv480"
+ },
+ {
+  "IdArtigo": 108,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "FemTester      ",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "BMW FEM Tester em bancada",
+  "NomeComercial": "BMW FEM Tester em bancada",
+  "Construtor": "BMW",
+  "FichaTecnica": "https://www.autelportugal.pt/maxivideomv105"
+ },
+ {
+  "IdArtigo": 109,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MSOBD2-KIT",
+  "Produto": "Cabos",
+  "Descricao": "Autel Kit de Cabos - Em caixa plástica",
+  "NomeComercial": "Kit Cabos - Caixa Plástica"
+ },
+ {
+  "IdArtigo": 110,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Cabo-Tesla",
+  "Produto": "Cabos",
+  "Descricao": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS",
+  "NomeComercial": "Cabos Diagnóstico Tesla",
+  "Construtor": "Tesla",
+  "ArtigoRelacionado": "MaxiSYS",
+  "FichaTecnica": "https://www.autelportugal.pt/powerscanps100"
+ },
+ {
+  "IdArtigo": 111,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "CaboObdDS",
+  "Produto": "Cabos",
+  "Descricao": "Autel Cabo OBD - MaxiCheck, MaxiDAS, IM508",
+  "NomeComercial": "Cabo OBD",
+  "ArtigoRelacionado": "MaxiCheck;MaxiDAS;IM508"
+ },
+ {
+  "IdArtigo": 112,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "CaboOBDJ25",
+  "Produto": "Cabos",
+  "Descricao": "Autel Cabo OBD VCI J2534",
+  "NomeComercial": "CaboOBD"
+ },
+ {
+  "IdArtigo": 113,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "CaboFCA",
+  "Produto": "Cabos",
+  "Descricao": "Autel Cabo FCA GateWay 12+8",
+  "NomeComercial": "Cabo FCA Gateway",
+  "Construtor": "FCA"
+ },
+ {
+  "IdArtigo": 114,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "CaboNissan16+32",
+  "Produto": "Cabos",
+  "Descricao": "Autel Cabo Nissan 16+32",
+  "NomeComercial": "Cabo Nissan",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 115,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "bmwProgF",
+  "Produto": "Cabos",
+  "Descricao": "Autel Cabo de Programação BMW Serie F, G",
+  "NomeComercial": "Cabo Programação BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 116,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "CaboIveco38",
+  "Produto": "Cabos",
+  "Descricao": "Autel Cabo IVECO 38",
+  "NomeComercial": "Cabo Iveco",
+  "Construtor": "IVECO"
+ },
+ {
+  "IdArtigo": 117,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "JVCI-J2534",
+  "Produto": "Cabos",
+  "Descricao": "Autel MaxiFlash J2534 ECU - (MaxiIM)",
+  "NomeComercial": "MaxiFlash",
+  "ArtigoRelacionado": "MaxIM"
+ },
+ {
+  "IdArtigo": 118,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MaxiFlash-J2534",
+  "Produto": "Cabos",
+  "Descricao": "Autel MaxiFlash J2534 ECU - (MaxiSYS)",
+  "NomeComercial": "MaxiFlash",
+  "ArtigoRelacionado": "MaxiSYS"
+ },
+ {
+  "IdArtigo": 119,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "batAutel15000mAh",
+  "Produto": "Peças Substituição",
+  "Descricao": "Modulo de bateria Autel 15000mAh",
+  "NomeComercial": "Módulo Bateria"
+ },
+ {
+  "IdArtigo": 120,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MaxiCharger22KW-S-4G",
+  "Produto": "EV Carregadores",
+  "Descricao": "Autel MaxiCharger AC 22KW WallBox 4G - Socket",
+  "NomeComercial": "MaxiCharger"
+ },
+ {
+  "IdArtigo": 121,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "MaxiCharger22KW-C5-4G-LCD",
+  "Produto": "EV Carregadores",
+  "Descricao": "Autel MaxiCharger AC WallBox 22KW 3Ph 4G LCD - Cabo 5 metros",
+  "NomeComercial": "MaxiCharger"
+ },
+ {
+  "IdArtigo": 122,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "Flash150A12V",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "LDATech Flash 150A12V - Estabilizador de Corrente",
+  "NomeComercial": "Estabilizador de Corrente"
+ },
+ {
+  "IdArtigo": 123,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "LDA150XL",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "LDATech LDA150XL - Carro de apoio ao diagnóstico",
+  "NomeComercial": "Carro de Apoio ao Diagnóstico"
+ },
+ {
+  "IdArtigo": 124,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "AutelKeyKit12",
+  "Produto": "Chaves",
+  "Descricao": "Kit de Chaves Inteligentes Autel",
+  "NomeComercial": "Kit Chaves Autel"
+ },
+ {
+  "IdArtigo": 125,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "FEMTESTER+2IKEY",
+  "Produto": "Equipamentos Auxiliares",
+  "Descricao": "FEM TESTER - Simulador para programação chave BMW FEM + 2 IKEYBM004AL",
+  "NomeComercial": "Testador FEM BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 126,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MX808",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiCheck MX808 SN: ",
+  "NomeComercial": "Atualização MaxiCHECK",
+  "ArtigoRelacionado": "MaxiCHECK MX808 SN"
+ },
+ {
+  "IdArtigo": 127,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MX808TS",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiCheck MX808TS SN: ",
+  "NomeComercial": "Atualização MaxiCHECK",
+  "ArtigoRelacionado": "MaxiCHECKMX808TS SN"
+ },
+ {
+  "IdArtigo": 128,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MX900",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiCheck MX900 SN: ",
+  "NomeComercial": "Atualização MaxiCHECK",
+  "ArtigoRelacionado": "MaxiCHECKMX900 SN"
+ },
+ {
+  "IdArtigo": 129,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MX900TS",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiCheck MX900TS SN: ",
+  "NomeComercial": "Atualização MaxiCHECK",
+  "ArtigoRelacionado": "MaxiCHECKMX900TS SN"
+ },
+ {
+  "IdArtigo": 130,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-DS808",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiDAS DS808 SN: ",
+  "NomeComercial": "Atualização MaxiDAS",
+  "ArtigoRelacionado": "MaxiDAS DS808 SN"
+ },
+ {
+  "IdArtigo": 131,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-DS808BT       ",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiDAS DS808BT SN: ",
+  "NomeComercial": "Atualização MaxiDAS",
+  "ArtigoRelacionado": "MaxiDAS DS808BT SN"
+ },
+ {
+  "IdArtigo": 132,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-DS808TS       ",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiDAS DS808TS SN: ",
+  "NomeComercial": "Atualização MaxiDAS",
+  "ArtigoRelacionado": "MaxiDAS DS808TS SN"
+ },
+ {
+  "IdArtigo": 133,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-DS900",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiDAS DS900 SN: ",
+  "NomeComercial": "Atualização MaxiDAS",
+  "ArtigoRelacionado": "MaxiDAS DS900 SN"
+ },
+ {
+  "IdArtigo": 134,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-DS900BT",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiDAS DS900BT SN: ",
+  "NomeComercial": "Atualização MaxiDAS",
+  "ArtigoRelacionado": "MaxiDAS DS900BT SN"
+ },
+ {
+  "IdArtigo": 135,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-DS900TS",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiDAS DS900TS SN: ",
+  "NomeComercial": "Atualização MaxiDAS",
+  "ArtigoRelacionado": "MaxiDASDS900TS SN"
+ },
+ {
+  "IdArtigo": 136,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MS906S",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS MS906S SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS MS906S SN"
+ },
+ {
+  "IdArtigo": 137,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MS906PRO",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS MS906 PRO SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS MS906 PRO SN"
+ },
+ {
+  "IdArtigo": 138,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MS906PROTS",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS MS906 PRO TS SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS MS906 PRO TS SN"
+ },
+ {
+  "IdArtigo": 139,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MS906MAX",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS MS906 MAX",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS MS906 MAX"
+ },
+ {
+  "IdArtigo": 140,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MS908S",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS MS908S SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS MS908S SN"
+ },
+ {
+  "IdArtigo": 141,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MS908SPRO",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS MS908S PRO SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS MS908S PRO SN"
+ },
+ {
+  "IdArtigo": 142,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MSELITE",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS ELITE SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS ELITE SN"
+ },
+ {
+  "IdArtigo": 143,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MS909",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS MS909 SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS MS909 SN"
+ },
+ {
+  "IdArtigo": 144,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MS919",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS MS919 SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS MS919 SN"
+ },
+ {
+  "IdArtigo": 145,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-MSULTRA",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiSYS ULTRA SN: ",
+  "NomeComercial": "Atualização MaxiSYS",
+  "ArtigoRelacionado": "MaxiSYS ULTRA SN"
+ },
+ {
+  "IdArtigo": 146,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-IM508PRO",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização anual Autel MaxiIM IM508 SN: ",
+  "NomeComercial": "Atualização MaxiIM",
+  "ArtigoRelacionado": "MaxiIM IM508 SN"
+ },
+ {
+  "IdArtigo": 147,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-IM608PRO",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização anual Autel MaxiIM IM608PRO SN: ",
+  "NomeComercial": "Atualização MaxiIM",
+  "ArtigoRelacionado": "MaxiIM IM608PRO SN"
+ },
+ {
+  "IdArtigo": 148,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-BT508",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização anual Autel MAxiBAS BT508",
+  "NomeComercial": "Atualização MaxiBAS",
+  "ArtigoRelacionado": "MAxiBAS BT508"
+ },
+ {
+  "IdArtigo": 149,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-BT609",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização anual Autel MaxiBAS BT609",
+  "NomeComercial": "Atualização MaxiBAS",
+  "ArtigoRelacionado": "MaxiBAS BT609"
+ },
+ {
+  "IdArtigo": 150,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Update-ITS600PRO",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Atualização Anual Autel MaxiTPMS ITS600 PRO SN: ",
+  "NomeComercial": "Actualização MaxiTPMS",
+  "ArtigoRelacionado": "MaxiTPMS ITS600 PRO SN"
+ },
+ {
+  "IdArtigo": 151,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "UpdateCard-TS608",
+  "Produto": "Licenças/Actualizações",
+  "Descricao": "Cartão de Atualização Anual Autel MaxiTPMS TS608 SN: ",
+  "NomeComercial": "Actualização MaxiTPMS",
+  "ArtigoRelacionado": "MaxiTPMS TS608 SN"
+ },
+ {
+  "IdArtigo": 152,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "HP-Eletronics",
+  "Produto": "Dados Técnicos",
+  "Descricao": "HaynesPro Electronics (Licença de 12 meses)",
+  "NomeComercial": "Haynes Pro"
+ },
+ {
+  "IdArtigo": 153,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "HP-EleSmart",
+  "Produto": "Dados Técnicos",
+  "Descricao": "HaynesPro Electronics + Smart  (Licença de 12 meses)",
+  "NomeComercial": "Haynes Pro"
+ },
+ {
+  "IdArtigo": 154,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "HP-EleTechnical ",
+  "Produto": "Dados Técnicos",
+  "Descricao": "HaynesPro Electronics + Technical  (Licença de 12 meses)",
+  "NomeComercial": "Haynes Pro"
+ },
+ {
+  "IdArtigo": 155,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "HP-EleTechSmart",
+  "Produto": "Dados Técnicos",
+  "Descricao": "HaynesPro Electronics + Technical  + Smart (Licença de 12 meses)",
+  "NomeComercial": "Haynes Pro"
+ },
+ {
+  "IdArtigo": 156,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-Renault-10",
+  "Produto": "Gateway",
+  "Descricao": "Renault Security Gateway - 10 Jetons (Validade 24 meses)",
+  "NomeComercial": "Renault Security Gateway",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 157,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-Renault-20",
+  "Produto": "Gateway",
+  "Descricao": "Renault Security Gateway - 20 Jetons (Validade 24 meses)",
+  "NomeComercial": "Renault Security Gateway",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 158,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-Renault-50",
+  "Produto": "Gateway",
+  "Descricao": "Renault Security Gateway - 50 Jetons (Validade 24 meses)",
+  "NomeComercial": "Renault Security Gateway",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 159,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-Renault-100",
+  "Produto": "Gateway",
+  "Descricao": "Renault Security Gateway - 100 Jetons (Validade 24 meses)",
+  "NomeComercial": "Renault Security Gateway",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 160,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-FCA",
+  "Produto": "Gateway",
+  "Descricao": "FCA Security Gateway - Acesso de 12 meses",
+  "NomeComercial": "FCA Security Gateway",
+  "Construtor": "FCA"
+ },
+ {
+  "IdArtigo": 161,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-Nissan-10",
+  "Produto": "Gateway",
+  "Descricao": "Nissan Security Gateway - 10 Jetons (Validade 24 meses)",
+  "NomeComercial": "Nissan Security Gateway",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 162,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-Nissan-20",
+  "Produto": "Gateway",
+  "Descricao": "Nissan Security Gateway - 20 Jetons (Validade 24 meses)",
+  "NomeComercial": "Nissan Security Gateway",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 163,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-Nissan-50",
+  "Produto": "Gateway",
+  "Descricao": "Nissan Security Gateway - 50 Jetons (Validade 24 meses)",
+  "NomeComercial": "Nissan Security Gateway",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 164,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-Nissan-100",
+  "Produto": "Gateway",
+  "Descricao": "Nissan Security Gateway - 100 Jetons (Validade 24 meses)",
+  "NomeComercial": "Nissan Security Gateway",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 165,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-MB-10",
+  "Produto": "Gateway",
+  "Descricao": "Mercedes-Benz SGW - 10 vezes",
+  "NomeComercial": "Mercedes-Benz Security Gateway",
+  "Construtor": "Mercedes-Benz"
+ },
+ {
+  "IdArtigo": 166,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-MB-20",
+  "Produto": "Gateway",
+  "Descricao": "Mercedes-Benz SGW - 20 vezes",
+  "NomeComercial": "Mercedes-Benz Security Gateway",
+  "Construtor": "Mercedes-Benz"
+ },
+ {
+  "IdArtigo": 167,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-MB-50",
+  "Produto": "Gateway",
+  "Descricao": "Mercedes-Benz SGW - 50 vezes",
+  "NomeComercial": "Mercedes-Benz Security Gateway",
+  "Construtor": "Mercedes-Benz"
+ },
+ {
+  "IdArtigo": 168,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SG-MB-100",
+  "Produto": "Gateway",
+  "Descricao": "Mercedes-Benz SGW - 100 vezes",
+  "NomeComercial": "Mercedes-Benz Security Gateway",
+  "Construtor": "Mercedes-Benz"
+ },
+ {
+  "IdArtigo": 169,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "SGW-PackEU",
+  "Produto": "Gateway",
+  "Descricao": "Acesso SGW EU SN: ",
+  "NomeComercial": "EU Security Gateway",
+  "Construtor": "???"
+ },
+ {
+  "IdArtigo": 170,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "Expert01",
+  "Produto": "Assistência Técnica",
+  "Descricao": "Remote Expert - 1 Serviço",
+  "NomeComercial": "Remote Expert"
+ },
+ {
+  "IdArtigo": 171,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "Expert05",
+  "Produto": "Assistência Técnica",
+  "Descricao": "Remote Expert - 5 Serviço",
+  "NomeComercial": "Remote Expert"
+ },
+ {
+  "IdArtigo": 172,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "Expert10",
+  "Produto": "Assistência Técnica",
+  "Descricao": "Remote Expert - 10 Serviço",
+  "NomeComercial": "Remote Expert"
+ },
+ {
+  "IdArtigo": 173,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "AT365",
+  "Produto": "Assistência Técnica",
+  "Descricao": "Assistencia técnica 365 Dias",
+  "NomeComercial": "Assistência Técnica"
+ },
+ {
+  "IdArtigo": 174,
+  "IdMarca": 90034,
+  "Marca": "LDA",
+  "Referencia": "AT365+RE",
+  "Produto": "Assistência Técnica",
+  "Descricao": "Assistencia técnica 365 Dias + Remote Expert",
+  "NomeComercial": "Assistência Técnica"
+ },
+ {
+  "IdArtigo": 175,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IkeyBW003AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel BMW 3B - IKEYBM003AL",
+  "NomeComercial": "Chave Inteligente Autel BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 176,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IkeyBW004AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel BMW 4B - IKEYBM004AL",
+  "NomeComercial": "Chave Inteligente Autel BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 177,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IkeyCL004AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel FCA 4B - IKEYCL004AL",
+  "NomeComercial": "Chave Inteligente Autel FCA",
+  "Construtor": "FCA"
+ },
+ {
+  "IdArtigo": 178,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IkeyCL005AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel FCA 5B - IKEYCL005AL",
+  "NomeComercial": "Chave Inteligente Autel FCA",
+  "Construtor": "FCA"
+ },
+ {
+  "IdArtigo": 179,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IKEYFD004AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel Ford 4B - IKEYFD004AL",
+  "NomeComercial": "Chave Inteligente Autel Ford",
+  "Construtor": "Ford"
+ },
+ {
+  "IdArtigo": 180,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IKEYHY003AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel Hyundai 3B - IKEYHY003AL",
+  "NomeComercial": "Chave Inteligente Autel Hyundai",
+  "Construtor": "Hyundai"
+ },
+ {
+  "IdArtigo": 181,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IKEYHY004AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel Hyundai 4B - IKEYHY004AL",
+  "NomeComercial": "Chave Inteligente Autel Hyundai",
+  "Construtor": "Hyundai"
+ },
+ {
+  "IdArtigo": 182,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IKeyNS003AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel Nissan 3B -  IKEYNS003AL",
+  "NomeComercial": "Chave Inteligente Autel Nissan",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 183,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IkeyNS004AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel Nissan 4B - IKEYNS004AL",
+  "NomeComercial": "Chave Inteligente Autel Nissan",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 184,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IkeyNS005AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel Nissan 5B -  IKEYNS005AL",
+  "NomeComercial": "Chave Inteligente Autel Nissan",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 185,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IKEYOL004AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel  4B GM - IKEYOL004AL",
+  "NomeComercial": "Chave Inteligente Autel BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 186,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "IKEYOL005AL",
+  "Produto": "Chaves",
+  "Descricao": "Chave Inteligente Autel  5B GM - IKEYOL005AL",
+  "NomeComercial": "Chave Inteligente Autel BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 187,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm01",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW EWS 7935 434Mhz - 3b - HU58",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 188,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm02",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW EWS 7935 434Mhz - 3b - HU92",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 189,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm03",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW CAS2 ID46 7953 434Mhz - 3b - HU92",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 190,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm04",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW CAS2 ID46 7953 868Mhz - 3b - HU92",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 191,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm05",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW Hitag2 7945/7953 868Mhz - Cas3 3+ - 3B - Hu92",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 192,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm06",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW Hitag2 7945/7953 434Mhz - Cas3 3+ - 3B - Hu92",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 193,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm09",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW Hitag2 46 7942 433Mhz 4B - CAS1 - Hu92",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 194,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm10",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW ID46 PCF7945 / 7953 868Mhz - KEYLESS - CAS3  - 3B - Hu100r",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 195,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm14",
+  "Produto": "Chaves",
+  "Descricao": "Chave MINI EWS 7935 434Mhz EWS - 3b - HU100",
+  "NomeComercial": "Chave Mini",
+  "Construtor": "Mini"
+ },
+ {
+  "IdArtigo": 196,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm15",
+  "Produto": "Chaves",
+  "Descricao": "Chave MINI ID46 PCF 7945-7953 868Mhz - CAS3 - 3B - Hu92",
+  "NomeComercial": "Chave Mini",
+  "Construtor": "Mini"
+ },
+ {
+  "IdArtigo": 197,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm16",
+  "Produto": "Chaves",
+  "Descricao": "Chave MINI HitagPRO ID49 7953P 433Mhz - FEM  - 3B - Hu100r",
+  "NomeComercial": "Chave Mini",
+  "Construtor": "Mini"
+ },
+ {
+  "IdArtigo": 198,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm17",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW HitagPRO ID49 7945P 433Mhz - CAS4 - KeyLess - 4B - Hu100r",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 199,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyBm18",
+  "Produto": "Chaves",
+  "Descricao": "Chave BMW Hitag2 7945/7953 868Mhz - KEYLESS - Cas3 3+ - 3B - Hu92",
+  "NomeComercial": "Chave BMW",
+  "Construtor": "BMW"
+ },
+ {
+  "IdArtigo": 200,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Alfa Romeo HITAG2 ID46 7946 *M.MARELLI* - 3B - 433Mhz - SIP22",
+  "NomeComercial": "Chave Alfa Romeo",
+  "Construtor": "Alfa Romeo"
+ },
+ {
+  "IdArtigo": 201,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA02",
+  "Produto": "Chaves",
+  "Descricao": "Chave Alfa Romeo HITAG2 ID46 7946 *DELPHI* 3B - 433Mhz - SIP22",
+  "NomeComercial": "Chave Alfa Romeo",
+  "Construtor": "Alfa Romeo"
+ },
+ {
+  "IdArtigo": 202,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA03",
+  "Produto": "Chaves",
+  "Descricao": "Chave FIAT HITAG-AES 4A 7952E-7961M - 3B - 433Mhz - CY24",
+  "NomeComercial": "Chave Fiat",
+  "Construtor": "Fiat"
+ },
+ {
+  "IdArtigo": 203,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA04",
+  "Produto": "Chaves",
+  "Descricao": "Chave Fiat HITAG2 ID46 7946 *MARELLI* 3B - 433Mhz - SIP22",
+  "NomeComercial": "Chave Fiat",
+  "Construtor": "Fiat"
+ },
+ {
+  "IdArtigo": 204,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA05",
+  "Produto": "Chaves",
+  "Descricao": "Chave Fiat HITAG2 ID46 7946 *DELPHI* 3B - 433Mhz - SIP22",
+  "NomeComercial": "Chave Fiat",
+  "Construtor": "Fiat"
+ },
+ {
+  "IdArtigo": 205,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA06",
+  "Produto": "Chaves",
+  "Descricao": "Chave Fiat MEGAMOS AES 4B - 434Mhz - SIP22",
+  "NomeComercial": "Chave Fiat",
+  "Construtor": "Fiat"
+ },
+ {
+  "IdArtigo": 206,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA08",
+  "Produto": "Chaves",
+  "Descricao": "Chave Fiat HITAG2 46 7941 3B - 434Mhz - SIP22",
+  "NomeComercial": "Chave Fiat",
+  "Construtor": "Fiat"
+ },
+ {
+  "IdArtigo": 207,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA09",
+  "Produto": "Chaves",
+  "Descricao": "Chave Fiat HITAG2 46 7946 DELPHI 3B - 434Mhz - SIP22",
+  "NomeComercial": "Chave Fiat",
+  "Construtor": "Fiat"
+ },
+ {
+  "IdArtigo": 208,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA10",
+  "Produto": "Chaves",
+  "Descricao": "Chave Chrysler Hitag 2 7941 434Mhz - 3B - CY24",
+  "NomeComercial": "Chave Chrysler",
+  "Construtor": "Chrysler"
+ },
+ {
+  "IdArtigo": 209,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFCA11",
+  "Produto": "Chaves",
+  "Descricao": "Chave Chrysler Hitag 2 7941 434Mhz - 4B - CY24",
+  "NomeComercial": "Chave Chrysler",
+  "Construtor": "Chrysler"
+ },
+ {
+  "IdArtigo": 210,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyFca12",
+  "Produto": "Chaves",
+  "Descricao": "Chave Maserati Hitag 2 ID46 7945/7953 - 433mhz - 4B",
+  "NomeComercial": "Chave Maserati",
+  "Construtor": "Maserati"
+ },
+ {
+  "IdArtigo": 211,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyford02",
+  "Produto": "Chaves",
+  "Descricao": "Chave Ford 4D DST40 ID60 - 433Mhz - 3B - FO06",
+  "NomeComercial": "Chave Ford",
+  "Construtor": "Ford"
+ },
+ {
+  "IdArtigo": 212,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyford03",
+  "Produto": "Chaves",
+  "Descricao": "Chave Ford Hitag2 46 7953 - 434Mhz - KeyLess - 5B",
+  "NomeComercial": "Chave Ford",
+  "Construtor": "Ford"
+ },
+ {
+  "IdArtigo": 213,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyford04",
+  "Produto": "Chaves",
+  "Descricao": "Chave Ford Hiatg PRO 49 7953 - 433Mhz - KeyLess - 3B - H101",
+  "NomeComercial": "Chave Ford",
+  "Construtor": "Ford"
+ },
+ {
+  "IdArtigo": 214,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyford09",
+  "Produto": "Chaves",
+  "Descricao": "Chave Ford Hitag PRO 49 7935 - 433Mhz - 3B - H101",
+  "NomeComercial": "Chave Ford",
+  "Construtor": "Ford"
+ },
+ {
+  "IdArtigo": 215,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyhy01",
+  "Produto": "Chaves",
+  "Descricao": "Chave KIA HITAG AES 4A PCF7938 3B 433Mhz - KEYLESS - HYN48",
+  "NomeComercial": "Chave Kia",
+  "Construtor": "Kia"
+ },
+ {
+  "IdArtigo": 216,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyhy02",
+  "Produto": "Chaves",
+  "Descricao": "Chave Kia 4D DST40 ID60 3B 433Mhz - HYN48",
+  "NomeComercial": "Chave Kia",
+  "Construtor": "Kia"
+ },
+ {
+  "IdArtigo": 217,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyhy03",
+  "Produto": "Chaves",
+  "Descricao": "Chave Hyundai Hitag2 ID46 7953 3B 433Mhz - KEYLESS - HYN48",
+  "NomeComercial": "Chave Hyundai",
+  "Construtor": "Hyundai"
+ },
+ {
+  "IdArtigo": 218,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyLr01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Land Rover Hita2 46 7941 - 434Mhz - 2B - HU101",
+  "NomeComercial": "Chave Land Rover",
+  "Construtor": "Land Rover"
+ },
+ {
+  "IdArtigo": 219,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyLr03",
+  "Produto": "Chaves",
+  "Descricao": "Chave Land Rover HITAG PRO ID49 7953 - 434Mhz - 5B - KeyLess - HU101",
+  "NomeComercial": "Chave Land Rover",
+  "Construtor": "Land Rover"
+ },
+ {
+  "IdArtigo": 220,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyLr04",
+  "Produto": "Chaves",
+  "Descricao": "Chave Land Rover HITAG PRO ID49 7953 - 434Mhz - 5B - KeyLess - HU101",
+  "NomeComercial": "Chave Land Rover",
+  "Construtor": "Land Rover"
+ },
+ {
+  "IdArtigo": 221,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyMb01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Mercedes-Benz FSB3 434Mhz FSK - 3b - HU64",
+  "NomeComercial": "Chave Mercedes-Benz",
+  "Construtor": "Mercedes-Benz"
+ },
+ {
+  "IdArtigo": 222,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyMb03",
+  "Produto": "Chaves",
+  "Descricao": "Chave Smart HITAG2 ID46 7941 3B - 434Mhz - VA2",
+  "NomeComercial": "Chave Smart",
+  "Construtor": "Smart"
+ },
+ {
+  "IdArtigo": 223,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyMb04",
+  "Produto": "Chaves",
+  "Descricao": "Chave Smart HITAG-AES 4A 7952E-7961M 3B - 434Mhz - VA2",
+  "NomeComercial": "Chave Smart",
+  "Construtor": "Smart"
+ },
+ {
+  "IdArtigo": 224,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyMb05",
+  "Produto": "Chaves",
+  "Descricao": "Chave Smart 3B - IR Infravermelhos - YM23",
+  "NomeComercial": "Chave Smart",
+  "Construtor": "Smart"
+ },
+ {
+  "IdArtigo": 225,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyNi01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Nissan Hiatg2 Id46 PCF7952 433Mhz FSK 3But - Keyless",
+  "NomeComercial": "Chave Nissan",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 226,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyNi03",
+  "Produto": "Chaves",
+  "Descricao": "Chave Nissan 7945 433Mhz 3But - X-Trail 2014 Keyless",
+  "NomeComercial": "Chave Nissan",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 227,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyNi04",
+  "Produto": "Chaves",
+  "Descricao": "Chave Nissan 47 7953 433Mhz 3But - KeyLess",
+  "NomeComercial": "Chave Nissan",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 228,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyNi05",
+  "Produto": "Chaves",
+  "Descricao": "Chave Nissan Hitag AES 4A 7938/7945 - 3B - KeyLess",
+  "NomeComercial": "Chave Nissan",
+  "Construtor": "Nissan"
+ },
+ {
+  "IdArtigo": 229,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyop01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Opel HITAG 2 46 7961 433Mhz - 3B - HU100",
+  "NomeComercial": "Chave Opel",
+  "Construtor": "Opel"
+ },
+ {
+  "IdArtigo": 230,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyPor01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Porsche HITAG PRO ID49 7945 - 433Mhz - KeyLess - 4B - HU66",
+  "NomeComercial": "Chave Porsche",
+  "Construtor": "Porsche"
+ },
+ {
+  "IdArtigo": 231,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyPor02",
+  "Produto": "Chaves",
+  "Descricao": "Chave Porsche HITAG PRO ID49 7945 - 433Mhz  - HU66",
+  "NomeComercial": "Chave Porsche",
+  "Construtor": "Porsche"
+ },
+ {
+  "IdArtigo": 232,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "keyPor03",
+  "Produto": "Chaves",
+  "Descricao": "Chave Porsche HITAG2 ID46 7946 3B - 434Mhz - HU66",
+  "NomeComercial": "Chave Porsche",
+  "Construtor": "Porsche"
+ },
+ {
+  "IdArtigo": 233,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyPSA01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Citroen Hitag2 ID46 PCF7945-7953 434Mhz 3b - KEYLESS - VA2",
+  "NomeComercial": "Chave Citroen",
+  "Construtor": "Citroen"
+ },
+ {
+  "IdArtigo": 234,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyPSA02",
+  "Produto": "Chaves",
+  "Descricao": "Chave PEUGEOT Hitag2 ID46 PCF7945-7953 434Mhz 3b - KEYLESS - VA2",
+  "NomeComercial": "Chave Peugeot",
+  "Construtor": "Peugeot"
+ },
+ {
+  "IdArtigo": 235,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyPSA04",
+  "Produto": "Chaves",
+  "Descricao": "Chave PEUGEOT Hitag2 ID46 PCF7941 434Mhz FSK 3b - HU83",
+  "NomeComercial": "Chave Peugeot",
+  "Construtor": "Peugeot"
+ },
+ {
+  "IdArtigo": 236,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyPSA06",
+  "Produto": "Chaves",
+  "Descricao": "Chave CITROEN Hitag2 ID46 PCF7941 434Mhz FSK 3b - HU83 / VA2",
+  "NomeComercial": "Chave Citroen",
+  "Construtor": "Citroen"
+ },
+ {
+  "IdArtigo": 237,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyPSA11",
+  "Produto": "Chaves",
+  "Descricao": "Chave PSA (Placa) ID46 PC7961 2B  433Mhz FSK (307/407 2011 a 2013)",
+  "NomeComercial": "Chave PSA",
+  "Construtor": "PSA"
+ },
+ {
+  "IdArtigo": 238,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe03",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag 2 ID46 PCF7946 433Mhz - 1b - NE73/72 - Antes 2000",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 239,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe05",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag 2 ID46 PCF7946 433Mhz - 2b",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 240,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe12",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag 2 ID46 PCF7947 433Mhz - 2b - Va2",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 241,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe13",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag 2 ID46 PCF7946 433Mhz - 2b - Va2",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 242,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe14",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag AES A4 7961 7952 433Mhz - 2b - Va2",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 243,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe15",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag AES 4A 7961 433Mhz - 3B - VA2",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 244,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe19",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag AES 7952 7961 433Mhz - 2B - VA2",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 245,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe21",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag 2 ID46 7961 433Mhz -2b - Va2",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 246,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe22",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag 2 ID46 PCF7947 433Mhz - 3b - Va2",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 247,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyRe23",
+  "Produto": "Chaves",
+  "Descricao": "Chave Renault Hitag 2 ID46 PCF7946 433Mhz - 3b - Va2",
+  "NomeComercial": "Chave Renault",
+  "Construtor": "Renault"
+ },
+ {
+  "IdArtigo": 248,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvag02",
+  "Produto": "Chaves",
+  "Descricao": "Chave VW Hitag AES MQB48 - 434Mhz - KEYLESS - HU66 - 5G6959752AB 5G6959752BC - Original",
+  "NomeComercial": "Chave VW",
+  "Construtor": "VW"
+ },
+ {
+  "IdArtigo": 249,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvag03",
+  "Produto": "Chaves",
+  "Descricao": "Chave VW Hitag AES MQB48 - 434Mhz - KEYLESS - HU66",
+  "NomeComercial": "Chave VW",
+  "Construtor": "VW"
+ },
+ {
+  "IdArtigo": 250,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvag07",
+  "Produto": "Chaves",
+  "Descricao": "Chave VW Hitag 2 ID46 7936 - 434Mhz- KeyLess - HU66",
+  "NomeComercial": "Chave VW",
+  "Construtor": "VW"
+ },
+ {
+  "IdArtigo": 251,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvag10",
+  "Produto": "Chaves",
+  "Descricao": "Chave Audi 46 7945AC AUDI_5 - 434Mhz - HU66",
+  "NomeComercial": "Chave Audi",
+  "Construtor": "Audi"
+ },
+ {
+  "IdArtigo": 252,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvag12",
+  "Produto": "Chaves",
+  "Descricao": "Chave Audi ID48 3B 434Mhz - HLODE8XO837220D - 5FA01065970 - HU66",
+  "NomeComercial": "Chave Audi",
+  "Construtor": "Audi"
+ },
+ {
+  "IdArtigo": 253,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvag13",
+  "Produto": "Chaves",
+  "Descricao": "Chave Audi MQB48 3B - 434Mhz - KEYLESS - HU66",
+  "NomeComercial": "Chave Audi",
+  "Construtor": "Audi"
+ },
+ {
+  "IdArtigo": 254,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvag14",
+  "Produto": "Chaves",
+  "Descricao": "Chave Audi MQB48 3B  434Mhz - HU66",
+  "NomeComercial": "Chave Audi",
+  "Construtor": "Audi"
+ },
+ {
+  "IdArtigo": 255,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvag15",
+  "Produto": "Chaves",
+  "Descricao": "Chave Audi MQB48 3B - 434Mhz - KEYLESS - HU66",
+  "NomeComercial": "Chave Audi",
+  "Construtor": "Audi"
+ },
+ {
+  "IdArtigo": 256,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "Keyvol01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Volvo Hitag 2 ID46 7945A/7953A - 434MHz - HU101",
+  "NomeComercial": "Chave Volvo",
+  "Construtor": "Volvo"
+ },
+ {
+  "IdArtigo": 257,
+  "IdMarca": 90034,
+  "Marca": "AUTEL ",
+  "Referencia": "KeyYA01",
+  "Produto": "Chaves",
+  "Descricao": "Chave Yamaha KeyLess - ID49 - 433.92mhz - Original",
+  "NomeComercial": "Chave Yamaha",
+  "Construtor": "Yamaha"
+ }
+]
