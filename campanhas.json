@@ -1,28 +1,12 @@
 [
  {
   "Id": 1,
-  "Titulo": "Campanha Ferramentas",
-  "Descricao": "Campanha Ferramentas Básicas - Outubro 2024",
-  "DataInicio": "2024-10-01",
-  "DataFim": "2024-10-31",
-  "Destaque": 1,
-  "ImgUrl": "https://pngimg.com/uploads/plier/plier_PNG10055.png",
-  "PdfUrl": "https://pngimg.com/uploads/plier/plier_PNG10055.png"
- },
- {
-  "Id": 2,
-  "Titulo": "Campanha Total",
-  "Descricao": "Campanha Óleo - Novembro 2024",
+  "Titulo": "expoMecânica Kroftools",
+  "Descricao": "Campanha Kroftools expoMecânica - Novembro 2024",
   "DataInicio": "2024-11-01",
   "DataFim": "2024-11-30",
-  "Destaque": 1
- },
- {
-  "Id": 3,
-  "Titulo": "Campanha Exide",
-  "Descricao": "Campanha Baterias - Setembro 2024",
-  "DataInicio": "2024-09-01",
-  "DataFim": "2024-09-31",
-  "Destaque": 0
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_kroft.png",
+  "PdfUrl": "https://pngimg.com/uploads/plier/plier_PNG10055.png"
  }
 ]
