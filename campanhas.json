@@ -9,7 +9,7 @@
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_kroft.png",
   "PdfUrl": "https://www.dropbox.com/scl/fi/c4ulkw7b1ddhv1ukeb0ru/Campanha-Kroftools-expoMEC-NICA-Novembro2024.pdf?rlkey=bx952ne9t4m0jwh16z2er0acx&st=0ktwzp9j&dl=0"
  },
-  {
+ {
   "Id": 2,
   "Titulo": "expoMecânica AUTEL",
   "Descricao": "Campanha AUTEL expoMecânica - 8 a 15 de Novembro 2024",
@@ -18,5 +18,45 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_autel.png",
   "PdfUrl": "https://www.dropbox.com/scl/fi/agbcbz7nguh9ulaf7lo0n/RED-3-0-ExpoMecanica.pdf?rlkey=aotm4l6jwu0mk613zt5984e37&st=88dncuuc&dl=0"
+ },
+ {
+  "Id": 3,
+  "Titulo": "expoMecânica HaynesPro",
+  "Descricao": "Campanha HaynesPro expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_haynes.png",
+  "PdfUrl": "https://www.dropbox.com/scl/fi/67896c4qwwsuzexgle4cp/Campanha-HAYNES-PRO-expoMEC-NICA-Novembro-2024.pdf?rlkey=a4u2zy4ij0ofv7xvxvzmyfwgg&st=hlnl3zx5&dl=0"
+ },
+ {
+  "Id": 4,
+  "Titulo": "expoMecânica CTR",
+  "Descricao": "Campanha CTR expoMecânica - 8 a 30 Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_ctr.png",
+  "PdfUrl": "https://www.dropbox.com/scl/fi/2wqb6kws16cwnx1ery5ys/Campanha-CTR-expoMEC-NICA-Novembro-2024.pdf?rlkey=wjjw24b56vp7j22pt85nbns56&st=m0qyqaj0&dl=0"
+ },
+ {
+  "Id": 5,
+  "Titulo": "expoMecânica JBM",
+  "Descricao": "Campanha JBM expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_jbm.png",
+  "PdfUrl": "https://www.dropbox.com/scl/fi/gbwhmx3khz4es07zz5won/Campanha-JBM-expoMEC-NICA-Novembro-2024.pdf?rlkey=mq3p730suaddd9qkscoq4twin&st=ddnqdll4&dl=0"
+ },
+ {
+  "Id": 6,
+  "Titulo": "expoMecânica WIGAM",
+  "Descricao": "Campanha WIGAM expoMecânica - 8 a 30 Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_wigam.png",
+  "PdfUrl": "https://www.dropbox.com/scl/fi/9x7ba062y4ub7cnqm5por/Campanha-WIGAM-expoMEC-NICA-Novembro-2024.pdf?rlkey=7coksjr9j5ip9ib1jr04penvb&st=6x87k9x2&dl=0"
  }
 ]
