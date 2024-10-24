@@ -4429,7 +4429,7 @@
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
-  "Referencia": "in44",
+  "Referencia": "IN44",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
   "Bloco": "L01",
   "CapAh": 44,
@@ -4438,7 +4438,9 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN44.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN44.jpg"
  },
  {
   "IdArtigo": 279,
@@ -4455,7 +4457,9 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN50.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN50.jpg"
  },
  {
   "IdArtigo": 280,
@@ -4540,7 +4544,9 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN60.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN60.jpg"
  },
  {
   "IdArtigo": 285,
@@ -4574,7 +4580,9 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN62.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN62.jpg"
  },
  {
   "IdArtigo": 287,
@@ -4642,7 +4650,9 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN71.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN71.jpg"
  },
  {
   "IdArtigo": 291,
@@ -4659,7 +4669,9 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN70.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN70.jpg"
  },
  {
   "IdArtigo": 292,
@@ -4693,7 +4705,9 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN74.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN74.jpg"
  },
  {
   "IdArtigo": 294,
@@ -4727,7 +4741,9 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN80.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN80.jpg"
  },
  {
   "IdArtigo": 296,
@@ -4744,7 +4760,9 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN90.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN90.jpg"
  },
  {
   "IdArtigo": 297,
@@ -4761,7 +4779,9 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN100.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN100.jpg"
  },
  {
   "IdArtigo": 298,
@@ -4812,7 +4832,9 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN95.4.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN95.4.jpg"
  },
  {
   "IdArtigo": 301,
@@ -4829,7 +4851,9 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "FichaSeguranca": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/BAT INNOVPARTS IN95.5.pdf",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/Bateria_IN95.5.jpg"
  },
  {
   "IdArtigo": 302,
@@ -4936,7 +4960,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX4B-BS",
-  "Descricao": "Bateria Mota AGM 12V 2,3AH +Dir.\/CT4BBS",
+  "Descricao": "Bateria Mota AGM 12V 2,3AH +Dir./CT4BBS",
   "CapAh": 40,
   "Comprimento": 113,
   "Largura": 38,
@@ -5079,7 +5103,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX12-BS",
-  "Descricao": "Bateria Mota AGM 12V 10AH +Esq. \/CB12B-B2",
+  "Descricao": "Bateria Mota AGM 12V 10AH +Esq. /CB12B-B2",
   "CapAh": 180,
   "Comprimento": 150,
   "Largura": 87,
@@ -5092,7 +5116,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX12A-BS",
-  "Descricao": "Bateria Mota AGM 12V 9,5AH +Esq.\/CT12ABS",
+  "Descricao": "Bateria Mota AGM 12V 9,5AH +Esq./CT12ABS",
   "CapAh": 140,
   "Comprimento": 150,
   "Largura": 87,
@@ -5209,7 +5233,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CP1812",
-  "Descricao": "Bateria Mota AGM 12V 20AH +Dir. \/12N20AH",
+  "Descricao": "Bateria Mota AGM 12V 20AH +Dir. /12N20AH",
   "CapAh": 170,
   "Comprimento": 181,
   "Largura": 77,
@@ -5248,7 +5272,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB5L-B",
-  "Descricao": "Bateria Mota 12V 5AH +Dir. \/12N53B",
+  "Descricao": "Bateria Mota 12V 5AH +Dir. /12N53B",
   "CapAh": 60,
   "Comprimento": 120,
   "Largura": 60,
@@ -5287,7 +5311,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB7L-B2 ",
-  "Descricao": "Bateria Mota 12V 8AH +Dir. \/12N7-3B",
+  "Descricao": "Bateria Mota 12V 8AH +Dir. /12N7-3B",
   "CapAh": 90,
   "Comprimento": 135,
   "Largura": 75,
@@ -5300,7 +5324,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB9L-A2",
-  "Descricao": "Bateria Mota 12V 9AH +Dir. \/CB9L-B",
+  "Descricao": "Bateria Mota 12V 9AH +Dir. /CB9L-B",
   "CapAh": 100,
   "Comprimento": 135,
   "Largura": 75,
@@ -5313,7 +5337,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB9-B",
-  "Descricao": "Bateria Mota 12V 9AH +Esq. \/12N94B1",
+  "Descricao": "Bateria Mota 12V 9AH +Esq. /12N94B1",
   "CapAh": 100,
   "Comprimento": 135,
   "Largura": 75,
@@ -5326,7 +5350,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB10L-A2",
-  "Descricao": "Bateria Mota 12V 11AH +Dir.\/12N103A\/CB10LB2",
+  "Descricao": "Bateria Mota 12V 11AH +Dir./12N103A/CB10LB2",
   "CapAh": 160,
   "Comprimento": 135,
   "Largura": 90,
@@ -5339,7 +5363,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB12A-A",
-  "Descricao": "Bateria Mota 12V 12AH +Esq. \/12N12A-4A-1\/CB12AB\/CB12CA",
+  "Descricao": "Bateria Mota 12V 12AH +Esq. /12N12A-4A-1/CB12AB/CB12CA",
   "CapAh": 155,
   "Comprimento": 134,
   "Largura": 80,
@@ -5352,7 +5376,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB12AL-A2",
-  "Descricao": "Bateria Mota 12V 12AH +Dir. \/CB12AL-A",
+  "Descricao": "Bateria Mota 12V 12AH +Dir. /CB12AL-A",
   "CapAh": 155,
   "Comprimento": 134,
   "Largura": 80,
@@ -5365,7 +5389,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB14-A2",
-  "Descricao": "Bateria Mota 12V 14AH +Esq. \/CB14AA2",
+  "Descricao": "Bateria Mota 12V 14AH +Esq. /CB14AA2",
   "CapAh": 185,
   "Comprimento": 134,
   "Largura": 89,
@@ -5391,7 +5415,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB14L-A2",
-  "Descricao": "Bateria Mota 12V 14AH +Dir. \/12N14-3A",
+  "Descricao": "Bateria Mota 12V 14AH +Dir. /12N14-3A",
   "CapAh": 185,
   "Comprimento": 134,
   "Largura": 89,
@@ -5430,7 +5454,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB16B-A",
-  "Descricao": "Bateria Mota 12V 16AH +Esq. \/CB16B-A1",
+  "Descricao": "Bateria Mota 12V 16AH +Esq. /CB16B-A1",
   "CapAh": 210,
   "Comprimento": 160,
   "Largura": 90,
@@ -5456,7 +5480,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB16LB",
-  "Descricao": "Bateria Mota 12V 19AH +Dir. \/CB16CL-B\/CB18LA",
+  "Descricao": "Bateria Mota 12V 19AH +Dir. /CB16CL-B/CB18LA",
   "CapAh": 230,
   "Comprimento": 175,
   "Largura": 100,
@@ -5469,7 +5493,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "C50N18L-A",
-  "Descricao": "Bateria Mota 12V 20AH +Dir. \/12N183A",
+  "Descricao": "Bateria Mota 12V 20AH +Dir. /12N183A",
   "CapAh": 250,
   "Comprimento": 205,
   "Largura": 90,
@@ -5495,7 +5519,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "CB30LB",
-  "Descricao": "Bateria Mota 12V 30AH +Dir. \/CB30CLB  ",
+  "Descricao": "Bateria Mota 12V 30AH +Dir. /CB30CLB  ",
   "CapAh": 345,
   "Comprimento": 168,
   "Largura": 132,
@@ -5508,11 +5532,11 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "U1MF-X",
-  "Descricao": "Bateria MULTICULTOR\/CORTACÉSPED 12V 30AH +Esq.",
+  "Descricao": "Bateria MULTICULTOR/CORTACÉSPED 12V 30AH +Esq.",
   "CapAh": 300,
   "Comprimento": 205,
   "Largura": 132,
-  "Altura": "160\/185"
+  "Altura": "160/185"
  },
  {
   "IdArtigo": 353,
@@ -5521,11 +5545,11 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "U1RMF-X",
-  "Descricao": "Bateria MULTICULTOR\/CORTACÉSPED 12V 30AH +Dir.",
+  "Descricao": "Bateria MULTICULTOR/CORTACÉSPED 12V 30AH +Dir.",
   "CapAh": 300,
   "Comprimento": 205,
   "Largura": 132,
-  "Altura": "160\/185"
+  "Altura": "160/185"
  },
  {
   "IdArtigo": 354,
@@ -5538,7 +5562,7 @@
   "CapAh": 7.2,
   "Comprimento": 151,
   "Largura": 65,
-  "Altura": "94\/100"
+  "Altura": "94/100"
  },
  {
   "IdArtigo": 355,
@@ -5551,7 +5575,7 @@
   "CapAh": 12,
   "Comprimento": 151,
   "Largura": 98,
-  "Altura": "98\/100"
+  "Altura": "98/100"
  },
  {
   "IdArtigo": 356,
@@ -5664,7 +5688,7 @@
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "12N10-3B",
-  "Descricao": "Bateria Mota 12V 10AH +Dir. \/CB10LB",
+  "Descricao": "Bateria Mota 12V 10AH +Dir. /CB10LB",
   "CapAh": 110,
   "Comprimento": 135,
   "Largura": 90,
@@ -5685,7 +5709,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 366,
@@ -5702,7 +5727,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 367,
@@ -5719,7 +5745,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 368,
@@ -5736,7 +5763,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 369,
@@ -5753,7 +5781,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 370,
@@ -5770,7 +5799,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 371,
@@ -5787,7 +5817,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 372,
@@ -5804,7 +5835,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 373,
@@ -5821,7 +5853,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 374,
@@ -5838,7 +5871,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 375,
@@ -5855,7 +5889,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 376,
@@ -5872,7 +5907,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 377,
@@ -5889,7 +5925,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 378,
@@ -5906,7 +5943,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 379,
@@ -5923,7 +5961,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 380,
@@ -5940,7 +5979,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 381,
@@ -5957,7 +5997,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 382,
@@ -5974,7 +6015,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgapower.png"
  },
  {
   "IdArtigo": 383,
@@ -5991,7 +6033,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgagold.png"
  },
  {
   "IdArtigo": 384,
@@ -6008,7 +6051,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgagold.png"
  },
  {
   "IdArtigo": 385,
@@ -6025,7 +6069,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgagold.png"
  },
  {
   "IdArtigo": 386,
@@ -6042,7 +6087,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgagold.png"
  },
  {
   "IdArtigo": 387,
@@ -6059,7 +6105,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgagold.png"
  },
  {
   "IdArtigo": 388,
@@ -6076,7 +6123,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaefb.png"
  },
  {
   "IdArtigo": 389,
@@ -6093,7 +6141,8 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaefb.png"
  },
  {
   "IdArtigo": 390,
@@ -6110,7 +6159,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaefb.png"
  },
  {
   "IdArtigo": 391,
@@ -6127,7 +6177,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaefb.png"
  },
  {
   "IdArtigo": 392,
@@ -6144,7 +6195,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaefb.png"
  },
  {
   "IdArtigo": 393,
@@ -6161,7 +6213,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaagm.png"
  },
  {
   "IdArtigo": 394,
@@ -6178,7 +6231,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaagm.png"
  },
  {
   "IdArtigo": 395,
@@ -6195,7 +6249,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaagm.png"
  },
  {
   "IdArtigo": 396,
@@ -6212,7 +6267,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaagm.png"
  },
  {
   "IdArtigo": 397,
@@ -6229,7 +6285,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgaagm.png"
  },
  {
   "IdArtigo": 398,
@@ -6246,7 +6303,8 @@
   "Largura": 127,
   "Altura": 226,
   "EsqLigacao": "0+direita",
-  "Terminal": 3
+  "Terminal": 3,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 399,
@@ -6263,7 +6321,8 @@
   "Largura": 127,
   "Altura": 226,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 3
+  "Terminal": 3,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 400,
@@ -6273,14 +6332,15 @@
   "Marca": "CGA BATERIAS",
   "Referencia": "CGAJ0450P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
-  "Bloco": "E2\/B24",
+  "Bloco": "E2/B24",
   "CapAh": 46,
   "CCAaEN": 330,
   "Comprimento": 238,
   "Largura": 129,
   "Altura": 225,
   "EsqLigacao": "0+direita",
-  "Terminal": "1\/3"
+  "Terminal": "1/3",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 401,
@@ -6290,14 +6350,15 @@
   "Marca": "CGA BATERIAS",
   "Referencia": "CGAJ0451P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
-  "Bloco": "E2\/B24",
+  "Bloco": "E2/B24",
   "CapAh": 46,
   "CCAaEN": 330,
   "Comprimento": 238,
   "Largura": 129,
   "Altura": 225,
   "EsqLigacao": "1+esquerda",
-  "Terminal": "1\/3"
+  "Terminal": "1/3",
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 402,
@@ -6314,7 +6375,8 @@
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 403,
@@ -6331,7 +6393,8 @@
   "Largura": 173,
   "Altura": 220,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 404,
@@ -6348,7 +6411,8 @@
   "Largura": 173,
   "Altura": 220,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 405,
@@ -6365,7 +6429,8 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 406,
@@ -6382,7 +6447,8 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 407,
@@ -6399,7 +6465,8 @@
   "Largura": 173,
   "Altura": 225,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 408,
@@ -6416,7 +6483,8 @@
   "Largura": 173,
   "Altura": 225,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 409,
@@ -6433,7 +6501,8 @@
   "Largura": 172,
   "Altura": 240,
   "EsqLigacao": "Central",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgajis.png"
  },
  {
   "IdArtigo": 410,
@@ -6450,7 +6519,8 @@
   "Largura": 171,
   "Altura": 232,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 411,
@@ -6467,7 +6537,8 @@
   "Largura": 171,
   "Altura": 232,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 412,
@@ -6484,7 +6555,8 @@
   "Largura": 171,
   "Altura": 283,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 413,
@@ -6501,7 +6573,8 @@
   "Largura": 171,
   "Altura": 283,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 414,
@@ -6518,7 +6591,8 @@
   "Largura": 175,
   "Altura": 226,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 415,
@@ -6535,7 +6609,8 @@
   "Largura": 175,
   "Altura": 226,
   "EsqLigacao": 4,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 416,
@@ -6552,7 +6627,8 @@
   "Largura": 189,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 417,
@@ -6569,7 +6645,8 @@
   "Largura": 241,
   "Altura": 285,
   "EsqLigacao": 6,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 418,
@@ -6586,7 +6663,8 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 419,
@@ -6603,7 +6681,8 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 420,
@@ -6620,7 +6699,8 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 4,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 421,
@@ -6637,7 +6717,8 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 422,
@@ -6654,7 +6735,8 @@
   "Largura": 223,
   "Altura": 223,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 423,
@@ -6671,7 +6753,8 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 424,
@@ -6688,7 +6771,8 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 425,
@@ -6705,7 +6789,8 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 4,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 426,
@@ -6722,7 +6807,8 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 427,
@@ -6739,7 +6825,8 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  },
  {
   "IdArtigo": 428,
@@ -6756,6 +6843,7 @@
   "Largura": 274,
   "Altura": 240,
   "EsqLigacao": 3,
-  "Terminal": 1
+  "Terminal": 1,
+  "imgUrl": "https://github.com/redeinnovri/catalogo/blob/main/assets/images/cgatruck.png"
  }
 ]
