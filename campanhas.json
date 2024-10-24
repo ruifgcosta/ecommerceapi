@@ -7,6 +7,16 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_kroft.png",
-  "PdfUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Campanha Kroftools expoMECÂNICA Novembro 2024.pdf"
+  "PdfUrl": "https://www.dropbox.com/scl/fi/c4ulkw7b1ddhv1ukeb0ru/Campanha-Kroftools-expoMEC-NICA-Novembro2024.pdf?rlkey=bx952ne9t4m0jwh16z2er0acx&st=0ktwzp9j&dl=0"
+ },
+  {
+  "Id": 2,
+  "Titulo": "expoMecânica AUTEL",
+  "Descricao": "Campanha AUTEL expoMecânica - 8 a 15 de Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-15",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_autel.png",
+  "PdfUrl": "https://www.dropbox.com/scl/fi/agbcbz7nguh9ulaf7lo0n/RED-3-0-ExpoMecanica.pdf?rlkey=aotm4l6jwu0mk613zt5984e37&st=88dncuuc&dl=0"
  }
 ]
