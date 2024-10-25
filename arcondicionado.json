@@ -3004,7 +3004,7 @@
   "Produto": "Máquina",
   "Descricao": "KRISTAL BASE - Automática R-1234YF",
   "NomeComercial": "KRISTAL",
-  "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy21vUzWUcfrs4RqpHl_m5jU5ERPrnTKlNtg&s",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Kristal.jpg",
   "Gas": "R1234yf",
   "Funcionamento": "Totalmente Automática"
  },
@@ -9116,7 +9116,7 @@
   "Produto": "Máquina",
   "Descricao": "DUAL-Totalmente Automática R-134a - Convertível",
   "NomeComercial": "DUAL",
-  "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy21vUzWUcfrs4RqpHl_m5jU5ERPrnTKlNtg&s",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Dual.jpg",
   "Gas": "R134a, R1234yf",
   "Funcionamento": "Totalmente Automática"
  },
@@ -9902,7 +9902,7 @@
   "Produto": "Máquina",
   "Descricao": "KHEOS S/Impressora",
   "NomeComercial": "KHEOS",
-  "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy21vUzWUcfrs4RqpHl_m5jU5ERPrnTKlNtg&s",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Kheos.jpg",
   "Gas": "R134a",
   "Funcionamento": "Semi-Automática"
  },
@@ -9995,7 +9995,7 @@
   "Produto": "Máquina",
   "Descricao": "KHEOS PLUS S/impressora",
   "NomeComercial": "KHEOS PLUS",
-  "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy21vUzWUcfrs4RqpHl_m5jU5ERPrnTKlNtg&s",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Kheos%20Plus.jpg",
   "Gas": "R134a",
   "Funcionamento": "Automática"
  },
