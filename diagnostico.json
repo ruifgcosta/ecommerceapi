@@ -10,7 +10,8 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Logo%20Delphi.jpg",
   "Construtor": "Audi;VW",
   "CampanhaInicio": "2024-10-1",
-  "CampanhaFim": "2024-10-30"
+  "CampanhaFim": "2024-10-30",
+  "Expomecanica": "1"
  },
  {
   "IdArtigo": 2,
