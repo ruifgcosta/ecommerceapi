@@ -22,7 +22,10 @@
   "Descricao": "Cabo 14-Pin Mercedes/Vw Lt",
   "NomeComercial": "Cabo 14-Pin Mercedes/Vw Lt",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Logo%20Delphi.jpg",
-  "Construtor": "Mercedes-Benz"
+  "Construtor": "Mercedes-Benz",
+  "CampanhaInicio": "2024-10-1",
+  "CampanhaFim": "2024-10-30",
+  "Expomecanica": "0"
  },
  {
   "IdArtigo": 3,
