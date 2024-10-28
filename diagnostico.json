@@ -11,7 +11,7 @@
   "Construtor": "Audi;VW",
   "CampanhaInicio": "2024-10-1",
   "CampanhaFim": "2024-10-30",
-  "Expomecanica": "1"
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 2,
@@ -25,7 +25,7 @@
   "Construtor": "Mercedes-Benz",
   "CampanhaInicio": "2024-10-1",
   "CampanhaFim": "2024-10-30",
-  "Expomecanica": "0"
+  "Expomecanica": 0
  },
  {
   "IdArtigo": 3,
