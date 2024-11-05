@@ -17,7 +17,7 @@
   "DataFim": "2024-11-15",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_autel.png",
-  "PdfUrl": "https://www.dropbox.com/scl/fi/agbcbz7nguh9ulaf7lo0n/RED-3-0-ExpoMecanica.pdf?rlkey=aotm4l6jwu0mk613zt5984e37&st=88dncuuc&dl=0"
+  "PdfUrl": "../assets/pdf/campanhas/RED 3 0 ExpoMecanica.pdf"
  },
  {
   "Id": 3,
@@ -27,7 +27,7 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_haynes.png",
-  "PdfUrl": "https://www.dropbox.com/scl/fi/67896c4qwwsuzexgle4cp/Campanha-HAYNES-PRO-expoMEC-NICA-Novembro-2024.pdf?rlkey=a4u2zy4ij0ofv7xvxvzmyfwgg&st=hlnl3zx5&dl=0"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha HAYNES PRO expoMECÂNICA Novembro 2024.pdf"
  },
  {
   "Id": 4,
@@ -37,7 +37,7 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_ctr.png",
-  "PdfUrl": "https://www.dropbox.com/scl/fi/2wqb6kws16cwnx1ery5ys/Campanha-CTR-expoMEC-NICA-Novembro-2024.pdf?rlkey=wjjw24b56vp7j22pt85nbns56&st=m0qyqaj0&dl=0"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha CTR expoMECÂNICA Novembro 2024.pdf"
  },
  {
   "Id": 5,
@@ -47,7 +47,7 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_jbm.png",
-  "PdfUrl": "https://www.dropbox.com/scl/fi/gbwhmx3khz4es07zz5won/Campanha-JBM-expoMEC-NICA-Novembro-2024.pdf?rlkey=mq3p730suaddd9qkscoq4twin&st=ddnqdll4&dl=0"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha JBM expoMECÂNICA Novembro 2024.pdf"
  },
  {
   "Id": 6,
@@ -57,6 +57,6 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_wigam.png",
-  "PdfUrl": "https://www.dropbox.com/scl/fi/9x7ba062y4ub7cnqm5por/Campanha-WIGAM-expoMEC-NICA-Novembro-2024.pdf?rlkey=7coksjr9j5ip9ib1jr04penvb&st=6x87k9x2&dl=0"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha WIGAM expoMECÂNICA Novembro 2024.pdf"
  }
 ]
