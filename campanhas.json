@@ -7,7 +7,7 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_kroft.png",
-  "PdfUrl": "../assets/pdf/campanhas/Campanha Kroftools expoMECÂNICA Novembro 2024 (6).pdf"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha Kroftools expoMECÂNICA Novembro 2024"
  },
  {
   "Id": 2,
@@ -17,7 +17,7 @@
   "DataFim": "2024-11-15",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_autel.png",
-  "PdfUrl": "../assets/pdf/campanhas/RED 3 0 ExpoMecanica.pdf"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha AUTEL expoMECÂNICA Novembro 2024"
  },
  {
   "Id": 3,
@@ -27,7 +27,7 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_haynes.png",
-  "PdfUrl": "../assets/pdf/campanhas/Campanha HAYNES PRO expoMECÂNICA Novembro 2024.pdf"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha HAYNES PRO expoMECÂNICA Novembro 2024_rev02.pdf"
  },
  {
   "Id": 4,
@@ -37,7 +37,7 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_ctr.png",
-  "PdfUrl": "../assets/pdf/campanhas/Campanha CTR expoMECÂNICA Novembro 2024.pdf"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha CTR expoMECÂNICA Novembro 2024_rev02"
  },
  {
   "Id": 5,
@@ -57,7 +57,7 @@
   "DataFim": "2024-11-30",
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_wigam.png",
-  "PdfUrl": "../assets/pdf/campanhas/Campanha WIGAM expoMECÂNICA Novembro 2024.pdf"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha WIGAM expoMECÂNICA Novembro 2024_rev02.pdf"
  },
  {
   "Id": 7,
@@ -68,5 +68,15 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expomecanica_callcenter.png",
   "PdfUrl": "../assets/pdf/campanhas/Campanha CallCenter + HAYNES PRO expoMECÂNICA Novembro 2024_Rev02.pdf"
+ },
+ {
+  "Id": 8,
+  "Titulo": "expoMecânica DELPHI",
+  "Descricao": "Campanha DELPHI - 8 a 30 Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expomecanica_callcenter.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha DELPHI expoMECÂNICA Novembro 2024.pdf"
  }
 ]
