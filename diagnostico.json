@@ -8,10 +8,7 @@
   "Descricao": "Cabo Audi/Vw 2+2",
   "NomeComercial": "Cabo Audi/Vw 2+2",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Logo%20Delphi.jpg",
-  "Construtor": "Audi;VW",
-  "CampanhaInicio": "2024-10-1",
-  "CampanhaFim": "2024-10-30",
-  "Expomecanica": 1
+  "Construtor": "Audi;VW"
  },
  {
   "IdArtigo": 2,
@@ -22,10 +19,7 @@
   "Descricao": "Cabo 14-Pin Mercedes/Vw Lt",
   "NomeComercial": "Cabo 14-Pin Mercedes/Vw Lt",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Logo%20Delphi.jpg",
-  "Construtor": "Mercedes-Benz",
-  "CampanhaInicio": "2024-10-1",
-  "CampanhaFim": "2024-10-30",
-  "Expomecanica": 0
+  "Construtor": "Mercedes-Benz"
  },
  {
   "IdArtigo": 3,
@@ -684,7 +678,10 @@
   "Descricao": "Autel MaxiDAS DS900 - 24 meses de atualizações",
   "NomeComercial": "MaxiDAS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS900.png",
-  "FichaTecnica": "https://www.autelportugal.pt/ds900"
+  "FichaTecnica": "https://www.autelportugal.pt/ds900",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 65,
@@ -695,7 +692,10 @@
   "Descricao": "Autel MaxiDAS DS900BT - 24 meses de atualizações",
   "NomeComercial": "MaxiDAS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS900BT.png",
-  "FichaTecnica": "https://www.autelportugal.pt/ds900bt"
+  "FichaTecnica": "https://www.autelportugal.pt/ds900bt",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 66,
@@ -718,7 +718,10 @@
   "Descricao": "Autel MaxiSYS MS906 MAX - 24 meses de atualizações",
   "NomeComercial": "MaxiSYS",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS"
+  "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 68,
@@ -729,7 +732,10 @@
   "Descricao": "Autel MaxiSYS MS908S3",
   "NomeComercial": "MaxiSYS",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS"
+  "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 69,
@@ -740,7 +746,10 @@
   "Descricao": "Autel MaxiSYS MS909 - 24 meses de atualizações",
   "NomeComercial": "MaxiSYS",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS"
+  "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 70,
@@ -752,7 +761,10 @@
   "NomeComercial": "MaxiSYS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/MSUltra.png",
   "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS",
-  "FichaTecnica": "https://www.autelportugal.pt/ultra"
+  "FichaTecnica": "https://www.autelportugal.pt/ultra",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 71,
@@ -764,7 +776,10 @@
   "NomeComercial": "AutelEVKit",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/AutelEVKit.jpg",
   "ArtigoRelacionado": "MS909;MS919;MSUltra",
-  "FichaTecnica": "https://www.autelportugal.pt/ev_ki"
+  "FichaTecnica": "https://www.autelportugal.pt/ev_ki",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 72,
@@ -797,7 +812,10 @@
   "Descricao": "Autel IA900W - KIT Full - Sistema ADAS + Alinhamento de direções Full",
   "NomeComercial": "MaxiSYS ADAS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/IA900WAFull.png",
-  "FichaTecnica": "https://www.autelportugal.pt/ia900wa"
+  "FichaTecnica": "https://www.autelportugal.pt/ia900wa",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 75,
@@ -874,7 +892,10 @@
   "Descricao": "Autel IA600 - Kit Full",
   "NomeComercial": "MaxiSYS ADAS IA600",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/IA600basicfull.jpg",
-  "FichaTecnica": "https://www.autelportugal.pt/ia600"
+  "FichaTecnica": "https://www.autelportugal.pt/ia600",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 82,
@@ -917,7 +938,10 @@
   "Descricao": "Autel MaxiIM IM608 PRO II - 24 meses de atualizações",
   "NomeComercial": "MaxiIM",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/IM608PROII.jpg",
-  "FichaTecnica": "https://www.autelportugal.pt/im608prokpa"
+  "FichaTecnica": "https://www.autelportugal.pt/im608prokpa",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 86,
@@ -939,7 +963,10 @@
   "Descricao": "Autel MaxiIM GBOX3",
   "NomeComercial": "GBOX3",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "ArtigoRelacionado": "MaxiIM"
+  "ArtigoRelacionado": "MaxiIM",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 88,
@@ -950,7 +977,10 @@
   "Descricao": "Autel MaxiIM APB112",
   "NomeComercial": "APB112",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "ArtigoRelacionado": "MaxiIM"
+  "ArtigoRelacionado": "MaxiIM",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 89,
@@ -961,7 +991,10 @@
   "Descricao": "Autel IMKPA - Compativél com XP400 PRO",
   "NomeComercial": "IMKPA",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "ArtigoRelacionado": "MaxiIM"
+  "ArtigoRelacionado": "MaxiIM",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 90,
@@ -972,7 +1005,10 @@
   "Descricao": "Autel AKL Toyota 8A",
   "NomeComercial": "T8AAKL",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "ArtigoRelacionado": "MaxiIM"
+  "ArtigoRelacionado": "MaxiIM",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 91,
@@ -982,7 +1018,10 @@
   "Produto": "EV Máquinas",
   "Descricao": "Autel MaxiEV CDT100 - Descarregador / Carregador",
   "NomeComercial": "MaxiEV",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 92,
@@ -992,7 +1031,10 @@
   "Produto": "EV Máquinas",
   "Descricao": "Autel MaxiEV BCE100 - Balanceador de baterias EV",
   "NomeComercial": "MaxiEV",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 93,
@@ -1002,7 +1044,10 @@
   "Produto": "EV Máquinas",
   "Descricao": "Autel MaxiEV ALT100L - Testador de fugas",
   "NomeComercial": "MaxiEV",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 94,
@@ -1034,7 +1079,10 @@
   "Descricao": "Autel MaxiBAS BT608 - Testador de bateiras com impressora térmica",
   "NomeComercial": "MaxiBAS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/bt608.png",
-  "FichaTecnica": "https://www.autelportugal.pt/maxibas_bt608"
+  "FichaTecnica": "https://www.autelportugal.pt/maxibas_bt608",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 97,
@@ -1066,7 +1114,10 @@
   "Produto": "Sensores TPMS",
   "Descricao": "1Sensor - Sensor com válvula de Borracha",
   "NomeComercial": "Sensor Borracha",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 100,
@@ -1076,7 +1127,10 @@
   "Produto": "Sensores TPMS",
   "Descricao": "1Sensor - Sensor com válvula Metálica",
   "NomeComercial": "Sensor Metal",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 101,
@@ -1086,7 +1140,10 @@
   "Produto": "Sensores TPMS",
   "Descricao": "MX-Sensor BLE - Sensor TPMS Bluetooth ",
   "NomeComercial": "Sensor TPMS Bluetooth",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 102,
@@ -1096,7 +1153,10 @@
   "Produto": "Máquinas Pneus",
   "Descricao": "TBE200PRO  - Medidor de pneus + Discos de Travão",
   "NomeComercial": "Medidor Pneus + Disco Travão",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/tbe200pro.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/tbe200pro.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 103,
@@ -1106,7 +1166,10 @@
   "Produto": "Máquinas Pneus",
   "Descricao": "Autel MaxiTPMS ITS600 - Programador de vávulas TPMS",
   "NomeComercial": "Programador Válvulas TPMS",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/its600.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/its600.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 104,
@@ -1116,7 +1179,10 @@
   "Produto": "Equipamentos Auxiliares",
   "Descricao": "Camera Endoscopica MaxiVideo MV480",
   "NomeComercial": "Camera Endoscopica MaxiVideo",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/mv480.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/mv480.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 105,
@@ -1170,7 +1236,10 @@
   "Produto": "Cabos",
   "Descricao": "Autel Kit de Cabos - Em caixa plástica",
   "NomeComercial": "Kit Cabos - Caixa Plástica",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 110,
@@ -1290,7 +1359,10 @@
   "Produto": "EV Carregadores",
   "Descricao": "Autel MaxiCharger AC 22KW WallBox 4G - Socket",
   "NomeComercial": "MaxiCharger",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 121,
@@ -1300,7 +1372,10 @@
   "Produto": "EV Carregadores",
   "Descricao": "Autel MaxiCharger AC WallBox 22KW 3Ph 4G LCD - Cabo 5 metros",
   "NomeComercial": "MaxiCharger",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 122,
@@ -1309,7 +1384,10 @@
   "Referencia": "Flash150A12V",
   "Produto": "Equipamentos Auxiliares",
   "Descricao": "LDATech Flash 150A12V - Estabilizador de Corrente",
-  "NomeComercial": "Estabilizador de Corrente"
+  "NomeComercial": "Estabilizador de Corrente",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 123,
@@ -1318,7 +1396,10 @@
   "Referencia": "LDA150XL",
   "Produto": "Equipamentos Auxiliares",
   "Descricao": "LDATech LDA150XL - Carro de apoio ao diagnóstico",
-  "NomeComercial": "Carro de Apoio ao Diagnóstico"
+  "NomeComercial": "Carro de Apoio ao Diagnóstico",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 124,
@@ -1328,7 +1409,10 @@
   "Produto": "Chaves",
   "Descricao": "Kit de Chaves Inteligentes Autel",
   "NomeComercial": "Kit Chaves Autel",
-  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png"
+  "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 125,
@@ -1338,7 +1422,10 @@
   "Produto": "Equipamentos Auxiliares",
   "Descricao": "FEM TESTER - Simulador para programação chave BMW FEM + 2 IKEYBM004AL",
   "NomeComercial": "Testador FEM BMW",
-  "Construtor": "BMW"
+  "Construtor": "BMW",
+  "CampanhaInicio": "2024-11-1",
+  "CampanhaFim": "2024-11-30",
+  "Expomecanica": 1
  },
  {
   "IdArtigo": 126,
