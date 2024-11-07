@@ -1,1 +1,62 @@
-
+[
+ {
+  "Id": 1,
+  "Titulo": "expoMecânica Kroftools",
+  "Descricao": "Campanha Kroftools expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_kroft.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha Kroftools expoMECÂNICA Novembro 2024 (6).pdf"
+ },
+ {
+  "Id": 2,
+  "Titulo": "expoMecânica AUTEL",
+  "Descricao": "Campanha AUTEL expoMecânica - 25 Out. a 15 Nov. 2024",
+  "DataInicio": "2024-10-25",
+  "DataFim": "2024-11-15",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/RED 3 0 ExpoMecanica.pdf"
+ },
+ {
+  "Id": 3,
+  "Titulo": "expoMecânica HaynesPro",
+  "Descricao": "Campanha HaynesPro expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_haynes.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha HAYNES PRO expoMECÂNICA Novembro 2024.pdf"
+ },
+ {
+  "Id": 4,
+  "Titulo": "expoMecânica CTR",
+  "Descricao": "Campanha CTR expoMecânica - 8 a 30 Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_ctr.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha CTR expoMECÂNICA Novembro 2024.pdf"
+ },
+ {
+  "Id": 5,
+  "Titulo": "expoMecânica JBM",
+  "Descricao": "Campanha JBM expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_jbm.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha JBM expoMECÂNICA Novembro 2024.pdf"
+ },
+ {
+  "Id": 6,
+  "Titulo": "expoMecânica WIGAM",
+  "Descricao": "Campanha WIGAM expoMecânica - 8 a 30 Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_wigam.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha WIGAM expoMECÂNICA Novembro 2024.pdf"
+ }
+]
