@@ -58,5 +58,15 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_wigam.png",
   "PdfUrl": "../assets/pdf/campanhas/Campanha WIGAM expoMECÂNICA Novembro 2024.pdf"
+ },
+ {
+  "Id": 7,
+  "Titulo": "expoMecânica CallCenter + HAYNES PRO",
+  "Descricao": "Campanha CallCenter + HAYNES PRO expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_wigam.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha CallCenter + HAYNES PRO expoMECÂNICA Novembro 2024_Rev02.pdf"
  }
 ]
