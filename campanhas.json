@@ -88,5 +88,15 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
   "PdfUrl": "../assets/pdf/campanhas/RED - 3 0 - EOY 2024.pdf"
+ },
+ {
+  "Id": 10,
+  "Titulo": "Campanha BENDIX",
+  "Descricao": "Campanha BENDIX - Dezembro 2024",
+  "DataInicio": "2024-12-01",
+  "DataFim": "2024-12-31",
+  "Destaque": 0,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_bendix.png",
+  "PdfUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bendix_Dezembro.jpg"
  }
 ]
