@@ -98,5 +98,15 @@
   "Destaque": 0,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_bendix.png",
   "PdfUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bendix_Dezembro.jpg"
+ },
+ {
+  "Id": 11,
+  "Titulo": "Campanha Natal JBM",
+  "Descricao": "Campanha Natal JBM - Dezembro 2024",
+  "DataInicio": "2024-12-01",
+  "DataFim": "2024-12-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_jbm.png",
+  "PdfUrl": "../assets/pdf/campanhas/PT_FOLLETO SETS NAVIDAD 2024_V2_LQ.pdf"
  }
 ]
