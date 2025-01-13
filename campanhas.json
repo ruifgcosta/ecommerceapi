@@ -108,5 +108,15 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/jbm_natal.png",
   "PdfUrl": "../assets/pdf/campanhas/PT_FOLLETO SETS NAVIDAD 2024_V2_LQ.pdf"
+ },
+ {
+  "Id": 12,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - Jan & Fev 2025",
+  "DataInicio": "2025-01-01",
+  "DataFim": "2025-02-28",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/red30JANFEV2025.pdf"
  }
 ]
