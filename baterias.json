@@ -2155,7 +2155,6 @@
   "Referencia": "EV1600",
   "Descricao": "Bateria de alimentação EXIDE Equipment Li-Ion",
   "Bloco": "27F",
-  "Wh": 1600,
   "CapAh": 125,
   "CCAaEN": 400,
   "Comprimento": 318,
@@ -2164,7 +2163,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": "M8",
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1600
  },
  {
   "IdArtigo": 115,
@@ -2175,7 +2175,6 @@
   "Referencia": "ES290",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "P24",
-  "Wh": 290,
   "CapAh": 25,
   "Comprimento": 165,
   "Largura": 175,
@@ -2183,7 +2182,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": "M5",
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 290
  },
  {
   "IdArtigo": 116,
@@ -2194,7 +2194,6 @@
   "Referencia": "ES450",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "LB1",
-  "Wh": 450,
   "CapAh": 40,
   "Comprimento": 207,
   "Largura": 175,
@@ -2202,7 +2201,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 19,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 450
  },
  {
   "IdArtigo": 117,
@@ -2213,7 +2213,6 @@
   "Referencia": "ES650",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "L03",
-  "Wh": 650,
   "CapAh": 56,
   "Comprimento": 278,
   "Largura": 175,
@@ -2221,7 +2220,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 650
  },
  {
   "IdArtigo": 118,
@@ -2232,7 +2232,6 @@
   "Referencia": "ES900",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "L05",
-  "Wh": 900,
   "CapAh": 80,
   "Comprimento": 353,
   "Largura": 175,
@@ -2240,7 +2239,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 900
  },
  {
   "IdArtigo": 119,
@@ -2251,7 +2251,6 @@
   "Referencia": "ES950",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "D02",
-  "Wh": 950,
   "CapAh": 85,
   "Comprimento": 349,
   "Largura": 175,
@@ -2259,7 +2258,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 950
  },
  {
   "IdArtigo": 120,
@@ -2270,7 +2270,6 @@
   "Referencia": "ES1000-6",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "GC2",
-  "Wh": 1000,
   "CapAh": 195,
   "CCAaEN": "6V",
   "Comprimento": 244,
@@ -2279,7 +2278,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1000
  },
  {
   "IdArtigo": 121,
@@ -2290,7 +2290,6 @@
   "Referencia": "ES1100-6",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "GC2",
-  "Wh": 1100,
   "CapAh": 200,
   "CCAaEN": "6V",
   "Comprimento": 244,
@@ -2299,7 +2298,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": "M10",
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1100
  },
  {
   "IdArtigo": 122,
@@ -2310,7 +2310,6 @@
   "Referencia": "ES1200",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "D07",
-  "Wh": 1200,
   "CapAh": 110,
   "Comprimento": 286,
   "Largura": 269,
@@ -2318,7 +2317,8 @@
   "EsqLigacao": 2,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1200
  },
  {
   "IdArtigo": 123,
@@ -2329,7 +2329,6 @@
   "Referencia": "ES1300",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "D03",
-  "Wh": 1300,
   "CapAh": 120,
   "Comprimento": 349,
   "Largura": 175,
@@ -2337,7 +2336,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1300
  },
  {
   "IdArtigo": 124,
@@ -2348,7 +2348,6 @@
   "Referencia": "ES1350",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "D04",
-  "Wh": 1350,
   "CapAh": 120,
   "Comprimento": 513,
   "Largura": 189,
@@ -2356,7 +2355,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1350
  },
  {
   "IdArtigo": 125,
@@ -2367,7 +2367,6 @@
   "Referencia": "ES1600",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "D05",
-  "Wh": 1600,
   "CapAh": 140,
   "Comprimento": 513,
   "Largura": 223,
@@ -2375,7 +2374,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1600
  },
  {
   "IdArtigo": 126,
@@ -2386,7 +2386,6 @@
   "Referencia": "ES2400",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
   "Bloco": "D06",
-  "Wh": 2400,
   "CapAh": 210,
   "Comprimento": 518,
   "Largura": 274,
@@ -2394,7 +2393,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 2400
  },
  {
   "IdArtigo": 127,
@@ -2405,7 +2405,6 @@
   "Referencia": "EQ600",
   "Descricao": "Bateria de arranque EXIDE  Equipment AGM",
   "Bloco": "L03",
-  "Wh": 600,
   "CapAh": 70,
   "CCAaEN": 760,
   "Comprimento": 278,
@@ -2414,7 +2413,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 600
  },
  {
   "IdArtigo": 128,
@@ -2425,7 +2425,6 @@
   "Referencia": "EQ800",
   "Descricao": "Bateria de arranque EXIDE  Equipment AGM",
   "Bloco": "L05",
-  "Wh": 800,
   "CapAh": 95,
   "CCAaEN": 850,
   "Comprimento": 353,
@@ -2434,7 +2433,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 800
  },
  {
   "IdArtigo": 129,
@@ -2445,7 +2445,6 @@
   "Referencia": "EQ1000",
   "Descricao": "Bateria de arranque EXIDE  Equipment AGM",
   "Bloco": "D07",
-  "Wh": 1000,
   "CapAh": 120,
   "CCAaEN": 1225,
   "Comprimento": 286,
@@ -2454,7 +2453,8 @@
   "EsqLigacao": 2,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1000
  },
  {
   "IdArtigo": 130,
@@ -2465,7 +2465,6 @@
   "Referencia": "ET550",
   "Descricao": "Bateria de arranque EXIDE Equipment",
   "Bloco": "L03",
-  "Wh": 550,
   "CapAh": 80,
   "Comprimento": 278,
   "Largura": 175,
@@ -2473,7 +2472,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 550
  },
  {
   "IdArtigo": 131,
@@ -2484,7 +2484,6 @@
   "Referencia": "ET650",
   "Descricao": "Bateria de arranque EXIDE Equipment",
   "Bloco": "L05",
-  "Wh": 650,
   "CapAh": 100,
   "Comprimento": 350,
   "Largura": 175,
@@ -2492,7 +2491,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 650
  },
  {
   "IdArtigo": 132,
@@ -2503,7 +2503,6 @@
   "Referencia": "ET950",
   "Descricao": "Bateria de arranque EXIDE Equipment",
   "Bloco": "D04",
-  "Wh": 950,
   "CapAh": 135,
   "Comprimento": 513,
   "Largura": 189,
@@ -2511,7 +2510,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 950
  },
  {
   "IdArtigo": 133,
@@ -2522,7 +2522,6 @@
   "Referencia": "ET1300",
   "Descricao": "Bateria de arranque EXIDE Equipment",
   "Bloco": "D05",
-  "Wh": 1300,
   "CapAh": 180,
   "Comprimento": 513,
   "Largura": 223,
@@ -2530,7 +2529,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1300
  },
  {
   "IdArtigo": 134,
@@ -2541,7 +2541,6 @@
   "Referencia": "ET1600",
   "Descricao": "Bateria de arranque EXIDE Equipment",
   "Bloco": "D06",
-  "Wh": 1600,
   "CapAh": 230,
   "Comprimento": 518,
   "Largura": 274,
@@ -2549,7 +2548,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1600
  },
  {
   "IdArtigo": 135,
@@ -2560,7 +2560,6 @@
   "Referencia": "EP450",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
   "Bloco": "G34",
-  "Wh": 450,
   "CapAh": 50,
   "CCAaEN": 750,
   "Comprimento": 260,
@@ -2569,7 +2568,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": "SAE",
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 450
  },
  {
   "IdArtigo": 136,
@@ -2580,7 +2580,6 @@
   "Referencia": "EP500",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
   "Bloco": "L02",
-  "Wh": 500,
   "CapAh": 60,
   "CCAaEN": 680,
   "Comprimento": 242,
@@ -2589,7 +2588,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 500
  },
  {
   "IdArtigo": 137,
@@ -2600,7 +2600,6 @@
   "Referencia": "EP600",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
   "Bloco": "L03",
-  "Wh": 600,
   "CapAh": 70,
   "CCAaEN": 760,
   "Comprimento": 278,
@@ -2609,7 +2608,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 600
  },
  {
   "IdArtigo": 138,
@@ -2620,7 +2620,6 @@
   "Referencia": "EP800",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
   "Bloco": "L05",
-  "Wh": 800,
   "CapAh": 95,
   "CCAaEN": 850,
   "Comprimento": 353,
@@ -2629,7 +2628,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 800
  },
  {
   "IdArtigo": 139,
@@ -2640,7 +2640,6 @@
   "Referencia": "EP900",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
   "Bloco": "G31",
-  "Wh": 900,
   "CapAh": 100,
   "CCAaEN": 800,
   "Comprimento": 330,
@@ -2649,7 +2648,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": "SAE",
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 900
  },
  {
   "IdArtigo": 140,
@@ -2660,7 +2660,6 @@
   "Referencia": "EP1200",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
   "Bloco": "D04",
-  "Wh": 1200,
   "CapAh": 140,
   "CCAaEN": 700,
   "Comprimento": 513,
@@ -2669,7 +2668,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1200
  },
  {
   "IdArtigo": 141,
@@ -2680,7 +2680,6 @@
   "Referencia": "EP1500",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
   "Bloco": "D05",
-  "Wh": 1500,
   "CapAh": 180,
   "CCAaEN": 900,
   "Comprimento": 513,
@@ -2689,7 +2688,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1500
  },
  {
   "IdArtigo": 142,
@@ -2700,7 +2700,6 @@
   "Referencia": "EP2100",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
   "Bloco": "D06",
-  "Wh": 2100,
   "CapAh": 240,
   "CCAaEN": 1200,
   "Comprimento": 518,
@@ -2709,7 +2708,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 2100
  },
  {
   "IdArtigo": 143,
@@ -2720,7 +2720,6 @@
   "Referencia": "EZ600",
   "Descricao": "Bateria de arranque EXIDE DUAL EFB",
   "Bloco": "L03",
-  "Wh": 600,
   "CapAh": 70,
   "CCAaEN": 760,
   "Comprimento": 278,
@@ -2729,7 +2728,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 600
  },
  {
   "IdArtigo": 144,
@@ -2740,7 +2740,6 @@
   "Referencia": "EZ650",
   "Descricao": "Bateria de arranque EXIDE DUAL EFB",
   "Bloco": "D26",
-  "Wh": 850,
   "CapAh": 75,
   "CCAaEN": 750,
   "Comprimento": 270,
@@ -2749,7 +2748,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 850
  },
  {
   "IdArtigo": 145,
@@ -2760,7 +2760,6 @@
   "Referencia": "EZ850",
   "Descricao": "Bateria de arranque EXIDE DUAL EFB",
   "Bloco": "L05",
-  "Wh": 850,
   "CapAh": 100,
   "CCAaEN": 900,
   "Comprimento": 353,
@@ -2769,7 +2768,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 850
  },
  {
   "IdArtigo": 146,
@@ -2780,7 +2780,6 @@
   "Referencia": "ER350",
   "Descricao": "Bateria de arranque EXIDE DUAL",
   "Bloco": "D26",
-  "Wh": 350,
   "CapAh": 80,
   "CCAaEN": 510,
   "Comprimento": 270,
@@ -2789,7 +2788,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 350
  },
  {
   "IdArtigo": 147,
@@ -2800,7 +2800,6 @@
   "Referencia": "ER450",
   "Descricao": "Bateria de arranque EXIDE DUAL",
   "Bloco": "D31",
-  "Wh": 450,
   "CapAh": 95,
   "CCAaEN": 650,
   "Comprimento": 306,
@@ -2809,7 +2808,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 450
  },
  {
   "IdArtigo": 148,
@@ -2820,7 +2820,6 @@
   "Referencia": "ER550",
   "Descricao": "Bateria de arranque EXIDE DUAL",
   "Bloco": "D02",
-  "Wh": 550,
   "CapAh": 115,
   "CCAaEN": 760,
   "Comprimento": 349,
@@ -2829,7 +2828,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 550
  },
  {
   "IdArtigo": 149,
@@ -2840,7 +2840,6 @@
   "Referencia": "ER650",
   "Descricao": "Bateria de arranque EXIDE DUAL",
   "Bloco": "D03",
-  "Wh": 650,
   "CapAh": 142,
   "CCAaEN": 850,
   "Comprimento": 349,
@@ -2849,7 +2848,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 650
  },
  {
   "IdArtigo": 150,
@@ -2860,7 +2860,6 @@
   "Referencia": "ER660",
   "Descricao": "Bateria de arranque EXIDE DUAL",
   "Bloco": "D04",
-  "Wh": 660,
   "CapAh": 140,
   "CCAaEN": 750,
   "Comprimento": 513,
@@ -2869,7 +2868,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 660
  },
  {
   "IdArtigo": 151,
@@ -2880,7 +2880,6 @@
   "Referencia": "ER850",
   "Descricao": "Bateria de arranque EXIDE DUAL",
   "Bloco": "D05",
-  "Wh": 850,
   "CapAh": 180,
   "CCAaEN": 1000,
   "Comprimento": 513,
@@ -2889,7 +2888,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 850
  },
  {
   "IdArtigo": 152,
@@ -2900,7 +2900,6 @@
   "Referencia": "EM900",
   "Descricao": "Bateria de arranque EXIDE START AGM",
   "Bloco": "G86",
-  "Wh": 900,
   "CapAh": 42,
   "CCAaEN": 700,
   "Comprimento": 230,
@@ -2909,7 +2908,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": "SAE",
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 900
  },
  {
   "IdArtigo": 153,
@@ -2920,7 +2920,6 @@
   "Referencia": "EM1000",
   "Descricao": "Bateria de arranque EXIDE START AGM",
   "Bloco": "G34",
-  "Wh": 1000,
   "CapAh": 50,
   "CCAaEN": 800,
   "Comprimento": 260,
@@ -2929,7 +2928,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": "SAE",
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1000
  },
  {
   "IdArtigo": 154,
@@ -2940,7 +2940,6 @@
   "Referencia": "EM960",
   "Descricao": "Bateria de arranque EXIDE START AGM",
   "Bloco": "G31",
-  "Wh": 960,
   "CapAh": 100,
   "CCAaEN": 800,
   "Comprimento": 330,
@@ -2949,7 +2948,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": "SAE",
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 960
  },
  {
   "IdArtigo": 155,
@@ -2960,7 +2960,6 @@
   "Referencia": "EN500",
   "Descricao": "Bateria de arranque EXIDE START",
   "Bloco": "L01",
-  "Wh": 500,
   "CapAh": 50,
   "CCAaEN": 450,
   "Comprimento": 210,
@@ -2969,7 +2968,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 500
  },
  {
   "IdArtigo": 156,
@@ -2980,7 +2980,6 @@
   "Referencia": "EN600",
   "Descricao": "Bateria de arranque EXIDE START",
   "Bloco": "L02",
-  "Wh": 600,
   "CapAh": 62,
   "CCAaEN": 540,
   "Comprimento": 242,
@@ -2989,7 +2988,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 600
  },
  {
   "IdArtigo": 157,
@@ -3000,7 +3000,6 @@
   "Referencia": "EN750",
   "Descricao": "Bateria de arranque EXIDE START",
   "Bloco": "L03",
-  "Wh": 750,
   "CapAh": 74,
   "CCAaEN": 680,
   "Comprimento": 278,
@@ -3009,7 +3008,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 750
  },
  {
   "IdArtigo": 158,
@@ -3020,7 +3020,6 @@
   "Referencia": "EN800",
   "Descricao": "Bateria de arranque EXIDE START",
   "Bloco": "L05",
-  "Wh": 800,
   "CapAh": 90,
   "CCAaEN": 720,
   "Comprimento": 353,
@@ -3029,7 +3028,8 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 800
  },
  {
   "IdArtigo": 159,
@@ -3040,7 +3040,6 @@
   "Referencia": "EN850",
   "Descricao": "Bateria de arranque EXIDE START",
   "Bloco": "D02",
-  "Wh": 850,
   "CapAh": 110,
   "CCAaEN": 750,
   "Comprimento": 349,
@@ -3049,7 +3048,8 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 850
  },
  {
   "IdArtigo": 160,
@@ -3060,7 +3060,6 @@
   "Referencia": "EN900",
   "Descricao": "Bateria de arranque EXIDE START",
   "Bloco": "D04",
-  "Wh": 900,
   "CapAh": 140,
   "CCAaEN": 800,
   "Comprimento": 513,
@@ -3069,7 +3068,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 900
  },
  {
   "IdArtigo": 161,
@@ -3080,7 +3080,6 @@
   "Referencia": "EN1100",
   "Descricao": "Bateria de arranque EXIDE START",
   "Bloco": "D05",
-  "Wh": 1100,
   "CapAh": 180,
   "CCAaEN": 1000,
   "Comprimento": 513,
@@ -3089,7 +3088,8 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 1100
  },
  {
   "IdArtigo": 162,
@@ -3213,13 +3213,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELTZ5S",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 24,
   "CCAaEN": 120,
   "Comprimento": 113,
   "Largura": 70,
   "Altura": 85,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 24
  },
  {
   "IdArtigo": 169,
@@ -3229,13 +3229,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELTZ7S",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 28.8,
   "CCAaEN": 150,
   "Comprimento": 113,
   "Largura": 70,
   "Altura": 85,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 28.8
  },
  {
   "IdArtigo": 170,
@@ -3245,13 +3245,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELTX9",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 36,
   "CCAaEN": 180,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 105,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 36
  },
  {
   "IdArtigo": 171,
@@ -3261,13 +3261,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELT9B",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 36,
   "CCAaEN": 190,
   "Comprimento": 150,
   "Largura": 65,
   "Altura": 92,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 36
  },
  {
   "IdArtigo": 172,
@@ -3277,13 +3277,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELTX12",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 42,
   "CCAaEN": 210,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 93,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 42
  },
  {
   "IdArtigo": 173,
@@ -3293,13 +3293,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELTZ10S",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 48,
   "CCAaEN": 230,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 93,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 48
  },
  {
   "IdArtigo": 174,
@@ -3309,13 +3309,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELTX14H",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 48,
   "CCAaEN": 240,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 93,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 48
  },
  {
   "IdArtigo": 175,
@@ -3325,13 +3325,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELT12B",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 60,
   "CCAaEN": 260,
   "Comprimento": 150,
   "Largura": 65,
   "Altura": 130,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 60
  },
  {
   "IdArtigo": 176,
@@ -3341,13 +3341,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELTZ14S",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 60,
   "CCAaEN": 290,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 93,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 60
  },
  {
   "IdArtigo": 177,
@@ -3357,13 +3357,13 @@
   "Marca": "EXIDE",
   "Referencia": "ELTX20H",
   "Descricao": "Bateria de arranque EXIDE Li-ion",
-  "Wh": 84,
   "CCAaEN": 380,
   "Comprimento": 175,
   "Largura": 87,
   "Altura": 130,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
-  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z",
+  "Wh": 84
  },
  {
   "IdArtigo": 178,
@@ -5494,7 +5494,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CTR4ABS",
   "Descricao": "Bateria Mota AGM 12V 2,3AH +Dir.    ",
-  "CapAh": 45,
+  "CapAh": 2.3,
+  "CCAaEN": 45,
   "Comprimento": 113,
   "Largura": 48,
   "Altura": 85
@@ -5507,7 +5508,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX4B-BS",
   "Descricao": "Bateria Mota AGM 12V 2,3AH +Dir./CT4BBS",
-  "CapAh": 40,
+  "CapAh": 2.3,
+  "CCAaEN": 40,
   "Comprimento": 113,
   "Largura": 38,
   "Altura": 85.5
@@ -5520,7 +5522,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX4L-BS",
   "Descricao": "Bateria Mota AGM 12V 3AH +Dir.    ",
-  "CapAh": 50,
+  "CapAh": 3,
+  "CCAaEN": 50,
   "Comprimento": 113,
   "Largura": 70,
   "Altura": 85
@@ -5533,7 +5536,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX5L-BS",
   "Descricao": "Bateria Mota AGM 12V 4AH +Dir.    ",
-  "CapAh": 70,
+  "CapAh": 4,
+  "CCAaEN": 70,
   "Comprimento": 113,
   "Largura": 70,
   "Altura": 105
@@ -5546,7 +5550,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CTZ5-BS",
   "Descricao": "Bateria Mota AGM 12V 4AH +Dir.    ",
-  "CapAh": 50,
+  "CapAh": 4,
+  "CCAaEN": 50,
   "Comprimento": 113,
   "Largura": 70,
   "Altura": 85
@@ -5559,7 +5564,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX7A-BS",
   "Descricao": "Bateria Mota AGM 12V 6AH +Esq.",
-  "CapAh": 90,
+  "CapAh": 6,
+  "CCAaEN": 90,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 93
@@ -5572,7 +5578,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX7L-BS",
   "Descricao": "Bateria Mota AGM 12V 6AH +Dir.",
-  "CapAh": 85,
+  "CapAh": 6,
+  "CCAaEN": 85,
   "Comprimento": 113,
   "Largura": 70,
   "Altura": 130
@@ -5585,7 +5592,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CT7BBS",
   "Descricao": "Bateria Mota AGM 12V 6,5AH +Esq.",
-  "CapAh": 70,
+  "CapAh": 6.5,
+  "CCAaEN": 70,
   "Comprimento": 150,
   "Largura": 65,
   "Altura": 93
@@ -5598,7 +5606,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CTZ7-S",
   "Descricao": "Bateria Mota AGM 12V 5AH +Dir.",
-  "CapAh": 85,
+  "CapAh": 5,
+  "CCAaEN": 85,
   "Comprimento": 113,
   "Largura": 70,
   "Altura": 105
@@ -5611,7 +5620,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX9-BS",
   "Descricao": "Bateria Mota AGM 12V 8AH +Esq.",
-  "CapAh": 120,
+  "CapAh": 8,
+  "CCAaEN": 120,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 105
@@ -5624,7 +5634,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CT9B-BS (MF)",
   "Descricao": "Bateria Mota AGM 12V 8AH +Esq.",
-  "CapAh": 90,
+  "CapAh": 8,
+  "CCAaEN": 90,
   "Comprimento": 150,
   "Largura": 65,
   "Altura": 105
@@ -5637,7 +5648,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CTZ10S (MF)",
   "Descricao": "Bateria Mota AGM 12V 8,6AH +Esq.",
-  "CapAh": 130,
+  "CapAh": 8.6,
+  "CCAaEN": 130,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 95
@@ -5650,7 +5662,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX12-BS",
   "Descricao": "Bateria Mota AGM 12V 10AH +Esq. /CB12B-B2",
-  "CapAh": 180,
+  "CapAh": 10,
+  "CCAaEN": 180,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 130
@@ -5663,7 +5676,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX12A-BS",
   "Descricao": "Bateria Mota AGM 12V 9,5AH +Esq./CT12ABS",
-  "CapAh": 140,
+  "CapAh": 9.5,
+  "CCAaEN": 140,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 105
@@ -5676,7 +5690,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CT12BBS",
   "Descricao": "Bateria Mota AGM 12V 10AH +Esq.",
-  "CapAh": 125,
+  "CapAh": 10,
+  "CCAaEN": 125,
   "Comprimento": 150,
   "Largura": 69,
   "Altura": 130
@@ -5689,7 +5704,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CTZ12S (MF)",
   "Descricao": "Bateria Mota AGM 12V 11AH +Esq.",
-  "CapAh": 140,
+  "CapAh": 11,
+  "CCAaEN": 140,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 110
@@ -5702,7 +5718,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX14-BS",
   "Descricao": "Bateria Mota AGM 12V 12AH +Esq.",
-  "CapAh": 200,
+  "CapAh": 12,
+  "CCAaEN": 200,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 145
@@ -5715,7 +5732,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CT14B-BS  (MF)",
   "Descricao": "Bateria Mota AGM 12V 12AH +Esq.",
-  "CapAh": 140,
+  "CapAh": 12,
+  "CCAaEN": 140,
   "Comprimento": 150,
   "Largura": 70,
   "Altura": 145
@@ -5728,7 +5746,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CTZ14S (MF)",
   "Descricao": "Bateria Mota AGM 12V 11AH +Esq.",
-  "CapAh": 140,
+  "CapAh": 11,
+  "CCAaEN": 140,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 110
@@ -5741,7 +5760,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX16BS",
   "Descricao": "Bateria Mota AGM 12V 14AH +Esq.",
-  "CapAh": 230,
+  "CapAh": 14,
+  "CCAaEN": 230,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 161
@@ -5754,7 +5774,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX20CH-BS",
   "Descricao": "Bateria Mota AGM 12V 18AH +Esq.",
-  "CapAh": 240,
+  "CapAh": 18,
+  "CCAaEN": 240,
   "Comprimento": 150,
   "Largura": 87,
   "Altura": 161
@@ -5767,7 +5788,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CBTX20L-BS",
   "Descricao": "Bateria Mota AGM 12V 18AH +Dir.",
-  "CapAh": 270,
+  "CapAh": 18,
+  "CCAaEN": 270,
   "Comprimento": 175,
   "Largura": 87,
   "Altura": 155
@@ -5780,7 +5802,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CP1812",
   "Descricao": "Bateria Mota AGM 12V 20AH +Dir. /12N20AH",
-  "CapAh": 170,
+  "CapAh": 20,
+  "CCAaEN": 170,
   "Comprimento": 181,
   "Largura": 77,
   "Altura": 167
@@ -5793,7 +5816,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB3L-A",
   "Descricao": "Bateria Mota 12V 3AH +Dir. ",
-  "CapAh": 35,
+  "CapAh": 3,
+  "CCAaEN": 35,
   "Comprimento": 98,
   "Largura": 56,
   "Altura": 110
@@ -5806,7 +5830,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB4L-B",
   "Descricao": "Bateria Mota 12V 4AH +Dir. ",
-  "CapAh": 45,
+  "CapAh": 4,
+  "CCAaEN": 45,
   "Comprimento": 120,
   "Largura": 70,
   "Altura": 92
@@ -5819,7 +5844,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB5L-B",
   "Descricao": "Bateria Mota 12V 5AH +Dir. /12N53B",
-  "CapAh": 60,
+  "CapAh": 5,
+  "CCAaEN": 60,
   "Comprimento": 120,
   "Largura": 60,
   "Altura": 130
@@ -5832,7 +5858,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB7-A",
   "Descricao": "Bateria Mota 12V 8AH +Esq.  ",
-  "CapAh": 100,
+  "CapAh": 8,
+  "CCAaEN": 100,
   "Comprimento": 135,
   "Largura": 75,
   "Altura": 133
@@ -5845,7 +5872,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB7CA",
   "Descricao": "Bateria Mota 12V 8AH +Dir.   ",
-  "CapAh": 90,
+  "CapAh": 8,
+  "CCAaEN": 90,
   "Comprimento": 130,
   "Largura": 90,
   "Altura": 114
@@ -5858,7 +5886,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB7L-B2 ",
   "Descricao": "Bateria Mota 12V 8AH +Dir. /12N7-3B",
-  "CapAh": 90,
+  "CapAh": 8,
+  "CCAaEN": 90,
   "Comprimento": 135,
   "Largura": 75,
   "Altura": 133
@@ -5871,7 +5900,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB9L-A2",
   "Descricao": "Bateria Mota 12V 9AH +Dir. /CB9L-B",
-  "CapAh": 100,
+  "CapAh": 9,
+  "CCAaEN": 100,
   "Comprimento": 135,
   "Largura": 75,
   "Altura": 139
@@ -5884,7 +5914,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB9-B",
   "Descricao": "Bateria Mota 12V 9AH +Esq. /12N94B1",
-  "CapAh": 100,
+  "CapAh": 9,
+  "CCAaEN": 100,
   "Comprimento": 135,
   "Largura": 75,
   "Altura": 139
@@ -5897,7 +5928,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB10L-A2",
   "Descricao": "Bateria Mota 12V 11AH +Dir./12N103A/CB10LB2",
-  "CapAh": 160,
+  "CapAh": 11,
+  "CCAaEN": 160,
   "Comprimento": 135,
   "Largura": 90,
   "Altura": 145
@@ -5910,7 +5942,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB12A-A",
   "Descricao": "Bateria Mota 12V 12AH +Esq. /12N12A-4A-1/CB12AB/CB12CA",
-  "CapAh": 155,
+  "CapAh": 12,
+  "CCAaEN": 155,
   "Comprimento": 134,
   "Largura": 80,
   "Altura": 160
@@ -5923,7 +5956,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB12AL-A2",
   "Descricao": "Bateria Mota 12V 12AH +Dir. /CB12AL-A",
-  "CapAh": 155,
+  "CapAh": 12,
+  "CCAaEN": 155,
   "Comprimento": 134,
   "Largura": 80,
   "Altura": 160
@@ -5936,7 +5970,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB14-A2",
   "Descricao": "Bateria Mota 12V 14AH +Esq. /CB14AA2",
-  "CapAh": 185,
+  "CapAh": 14,
+  "CCAaEN": 185,
   "Comprimento": 134,
   "Largura": 89,
   "Altura": 166
@@ -5949,7 +5984,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB14-B2",
   "Descricao": "Bateria Mota 12V 14AH +Esq.    ",
-  "CapAh": 185,
+  "CapAh": 14,
+  "CCAaEN": 185,
   "Comprimento": 134,
   "Largura": 89,
   "Altura": 166
@@ -5962,7 +5998,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB14L-A2",
   "Descricao": "Bateria Mota 12V 14AH +Dir. /12N14-3A",
-  "CapAh": 185,
+  "CapAh": 14,
+  "CCAaEN": 185,
   "Comprimento": 134,
   "Largura": 89,
   "Altura": 166
@@ -5975,7 +6012,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB14L-B2",
   "Descricao": "Bateria Mota 12V 14AH +Dir.    ",
-  "CapAh": 185,
+  "CapAh": 14,
+  "CCAaEN": 185,
   "Comprimento": 134,
   "Largura": 89,
   "Altura": 166
@@ -5988,7 +6026,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB16AL-A2",
   "Descricao": "Bateria Mota 12V 16AH +Esq.",
-  "CapAh": 220,
+  "CapAh": 16,
+  "CCAaEN": 220,
   "Comprimento": 205,
   "Largura": 70,
   "Altura": 162
@@ -6001,7 +6040,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB16B-A",
   "Descricao": "Bateria Mota 12V 16AH +Esq. /CB16B-A1",
-  "CapAh": 210,
+  "CapAh": 16,
+  "CCAaEN": 210,
   "Comprimento": 160,
   "Largura": 90,
   "Altura": 161
@@ -6014,7 +6054,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "HCB16A-A",
   "Descricao": "Bateria Mota 12V 16AH +Esq.    ",
-  "CapAh": 160,
+  "CapAh": 16,
+  "CCAaEN": 160,
   "Comprimento": 151,
   "Largura": 91,
   "Altura": 180
@@ -6027,7 +6068,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB16LB",
   "Descricao": "Bateria Mota 12V 19AH +Dir. /CB16CL-B/CB18LA",
-  "CapAh": 230,
+  "CapAh": 19,
+  "CCAaEN": 230,
   "Comprimento": 175,
   "Largura": 100,
   "Altura": 155
@@ -6040,7 +6082,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "C50N18L-A",
   "Descricao": "Bateria Mota 12V 20AH +Dir. /12N183A",
-  "CapAh": 250,
+  "CapAh": 20,
+  "CCAaEN": 250,
   "Comprimento": 205,
   "Largura": 90,
   "Altura": 162
@@ -6053,7 +6096,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "C60N30L-A",
   "Descricao": "Bateria Mota 12V 30AH +Dir.    ",
-  "CapAh": 320,
+  "CapAh": 30,
+  "CCAaEN": 320,
   "Comprimento": 187,
   "Largura": 130,
   "Altura": 170
@@ -6066,7 +6110,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "CB30LB",
   "Descricao": "Bateria Mota 12V 30AH +Dir. /CB30CLB  ",
-  "CapAh": 345,
+  "CapAh": 30,
+  "CCAaEN": 345,
   "Comprimento": 168,
   "Largura": 132,
   "Altura": 176
@@ -6131,7 +6176,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "6N2-2A",
   "Descricao": "Bateria Mota 6V 2AH +Esq.",
-  "CapAh": 20,
+  "CapAh": 2,
+  "CCAaEN": 20,
   "Comprimento": 70,
   "Largura": 46,
   "Altura": 95
@@ -6144,7 +6190,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "6N4-2A",
   "Descricao": "Bateria Mota 6V 4AH +Esq.",
-  "CapAh": 30,
+  "CapAh": 4,
+  "CCAaEN": 30,
   "Comprimento": 70,
   "Largura": 70,
   "Altura": 95
@@ -6157,7 +6204,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "6N4-2A-4",
   "Descricao": "Bateria Mota 6V 4AH +Dir.",
-  "CapAh": 30,
+  "CapAh": 4,
+  "CCAaEN": 30,
   "Comprimento": 70,
   "Largura": 70,
   "Altura": 95
@@ -6170,7 +6218,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "6CB8-3B",
   "Descricao": "Bateria Mota 6V 8AH +Dir.",
-  "CapAh": 64,
+  "CapAh": 8,
+  "CCAaEN": 64,
   "Comprimento": 120,
   "Largura": 70,
   "Altura": 95
@@ -6183,7 +6232,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "B49-6",
   "Descricao": "Bateria Mota 6V 10AH +Esq.",
-  "CapAh": 90,
+  "CapAh": 10,
+  "CCAaEN": 90,
   "Comprimento": 91,
   "Largura": 83,
   "Altura": 161
@@ -6196,7 +6246,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "6N11A-3A",
   "Descricao": "Bateria Mota 6V 11AH +Dir.",
-  "CapAh": 100,
+  "CapAh": 11,
+  "CCAaEN": 100,
   "Comprimento": 120,
   "Largura": 60,
   "Altura": 130
@@ -6209,7 +6260,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "B38-6A",
   "Descricao": "Bateria Mota 6V 13AH +Dir.",
-  "CapAh": 120,
+  "CapAh": 13,
+  "CCAaEN": 120,
   "Comprimento": 119,
   "Largura": 83,
   "Altura": 161
@@ -6222,7 +6274,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "12N5.5A-3B",
   "Descricao": "Bateria Mota 12V 5,5AH +Dir.",
-  "CapAh": 50,
+  "CapAh": 5.5,
+  "CCAaEN": 50,
   "Comprimento": 103,
   "Largura": 90,
   "Altura": 114
@@ -6235,7 +6288,8 @@
   "Marca": "JP BATERIAS",
   "Referencia": "12N10-3B",
   "Descricao": "Bateria Mota 12V 10AH +Dir. /CB10LB",
-  "CapAh": 110,
+  "CapAh": 10,
+  "CCAaEN": 110,
   "Comprimento": 135,
   "Largura": 90,
   "Altura": 145
