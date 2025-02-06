@@ -118,5 +118,15 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
   "PdfUrl": "../assets/pdf/campanhas/red30JANFEV2025.pdf"
+ },
+ {
+  "Id": 13,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - 5 a 28 Fev 2025",
+  "DataInicio": "2025-02-05",
+  "DataFim": "2025-02-28",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/CampanhaKroftoolsFev25.pdf"
  }
 ]
