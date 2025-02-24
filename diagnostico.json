@@ -679,8 +679,8 @@
   "NomeComercial": "MaxiDAS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS900.png",
   "FichaTecnica": "https://www.autelportugal.pt/ds900",
-  "CampanhaInicio": "2025-02-1",
-  "CampanhaFim": "2025-02-30",
+  "CampanhaInicio": "2024-02-1",
+  "CampanhaFim": "2024-02-30",
   "Expomecanica": 1
  },
  {
@@ -693,8 +693,8 @@
   "NomeComercial": "MaxiDAS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS900BT.png",
   "FichaTecnica": "https://www.autelportugal.pt/ds900bt",
-  "CampanhaInicio": "2025-02-1",
-  "CampanhaFim": "2025-02-30",
+  "CampanhaInicio": "2024-02-1",
+  "CampanhaFim": "2024-02-30",
   "Expomecanica": 0
  },
  {
