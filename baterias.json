@@ -6311,7 +6311,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/woo00wq15nee9ntznd3vj/CGA0470B-FICHA-TECNICA.pdf?rlkey=glfb81t1kf8y9gxnc6l11jj5b&st=dbfkopux&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50500B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 366,
@@ -6329,7 +6331,9 @@
   "Altura": 175,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50520B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 367,
@@ -6347,7 +6351,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50520",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 368,
@@ -6365,7 +6371,9 @@
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50521",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 369,
@@ -6383,7 +6391,9 @@
   "Altura": 175,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50600B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 370,
@@ -6402,7 +6412,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/492nvie1471xs9gncxgop/CGA0600B-FICHA-TECNICA.pdf?rlkey=6ixm2ejof82ysiblgruu7wu49&st=l11v0bsf&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50650B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 371,
@@ -6421,7 +6433,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/696rn19evt40en8depzbu/CGA0600-FICHA-TECNICA.pdf?rlkey=5brhua3fl79mua3fbm8rsyt2h&st=1hprbndq&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50650",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 372,
@@ -6439,7 +6453,9 @@
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50651",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 373,
@@ -6458,7 +6474,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/pdqlqem1lhhmds121xqum/CGA720B-FICHA-TECNICA.pdf?rlkey=jhrud0ic4921j05yxjpivoyj0&st=u73l1etz&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50740B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 374,
@@ -6476,7 +6494,9 @@
   "Altura": 175,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50760B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 375,
@@ -6495,7 +6515,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/oabhoo0fod6v0j9fkawwf/CGA0740-FICHA-TECNICA.pdf?rlkey=07di7u9jckt2ecilzfts3us9m&st=94mjuxps&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50760",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 376,
@@ -6513,7 +6535,9 @@
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50761",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 377,
@@ -6532,7 +6556,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/vgmd5urf58ipxi65q1q9h/CGA0820-FICHA-TECNICA.pdf?rlkey=pidbcvz5fxk7zqxyhwmw1psq0&st=6bwulw1o&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50900B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 378,
@@ -6550,7 +6576,9 @@
   "Altura": 175,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA50950B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 379,
@@ -6568,7 +6596,9 @@
   "Altura": 175,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA51000B",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 380,
@@ -6587,7 +6617,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/dm1uv5xtdhywecjwctam6/CGA0950-FICHA-TECNICA.pdf?rlkey=npzjo81pac353jpo37shlf2fd&st=26p2k59x&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA51000",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 381,
@@ -6605,7 +6637,9 @@
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA51001",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 382,
@@ -6623,7 +6657,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png",
+  "RefSubstituta": "CGA51100",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
   "IdArtigo": 383,
@@ -6641,7 +6677,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png",
+  "RefSubstituta": "CGA50570",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
   "IdArtigo": 384,
@@ -6659,7 +6697,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png",
+  "RefSubstituta": "CGA50670",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
   "IdArtigo": 385,
@@ -6677,7 +6717,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png",
+  "RefSubstituta": "CGA50850",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
   "IdArtigo": 386,
@@ -6713,7 +6755,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png",
+  "RefSubstituta": "CGA51050",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
   "IdArtigo": 388,
@@ -6731,7 +6775,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA0600EFB",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
   "IdArtigo": 389,
@@ -6749,7 +6795,9 @@
   "Altura": 175,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA0700BEFB",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
   "IdArtigo": 390,
@@ -6767,7 +6815,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA0750EFB",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
   "IdArtigo": 391,
@@ -6785,7 +6835,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA0800EFB",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
   "IdArtigo": 392,
@@ -6803,7 +6855,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA0950EFB",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
   "IdArtigo": 393,
@@ -6821,7 +6875,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png",
+  "RefSubstituta": "CGA0600AGM",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
   "IdArtigo": 394,
@@ -6840,7 +6896,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/uc4b62y2nxa2ml1qfgtid/CGAAGM70-FICHA-TECNICA.pdf?rlkey=g6odwbbo5fffbhltm1blvxli2&st=f6ucakld&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png",
+  "RefSubstituta": "CGA0700AGM",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
   "IdArtigo": 395,
@@ -6858,7 +6916,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png",
+  "RefSubstituta": "CGA0800AGM",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
   "IdArtigo": 396,
@@ -6876,7 +6936,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png",
+  "RefSubstituta": "CGA0950AGM",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
   "IdArtigo": 397,
@@ -6894,7 +6956,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png",
+  "RefSubstituta": "CGA1050AGM",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
   "IdArtigo": 398,
@@ -6912,7 +6976,9 @@
   "Altura": 226,
   "EsqLigacao": "0+direita",
   "Terminal": 3,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA40400P",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 399,
@@ -6930,7 +6996,9 @@
   "Altura": 226,
   "EsqLigacao": "1+esquerda",
   "Terminal": 3,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA40401P",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 400,
@@ -6948,7 +7016,9 @@
   "Altura": 225,
   "EsqLigacao": "0+direita",
   "Terminal": "1/3",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA40450P",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 401,
@@ -6966,7 +7036,9 @@
   "Altura": 225,
   "EsqLigacao": "1+esquerda",
   "Terminal": "1/3",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA40451P",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 402,
@@ -6984,7 +7056,9 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA50400",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 403,
@@ -7002,7 +7076,9 @@
   "Altura": 220,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA40600",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 404,
@@ -7020,7 +7096,9 @@
   "Altura": 220,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA40601",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 405,
@@ -7038,7 +7116,9 @@
   "Altura": 222,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA40800",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 406,
@@ -7056,7 +7136,9 @@
   "Altura": 222,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA40801",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 407,
@@ -7075,7 +7157,9 @@
   "EsqLigacao": "0+direita",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/ri6bgzs6ufx5bdkwu8thy/CGAJ1050-FICHA-TECNICA.pdf?rlkey=08dtqplqcqkisldpk6cexxlm2&st=3aacgvam&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA41050",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 408,
@@ -7094,7 +7178,9 @@
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "FichaSeguranca": "https://www.dropbox.com/scl/fi/o8sgtddcdtjzskoi2ur5t/CGAJ1051-FICHA-TECNICA.pdf?rlkey=dgwqiz55rvx78k1ihca25tsmw&st=hqrjvo8c&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA41051",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 409,
@@ -7112,7 +7198,9 @@
   "Altura": 240,
   "EsqLigacao": "Central",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png",
+  "RefSubstituta": "CGA6110C",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
   "IdArtigo": 410,
@@ -7130,7 +7218,9 @@
   "Altura": 232,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61150",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 411,
@@ -7148,7 +7238,9 @@
   "Altura": 232,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61151",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 412,
@@ -7166,7 +7258,9 @@
   "Altura": 283,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61300",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 413,
@@ -7184,7 +7278,9 @@
   "Altura": 283,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61301",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 414,
@@ -7202,7 +7298,9 @@
   "Altura": 226,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61403",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 415,
@@ -7220,7 +7318,9 @@
   "Altura": 226,
   "EsqLigacao": 4,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61404",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 416,
@@ -7238,7 +7338,9 @@
   "Altura": 223,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61453",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 417,
@@ -7256,7 +7358,9 @@
   "Altura": 285,
   "EsqLigacao": 6,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61656",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 418,
@@ -7274,7 +7378,9 @@
   "Altura": 223,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61803",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 419,
@@ -7292,7 +7398,9 @@
   "Altura": 223,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61903",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 420,
@@ -7310,7 +7418,9 @@
   "Altura": 223,
   "EsqLigacao": 4,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61904",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 421,
@@ -7328,7 +7438,9 @@
   "Altura": 223,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA61903SMF",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 422,
@@ -7346,7 +7458,9 @@
   "Altura": 223,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA62003SHDSMF",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 423,
@@ -7364,7 +7478,9 @@
   "Altura": 240,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA72203",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 424,
@@ -7382,7 +7498,9 @@
   "Altura": 240,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA72253",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 425,
@@ -7400,7 +7518,9 @@
   "Altura": 240,
   "EsqLigacao": 4,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA72254",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 426,
@@ -7418,7 +7538,9 @@
   "Altura": 240,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA72253SMF",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 427,
@@ -7436,7 +7558,9 @@
   "Altura": 240,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA72403",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 428,
@@ -7454,7 +7578,9 @@
   "Altura": 240,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png",
+  "RefSubstituta": "CGA72453SHDSMF",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
   "IdArtigo": 429,
@@ -7472,7 +7598,9 @@
   "Altura": 220,
   "EsqLigacao": 1,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA0601EFBJ",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
   "IdArtigo": 430,
@@ -7490,7 +7618,9 @@
   "Altura": 222,
   "EsqLigacao": 0,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA0800EFBJ",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
   "IdArtigo": 431,
@@ -7508,7 +7638,9 @@
   "Altura": 222,
   "EsqLigacao": 1,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA0801EFBJ",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
   "IdArtigo": 432,
@@ -7526,7 +7658,9 @@
   "Altura": 225,
   "EsqLigacao": 0,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA1050EFBJ",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
   "IdArtigo": 433,
@@ -7544,7 +7678,9 @@
   "Altura": 225,
   "EsqLigacao": 1,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA1051EFBJ",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
   "IdArtigo": 434,
@@ -7562,7 +7698,9 @@
   "Altura": 223,
   "EsqLigacao": 3,
   "Terminal": 1,
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA1903EFB",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB TRUCK HD"
  },
  {
   "IdArtigo": 435,
@@ -7580,6 +7718,1358 @@
   "Altura": 240,
   "EsqLigacao": 3,
   "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
+  "RefSubstituta": "CGA2403EFB",
+  "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB TRUCK HD"
+ },
+ {
+  "IdArtigo": 436,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50400",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "L0",
+  "CapAh": 40,
+  "CCAaEN": 380,
+  "Comprimento": 175,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 437,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50500B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L1B",
+  "CapAh": 50,
+  "CCAaEN": 420,
+  "Comprimento": 210,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 438,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50500",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L1",
+  "CapAh": 50,
+  "CCAaEN": 420,
+  "Comprimento": 210,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 439,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50520B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L1B",
+  "CapAh": 52,
+  "CCAaEN": 460,
+  "Comprimento": 210,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 440,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50520",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L1",
+  "CapAh": 52,
+  "CCAaEN": 460,
+  "Comprimento": 210,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 441,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50521",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L1",
+  "CapAh": 52,
+  "CCAaEN": 460,
+  "Comprimento": 210,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 442,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50570",
+  "Descricao": "Bateria de arranque CGA Gold",
+  "Bloco": "L1",
+  "CapAh": 57,
+  "CCAaEN": 560,
+  "Comprimento": 210,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 443,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50600B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L2B",
+  "CapAh": 60,
+  "CCAaEN": 540,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 444,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50600",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 540,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 445,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50650B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L2B",
+  "CapAh": 65,
+  "CCAaEN": 580,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 446,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50650",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L2",
+  "CapAh": 65,
+  "CCAaEN": 580,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 447,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50651",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L2",
+  "CapAh": 65,
+  "CCAaEN": 580,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 448,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50670",
+  "Descricao": "Bateria de arranque CGA Gold",
+  "Bloco": "L2",
+  "CapAh": 67,
+  "CCAaEN": 670,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 449,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50740B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L3B",
+  "CapAh": 74,
+  "CCAaEN": 660,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 450,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50740",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L3",
+  "CapAh": 74,
+  "CCAaEN": 660,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 451,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50760B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L3B",
+  "CapAh": 76,
+  "CCAaEN": 700,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 452,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50760",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L3",
+  "CapAh": 76,
+  "CCAaEN": 700,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 453,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50761",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L3",
+  "CapAh": 76,
+  "CCAaEN": 700,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 454,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50850",
+  "Descricao": "Bateria de arranque CGA Gold",
+  "Bloco": "L3",
+  "CapAh": 85,
+  "CCAaEN": 770,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 455,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50900B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L4B",
+  "CapAh": 90,
+  "CCAaEN": 760,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 456,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50950B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L5B",
+  "CapAh": 95,
+  "CCAaEN": 780,
+  "Comprimento": 352,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 457,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA50950",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L5",
+  "CapAh": 95,
+  "CCAaEN": 780,
+  "Comprimento": 352,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 458,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA51000B",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L5B",
+  "CapAh": 100,
+  "CCAaEN": 800,
+  "Comprimento": 352,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 459,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA51000",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L5",
+  "CapAh": 100,
+  "CCAaEN": 800,
+  "Comprimento": 352,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 460,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA51001",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L5",
+  "CapAh": 100,
+  "CCAaEN": 800,
+  "Comprimento": 352,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 461,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA51050",
+  "Descricao": "Bateria de arranque CGA Gold",
+  "Bloco": "L5",
+  "CapAh": 105,
+  "CCAaEN": 900,
+  "Comprimento": 352,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 462,
+  "Segmento": "AUTO",
+  "Tecnologia": "POWER",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA51100",
+  "Descricao": "Bateria de arranque CGA Power",
+  "Bloco": "L6",
+  "CapAh": 110,
+  "CCAaEN": 850,
+  "Comprimento": 393,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
+ },
+ {
+  "IdArtigo": 463,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0600EFB",
+  "Descricao": "Bateria de arranque CGA EFB",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 620,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 464,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0700BEFB",
+  "Descricao": "Bateria de arranque CGA EFB",
+  "Bloco": "L3B",
+  "CapAh": 70,
+  "CCAaEN": 720,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 465,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0750EFB",
+  "Descricao": "Bateria de arranque CGA EFB",
+  "Bloco": "L3",
+  "CapAh": 75,
+  "CCAaEN": 760,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 466,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0800EFB",
+  "Descricao": "Bateria de arranque CGA EFB",
+  "Bloco": "L4",
+  "CapAh": 80,
+  "CCAaEN": 800,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 467,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0950EFB",
+  "Descricao": "Bateria de arranque CGA EFB",
+  "Bloco": "L5",
+  "CapAh": 95,
+  "CCAaEN": 840,
+  "Comprimento": 352,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 468,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0600EFBJ",
+  "Descricao": "Bateria de arranque CGA EFB JIS",
+  "Bloco": "D23",
+  "CapAh": 60,
+  "CCAaEN": 580,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": 220,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 469,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0601EFBJ",
+  "Descricao": "Bateria de arranque CGA EFB JIS",
+  "Bloco": "D23",
+  "CapAh": 60,
+  "CCAaEN": 580,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": 220,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 470,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0800EFBJ",
+  "Descricao": "Bateria de arranque CGA EFB JIS",
+  "Bloco": "M10",
+  "CapAh": 80,
+  "CCAaEN": 650,
+  "Comprimento": 260,
+  "Largura": 173,
+  "Altura": 222,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 471,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0801EFBJ",
+  "Descricao": "Bateria de arranque CGA EFB JIS",
+  "Bloco": "M10",
+  "CapAh": 80,
+  "CCAaEN": 650,
+  "Comprimento": 260,
+  "Largura": 173,
+  "Altura": 222,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 472,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA1050EFBJ",
+  "Descricao": "Bateria de arranque CGA EFB JIS",
+  "Bloco": "M11",
+  "CapAh": 105,
+  "CCAaEN": 850,
+  "Comprimento": 303,
+  "Largura": 173,
+  "Altura": 225,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 473,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA1051EFBJ",
+  "Descricao": "Bateria de arranque CGA EFB JIS",
+  "Bloco": "M11",
+  "CapAh": 105,
+  "CCAaEN": 850,
+  "Comprimento": 303,
+  "Largura": 173,
+  "Altura": 225,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 474,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA1903EFB",
+  "Descricao": "Bateria de arranque CGA EFB TRUCK HD",
+  "Bloco": "B",
+  "CapAh": 190,
+  "CCAaEN": 1100,
+  "Comprimento": 514,
+  "Largura": 223,
+  "Altura": 223,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 475,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA2403EFB",
+  "Descricao": "Bateria de arranque CGA EFB TRUCK HD",
+  "Bloco": "C ",
+  "CapAh": 240,
+  "CCAaEN": 1250,
+  "Comprimento": 518,
+  "Largura": 274,
+  "Altura": 240,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
+ },
+ {
+  "IdArtigo": 476,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0600AGM",
+  "Descricao": "Bateria de arranque CGA AGM",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 680,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+ },
+ {
+  "IdArtigo": 477,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0700AGM",
+  "Descricao": "Bateria de arranque CGA AGM",
+  "Bloco": "L3",
+  "CapAh": 70,
+  "CCAaEN": 760,
+  "Comprimento": 276,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+ },
+ {
+  "IdArtigo": 478,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0800AGM",
+  "Descricao": "Bateria de arranque CGA AGM",
+  "Bloco": "L4",
+  "CapAh": 80,
+  "CCAaEN": 800,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+ },
+ {
+  "IdArtigo": 479,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA0950AGM",
+  "Descricao": "Bateria de arranque CGA AGM",
+  "Bloco": "L5",
+  "CapAh": 95,
+  "CCAaEN": 850,
+  "Comprimento": 352,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+ },
+ {
+  "IdArtigo": 480,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA1050AGM",
+  "Descricao": "Bateria de arranque CGA AGM",
+  "Bloco": "L6",
+  "CapAh": 105,
+  "CCAaEN": 900,
+  "Comprimento": 393,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
+ },
+ {
+  "IdArtigo": 481,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA40400P",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "B19",
+  "CapAh": 40,
+  "CCAaEN": 300,
+  "Comprimento": 187,
+  "Largura": 127,
+  "Altura": 226,
+  "EsqLigacao": 0,
+  "Terminal": 3,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 482,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA40401P",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "B19",
+  "CapAh": 40,
+  "CCAaEN": 300,
+  "Comprimento": 187,
+  "Largura": 127,
+  "Altura": 226,
+  "EsqLigacao": 1,
+  "Terminal": 3,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 483,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA40450P",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "E2/B24",
+  "CapAh": 45,
+  "CCAaEN": 330,
+  "Comprimento": 238,
+  "Largura": 129,
+  "Altura": 225,
+  "EsqLigacao": 0,
+  "Terminal": "1/3",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 484,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA40451P",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "E2/B24",
+  "CapAh": 45,
+  "CCAaEN": 330,
+  "Comprimento": 238,
+  "Largura": 129,
+  "Altura": 225,
+  "EsqLigacao": 1,
+  "Terminal": "1/3",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 485,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA40600",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "D23",
+  "CapAh": 60,
+  "CCAaEN": 500,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": 220,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 486,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA40601",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "D23",
+  "CapAh": 60,
+  "CCAaEN": 500,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": 220,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 487,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA40800",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "M10",
+  "CapAh": 80,
+  "CCAaEN": 520,
+  "Comprimento": 260,
+  "Largura": 173,
+  "Altura": 222,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 488,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA40801",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "M10",
+  "CapAh": 80,
+  "CCAaEN": 520,
+  "Comprimento": 260,
+  "Largura": 173,
+  "Altura": 222,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 489,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA41050",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "M11",
+  "CapAh": 105,
+  "CCAaEN": 720,
+  "Comprimento": 303,
+  "Largura": 173,
+  "Altura": 225,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 490,
+  "Segmento": "AUTO",
+  "Tecnologia": "JIS",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA41051",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "M11",
+  "CapAh": 105,
+  "CCAaEN": 720,
+  "Comprimento": 303,
+  "Largura": 173,
+  "Altura": 225,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
+ },
+ {
+  "IdArtigo": 491,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA6110C",
+  "Descricao": "Bateria de arranque CGA Power PLUS",
+  "Bloco": "BCI31",
+  "CapAh": 110,
+  "CCAaEN": 800,
+  "Comprimento": 330,
+  "Largura": 172,
+  "Altura": 240,
+  "EsqLigacao": "Central",
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 492,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61150",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "C13",
+  "CapAh": 115,
+  "CCAaEN": 720,
+  "Comprimento": 344,
+  "Largura": 171,
+  "Altura": 232,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 493,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61151",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "C13",
+  "CapAh": 115,
+  "CCAaEN": 720,
+  "Comprimento": 344,
+  "Largura": 171,
+  "Altura": 232,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 494,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61300",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "H13",
+  "CapAh": 130,
+  "CCAaEN": 740,
+  "Comprimento": 344,
+  "Largura": 171,
+  "Altura": 283,
+  "EsqLigacao": 0,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 495,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61301",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "H13",
+  "CapAh": 130,
+  "CCAaEN": 740,
+  "Comprimento": 344,
+  "Largura": 171,
+  "Altura": 283,
+  "EsqLigacao": 1,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 496,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61403",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "MAC",
+  "CapAh": 140,
+  "CCAaEN": 950,
+  "Comprimento": 511,
+  "Largura": 175,
+  "Altura": 226,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 497,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61404",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "MAC",
+  "CapAh": 140,
+  "CCAaEN": 950,
+  "Comprimento": 511,
+  "Largura": 175,
+  "Altura": 226,
+  "EsqLigacao": 4,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 498,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61453",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "A",
+  "CapAh": 145,
+  "CCAaEN": 950,
+  "Comprimento": 513,
+  "Largura": 189,
+  "Altura": 223,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 499,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61656",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "D",
+  "CapAh": 165,
+  "CCAaEN": 950,
+  "Comprimento": 354,
+  "Largura": 241,
+  "Altura": 285,
+  "EsqLigacao": 6,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 500,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61803",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "B",
+  "CapAh": 180,
+  "CCAaEN": 1000,
+  "Comprimento": 514,
+  "Largura": 223,
+  "Altura": 223,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 501,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61903",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "B",
+  "CapAh": 190,
+  "CCAaEN": 1200,
+  "Comprimento": 514,
+  "Largura": 223,
+  "Altura": 223,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 502,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61904",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "B",
+  "CapAh": 190,
+  "CCAaEN": 1200,
+  "Comprimento": 514,
+  "Largura": 223,
+  "Altura": 223,
+  "EsqLigacao": 4,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 503,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA61903SMF",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "B",
+  "CapAh": 190,
+  "CCAaEN": 1200,
+  "Comprimento": 514,
+  "Largura": 223,
+  "Altura": 223,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 504,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA72203",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "C ",
+  "CapAh": 220,
+  "CCAaEN": 1225,
+  "Comprimento": 518,
+  "Largura": 274,
+  "Altura": 240,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 505,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA72253",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "C ",
+  "CapAh": 225,
+  "CCAaEN": 1250,
+  "Comprimento": 518,
+  "Largura": 274,
+  "Altura": 240,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 506,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA72254",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "C",
+  "CapAh": 225,
+  "CCAaEN": 1250,
+  "Comprimento": 518,
+  "Largura": 274,
+  "Altura": 240,
+  "EsqLigacao": 4,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 507,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA72253SMF",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "C ",
+  "CapAh": 225,
+  "CCAaEN": 1250,
+  "Comprimento": 518,
+  "Largura": 274,
+  "Altura": 240,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 508,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA72403",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "C",
+  "CapAh": 240,
+  "CCAaEN": 1300,
+  "Comprimento": 518,
+  "Largura": 274,
+  "Altura": 240,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 509,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA62003SHDSMF",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "B",
+  "CapAh": 200,
+  "CCAaEN": 1200,
+  "Comprimento": 514,
+  "Largura": 223,
+  "Altura": 223,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 510,
+  "Segmento": "AUTO",
+  "Tecnologia": "TRUCK",
+  "IdMarca": 90062,
+  "Marca": "CGA BATERIAS",
+  "Referencia": "CGA72453SHDSMF",
+  "Descricao": "Bateria de arranque CGA TRUCK HD",
+  "Bloco": "C",
+  "CapAh": 245,
+  "CCAaEN": 1275,
+  "Comprimento": 518,
+  "Largura": 274,
+  "Altura": 240,
+  "EsqLigacao": 3,
+  "Terminal": 1,
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  }
 ]
