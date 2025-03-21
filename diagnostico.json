@@ -942,9 +942,9 @@
   "NomeComercial": "MaxiIM",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/IM608PROII.jpg",
   "FichaTecnica": "https://www.autelportugal.pt/im608prokpa",
-  "CampanhaInicio": "2024-11-1",
-  "CampanhaFim": "2024-11-30",
-  "Expomecanica": 1
+  "CampanhaInicio": "2025-02-1",
+  "CampanhaFim": "2025-04-30",
+  "Expomecanica": 0
  },
  {
   "IdArtigo": 86,
@@ -1022,9 +1022,9 @@
   "Descricao": "Autel MaxiEV CDT100 - Descarregador / Carregador",
   "NomeComercial": "MaxiEV",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "CampanhaInicio": "2024-11-1",
-  "CampanhaFim": "2024-11-30",
-  "Expomecanica": 1
+  "CampanhaInicio": "2025-02-01",
+  "CampanhaFim": "2025-04-30",
+  "Expomecanica": 0
  },
  {
   "IdArtigo": 92,
