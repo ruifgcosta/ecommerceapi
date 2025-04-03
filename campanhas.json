@@ -158,5 +158,35 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
   "PdfUrl": "../assets/pdf/campanhas/CampanhaKroftoolsMar25.pdf"
+ },
+ {
+  "Id": 17,
+  "Titulo": "Campanha JBM",
+  "Descricao": "Campanha JBM - Abril 2025",
+  "DataInicio": "2025-04-01",
+  "DataFim": "2025-04-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/jbm.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_JBM_Abr25.pdf"
+ },
+ {
+  "Id": 18,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - Abril 2025",
+  "DataInicio": "2025-04-01",
+  "DataFim": "2025-04-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_Kroftools_Abr25.pdf"
+ },
+ {
+  "Id": 19,
+  "Titulo": "Campanha MANN-FILTER",
+  "Descricao": "Campanha MANN-FILTER - Abril 2025",
+  "DataInicio": "2025-04-01",
+  "DataFim": "2025-04-30",
+  "Destaque": 1,
+  "ImgUrl": "https://images.seeklogo.com/logo-png/21/1/mann-filter-logo-png_seeklogo-217639.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_Abril_Localizador.pdf"
  }
  ]
