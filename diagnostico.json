@@ -693,8 +693,8 @@
   "NomeComercial": "MaxiDAS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS900BT.png",
   "FichaTecnica": "https://www.autelportugal.pt/ds900bt",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -719,8 +719,8 @@
   "NomeComercial": "MaxiSYS",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
   "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -733,8 +733,8 @@
   "NomeComercial": "MaxiSYS",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
   "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -747,8 +747,8 @@
   "NomeComercial": "MaxiSYS",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
   "ArtigoRelacionado": "Autel - Cabos de Diagnóstico Tesla - Compativél com MaxiSYS",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -813,8 +813,8 @@
   "NomeComercial": "MaxiSYS ADAS",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/IA900WAFull.png",
   "FichaTecnica": "https://www.autelportugal.pt/ia900wa",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -928,8 +928,8 @@
   "Descricao": "Autel MaxiIM IM508 S PRO - 24 meses de atualizações (inc. XP400)",
   "NomeComercial": "MaxiIM",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -942,8 +942,8 @@
   "NomeComercial": "MaxiIM",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/IM608PROII.jpg",
   "FichaTecnica": "https://www.autelportugal.pt/im608prokpa",
-  "CampanhaInicio": "2025-02-1",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-1",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -981,9 +981,9 @@
   "NomeComercial": "APB112",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
   "ArtigoRelacionado": "MaxiIM",
-  "CampanhaInicio": "2024-11-1",
-  "CampanhaFim": "2024-11-30",
-  "Expomecanica": 1
+  "CampanhaInicio": "2025-05-1",
+  "CampanhaFim": "2025-06-30",
+  "Expomecanica": 0
  },
  {
   "IdArtigo": 89,
@@ -1022,8 +1022,8 @@
   "Descricao": "Autel MaxiEV CDT100 - Descarregador / Carregador",
   "NomeComercial": "MaxiEV",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -1035,8 +1035,8 @@
   "Descricao": "Autel MaxiEV BCE100 - Balanceador de baterias EV",
   "NomeComercial": "MaxiEV",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
@@ -1048,8 +1048,8 @@
   "Descricao": "Autel MaxiEV ALT100L - Testador de fugas",
   "NomeComercial": "MaxiEV",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
-  "CampanhaInicio": "2025-02-01",
-  "CampanhaFim": "2025-04-30",
+  "CampanhaInicio": "2025-05-01",
+  "CampanhaFim": "2025-06-30",
   "Expomecanica": 0
  },
  {
