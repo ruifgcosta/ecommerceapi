@@ -188,5 +188,25 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/mann-filter.png",
   "PdfUrl": "../assets/pdf/campanhas/Campanha_Abril_Localizador.pdf"
+ },
+ {
+  "Id": 20,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - Maio 2025",
+  "DataInicio": "2025-05-01",
+  "DataFim": "2025-05-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/Kroftools_Mai25.pdf"
+ },
+ {
+  "Id": 21,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - Maio a Junho 2025",
+  "DataInicio": "2025-05-01",
+  "DataFim": "2025-06-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/RED_AUTEL_MAIO_JUN_2025.pdf"
  }
  ]
