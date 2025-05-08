@@ -111,13 +111,13 @@
   "UnidadeMedida": "L",
   "Quantidade": 12,
   "ViscosidadeSAE": "0W20",
-  "EspecificacaoACEA": "C5",
+  "EspecificacaoACEA": "C5 / C6",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;",
+  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;STJLR.03.5006;MB 229.72;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "Especificacao": "API SERV SN+ SNRC",
-  "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;",
-  "EspecificacaoILSAC": "GF-5"
+  "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;BMW LL-14 FE+;CHRYSLER MS 12145;FORD WSS-M2C947-B1;FORD WSS-M2C962-A1;",
+  "EspecificacaoILSAC": "GF-6A"
  },
  {
   "IdArtigo": 7,
@@ -132,13 +132,13 @@
   "UnidadeMedida": "L",
   "Quantidade": 4,
   "ViscosidadeSAE": "0W20",
-  "EspecificacaoACEA": "C5",
+  "EspecificacaoACEA": "C5 / C6",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;",
+  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;STJLR.03.5006;MB 229.72;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "Especificacao": "API SERV SN+ SNRC",
-  "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;",
-  "EspecificacaoILSAC": "GF-5"
+  "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;BMW LL-14 FE+;CHRYSLER MS 12145;FORD WSS-M2C947-B1;FORD WSS-M2C962-A1;",
+  "EspecificacaoILSAC": "GF-6A"
  },
  {
   "IdArtigo": 8,
@@ -435,6 +435,7 @@
   "ViscosidadeSAE": "0W16",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "Especificacao": "API SERVICE SN"
  },
  {
@@ -1542,7 +1543,9 @@
   "EspecificacaoACEA": "A3 / B3",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "AprovacaoFabricante": "MB 229.1",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": 113149,
+  "DesignacaoComercialSubstituta": "4100 SYN-nergy 15W40"
  },
  {
   "IdArtigo": 80,
@@ -1975,7 +1978,8 @@
   "ViscosidadeSAE": "0W20",
   "EspecificacaoACEA": "C5",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 102,
@@ -2371,6 +2375,7 @@
   "ViscosidadeSAE": "15W40",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "Especificacao": "API CF-4 / CF;CCMC D-4;",
   "RecomendacaoFabricanteOleo": "MB 228.1"
  },
@@ -2888,6 +2893,7 @@
   "ViscosidadeSAE": "5W40",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "Especificacao": "API SN/SM/SL/SJ"
  },
  {
@@ -2947,7 +2953,7 @@
   "IdMarca": 436,
   "Marca": "MOTUL",
   "Descricao": "Óleo do motor 7100 4T 10W60",
-  "DesignacaoComercial": "7100 4T 10W60",
+  "DesignacaoComercial": "7100 10W60 4T",
   "Gama": "MOTO 4T",
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": 1,
@@ -2963,7 +2969,7 @@
   "IdMarca": 436,
   "Marca": "MOTUL",
   "Descricao": "Óleo do motor 7100 4T 10W60",
-  "DesignacaoComercial": "7100 4T 10W60",
+  "DesignacaoComercial": "7100 10W60 4T",
   "Gama": "MOTO 4T",
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": 4,
@@ -2979,7 +2985,7 @@
   "IdMarca": 436,
   "Marca": "MOTUL",
   "Descricao": "Óleo do motor 7100 4T 10W60",
-  "DesignacaoComercial": "7100 4T 10W60",
+  "DesignacaoComercial": "7100 10W60 4T",
   "Gama": "MOTO 4T",
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": 60,
@@ -3272,6 +3278,7 @@
   "ViscosidadeSAE": "10W50",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "Especificacao": "API SM/SL/SJ/SH/SG"
  },
  {
@@ -3374,6 +3381,7 @@
   "ViscosidadeSAE": "5W40",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_barrel_60l_4_png.png&w=640&q=75",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "RecomendacaoFabricanteOleo": "JALOS JASO - Test"
  },
  {
@@ -3632,7 +3640,7 @@
   "IdMarca": 436,
   "Marca": "MOTUL",
   "Descricao": "Óleo do motor 7100 4T 10W40",
-  "DesignacaoComercial": "7100 4T 10W40",
+  "DesignacaoComercial": "7100 10W40 4T",
   "Gama": "MOTO 4T",
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": 1,
@@ -3648,7 +3656,7 @@
   "IdMarca": 436,
   "Marca": "MOTUL",
   "Descricao": "Óleo do motor 7100 4T 10W40",
-  "DesignacaoComercial": "7100 4T 10W40",
+  "DesignacaoComercial": "7100 10W40 4T",
   "Gama": "MOTO 4T",
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": 4,
@@ -3664,7 +3672,7 @@
   "IdMarca": 436,
   "Marca": "MOTUL",
   "Descricao": "Óleo do motor 7100 4T 10W40",
-  "DesignacaoComercial": "7100 4T 10W40",
+  "DesignacaoComercial": "7100 10W40 4T",
   "Gama": "MOTO 4T",
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": 60,
@@ -3680,7 +3688,7 @@
   "IdMarca": 436,
   "Marca": "MOTUL",
   "Descricao": "Óleo do motor 7100 4T 10W40",
-  "DesignacaoComercial": "7100 4T 10W40",
+  "DesignacaoComercial": "7100 10W40 4T",
   "Gama": "MOTO 4T",
   "FamiliaArtigo": "Óleo do motor",
   "Capacidade": 208,
@@ -24194,7 +24202,8 @@
   "EspecificacaoACEA": "A3 / B3",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "AprovacaoFabricante": "MB 229.1",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1532,
@@ -24211,7 +24220,8 @@
   "EspecificacaoACEA": "A3 / B3",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "AprovacaoFabricante": "MB 229.1",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1533,
@@ -24980,7 +24990,8 @@
   "UnidadeMedida": "L",
   "Quantidade": 4,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1585,
@@ -25474,7 +25485,8 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1620,
@@ -25488,7 +25500,8 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1621,
@@ -25502,7 +25515,8 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1622,
@@ -25880,7 +25894,8 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1649,
@@ -25908,7 +25923,8 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1651,
@@ -26741,6 +26757,7 @@
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "AprovacaoFabricante": "MB 229.52;PSA B71 2290;RENAULT RN17;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "RecomendacaoFabricanteOleo": "FIAT 9.55535-S1;FIAT 9.55535-S3;"
  },
  {
@@ -26790,6 +26807,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "RecomendacaoFabricanteOleo": "MB 229.3;PSA B71 2300;RENAULT RN0700;RENAULT RN0710;VW 501 01;VW 505 00;"
  },
  {
@@ -26807,6 +26825,7 @@
   "EspecificacaoACEA": "A3 / B4",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "RecomendacaoFabricanteOleo": "MB 229.3;PSA B71 2300;RENAULT RN0700;RENAULT RN0710;VW 501 01;VW 505 00;"
  },
  {
@@ -27147,6 +27166,7 @@
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_113154_6100_SYN-clean_SPEC_5W30_5L_png.png&w=640&q=75",
   "AprovacaoFabricante": "CHRYSLER MS 11106;OV 040 1547 - D30;MB 229.51;VW 505 00;VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "Especificacao": "API SERVICE SN"
  },
  {
@@ -27166,6 +27186,7 @@
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "AprovacaoFabricante": "CHRYSLER MS 11106;OV 040 1547 - D30;MB 229.51;VW 505 00;VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "Especificacao": "API SERVICE SN"
  },
  {
@@ -27185,6 +27206,7 @@
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "AprovacaoFabricante": "BMW LL-04;FORD WSS-M2C917-A;GM OPEL DEXOS 2;MB 229.51;RENAULT RN0710;RENAULT RN0700;VW 505 00;VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "Especificacao": "API SERVICE SN"
  },
  {
@@ -27204,6 +27226,7 @@
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2FMotul_Barrel_208l_4_png.png&w=640&q=75",
   "AprovacaoFabricante": "BMW LL-04;FORD WSS-M2C917-A;GM OPEL DEXOS 2;MB 229.51;RENAULT RN0710;RENAULT RN0700;VW 505 00;VW 505 01;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado",
   "Especificacao": "API SERVICE SN"
  },
  {
@@ -27239,13 +27262,13 @@
   "UnidadeMedida": "L",
   "Quantidade": 1,
   "ViscosidadeSAE": "0W20",
-  "EspecificacaoACEA": "C5",
+  "EspecificacaoACEA": "C5 / C6",
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
-  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;",
+  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;STJLR.03.5006;MB 229.72;",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "Especificacao": "API SERV SN+ SNRC",
-  "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;",
-  "EspecificacaoILSAC": "GF-5"
+  "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;BMW LL-14 FE+;CHRYSLER MS 12145;FORD WSS-M2C947-B1;FORD WSS-M2C962-A1;",
+  "EspecificacaoILSAC": "GF-6A"
  },
  {
   "IdArtigo": 1735,
@@ -27595,7 +27618,8 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "5W",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_105924_fork_oil_fl_light_1l_png.png&w=640&q=75",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1757,
@@ -27610,7 +27634,8 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "10W",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_105925_fork_oil_fl_medium_1l_png.png&w=640&q=75",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1758,
@@ -27625,7 +27650,8 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "7,5W",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_105926_fork_oil_fl_light-medium_1l_png.png&w=640&q=75",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1759,
@@ -27640,7 +27666,8 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "2,5W",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2Fmotul_105962_fork_oil_fl_very_light_1l_png.png&w=640&q=75",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1760,
@@ -27655,7 +27682,8 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "20W",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2F112948-MOTUL-Fork%2520Oil%2520Expert-Heavy-20W-1L_png.png&w=640&q=75",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1761,
@@ -27670,7 +27698,8 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "5W",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2F105929-motul-fork_oil_expert-light-5w-1l_png.png&w=640&q=75",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1762,
@@ -27685,7 +27714,8 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "10W",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2F105930-motul-fork_oil-expert-medium-10w-1l_png.png&w=640&q=75",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1763,
@@ -27700,7 +27730,8 @@
   "Quantidade": 12,
   "ViscosidadeSAE": "15W",
   "imgUrl": "https://www.motul.com/_next/image?url=https%3A%2F%2Fazupim01.motul.com%2Fmedia%2FmotulData%2FIM%2Fbigweb%2F105931-motul-fork_oil-expert-medium_heavy-15w-1l_png.png&w=640&q=75",
-  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "RefSubstituta": "Descontinuado"
  },
  {
   "IdArtigo": 1764,
@@ -29295,7 +29326,8 @@
   "Quantidade": 6,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
-  "RefSubstituta": "Descontinuado"
+  "RefSubstituta": "114076",
+  "DesignacaoComercialSubstituta": "FORK OIL FACTORY LINE LIGHT 5W"
  },
  {
   "IdArtigo": 1867,
@@ -29310,7 +29342,8 @@
   "Quantidade": 6,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
-  "RefSubstituta": "Descontinuado"
+  "RefSubstituta": "114078",
+  "DesignacaoComercialSubstituta": "FORK OIL FACTORY LINE MEDIUM 10W"
  },
  {
   "IdArtigo": 1868,
@@ -29325,7 +29358,8 @@
   "Quantidade": 6,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
-  "RefSubstituta": "Descontinuado"
+  "RefSubstituta": "114077",
+  "DesignacaoComercialSubstituta": "FORK OIL FACTORY LINE MED/LIGHT 7,5W"
  },
  {
   "IdArtigo": 1869,
@@ -29340,7 +29374,8 @@
   "Quantidade": 6,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
-  "RefSubstituta": "Descontinuado"
+  "RefSubstituta": "114079",
+  "DesignacaoComercialSubstituta": "FORK OIL FACTORY LINE VERY LIGHT 2,5W"
  },
  {
   "IdArtigo": 1870,
@@ -29355,7 +29390,8 @@
   "Quantidade": 6,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
-  "RefSubstituta": "Descontinuado"
+  "RefSubstituta": "114072",
+  "DesignacaoComercialSubstituta": "FORK OIL EXPERT HEAVY 20W"
  },
  {
   "IdArtigo": 1871,
@@ -29370,7 +29406,8 @@
   "Quantidade": 6,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
-  "RefSubstituta": "Descontinuado"
+  "RefSubstituta": "114073",
+  "DesignacaoComercialSubstituta": "FORK OIL EXPERT LIGHT 5W"
  },
  {
   "IdArtigo": 1872,
@@ -29385,7 +29422,8 @@
   "Quantidade": 6,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
-  "RefSubstituta": "Descontinuado"
+  "RefSubstituta": "114074",
+  "DesignacaoComercialSubstituta": "FORK OIL EXPERT MEDIUM 10W"
  },
  {
   "IdArtigo": 1873,
@@ -29400,7 +29438,8 @@
   "Quantidade": 6,
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
-  "RefSubstituta": "Descontinuado"
+  "RefSubstituta": "114075",
+  "DesignacaoComercialSubstituta": "FORK OIL EXPERT MED/HEAVY 15W"
  },
  {
   "IdArtigo": 1874,
@@ -29461,5 +29500,324 @@
   "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
   "FichaTecnica": "https://www.motul.com/pt-PT/products",
   "RefSubstituta": "Descontinuado"
+ },
+ {
+  "IdArtigo": 1878,
+  "Referencia": 113664,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor SPECIFIC 9.55535/03 5W-30 5L",
+  "DesignacaoComercial": "SPECIFIC 9.55535/03",
+  "Gama": "VEÍCULOS LIGEIROS",
+  "Capacidade": 5,
+  "UnidadeMedida": "L",
+  "Quantidade": 4,
+  "ViscosidadeSAE": "5W30",
+  "EspecificacaoACEA": "C3",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "AprovacaoFabricante": "STELLANTIS FPW9.55535/03;PSA B71 2297;",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1879,
+  "Referencia": 113666,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor SPECIFIC 9.55535/03 5W-30 208L",
+  "DesignacaoComercial": "SPECIFIC 9.55535/03",
+  "Gama": "VEÍCULOS LIGEIROS",
+  "Capacidade": 208,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "ViscosidadeSAE": "5W30",
+  "EspecificacaoACEA": "C3",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "AprovacaoFabricante": "STELLANTIS FPW9.55535/03;PSA B71 2297;",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1880,
+  "Referencia": 113149,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor 4100 SYN-nergy 15W-40 1 L",
+  "DesignacaoComercial": "4100 SYN-NERGY 15W40",
+  "Gama": "VEÍCULOS LIGEIROS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "ViscosidadeSAE": "15W40",
+  "EspecificacaoACEA": "A3 / B4",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "Especificacao": "SP"
+ },
+ {
+  "IdArtigo": 1881,
+  "Referencia": 113158,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor 4100 SYN-nergy 15W-40 5 L",
+  "DesignacaoComercial": "4100 SYN-NERGY 15W40",
+  "Gama": "VEÍCULOS LIGEIROS",
+  "Capacidade": 5,
+  "UnidadeMedida": "L",
+  "Quantidade": 4,
+  "ViscosidadeSAE": "15W40",
+  "EspecificacaoACEA": "A3 / B4",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "Especificacao": "SP"
+ },
+ {
+  "IdArtigo": 1882,
+  "Referencia": 113160,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor 4100 SYN-nergy 15W-40 208 L",
+  "DesignacaoComercial": "4100 SYN-NERGY 15W40",
+  "Gama": "VEÍCULOS LIGEIROS",
+  "Capacidade": 208,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "ViscosidadeSAE": "15W40",
+  "EspecificacaoACEA": "A3 / B4",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "Especificacao": "SP"
+ },
+ {
+  "IdArtigo": 1883,
+  "Referencia": 104364,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor 7100 4T 10W-30 60 L",
+  "DesignacaoComercial": "7100 10W30 4T",
+  "Gama": "MOTO 4T",
+  "Capacidade": 60,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "ViscosidadeSAE": "10W30",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1884,
+  "Referencia": 109993,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor 7100 4T 10W-30 208 L",
+  "DesignacaoComercial": "7100 10W30 4T",
+  "Gama": "MOTO 4T",
+  "Capacidade": 208,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "ViscosidadeSAE": "10W30",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1885,
+  "Referencia": 104365,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor 7100 4T 10W-50 60 L",
+  "DesignacaoComercial": "7100 10W50 4T",
+  "Gama": "MOTO 4T",
+  "Capacidade": 60,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "ViscosidadeSAE": "10W50",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1886,
+  "Referencia": 100109,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo da caixa de velocidades HD 80W-90 1000 L",
+  "DesignacaoComercial": "HD 80W90",
+  "Gama": "TRANSMISSÕES",
+  "Capacidade": 1000,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1887,
+  "Referencia": 109771,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo hidráulico TRANS ATF VI 1 L",
+  "DesignacaoComercial": "TRANS ATF VI",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1888,
+  "Referencia": 109772,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo hidráulico TRANS ATF VI 20 L",
+  "DesignacaoComercial": "TRANS ATF VI",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 20,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1889,
+  "Referencia": 109773,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo hidráulico TRANS ATF VI 208 L",
+  "DesignacaoComercial": "TRANS ATF VI",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 208,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1890,
+  "Referencia": 114076,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Fork Oil Factory LINE LIGHT 5W 1 L",
+  "DesignacaoComercial": "Fork Oil Factory LINE LIGHT 5W",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1891,
+  "Referencia": 114078,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Fork Oil Factory LINE MEDIUM 10W 1 L",
+  "DesignacaoComercial": "Fork Oil Factory LINE MEDIUM 10W",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1892,
+  "Referencia": 114077,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Fork Oil Factory LINE LIGHT/MED 7,5W 1 L",
+  "DesignacaoComercial": "Fork Oil Factory LINE LIGHT/MED 7,5W",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1893,
+  "Referencia": 114079,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Fork Oil Factory LINE VERY LIGHT 2,5W 1 L",
+  "DesignacaoComercial": "Fork Oil Factory LINE VERY LIGHT 2,5W",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1894,
+  "Referencia": 114072,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Fork Oil Expert HEAVY 20W 1 L",
+  "DesignacaoComercial": "Fork Oil Expert HEAVY 20W",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1895,
+  "Referencia": 114073,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Fork Oil Expert LIGHT 5W 1 L",
+  "DesignacaoComercial": "Fork Oil Expert LIGHT 5W",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1896,
+  "Referencia": 114074,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Fork Oil Expert MEDIUM 10W 1 L",
+  "DesignacaoComercial": "Fork Oil Expert MEDIUM 10W",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1897,
+  "Referencia": 114075,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Fork Oil Expert MED/HEAVY 15W 1 L",
+  "DesignacaoComercial": "Fork Oil Expert MED/HEAVY 15W",
+  "Gama": "HIDRÁULICOS",
+  "Capacidade": 1,
+  "UnidadeMedida": "L",
+  "Quantidade": 12,
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products"
+ },
+ {
+  "IdArtigo": 1898,
+  "Referencia": 108861,
+  "IdMarca": 436,
+  "Marca": "MOTUL",
+  "Descricao": "Óleo do motor 8100 ECO-CLEAN 0W-20 60 L",
+  "DesignacaoComercial": "8100 ECO-CLEAN 0W20",
+  "Gama": "VEÍCULOS LIGEIROS",
+  "FamiliaArtigo": "Óleo do motor",
+  "Capacidade": 60,
+  "UnidadeMedida": "L",
+  "Quantidade": 1,
+  "ViscosidadeSAE": "0W20",
+  "EspecificacaoACEA": "C5 / C6",
+  "imgUrl": "https://motul.co.nz/wp-content/uploads/2017/09/logo.jpg",
+  "AprovacaoFabricante": "BMW LL-17 FE+;MB 229.71;GM OPEL OV0401547;STJLR.03.5006;MB 229.72;",
+  "FichaTecnica": "https://www.motul.com/pt-PT/products",
+  "Especificacao": "API SERV SN+ SNRC",
+  "RecomendacaoFabricanteOleo": "FIAT 9.55535-DSX;FIAT 9.55535-GSX;BMW LL-14 FE+;CHRYSLER MS 12145;FORD WSS-M2C947-B1;FORD WSS-M2C962-A1;",
+  "EspecificacaoILSAC": "GF-6A"
  }
 ]
