@@ -2,6 +2,679 @@
  {
   "IdArtigo": 1,
   "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN35J",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 53520,
+  "CapAh": 35,
+  "CCAaEN": 270,
+  "Comprimento": 196,
+  "Largura": 134,
+  "Altura": "205/226",
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 2,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN45Q",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L0",
+  "CapAh": 45,
+  "CCAaEN": 400,
+  "Comprimento": 175,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 3,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN44B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB2",
+  "CapAh": 44,
+  "CCAaEN": 360,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 4,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN45A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L1",
+  "CapAh": 45,
+  "CCAaEN": 400,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN44B"
+ },
+ {
+  "IdArtigo": 5,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN50A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L1",
+  "CapAh": 50,
+  "CCAaEN": 450,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN50B"
+ },
+ {
+  "IdArtigo": 6,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN50B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB2",
+  "CapAh": 50,
+  "CCAaEN": 390,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 7,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN55B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB2",
+  "CapAh": 55,
+  "CCAaEN": 450,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 8,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN55A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L2",
+  "CapAh": 55,
+  "CCAaEN": 500,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN55B"
+ },
+ {
+  "IdArtigo": 9,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN60B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB2",
+  "CapAh": 60,
+  "CCAaEN": 550,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 10,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN60A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 600,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN60B"
+ },
+ {
+  "IdArtigo": 11,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN71B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB3",
+  "CapAh": 71,
+  "CCAaEN": 640,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 12,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN74B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB3",
+  "CapAh": 74,
+  "CCAaEN": 670,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 13,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN71A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L3",
+  "CapAh": 71,
+  "CCAaEN": 640,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN71B"
+ },
+ {
+  "IdArtigo": 14,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN74A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L3",
+  "CapAh": 74,
+  "CCAaEN": 640,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN74B"
+ },
+ {
+  "IdArtigo": 15,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN75.4",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 57029,
+  "CapAh": 75,
+  "CCAaEN": 570,
+  "Comprimento": 269,
+  "Largura": 173,
+  "Altura": "198/218",
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 16,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN75.5",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 57024,
+  "CapAh": 75,
+  "CCAaEN": 570,
+  "Comprimento": 269,
+  "Largura": 173,
+  "Altura": "198/218",
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 17,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN92B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB5",
+  "CapAh": 92,
+  "CCAaEN": 750,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 18,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN100B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB5",
+  "CapAh": 100,
+  "CCAaEN": 850,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 19,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN100A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L5",
+  "CapAh": 100,
+  "CCAaEN": 900,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN100B"
+ },
+ {
+  "IdArtigo": 20,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB55V",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L1",
+  "CapAh": 55,
+  "CCAaEN": 560,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 21,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB65J",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 56068,
+  "CapAh": 65,
+  "CCAaEN": 600,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": "200/220",
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 22,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB65JX",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 56069,
+  "CapAh": 65,
+  "CCAaEN": 600,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": "200/220",
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 23,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB60",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 640,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 24,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB65",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "LB3",
+  "CapAh": 65,
+  "CCAaEN": 650,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 25,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB70",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L3",
+  "CapAh": 70,
+  "CCAaEN": 760,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 26,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB70J",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 57029,
+  "CapAh": 70,
+  "CCAaEN": 680,
+  "Comprimento": 259,
+  "Largura": 175,
+  "Altura": "200/221",
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 27,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB70JX",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 57024,
+  "CapAh": 70,
+  "CCAaEN": 680,
+  "Comprimento": 259,
+  "Largura": 175,
+  "Altura": "200/221",
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 28,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB75",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "LB4",
+  "CapAh": 75,
+  "CCAaEN": 730,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 29,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB80",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L4",
+  "CapAh": 80,
+  "CCAaEN": 800,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 30,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB90",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L5",
+  "CapAh": 90,
+  "CCAaEN": 850,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 31,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB10J",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 59518,
+  "CapAh": 105,
+  "CCAaEN": 900,
+  "Comprimento": 303,
+  "Largura": 175,
+  "Altura": 227,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 32,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB10JX",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 59518,
+  "CapAh": 105,
+  "CCAaEN": 900,
+  "Comprimento": 303,
+  "Largura": 175,
+  "Altura": 227,
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 33,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM60",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 680,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 34,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM70",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L3",
+  "CapAh": 70,
+  "CCAaEN": 760,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 35,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM80",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L4",
+  "CapAh": 80,
+  "CCAaEN": 800,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 36,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM95",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L5",
+  "CapAh": 95,
+  "CCAaEN": 850,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 37,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM105",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L6",
+  "CapAh": 105,
+  "CCAaEN": 950,
+  "Comprimento": 394,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 38,
+  "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
   "Marca": "TUDOR",
@@ -19,14 +692,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 2,
+  "IdArtigo": 39,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TK800",
   "Descricao": "Bateria de arranque TUDOR Start-Stop AGM",
-  "Bloco": "L04",
+  "Bloco": "L4",
   "CapAh": 80,
   "CCAaEN": 800,
   "Comprimento": 315,
@@ -38,14 +711,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 3,
+  "IdArtigo": 40,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TK950",
   "Descricao": "Bateria de arranque TUDOR Start-Stop AGM",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 95,
   "CCAaEN": 850,
   "Comprimento": 353,
@@ -57,14 +730,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 4,
+  "IdArtigo": 41,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TK620",
   "Descricao": "Bateria de arranque TUDOR Start-Stop AGM",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 62,
   "CCAaEN": 680,
   "Comprimento": 242,
@@ -76,14 +749,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 5,
+  "IdArtigo": 42,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TK1060",
   "Descricao": "Bateria de arranque TUDOR Start-Stop AGM",
-  "Bloco": "L06",
+  "Bloco": "L6",
   "CapAh": 1060,
   "CCAaEN": 950,
   "Comprimento": 392,
@@ -95,14 +768,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 6,
+  "IdArtigo": 43,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TL550",
   "Descricao": "Bateria de arranque TUDOR Start-Stop EFB",
-  "Bloco": "L01",
+  "Bloco": "L1",
   "CapAh": 55,
   "CCAaEN": 540,
   "Comprimento": 207,
@@ -114,7 +787,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 7,
+  "IdArtigo": 44,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -133,7 +806,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 8,
+  "IdArtigo": 45,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -152,14 +825,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 9,
+  "IdArtigo": 46,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TL600",
   "Descricao": "Bateria de arranque TUDOR Start-Stop EFB",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 60,
   "CCAaEN": 640,
   "Comprimento": 242,
@@ -171,7 +844,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 10,
+  "IdArtigo": 47,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -190,14 +863,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 11,
+  "IdArtigo": 48,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TL700",
   "Descricao": "Bateria de arranque TUDOR Start-Stop EFB",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 70,
   "CCAaEN": 760,
   "Comprimento": 278,
@@ -209,7 +882,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 12,
+  "IdArtigo": 49,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -228,7 +901,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 13,
+  "IdArtigo": 50,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -247,14 +920,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 14,
+  "IdArtigo": 51,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TL800",
   "Descricao": "Bateria de arranque TUDOR Start-Stop EFB",
-  "Bloco": "L04",
+  "Bloco": "L4",
   "CapAh": 80,
   "CCAaEN": 800,
   "Comprimento": 315,
@@ -266,7 +939,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 15,
+  "IdArtigo": 52,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -285,7 +958,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 16,
+  "IdArtigo": 53,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -304,14 +977,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 17,
+  "IdArtigo": 54,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TL1000",
   "Descricao": "Bateria de arranque TUDOR Start-Stop EFB",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 100,
   "CCAaEN": 900,
   "Comprimento": 353,
@@ -323,14 +996,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 18,
+  "IdArtigo": 55,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TL1050",
   "Descricao": "Bateria de arranque TUDOR Start-Stop EFB",
-  "Bloco": "L06",
+  "Bloco": "L6",
   "CapAh": 105,
   "CCAaEN": 950,
   "Comprimento": 392,
@@ -342,7 +1015,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 19,
+  "IdArtigo": 56,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -361,7 +1034,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 20,
+  "IdArtigo": 57,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -380,7 +1053,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 21,
+  "IdArtigo": 58,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -399,7 +1072,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 22,
+  "IdArtigo": 59,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -418,7 +1091,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 23,
+  "IdArtigo": 60,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -437,7 +1110,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 24,
+  "IdArtigo": 61,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -456,7 +1129,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 25,
+  "IdArtigo": 62,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -475,14 +1148,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 26,
+  "IdArtigo": 63,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TA530",
   "Descricao": "Bateria de arranque HIGH-TECH",
-  "Bloco": "L01",
+  "Bloco": "L1",
   "CapAh": 53,
   "CCAaEN": 540,
   "Comprimento": 207,
@@ -494,7 +1167,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 27,
+  "IdArtigo": 64,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -513,14 +1186,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 28,
+  "IdArtigo": 65,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TA640",
   "Descricao": "Bateria de arranque HIGH-TECH",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 64,
   "CCAaEN": 640,
   "Comprimento": 242,
@@ -532,7 +1205,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 29,
+  "IdArtigo": 66,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -551,7 +1224,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 30,
+  "IdArtigo": 67,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -570,7 +1243,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 31,
+  "IdArtigo": 68,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -589,14 +1262,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 32,
+  "IdArtigo": 69,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TA770",
   "Descricao": "Bateria de arranque HIGH-TECH",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 77,
   "CCAaEN": 760,
   "Comprimento": 278,
@@ -608,7 +1281,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 33,
+  "IdArtigo": 70,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -627,14 +1300,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 34,
+  "IdArtigo": 71,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TA900",
   "Descricao": "Bateria de arranque HIGH-TECH",
-  "Bloco": "L04",
+  "Bloco": "L4",
   "CapAh": 90,
   "CCAaEN": 720,
   "Comprimento": 315,
@@ -646,7 +1319,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 35,
+  "IdArtigo": 72,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -665,7 +1338,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 36,
+  "IdArtigo": 73,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -684,14 +1357,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 37,
+  "IdArtigo": 74,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TA1000",
   "Descricao": "Bateria de arranque HIGH-TECH",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 100,
   "CCAaEN": 900,
   "Comprimento": 353,
@@ -703,7 +1376,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 38,
+  "IdArtigo": 75,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -722,7 +1395,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 39,
+  "IdArtigo": 76,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -741,7 +1414,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 40,
+  "IdArtigo": 77,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -760,7 +1433,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 41,
+  "IdArtigo": 78,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -779,14 +1452,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 42,
+  "IdArtigo": 79,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB440",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L00",
+  "Bloco": "L0",
   "CapAh": 44,
   "CCAaEN": 400,
   "Comprimento": 175,
@@ -798,7 +1471,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 43,
+  "IdArtigo": 80,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -817,7 +1490,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 44,
+  "IdArtigo": 81,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -836,7 +1509,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 45,
+  "IdArtigo": 82,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -850,12 +1523,12 @@
   "Largura": 135,
   "Altura": 225,
   "EsqLigacao": "1+esquerda",
-  "Terminal": "EN",
+  "Terminal": 0,
   "FichaSeguranca": "https://www.exidegroup.com/pt/pt/battery-finder",
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 46,
+  "IdArtigo": 83,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -874,7 +1547,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 47,
+  "IdArtigo": 84,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -893,7 +1566,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 48,
+  "IdArtigo": 85,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -912,7 +1585,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 49,
+  "IdArtigo": 86,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -931,14 +1604,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 50,
+  "IdArtigo": 87,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB500",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L01",
+  "Bloco": "L1",
   "CapAh": 50,
   "CCAaEN": 450,
   "Comprimento": 207,
@@ -950,14 +1623,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 51,
+  "IdArtigo": 88,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB501",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L01",
+  "Bloco": "L1",
   "CapAh": 50,
   "CCAaEN": 450,
   "Comprimento": 207,
@@ -969,7 +1642,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 52,
+  "IdArtigo": 89,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -988,7 +1661,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 53,
+  "IdArtigo": 90,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1007,7 +1680,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 54,
+  "IdArtigo": 91,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1026,7 +1699,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 55,
+  "IdArtigo": 92,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1045,7 +1718,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 56,
+  "IdArtigo": 93,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1064,7 +1737,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 57,
+  "IdArtigo": 94,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1083,14 +1756,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 58,
+  "IdArtigo": 95,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB620",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 62,
   "CCAaEN": 540,
   "Comprimento": 242,
@@ -1102,14 +1775,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 59,
+  "IdArtigo": 96,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB621",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 62,
   "CCAaEN": 540,
   "Comprimento": 242,
@@ -1121,7 +1794,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 60,
+  "IdArtigo": 97,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1140,7 +1813,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 61,
+  "IdArtigo": 98,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1159,7 +1832,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 62,
+  "IdArtigo": 99,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1178,14 +1851,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 63,
+  "IdArtigo": 100,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB740",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 74,
   "CCAaEN": 680,
   "Comprimento": 278,
@@ -1197,14 +1870,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 64,
+  "IdArtigo": 101,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB741",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 74,
   "CCAaEN": 680,
   "Comprimento": 278,
@@ -1216,7 +1889,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 65,
+  "IdArtigo": 102,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1235,14 +1908,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 66,
+  "IdArtigo": 103,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB800",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L04",
+  "Bloco": "L4",
   "CapAh": 80,
   "CCAaEN": 640,
   "Comprimento": 315,
@@ -1254,7 +1927,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 67,
+  "IdArtigo": 104,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1273,7 +1946,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 68,
+  "IdArtigo": 105,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1292,7 +1965,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 69,
+  "IdArtigo": 106,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1311,14 +1984,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 70,
+  "IdArtigo": 107,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB950",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 95,
   "CCAaEN": 800,
   "Comprimento": 353,
@@ -1330,7 +2003,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 71,
+  "IdArtigo": 108,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1349,7 +2022,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 72,
+  "IdArtigo": 109,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1368,14 +2041,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 73,
+  "IdArtigo": 110,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TB1100",
   "Descricao": "Bateria de arranque TECHNICA",
-  "Bloco": "L06",
+  "Bloco": "L6",
   "CapAh": 110,
   "CCAaEN": 850,
   "Comprimento": 392,
@@ -1387,14 +2060,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 74,
+  "IdArtigo": 111,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TC400",
   "Descricao": "Bateria de arranque STANDARD",
-  "Bloco": "L00",
+  "Bloco": "L0",
   "CapAh": 40,
   "CCAaEN": 320,
   "Comprimento": 175,
@@ -1406,7 +2079,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 75,
+  "IdArtigo": 112,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1425,14 +2098,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 76,
+  "IdArtigo": 113,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TC440",
   "Descricao": "Bateria de arranque STANDARD",
-  "Bloco": "L01",
+  "Bloco": "L1",
   "CapAh": 44,
   "CCAaEN": 360,
   "Comprimento": 207,
@@ -1444,7 +2117,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 77,
+  "IdArtigo": 114,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1463,14 +2136,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 78,
+  "IdArtigo": 115,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TC550",
   "Descricao": "Bateria de arranque STANDARD",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 55,
   "CCAaEN": 460,
   "Comprimento": 242,
@@ -1482,7 +2155,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 79,
+  "IdArtigo": 116,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1501,7 +2174,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 80,
+  "IdArtigo": 117,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1520,14 +2193,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 81,
+  "IdArtigo": 118,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TC700",
   "Descricao": "Bateria de arranque STANDARD",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 70,
   "CCAaEN": 640,
   "Comprimento": 278,
@@ -1539,14 +2212,14 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 82,
+  "IdArtigo": 119,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
   "Marca": "TUDOR",
   "Referencia": "TC900",
   "Descricao": "Bateria de arranque STANDARD",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 90,
   "CCAaEN": 720,
   "Comprimento": 353,
@@ -1558,7 +2231,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 83,
+  "IdArtigo": 120,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1577,7 +2250,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 84,
+  "IdArtigo": 121,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1596,7 +2269,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 85,
+  "IdArtigo": 122,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1615,7 +2288,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 86,
+  "IdArtigo": 123,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1634,7 +2307,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 87,
+  "IdArtigo": 124,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1653,7 +2326,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 88,
+  "IdArtigo": 125,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1672,7 +2345,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 89,
+  "IdArtigo": 126,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1691,7 +2364,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 90,
+  "IdArtigo": 127,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1710,7 +2383,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 91,
+  "IdArtigo": 128,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1729,7 +2402,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 92,
+  "IdArtigo": 129,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1748,7 +2421,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 93,
+  "IdArtigo": 130,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1767,7 +2440,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 94,
+  "IdArtigo": 131,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1786,7 +2459,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 95,
+  "IdArtigo": 132,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1805,7 +2478,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 96,
+  "IdArtigo": 133,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1824,7 +2497,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 97,
+  "IdArtigo": 134,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1843,7 +2516,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 98,
+  "IdArtigo": 135,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1862,7 +2535,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 99,
+  "IdArtigo": 136,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1881,7 +2554,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 100,
+  "IdArtigo": 137,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1900,7 +2573,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 101,
+  "IdArtigo": 138,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1919,7 +2592,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 102,
+  "IdArtigo": 139,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1938,7 +2611,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 103,
+  "IdArtigo": 140,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1957,7 +2630,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 104,
+  "IdArtigo": 141,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1976,7 +2649,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 105,
+  "IdArtigo": 142,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1995,7 +2668,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 106,
+  "IdArtigo": 143,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2014,7 +2687,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 107,
+  "IdArtigo": 144,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2033,7 +2706,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 108,
+  "IdArtigo": 145,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2052,7 +2725,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 109,
+  "IdArtigo": 146,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2071,7 +2744,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 110,
+  "IdArtigo": 147,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2090,7 +2763,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 111,
+  "IdArtigo": 148,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2109,7 +2782,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 112,
+  "IdArtigo": 149,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2128,7 +2801,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 113,
+  "IdArtigo": 150,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2147,7 +2820,277 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 114,
+  "IdArtigo": 151,
+  "Segmento": "Auto",
+  "Tecnologia": "AGM",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TK700",
+  "Descricao": "Bateria de arranque TUDOR Start-Stop AGM",
+  "Bloco": "L3",
+  "CapAh": 70,
+  "CCAaEN": 760,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 152,
+  "Segmento": "Auto",
+  "Tecnologia": "AGM",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TK454",
+  "Descricao": "Bateria de arranque TUDOR AGM",
+  "Bloco": "B24",
+  "CapAh": 45,
+  "CCAaEN": 380,
+  "Comprimento": 237,
+  "Largura": 127,
+  "Altura": 227,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 153,
+  "Segmento": "Auto",
+  "Tecnologia": "AGM",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TK457",
+  "Descricao": "Bateria de arranque TUDOR AGM",
+  "Bloco": "B24",
+  "CapAh": 45,
+  "CCAaEN": 380,
+  "Comprimento": 237,
+  "Largura": 127,
+  "Altura": 227,
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 3,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 154,
+  "Segmento": "Auto",
+  "Tecnologia": "AGM",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TK720",
+  "Descricao": "Bateria de arranque TUDOR Start-Stop AGM",
+  "Bloco": "L3",
+  "CapAh": 72,
+  "CCAaEN": 760,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 155,
+  "Segmento": "Auto",
+  "Tecnologia": "AGM",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TK820",
+  "Descricao": "Bateria de arranque TUDOR Start-Stop AGM",
+  "Bloco": "L4",
+  "CapAh": 82,
+  "CCAaEN": 800,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 156,
+  "Segmento": "Auto",
+  "Tecnologia": "AGM",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TK960",
+  "Descricao": "Bateria de arranque TUDOR Start-Stop AGM",
+  "Bloco": "L5",
+  "CapAh": 96,
+  "CCAaEN": 850,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 157,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TA456",
+  "Descricao": "Bateria de arranque HIGH-TECH",
+  "Bloco": "B24",
+  "CapAh": 45,
+  "CCAaEN": 390,
+  "Comprimento": 237,
+  "Largura": 127,
+  "Altura": 227,
+  "EsqLigacao": "0+direita",
+  "Terminal": 3,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 158,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TA654",
+  "Descricao": "Bateria de arranque HIGH-TECH",
+  "Bloco": "D23",
+  "CapAh": 65,
+  "CCAaEN": 580,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": 222,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 159,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TB356",
+  "Descricao": "Bateria de arranque TECHNICA",
+  "Bloco": "B19",
+  "CapAh": 35,
+  "CCAaEN": 240,
+  "Comprimento": 187,
+  "Largura": 127,
+  "Altura": 220,
+  "EsqLigacao": "0+direita",
+  "Terminal": 3,
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 160,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TF1250",
+  "Descricao": "Bateria de arranque PowerPRO",
+  "Bloco": "D03",
+  "CapAh": 125,
+  "CCAaEN": 850,
+  "Comprimento": 349,
+  "Largura": 175,
+  "Altura": 290,
+  "EsqLigacao": "ETN 0",
+  "Terminal": "EN",
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 161,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TF1251",
+  "Descricao": "Bateria de arranque PowerPRO",
+  "Bloco": "D03",
+  "CapAh": 125,
+  "CCAaEN": 850,
+  "Comprimento": 349,
+  "Largura": 175,
+  "Altura": 290,
+  "EsqLigacao": "ETN 1",
+  "Terminal": "EN",
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 162,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TG1102",
+  "Descricao": "Bateria de arranque StartPRO",
+  "Bloco": "D02",
+  "CapAh": 110,
+  "CCAaEN": 750,
+  "Comprimento": 349,
+  "Largura": 175,
+  "Altura": 239,
+  "EsqLigacao": "ETN 0",
+  "Terminal": "EN",
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 163,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TG1203",
+  "Descricao": "Bateria de arranque StartPRO",
+  "Bloco": "D04",
+  "CapAh": 120,
+  "CCAaEN": 680,
+  "Comprimento": 513,
+  "Largura": 189,
+  "Altura": 223,
+  "EsqLigacao": "ETN 3",
+  "Terminal": "EN",
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 164,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TG1206",
+  "Descricao": "Bateria de arranque StartPRO",
+  "Bloco": "D08",
+  "CapAh": 120,
+  "CCAaEN": 680,
+  "Comprimento": 510,
+  "Largura": 175,
+  "Altura": 225,
+  "EsqLigacao": "ETN 4",
+  "Terminal": "EN",
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 165,
+  "Segmento": "Auto",
+  "Tecnologia": "CONVENCIONAL",
+  "IdMarca": 212,
+  "Marca": "TUDOR",
+  "Referencia": "TG1250",
+  "Descricao": "Bateria de arranque StartPRO",
+  "Bloco": "D03",
+  "CapAh": 125,
+  "CCAaEN": 760,
+  "Comprimento": 349,
+  "Largura": 175,
+  "Altura": 285,
+  "EsqLigacao": "ETN 0",
+  "Terminal": "EN",
+  "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
+ },
+ {
+  "IdArtigo": 166,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -2167,9 +3110,9 @@
   "Wh": 1600
  },
  {
-  "IdArtigo": 115,
+  "IdArtigo": 167,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES290",
@@ -2186,9 +3129,9 @@
   "Wh": 290
  },
  {
-  "IdArtigo": 116,
+  "IdArtigo": 168,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES450",
@@ -2205,14 +3148,14 @@
   "Wh": 450
  },
  {
-  "IdArtigo": 117,
+  "IdArtigo": 169,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES650",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 56,
   "Comprimento": 278,
   "Largura": 175,
@@ -2224,14 +3167,14 @@
   "Wh": 650
  },
  {
-  "IdArtigo": 118,
+  "IdArtigo": 170,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES900",
   "Descricao": "Bateria de arranque EXIDE Equipment GEL",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 80,
   "Comprimento": 353,
   "Largura": 175,
@@ -2243,9 +3186,9 @@
   "Wh": 900
  },
  {
-  "IdArtigo": 119,
+  "IdArtigo": 171,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES950",
@@ -2262,9 +3205,9 @@
   "Wh": 950
  },
  {
-  "IdArtigo": 120,
+  "IdArtigo": 172,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES1000-6",
@@ -2282,9 +3225,9 @@
   "Wh": 1000
  },
  {
-  "IdArtigo": 121,
+  "IdArtigo": 173,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES1100-6",
@@ -2302,9 +3245,9 @@
   "Wh": 1100
  },
  {
-  "IdArtigo": 122,
+  "IdArtigo": 174,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES1200",
@@ -2321,9 +3264,9 @@
   "Wh": 1200
  },
  {
-  "IdArtigo": 123,
+  "IdArtigo": 175,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES1300",
@@ -2340,9 +3283,9 @@
   "Wh": 1300
  },
  {
-  "IdArtigo": 124,
+  "IdArtigo": 176,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES1350",
@@ -2359,9 +3302,9 @@
   "Wh": 1350
  },
  {
-  "IdArtigo": 125,
+  "IdArtigo": 177,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES1600",
@@ -2378,9 +3321,9 @@
   "Wh": 1600
  },
  {
-  "IdArtigo": 126,
+  "IdArtigo": 178,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO GEL",
+  "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ES2400",
@@ -2397,14 +3340,14 @@
   "Wh": 2400
  },
  {
-  "IdArtigo": 127,
+  "IdArtigo": 179,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO AGM",
+  "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EQ600",
   "Descricao": "Bateria de arranque EXIDE  Equipment AGM",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 70,
   "CCAaEN": 760,
   "Comprimento": 278,
@@ -2417,14 +3360,14 @@
   "Wh": 600
  },
  {
-  "IdArtigo": 128,
+  "IdArtigo": 180,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO AGM",
+  "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EQ800",
   "Descricao": "Bateria de arranque EXIDE  Equipment AGM",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 95,
   "CCAaEN": 850,
   "Comprimento": 353,
@@ -2437,9 +3380,9 @@
   "Wh": 800
  },
  {
-  "IdArtigo": 129,
+  "IdArtigo": 181,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "EQUIPAMENTO AGM",
+  "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EQ1000",
@@ -2457,14 +3400,14 @@
   "Wh": 1000
  },
  {
-  "IdArtigo": 130,
+  "IdArtigo": 182,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ET550",
   "Descricao": "Bateria de arranque EXIDE Equipment",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 80,
   "Comprimento": 278,
   "Largura": 175,
@@ -2476,14 +3419,14 @@
   "Wh": 550
  },
  {
-  "IdArtigo": 131,
+  "IdArtigo": 183,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "ET650",
   "Descricao": "Bateria de arranque EXIDE Equipment",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 100,
   "Comprimento": 350,
   "Largura": 175,
@@ -2495,7 +3438,7 @@
   "Wh": 650
  },
  {
-  "IdArtigo": 132,
+  "IdArtigo": 184,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
@@ -2514,7 +3457,7 @@
   "Wh": 950
  },
  {
-  "IdArtigo": 133,
+  "IdArtigo": 185,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
@@ -2533,7 +3476,7 @@
   "Wh": 1300
  },
  {
-  "IdArtigo": 134,
+  "IdArtigo": 186,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
@@ -2552,9 +3495,9 @@
   "Wh": 1600
  },
  {
-  "IdArtigo": 135,
+  "IdArtigo": 187,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "DUAL AGM",
+  "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EP450",
@@ -2572,14 +3515,14 @@
   "Wh": 450
  },
  {
-  "IdArtigo": 136,
+  "IdArtigo": 188,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "DUAL AGM",
+  "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EP500",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 60,
   "CCAaEN": 680,
   "Comprimento": 242,
@@ -2592,14 +3535,14 @@
   "Wh": 500
  },
  {
-  "IdArtigo": 137,
+  "IdArtigo": 189,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "DUAL AGM",
+  "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EP600",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 70,
   "CCAaEN": 760,
   "Comprimento": 278,
@@ -2612,14 +3555,14 @@
   "Wh": 600
  },
  {
-  "IdArtigo": 138,
+  "IdArtigo": 190,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "DUAL AGM",
+  "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EP800",
   "Descricao": "Bateria de arranque EXIDE DUAL AGM",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 95,
   "CCAaEN": 850,
   "Comprimento": 353,
@@ -2632,9 +3575,9 @@
   "Wh": 800
  },
  {
-  "IdArtigo": 139,
+  "IdArtigo": 191,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "DUAL AGM",
+  "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EP900",
@@ -2652,9 +3595,9 @@
   "Wh": 900
  },
  {
-  "IdArtigo": 140,
+  "IdArtigo": 192,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "DUAL AGM",
+  "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EP1200",
@@ -2672,9 +3615,9 @@
   "Wh": 1200
  },
  {
-  "IdArtigo": 141,
+  "IdArtigo": 193,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "DUAL AGM",
+  "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EP1500",
@@ -2692,9 +3635,9 @@
   "Wh": 1500
  },
  {
-  "IdArtigo": 142,
+  "IdArtigo": 194,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "DUAL AGM",
+  "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EP2100",
@@ -2712,14 +3655,14 @@
   "Wh": 2100
  },
  {
-  "IdArtigo": 143,
+  "IdArtigo": 195,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EFB",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EZ600",
   "Descricao": "Bateria de arranque EXIDE DUAL EFB",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 70,
   "CCAaEN": 760,
   "Comprimento": 278,
@@ -2732,7 +3675,7 @@
   "Wh": 600
  },
  {
-  "IdArtigo": 144,
+  "IdArtigo": 196,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EFB",
   "IdMarca": 24,
@@ -2752,14 +3695,14 @@
   "Wh": 850
  },
  {
-  "IdArtigo": 145,
+  "IdArtigo": 197,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EFB",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EZ850",
   "Descricao": "Bateria de arranque EXIDE DUAL EFB",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 100,
   "CCAaEN": 900,
   "Comprimento": 353,
@@ -2772,7 +3715,7 @@
   "Wh": 850
  },
  {
-  "IdArtigo": 146,
+  "IdArtigo": 198,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -2792,7 +3735,7 @@
   "Wh": 350
  },
  {
-  "IdArtigo": 147,
+  "IdArtigo": 199,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -2812,7 +3755,7 @@
   "Wh": 450
  },
  {
-  "IdArtigo": 148,
+  "IdArtigo": 200,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -2832,7 +3775,7 @@
   "Wh": 550
  },
  {
-  "IdArtigo": 149,
+  "IdArtigo": 201,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -2852,7 +3795,7 @@
   "Wh": 650
  },
  {
-  "IdArtigo": 150,
+  "IdArtigo": 202,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -2872,7 +3815,7 @@
   "Wh": 660
  },
  {
-  "IdArtigo": 151,
+  "IdArtigo": 203,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -2892,9 +3835,9 @@
   "Wh": 850
  },
  {
-  "IdArtigo": 152,
+  "IdArtigo": 204,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "START AGM",
+  "Tecnologia": "AGM START",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EM900",
@@ -2912,9 +3855,9 @@
   "Wh": 900
  },
  {
-  "IdArtigo": 153,
+  "IdArtigo": 205,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "START AGM",
+  "Tecnologia": "AGM START",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EM1000",
@@ -2932,9 +3875,9 @@
   "Wh": 1000
  },
  {
-  "IdArtigo": 154,
+  "IdArtigo": 206,
   "Segmento": "MARÍTIMO;LAZER",
-  "Tecnologia": "START AGM",
+  "Tecnologia": "AGM START",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EM960",
@@ -2952,14 +3895,14 @@
   "Wh": 960
  },
  {
-  "IdArtigo": 155,
+  "IdArtigo": 207,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EN500",
   "Descricao": "Bateria de arranque EXIDE START",
-  "Bloco": "L01",
+  "Bloco": "L1",
   "CapAh": 50,
   "CCAaEN": 450,
   "Comprimento": 210,
@@ -2972,14 +3915,14 @@
   "Wh": 500
  },
  {
-  "IdArtigo": 156,
+  "IdArtigo": 208,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EN600",
   "Descricao": "Bateria de arranque EXIDE START",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 62,
   "CCAaEN": 540,
   "Comprimento": 242,
@@ -2992,14 +3935,14 @@
   "Wh": 600
  },
  {
-  "IdArtigo": 157,
+  "IdArtigo": 209,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EN750",
   "Descricao": "Bateria de arranque EXIDE START",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 74,
   "CCAaEN": 680,
   "Comprimento": 278,
@@ -3012,14 +3955,14 @@
   "Wh": 750
  },
  {
-  "IdArtigo": 158,
+  "IdArtigo": 210,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
   "Marca": "EXIDE",
   "Referencia": "EN800",
   "Descricao": "Bateria de arranque EXIDE START",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 90,
   "CCAaEN": 720,
   "Comprimento": 353,
@@ -3032,7 +3975,7 @@
   "Wh": 800
  },
  {
-  "IdArtigo": 159,
+  "IdArtigo": 211,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -3052,7 +3995,7 @@
   "Wh": 850
  },
  {
-  "IdArtigo": 160,
+  "IdArtigo": 212,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -3072,7 +4015,7 @@
   "Wh": 900
  },
  {
-  "IdArtigo": 161,
+  "IdArtigo": 213,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -3092,7 +4035,7 @@
   "Wh": 1100
  },
  {
-  "IdArtigo": 162,
+  "IdArtigo": 214,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -3111,7 +4054,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 163,
+  "IdArtigo": 215,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -3130,7 +4073,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 164,
+  "IdArtigo": 216,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -3149,7 +4092,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 165,
+  "IdArtigo": 217,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -3168,7 +4111,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 166,
+  "IdArtigo": 218,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -3187,7 +4130,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 167,
+  "IdArtigo": 219,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -3206,7 +4149,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 168,
+  "IdArtigo": 220,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3222,7 +4165,7 @@
   "Wh": 24
  },
  {
-  "IdArtigo": 169,
+  "IdArtigo": 221,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3238,7 +4181,7 @@
   "Wh": 28.8
  },
  {
-  "IdArtigo": 170,
+  "IdArtigo": 222,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3254,7 +4197,7 @@
   "Wh": 36
  },
  {
-  "IdArtigo": 171,
+  "IdArtigo": 223,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3270,7 +4213,7 @@
   "Wh": 36
  },
  {
-  "IdArtigo": 172,
+  "IdArtigo": 224,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3286,7 +4229,7 @@
   "Wh": 42
  },
  {
-  "IdArtigo": 173,
+  "IdArtigo": 225,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3302,7 +4245,7 @@
   "Wh": 48
  },
  {
-  "IdArtigo": 174,
+  "IdArtigo": 226,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3318,7 +4261,7 @@
   "Wh": 48
  },
  {
-  "IdArtigo": 175,
+  "IdArtigo": 227,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3334,7 +4277,7 @@
   "Wh": 60
  },
  {
-  "IdArtigo": 176,
+  "IdArtigo": 228,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3350,7 +4293,7 @@
   "Wh": 60
  },
  {
-  "IdArtigo": 177,
+  "IdArtigo": 229,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3366,7 +4309,7 @@
   "Wh": 84
  },
  {
-  "IdArtigo": 178,
+  "IdArtigo": 230,
   "Segmento": "MOTO",
   "Tecnologia": "GEL",
   "IdMarca": 24,
@@ -3382,7 +4325,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 179,
+  "IdArtigo": 231,
   "Segmento": "MOTO",
   "Tecnologia": "GEL",
   "IdMarca": 24,
@@ -3398,7 +4341,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 180,
+  "IdArtigo": 232,
   "Segmento": "MOTO",
   "Tecnologia": "GEL",
   "IdMarca": 24,
@@ -3414,7 +4357,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 181,
+  "IdArtigo": 233,
   "Segmento": "MOTO",
   "Tecnologia": "GEL",
   "IdMarca": 24,
@@ -3430,7 +4373,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 182,
+  "IdArtigo": 234,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3446,7 +4389,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 183,
+  "IdArtigo": 235,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3462,7 +4405,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 184,
+  "IdArtigo": 236,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3478,7 +4421,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 185,
+  "IdArtigo": 237,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3494,7 +4437,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 186,
+  "IdArtigo": 238,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3510,7 +4453,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 187,
+  "IdArtigo": 239,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3526,7 +4469,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 188,
+  "IdArtigo": 240,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3542,7 +4485,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 189,
+  "IdArtigo": 241,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3558,7 +4501,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 190,
+  "IdArtigo": 242,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3574,7 +4517,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 191,
+  "IdArtigo": 243,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3590,7 +4533,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 192,
+  "IdArtigo": 244,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3606,7 +4549,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 193,
+  "IdArtigo": 245,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3622,7 +4565,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 194,
+  "IdArtigo": 246,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3638,7 +4581,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 195,
+  "IdArtigo": 247,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3654,7 +4597,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 196,
+  "IdArtigo": 248,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3670,7 +4613,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 197,
+  "IdArtigo": 249,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3686,7 +4629,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 198,
+  "IdArtigo": 250,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3702,7 +4645,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 199,
+  "IdArtigo": 251,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3718,7 +4661,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 200,
+  "IdArtigo": 252,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3734,7 +4677,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 201,
+  "IdArtigo": 253,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -3750,7 +4693,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 202,
+  "IdArtigo": 254,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3766,7 +4709,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 203,
+  "IdArtigo": 255,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3782,7 +4725,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 204,
+  "IdArtigo": 256,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3798,7 +4741,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 205,
+  "IdArtigo": 257,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3814,7 +4757,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 206,
+  "IdArtigo": 258,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3830,7 +4773,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 207,
+  "IdArtigo": 259,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3846,7 +4789,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 208,
+  "IdArtigo": 260,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3862,7 +4805,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 209,
+  "IdArtigo": 261,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3878,7 +4821,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 210,
+  "IdArtigo": 262,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3894,7 +4837,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 211,
+  "IdArtigo": 263,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3910,7 +4853,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 212,
+  "IdArtigo": 264,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3926,7 +4869,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 213,
+  "IdArtigo": 265,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3942,7 +4885,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 214,
+  "IdArtigo": 266,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3958,7 +4901,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 215,
+  "IdArtigo": 267,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3974,7 +4917,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 216,
+  "IdArtigo": 268,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -3990,7 +4933,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 217,
+  "IdArtigo": 269,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4006,7 +4949,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 218,
+  "IdArtigo": 270,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4022,7 +4965,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 219,
+  "IdArtigo": 271,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4038,7 +4981,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 220,
+  "IdArtigo": 272,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4054,7 +4997,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 221,
+  "IdArtigo": 273,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4070,7 +5013,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 222,
+  "IdArtigo": 274,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4086,7 +5029,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 223,
+  "IdArtigo": 275,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4102,7 +5045,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 224,
+  "IdArtigo": 276,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4118,7 +5061,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 225,
+  "IdArtigo": 277,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4134,7 +5077,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 226,
+  "IdArtigo": 278,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4150,7 +5093,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 227,
+  "IdArtigo": 279,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4166,7 +5109,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 228,
+  "IdArtigo": 280,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4182,7 +5125,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 229,
+  "IdArtigo": 281,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4198,7 +5141,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 230,
+  "IdArtigo": 282,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4214,7 +5157,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 231,
+  "IdArtigo": 283,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4230,7 +5173,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 232,
+  "IdArtigo": 284,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4246,7 +5189,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 233,
+  "IdArtigo": 285,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4262,7 +5205,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 234,
+  "IdArtigo": 286,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4278,7 +5221,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 235,
+  "IdArtigo": 287,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4294,7 +5237,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 236,
+  "IdArtigo": 288,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4310,7 +5253,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 237,
+  "IdArtigo": 289,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4326,7 +5269,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 238,
+  "IdArtigo": 290,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4342,7 +5285,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 239,
+  "IdArtigo": 291,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4358,7 +5301,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 240,
+  "IdArtigo": 292,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4374,7 +5317,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 241,
+  "IdArtigo": 293,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4390,7 +5333,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 242,
+  "IdArtigo": 294,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4406,7 +5349,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 243,
+  "IdArtigo": 295,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4422,7 +5365,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 244,
+  "IdArtigo": 296,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4438,7 +5381,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 245,
+  "IdArtigo": 297,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4454,7 +5397,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 246,
+  "IdArtigo": 298,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4470,7 +5413,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 247,
+  "IdArtigo": 299,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4486,7 +5429,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 248,
+  "IdArtigo": 300,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4502,7 +5445,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 249,
+  "IdArtigo": 301,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4518,7 +5461,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 250,
+  "IdArtigo": 302,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4534,7 +5477,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 251,
+  "IdArtigo": 303,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4550,7 +5493,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 252,
+  "IdArtigo": 304,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4566,7 +5509,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 253,
+  "IdArtigo": 305,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4582,7 +5525,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 254,
+  "IdArtigo": 306,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4598,7 +5541,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 255,
+  "IdArtigo": 307,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4614,7 +5557,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 256,
+  "IdArtigo": 308,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4630,7 +5573,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 257,
+  "IdArtigo": 309,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4646,7 +5589,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 258,
+  "IdArtigo": 310,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4662,7 +5605,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 259,
+  "IdArtigo": 311,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4678,7 +5621,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 260,
+  "IdArtigo": 312,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4694,7 +5637,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 261,
+  "IdArtigo": 313,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4710,7 +5653,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 262,
+  "IdArtigo": 314,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4726,7 +5669,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 263,
+  "IdArtigo": 315,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4742,7 +5685,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 264,
+  "IdArtigo": 316,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4758,7 +5701,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 265,
+  "IdArtigo": 317,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4774,7 +5717,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 266,
+  "IdArtigo": 318,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4790,7 +5733,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 267,
+  "IdArtigo": 319,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4806,7 +5749,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 268,
+  "IdArtigo": 320,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4822,7 +5765,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 269,
+  "IdArtigo": 321,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4838,7 +5781,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 270,
+  "IdArtigo": 322,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4854,7 +5797,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 271,
+  "IdArtigo": 323,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4870,7 +5813,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 272,
+  "IdArtigo": 324,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4886,7 +5829,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 273,
+  "IdArtigo": 325,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -4902,7 +5845,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 274,
+  "IdArtigo": 326,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -4916,27 +5859,31 @@
   "Largura": 127,
   "Altura": 220,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "IN35J",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 275,
+  "IdArtigo": 327,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN44Q",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
-  "Bloco": "L00",
+  "Bloco": "L0",
   "CapAh": 44,
   "CCAaEN": 400,
   "Comprimento": 175,
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "IN45Q",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 276,
+  "IdArtigo": 328,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -4950,10 +5897,11 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 277,
+  "IdArtigo": 329,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -4967,17 +5915,19 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "IN44B",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 278,
+  "IdArtigo": 330,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN44",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
-  "Bloco": "L01",
+  "Bloco": "L1",
   "CapAh": 44,
   "CCAaEN": 360,
   "Comprimento": 207,
@@ -4985,18 +5935,18 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/ihuw0bgrfoacatwjlygnn/BAT-INNOVPARTS-IN44.pdf?rlkey=j79vc5evu1cl0cdsydn58utds&st=bbgnjsrd&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN44.jpg"
+  "RefSubstituta": "IN45A",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 279,
+  "IdArtigo": 331,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN50",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
-  "Bloco": "L01",
+  "Bloco": "L1",
   "CapAh": 50,
   "CCAaEN": 450,
   "Comprimento": 207,
@@ -5004,62 +5954,62 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/yrfxv1pvk8eqftztfuf3n/BAT-INNOVPARTS-IN50.pdf?rlkey=o2roifmbivour0o8h66h3j2tp&st=epd6pe0c&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN50.jpg"
+  "RefSubstituta": "IN50A",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 280,
+  "IdArtigo": 332,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN45",
-  "Descricao": "Bateria de arranque InnovParts TECHNICA",
-  "Bloco": "E02",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 54420,
   "CapAh": 45,
-  "CCAaEN": 330,
-  "Comprimento": 220,
-  "Largura": 135,
-  "Altura": 225,
+  "CCAaEN": 360,
+  "Comprimento": 196,
+  "Largura": 134,
+  "Altura": "205/226",
   "EsqLigacao": "0+direita",
   "Terminal": 1
  },
  {
-  "IdArtigo": 281,
+  "IdArtigo": 333,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN45J",
-  "Descricao": "Bateria de arranque InnovParts TECHNICA",
-  "Bloco": "B24",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "54523/84",
   "CapAh": 45,
-  "CCAaEN": 330,
+  "CCAaEN": 360,
   "Comprimento": 237,
-  "Largura": 127,
-  "Altura": 227,
+  "Largura": 134,
+  "Altura": "205/226",
   "EsqLigacao": "0+direita",
   "Terminal": 1
  },
  {
-  "IdArtigo": 282,
+  "IdArtigo": 334,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN45.1J",
-  "Descricao": "Bateria de arranque InnovParts TECHNICA",
-  "Bloco": "B24",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "54524/51",
   "CapAh": 45,
-  "CCAaEN": 330,
+  "CCAaEN": 360,
   "Comprimento": 237,
-  "Largura": 127,
-  "Altura": 227,
+  "Largura": 134,
+  "Altura": "205/226",
   "EsqLigacao": "1+esquerda",
   "Terminal": 1
  },
  {
-  "IdArtigo": 283,
+  "IdArtigo": 335,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5073,10 +6023,12 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "IN55B",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 284,
+  "IdArtigo": 336,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5091,35 +6043,37 @@
   "Altura": 175,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/zytj5c2ffrz7xbpe7owr3/BAT-INNOVPARTS-IN60.pdf?rlkey=zsm2q5ve4da4i8dd2is9yeo96&st=llxnxf6q&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN60.jpg"
+  "RefSubstituta": "IN60B",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 285,
+  "IdArtigo": 337,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN55",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 55,
   "CCAaEN": 460,
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "IN55A",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 286,
+  "IdArtigo": 338,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN62",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
-  "Bloco": "L02",
+  "Bloco": "L2",
   "CapAh": 62,
   "CCAaEN": 540,
   "Comprimento": 242,
@@ -5127,11 +6081,11 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/9zbwi99gjb2tqeweg311g/BAT-INNOVPARTS-IN62.pdf?rlkey=b92gdpjikkjn85nopa40arrur&st=ixezy5iq&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN62.jpg"
+  "RefSubstituta": "IN60A",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 287,
+  "IdArtigo": 339,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5145,10 +6099,12 @@
   "Largura": 173,
   "Altura": 220,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "IN75.4",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 288,
+  "IdArtigo": 340,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5162,10 +6118,12 @@
   "Largura": 173,
   "Altura": 220,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "IN75.5",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 289,
+  "IdArtigo": 341,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5179,10 +6137,11 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 290,
+  "IdArtigo": 342,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5197,18 +6156,18 @@
   "Altura": 175,
   "EsqLigacao": "1+esquerda",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/xypdesetdrzkv4zt2idpy/BAT-INNOVPARTS-IN71.pdf?rlkey=xxixcvsdvgutj5qgoqbekyflh&st=mr9qmpee&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN71.jpg"
+  "RefSubstituta": "IN71B",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 291,
+  "IdArtigo": 343,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN70",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 70,
   "CCAaEN": 640,
   "Comprimento": 278,
@@ -5216,35 +6175,36 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/5vzlx6i9hedxipj4z2kav/BAT-INNOVPARTS-IN70.pdf?rlkey=8iwq99mhicqyyilmv81cg5dbe&st=mkic9bcn&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN70.jpg"
+  "RefSubstituta": "IN71A",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 292,
+  "IdArtigo": 344,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN70.1",
   "Descricao": "Bateria de arranque InnovParts STANDARD",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 70,
   "CCAaEN": 640,
   "Comprimento": 278,
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 293,
+  "IdArtigo": 345,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN74",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
-  "Bloco": "L03",
+  "Bloco": "L3",
   "CapAh": 74,
   "CCAaEN": 680,
   "Comprimento": 278,
@@ -5252,11 +6212,11 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/qgr3rc1p4dhu79imjvvx6/BAT-INNOVPARTS-IN74.pdf?rlkey=5byosnw7zojmyaoixxfbjv8dk&st=dgsyx7bj&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN74.jpg"
+  "RefSubstituta": "IN74A",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 294,
+  "IdArtigo": 346,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5270,17 +6230,18 @@
   "Largura": 175,
   "Altura": 175,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 295,
+  "IdArtigo": 347,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN80",
   "Descricao": "Bateria de arranque InnovParts TECHNICA",
-  "Bloco": "L04",
+  "Bloco": "L4",
   "CapAh": 80,
   "CCAaEN": 640,
   "Comprimento": 315,
@@ -5288,37 +6249,35 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/89mvaiajxxl07y0p6l3o1/BAT-INNOVPARTS-IN80.pdf?rlkey=9l42ck8fc8jx06u1pcpp79zhb&st=ecl9z2ai&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN80.jpg"
+  "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 296,
+  "IdArtigo": 348,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN90",
-  "Descricao": "Bateria de arranque InnovParts STANDARD",
-  "Bloco": "L05",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L5",
   "CapAh": 90,
-  "CCAaEN": 720,
+  "CCAaEN": 800,
   "Comprimento": 353,
   "Largura": 175,
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/q73g1xpldbgc8pyriwt06/BAT-INNOVPARTS-IN90.pdf?rlkey=d255mo26j2wu8alkpufgf1v5v&st=80phvwxn&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN90.jpg"
+  "RefAlternativa": "IN92B"
  },
  {
-  "IdArtigo": 297,
+  "IdArtigo": 349,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN100",
   "Descricao": "Bateria de arranque InnovParts HIGH-TECH",
-  "Bloco": "L05",
+  "Bloco": "L5",
   "CapAh": 100,
   "CCAaEN": 850,
   "Comprimento": 353,
@@ -5326,11 +6285,11 @@
   "Altura": 190,
   "EsqLigacao": "0+direita",
   "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/4smrfu4ttpht27gqj8pjv/BAT-INNOVPARTS-IN100.pdf?rlkey=i9r8pt9ud191wo0i00wd53kmr&st=vku5u0k9&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN100.jpg"
+  "RefSubstituta": "IN100A",
+  "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 298,
+  "IdArtigo": 350,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5344,10 +6303,11 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": "0+direita",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 299,
+  "IdArtigo": 351,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5361,116 +6321,113 @@
   "Largura": 173,
   "Altura": 222,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 300,
+  "IdArtigo": 352,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN95.4",
-  "Descricao": "Bateria de arranque InnovParts PLUS",
-  "Bloco": "D31",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 59518,
   "CapAh": 95,
-  "CCAaEN": 760,
-  "Comprimento": 306,
-  "Largura": 173,
-  "Altura": 222,
+  "CCAaEN": 850,
+  "Comprimento": 303,
+  "Largura": 175,
+  "Altura": 227,
   "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/rlna97byt98a7devmxfi6/BAT-INNOVPARTS-IN95.4.pdf?rlkey=ry4gu1tvvqphpiw9oxkbg321g&st=jhhpz6kj&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN95.4.jpg"
+  "Terminal": 1
  },
  {
-  "IdArtigo": 301,
+  "IdArtigo": 353,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN95.5",
-  "Descricao": "Bateria de arranque InnovParts PLUS",
-  "Bloco": "D31",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 59518,
   "CapAh": 95,
-  "CCAaEN": 760,
-  "Comprimento": 306,
-  "Largura": 173,
-  "Altura": 222,
+  "CCAaEN": 850,
+  "Comprimento": 303,
+  "Largura": 175,
+  "Altura": 227,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1,
-  "FichaSeguranca": "https://www.dropbox.com/scl/fi/c5petukpitn6vmtbs1f9e/BAT-INNOVPARTS-IN95.5.pdf?rlkey=82sa0zpvohm9ji77masoyaj6f&st=yo9a3cpw&dl=0",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bateria_IN95.5.jpg"
+  "Terminal": 1
  },
  {
-  "IdArtigo": 302,
+  "IdArtigo": 354,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN110",
-  "Descricao": "Bateria de arranque InnovParts StartPRO",
-  "Bloco": "D02",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 60528,
   "CapAh": 110,
-  "CCAaEN": 750,
-  "Comprimento": 349,
-  "Largura": 175,
-  "Altura": 235,
+  "CCAaEN": 700,
+  "Comprimento": 345,
+  "Largura": 173,
+  "Altura": "212/233",
   "EsqLigacao": "0+direita",
   "Terminal": 1
  },
  {
-  "IdArtigo": 303,
+  "IdArtigo": 355,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN110.1",
-  "Descricao": "Bateria de arranque InnovParts StartPRO",
-  "Bloco": "D02",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 60528,
   "CapAh": 110,
-  "CCAaEN": 750,
-  "Comprimento": 349,
-  "Largura": 175,
-  "Altura": 235,
+  "CCAaEN": 700,
+  "Comprimento": 345,
+  "Largura": 173,
+  "Altura": "212/233",
   "EsqLigacao": "1+esquerda",
   "Terminal": 1
  },
  {
-  "IdArtigo": 304,
+  "IdArtigo": 356,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN140.3",
-  "Descricao": "Bateria de arranque InnovParts StartPRO",
-  "Bloco": "D04",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "MAC110",
   "CapAh": 140,
-  "CCAaEN": 800,
-  "Comprimento": 513,
-  "Largura": 189,
-  "Altura": 223,
+  "CCAaEN": 750,
+  "Comprimento": 509,
+  "Largura": 175,
+  "Altura": "196/218",
   "EsqLigacao": "1+esquerda",
   "Terminal": 1
  },
  {
-  "IdArtigo": 305,
+  "IdArtigo": 357,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
   "Marca": "INNOVPARTS",
   "Referencia": "IN180.3",
-  "Descricao": "Bateria de arranque InnovParts StartPRO",
-  "Bloco": "D05",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "B",
   "CapAh": 180,
-  "CCAaEN": 1000,
+  "CCAaEN": 950,
   "Comprimento": 513,
-  "Largura": 223,
-  "Altura": 223,
+  "Largura": 222,
+  "Altura": "194/216",
   "EsqLigacao": "1+esquerda",
   "Terminal": 1
  },
  {
-  "IdArtigo": 306,
+  "IdArtigo": 358,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5484,10 +6441,11 @@
   "Largura": 279,
   "Altura": 240,
   "EsqLigacao": "1+esquerda",
-  "Terminal": 1
+  "Terminal": 1,
+  "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 307,
+  "IdArtigo": 359,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5501,7 +6459,7 @@
   "Altura": 85
  },
  {
-  "IdArtigo": 308,
+  "IdArtigo": 360,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5515,7 +6473,7 @@
   "Altura": 85.5
  },
  {
-  "IdArtigo": 309,
+  "IdArtigo": 361,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5529,7 +6487,7 @@
   "Altura": 85
  },
  {
-  "IdArtigo": 310,
+  "IdArtigo": 362,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5543,7 +6501,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 311,
+  "IdArtigo": 363,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5557,7 +6515,7 @@
   "Altura": 85
  },
  {
-  "IdArtigo": 312,
+  "IdArtigo": 364,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5571,7 +6529,7 @@
   "Altura": 93
  },
  {
-  "IdArtigo": 313,
+  "IdArtigo": 365,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5585,7 +6543,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 314,
+  "IdArtigo": 366,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5599,7 +6557,7 @@
   "Altura": 93
  },
  {
-  "IdArtigo": 315,
+  "IdArtigo": 367,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5613,7 +6571,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 316,
+  "IdArtigo": 368,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5627,7 +6585,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 317,
+  "IdArtigo": 369,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5641,7 +6599,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 318,
+  "IdArtigo": 370,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5655,7 +6613,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 319,
+  "IdArtigo": 371,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5669,7 +6627,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 320,
+  "IdArtigo": 372,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5683,7 +6641,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 321,
+  "IdArtigo": 373,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5697,7 +6655,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 322,
+  "IdArtigo": 374,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5711,7 +6669,7 @@
   "Altura": 110
  },
  {
-  "IdArtigo": 323,
+  "IdArtigo": 375,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5725,7 +6683,7 @@
   "Altura": 145
  },
  {
-  "IdArtigo": 324,
+  "IdArtigo": 376,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5739,7 +6697,7 @@
   "Altura": 145
  },
  {
-  "IdArtigo": 325,
+  "IdArtigo": 377,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5753,7 +6711,7 @@
   "Altura": 110
  },
  {
-  "IdArtigo": 326,
+  "IdArtigo": 378,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5767,7 +6725,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 327,
+  "IdArtigo": 379,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5781,7 +6739,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 328,
+  "IdArtigo": 380,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5795,7 +6753,7 @@
   "Altura": 155
  },
  {
-  "IdArtigo": 329,
+  "IdArtigo": 381,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5809,7 +6767,7 @@
   "Altura": 167
  },
  {
-  "IdArtigo": 330,
+  "IdArtigo": 382,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5823,7 +6781,7 @@
   "Altura": 110
  },
  {
-  "IdArtigo": 331,
+  "IdArtigo": 383,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5837,7 +6795,7 @@
   "Altura": 92
  },
  {
-  "IdArtigo": 332,
+  "IdArtigo": 384,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5851,7 +6809,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 333,
+  "IdArtigo": 385,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5865,7 +6823,7 @@
   "Altura": 133
  },
  {
-  "IdArtigo": 334,
+  "IdArtigo": 386,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5879,7 +6837,7 @@
   "Altura": 114
  },
  {
-  "IdArtigo": 335,
+  "IdArtigo": 387,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5893,7 +6851,7 @@
   "Altura": 133
  },
  {
-  "IdArtigo": 336,
+  "IdArtigo": 388,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5907,7 +6865,7 @@
   "Altura": 139
  },
  {
-  "IdArtigo": 337,
+  "IdArtigo": 389,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5921,7 +6879,7 @@
   "Altura": 139
  },
  {
-  "IdArtigo": 338,
+  "IdArtigo": 390,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5935,7 +6893,7 @@
   "Altura": 145
  },
  {
-  "IdArtigo": 339,
+  "IdArtigo": 391,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5949,7 +6907,7 @@
   "Altura": 160
  },
  {
-  "IdArtigo": 340,
+  "IdArtigo": 392,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5963,7 +6921,7 @@
   "Altura": 160
  },
  {
-  "IdArtigo": 341,
+  "IdArtigo": 393,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5977,7 +6935,7 @@
   "Altura": 166
  },
  {
-  "IdArtigo": 342,
+  "IdArtigo": 394,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -5991,7 +6949,7 @@
   "Altura": 166
  },
  {
-  "IdArtigo": 343,
+  "IdArtigo": 395,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6005,7 +6963,7 @@
   "Altura": 166
  },
  {
-  "IdArtigo": 344,
+  "IdArtigo": 396,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6019,7 +6977,7 @@
   "Altura": 166
  },
  {
-  "IdArtigo": 345,
+  "IdArtigo": 397,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6033,7 +6991,7 @@
   "Altura": 162
  },
  {
-  "IdArtigo": 346,
+  "IdArtigo": 398,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6047,7 +7005,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 347,
+  "IdArtigo": 399,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6061,7 +7019,7 @@
   "Altura": 180
  },
  {
-  "IdArtigo": 348,
+  "IdArtigo": 400,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6075,7 +7033,7 @@
   "Altura": 155
  },
  {
-  "IdArtigo": 349,
+  "IdArtigo": 401,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6089,7 +7047,7 @@
   "Altura": 162
  },
  {
-  "IdArtigo": 350,
+  "IdArtigo": 402,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6103,7 +7061,7 @@
   "Altura": 170
  },
  {
-  "IdArtigo": 351,
+  "IdArtigo": 403,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6117,35 +7075,37 @@
   "Altura": 176
  },
  {
-  "IdArtigo": 352,
+  "IdArtigo": 404,
   "Segmento": "JARDIM",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "U1MF-X",
   "Descricao": "Bateria MULTICULTOR/CORTACÉSPED 12V 30AH +Esq.",
-  "CapAh": 300,
+  "CapAh": 30,
+  "CCAaEN": 300,
   "Comprimento": 205,
   "Largura": 132,
   "Altura": "160/185"
  },
  {
-  "IdArtigo": 353,
+  "IdArtigo": 405,
   "Segmento": "JARDIM",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "U1RMF-X",
   "Descricao": "Bateria MULTICULTOR/CORTACÉSPED 12V 30AH +Dir.",
-  "CapAh": 300,
+  "CapAh": 30,
+  "CCAaEN": 300,
   "Comprimento": 205,
   "Largura": 132,
   "Altura": "160/185"
  },
  {
-  "IdArtigo": 354,
+  "IdArtigo": 406,
   "Segmento": "LAZER",
-  "Tecnologia": "EQUIPAMENTO AGM",
+  "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "PE12-7,2",
@@ -6156,9 +7116,9 @@
   "Altura": "94/100"
  },
  {
-  "IdArtigo": 355,
+  "IdArtigo": 407,
   "Segmento": "LAZER",
-  "Tecnologia": "EQUIPAMENTO AGM",
+  "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 90063,
   "Marca": "JP BATERIAS",
   "Referencia": "PE12-12",
@@ -6169,7 +7129,7 @@
   "Altura": "98/100"
  },
  {
-  "IdArtigo": 356,
+  "IdArtigo": 408,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6183,7 +7143,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 357,
+  "IdArtigo": 409,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6197,7 +7157,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 358,
+  "IdArtigo": 410,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6211,7 +7171,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 359,
+  "IdArtigo": 411,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6225,7 +7185,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 360,
+  "IdArtigo": 412,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6239,7 +7199,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 361,
+  "IdArtigo": 413,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6253,7 +7213,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 362,
+  "IdArtigo": 414,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6267,7 +7227,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 363,
+  "IdArtigo": 415,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6281,7 +7241,7 @@
   "Altura": 114
  },
  {
-  "IdArtigo": 364,
+  "IdArtigo": 416,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -6295,11 +7255,11 @@
   "Altura": 145
  },
  {
-  "IdArtigo": 365,
+  "IdArtigo": 417,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0470B",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB1",
@@ -6316,11 +7276,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 366,
+  "IdArtigo": 418,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0500B",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB1",
@@ -6336,11 +7296,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 367,
+  "IdArtigo": 419,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0500",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L1",
@@ -6356,11 +7316,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 368,
+  "IdArtigo": 420,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0501",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L1",
@@ -6376,11 +7336,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 369,
+  "IdArtigo": 421,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0560B",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB2",
@@ -6396,11 +7356,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 370,
+  "IdArtigo": 422,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0600B",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB2",
@@ -6417,11 +7377,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 371,
+  "IdArtigo": 423,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0600",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L2",
@@ -6438,11 +7398,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 372,
+  "IdArtigo": 424,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0601",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L2",
@@ -6458,11 +7418,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 373,
+  "IdArtigo": 425,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0720B",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB3",
@@ -6479,11 +7439,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 374,
+  "IdArtigo": 426,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0740B",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB3",
@@ -6499,11 +7459,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 375,
+  "IdArtigo": 427,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0740",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L3",
@@ -6520,11 +7480,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 376,
+  "IdArtigo": 428,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0741",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L3",
@@ -6540,11 +7500,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 377,
+  "IdArtigo": 429,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0820",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB4",
@@ -6561,11 +7521,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 378,
+  "IdArtigo": 430,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0920B",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB5",
@@ -6581,11 +7541,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 379,
+  "IdArtigo": 431,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0950B",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "LB5",
@@ -6601,11 +7561,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 380,
+  "IdArtigo": 432,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0950",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L5",
@@ -6622,11 +7582,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 381,
+  "IdArtigo": 433,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0951",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L5",
@@ -6642,11 +7602,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 382,
+  "IdArtigo": 434,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1100",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L6",
@@ -6662,11 +7622,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 383,
+  "IdArtigo": 435,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0570",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "L1",
@@ -6682,11 +7642,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
-  "IdArtigo": 384,
+  "IdArtigo": 436,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0670",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "L2",
@@ -6702,11 +7662,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
-  "IdArtigo": 385,
+  "IdArtigo": 437,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0850",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "L3",
@@ -6722,11 +7682,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
-  "IdArtigo": 386,
+  "IdArtigo": 438,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0970B",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "LB4",
@@ -6740,11 +7700,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png"
  },
  {
-  "IdArtigo": 387,
+  "IdArtigo": 439,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1050",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "L5",
@@ -6760,11 +7720,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
-  "IdArtigo": 388,
+  "IdArtigo": 440,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFB60",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "L2",
@@ -6780,11 +7740,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 389,
+  "IdArtigo": 441,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFB70",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "LB3",
@@ -6800,11 +7760,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 390,
+  "IdArtigo": 442,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFB75",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "L3",
@@ -6820,11 +7780,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 391,
+  "IdArtigo": 443,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFB80",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "L4",
@@ -6840,11 +7800,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 392,
+  "IdArtigo": 444,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFB95",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "L5",
@@ -6860,11 +7820,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 393,
+  "IdArtigo": 445,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAAGM60",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L2",
@@ -6880,11 +7840,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 394,
+  "IdArtigo": 446,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAAGM70",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L3",
@@ -6901,11 +7861,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 395,
+  "IdArtigo": 447,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAAGM80",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L4",
@@ -6921,11 +7881,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 396,
+  "IdArtigo": 448,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAAGM95",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L5",
@@ -6941,11 +7901,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 397,
+  "IdArtigo": 449,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAAGM105",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L6",
@@ -6961,11 +7921,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 398,
+  "IdArtigo": 450,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0400P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "B19",
@@ -6981,11 +7941,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 399,
+  "IdArtigo": 451,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0401P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "B19",
@@ -7001,11 +7961,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 400,
+  "IdArtigo": 452,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0450P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "E2/B24",
@@ -7021,11 +7981,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 401,
+  "IdArtigo": 453,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0451P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "E2/B24",
@@ -7041,11 +8001,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 402,
+  "IdArtigo": 454,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0400",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "L0",
@@ -7061,11 +8021,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 403,
+  "IdArtigo": 455,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0600",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "D23",
@@ -7081,11 +8041,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 404,
+  "IdArtigo": 456,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0601",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "D23",
@@ -7101,11 +8061,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 405,
+  "IdArtigo": 457,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0800",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "M10",
@@ -7121,11 +8081,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 406,
+  "IdArtigo": 458,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ0801",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "M10",
@@ -7141,11 +8101,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 407,
+  "IdArtigo": 459,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ1050",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "M11",
@@ -7162,11 +8122,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 408,
+  "IdArtigo": 460,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ1051",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "M11",
@@ -7183,11 +8143,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 409,
+  "IdArtigo": 461,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAJ1100",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "BCI31",
@@ -7203,11 +8163,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 410,
+  "IdArtigo": 462,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1150",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C13",
@@ -7223,11 +8183,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 411,
+  "IdArtigo": 463,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1151",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C13",
@@ -7243,11 +8203,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 412,
+  "IdArtigo": 464,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1300",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "H13",
@@ -7263,11 +8223,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 413,
+  "IdArtigo": 465,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1301",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "H13",
@@ -7283,11 +8243,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 414,
+  "IdArtigo": 466,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1353",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "MAC",
@@ -7303,11 +8263,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 415,
+  "IdArtigo": 467,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1354",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "MAC",
@@ -7323,11 +8283,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 416,
+  "IdArtigo": 468,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1453",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "A",
@@ -7343,11 +8303,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 417,
+  "IdArtigo": 469,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1656",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "D",
@@ -7363,11 +8323,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 418,
+  "IdArtigo": 470,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1803",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -7383,11 +8343,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 419,
+  "IdArtigo": 471,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1903",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -7403,11 +8363,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 420,
+  "IdArtigo": 472,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1904",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -7423,11 +8383,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 421,
+  "IdArtigo": 473,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1903SMF",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -7443,11 +8403,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 422,
+  "IdArtigo": 474,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA2003SHDSMF",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -7463,11 +8423,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 423,
+  "IdArtigo": 475,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA2203",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
@@ -7483,11 +8443,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 424,
+  "IdArtigo": 476,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA2253",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
@@ -7503,11 +8463,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 425,
+  "IdArtigo": 477,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA2254",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
@@ -7523,11 +8483,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 426,
+  "IdArtigo": 478,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA2253SMF",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
@@ -7543,11 +8503,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 427,
+  "IdArtigo": 479,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA2403",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
@@ -7563,11 +8523,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 428,
+  "IdArtigo": 480,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA2453SHDSMF",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
@@ -7583,11 +8543,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 429,
+  "IdArtigo": 481,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFBJ0601",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "D23",
@@ -7596,18 +8556,18 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
   "RefSubstituta": "CGA0601EFBJ",
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 430,
+  "IdArtigo": 482,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFBJ0800",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "M10",
@@ -7616,18 +8576,18 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
   "RefSubstituta": "CGA0800EFBJ",
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 431,
+  "IdArtigo": 483,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFBJ0801",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "M10",
@@ -7636,18 +8596,18 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
   "RefSubstituta": "CGA0801EFBJ",
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 432,
+  "IdArtigo": 484,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFBJ1050",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "M11",
@@ -7656,18 +8616,18 @@
   "Comprimento": 303,
   "Largura": 173,
   "Altura": 225,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
   "RefSubstituta": "CGA1050EFBJ",
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 433,
+  "IdArtigo": 485,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFBJ1051",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "M11",
@@ -7676,18 +8636,18 @@
   "Comprimento": 303,
   "Largura": 173,
   "Altura": 225,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png",
   "RefSubstituta": "CGA1051EFBJ",
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 434,
+  "IdArtigo": 486,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFB1903",
   "Descricao": "Bateria de arranque CGA EFB TRUCK HD",
   "Bloco": "B",
@@ -7703,11 +8663,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB TRUCK HD"
  },
  {
-  "IdArtigo": 435,
+  "IdArtigo": 487,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGAEFB2403",
   "Descricao": "Bateria de arranque CGA EFB TRUCK HD",
   "Bloco": "C ",
@@ -7723,11 +8683,11 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB TRUCK HD"
  },
  {
-  "IdArtigo": 436,
+  "IdArtigo": 488,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50400",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "L0",
@@ -7736,34 +8696,34 @@
   "Comprimento": 175,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 437,
+  "IdArtigo": 489,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50500B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L1B",
+  "Bloco": "LB2",
   "CapAh": 50,
   "CCAaEN": 420,
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 438,
+  "IdArtigo": 490,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50500",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L1",
@@ -7772,34 +8732,34 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 439,
+  "IdArtigo": 491,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50520B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L1B",
+  "Bloco": "LB2",
   "CapAh": 52,
   "CCAaEN": 460,
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 440,
+  "IdArtigo": 492,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50520",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L1",
@@ -7808,16 +8768,16 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 441,
+  "IdArtigo": 493,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50521",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L1",
@@ -7826,16 +8786,16 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 442,
+  "IdArtigo": 494,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50570",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "L1",
@@ -7844,34 +8804,34 @@
   "Comprimento": 210,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 443,
+  "IdArtigo": 495,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50600B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L2B",
+  "Bloco": "LB2",
   "CapAh": 60,
   "CCAaEN": 540,
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 444,
+  "IdArtigo": 496,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50600",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L2",
@@ -7880,34 +8840,34 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 445,
+  "IdArtigo": 497,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50650B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L2B",
+  "Bloco": "LB2",
   "CapAh": 65,
   "CCAaEN": 580,
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 446,
+  "IdArtigo": 498,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50650",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L2",
@@ -7916,16 +8876,16 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 447,
+  "IdArtigo": 499,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50651",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L2",
@@ -7934,16 +8894,16 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 448,
+  "IdArtigo": 500,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50670",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "L2",
@@ -7952,34 +8912,34 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 449,
+  "IdArtigo": 501,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50740B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L3B",
+  "Bloco": "LB3",
   "CapAh": 74,
   "CCAaEN": 660,
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 450,
+  "IdArtigo": 502,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50740",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L3",
@@ -7988,34 +8948,34 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 451,
+  "IdArtigo": 503,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50760B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L3B",
+  "Bloco": "LB3",
   "CapAh": 76,
   "CCAaEN": 700,
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 452,
+  "IdArtigo": 504,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50760",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L3",
@@ -8024,16 +8984,16 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 453,
+  "IdArtigo": 505,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50761",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L3",
@@ -8042,16 +9002,16 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 454,
+  "IdArtigo": 506,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50850",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "L3",
@@ -8060,52 +9020,52 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 455,
+  "IdArtigo": 507,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50900B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L4B",
+  "Bloco": "LB4",
   "CapAh": 90,
   "CCAaEN": 760,
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 456,
+  "IdArtigo": 508,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50950B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L5B",
+  "Bloco": "LB5",
   "CapAh": 95,
   "CCAaEN": 780,
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 457,
+  "IdArtigo": 509,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA50950",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L5",
@@ -8114,34 +9074,34 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 458,
+  "IdArtigo": 510,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA51000B",
   "Descricao": "Bateria de arranque CGA Power",
-  "Bloco": "L5B",
+  "Bloco": "LB5",
   "CapAh": 100,
   "CCAaEN": 800,
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 459,
+  "IdArtigo": 511,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA51000",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L5",
@@ -8150,16 +9110,16 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 460,
+  "IdArtigo": 512,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA51001",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L5",
@@ -8168,16 +9128,16 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 461,
+  "IdArtigo": 513,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA51050",
   "Descricao": "Bateria de arranque CGA Gold",
   "Bloco": "L5",
@@ -8186,16 +9146,16 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 462,
+  "IdArtigo": 514,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA51100",
   "Descricao": "Bateria de arranque CGA Power",
   "Bloco": "L6",
@@ -8204,16 +9164,16 @@
   "Comprimento": 393,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 463,
+  "IdArtigo": 515,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0600EFB",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "L2",
@@ -8222,34 +9182,34 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 464,
+  "IdArtigo": 516,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0700BEFB",
   "Descricao": "Bateria de arranque CGA EFB",
-  "Bloco": "L3B",
+  "Bloco": "LB3",
   "CapAh": 70,
   "CCAaEN": 720,
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 175,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 465,
+  "IdArtigo": 517,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0750EFB",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "L3",
@@ -8258,16 +9218,16 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 466,
+  "IdArtigo": 518,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0800EFB",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "L4",
@@ -8276,16 +9236,16 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 467,
+  "IdArtigo": 519,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0950EFB",
   "Descricao": "Bateria de arranque CGA EFB",
   "Bloco": "L5",
@@ -8294,16 +9254,16 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 468,
+  "IdArtigo": 520,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0600EFBJ",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "D23",
@@ -8312,16 +9272,16 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 469,
+  "IdArtigo": 521,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0601EFBJ",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "D23",
@@ -8330,16 +9290,16 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 470,
+  "IdArtigo": 522,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0800EFBJ",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "M10",
@@ -8348,16 +9308,16 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 471,
+  "IdArtigo": 523,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0801EFBJ",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "M10",
@@ -8366,16 +9326,16 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 472,
+  "IdArtigo": 524,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1050EFBJ",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "M11",
@@ -8384,16 +9344,16 @@
   "Comprimento": 303,
   "Largura": 173,
   "Altura": 225,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 473,
+  "IdArtigo": 525,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1051EFBJ",
   "Descricao": "Bateria de arranque CGA EFB JIS",
   "Bloco": "M11",
@@ -8402,16 +9362,16 @@
   "Comprimento": 303,
   "Largura": 173,
   "Altura": 225,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 474,
+  "IdArtigo": 526,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1903EFB",
   "Descricao": "Bateria de arranque CGA EFB TRUCK HD",
   "Bloco": "B",
@@ -8425,11 +9385,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 475,
+  "IdArtigo": 527,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA2403EFB",
   "Descricao": "Bateria de arranque CGA EFB TRUCK HD",
   "Bloco": "C ",
@@ -8443,11 +9403,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 476,
+  "IdArtigo": 528,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0600AGM",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L2",
@@ -8456,16 +9416,16 @@
   "Comprimento": 242,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 477,
+  "IdArtigo": 529,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0700AGM",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L3",
@@ -8474,16 +9434,16 @@
   "Comprimento": 276,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 478,
+  "IdArtigo": 530,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0800AGM",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L4",
@@ -8492,16 +9452,16 @@
   "Comprimento": 315,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 479,
+  "IdArtigo": 531,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA0950AGM",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L5",
@@ -8510,16 +9470,16 @@
   "Comprimento": 352,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 480,
+  "IdArtigo": 532,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA1050AGM",
   "Descricao": "Bateria de arranque CGA AGM",
   "Bloco": "L6",
@@ -8528,16 +9488,16 @@
   "Comprimento": 393,
   "Largura": 175,
   "Altura": 190,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 481,
+  "IdArtigo": 533,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA40400P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "B19",
@@ -8546,16 +9506,16 @@
   "Comprimento": 187,
   "Largura": 127,
   "Altura": 226,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 3,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 482,
+  "IdArtigo": 534,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA40401P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "B19",
@@ -8564,16 +9524,16 @@
   "Comprimento": 187,
   "Largura": 127,
   "Altura": 226,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 3,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 483,
+  "IdArtigo": 535,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA40450P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "E2/B24",
@@ -8582,16 +9542,16 @@
   "Comprimento": 238,
   "Largura": 129,
   "Altura": 225,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": "1/3",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 484,
+  "IdArtigo": 536,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA40451P",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "E2/B24",
@@ -8600,16 +9560,16 @@
   "Comprimento": 238,
   "Largura": 129,
   "Altura": 225,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": "1/3",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 485,
+  "IdArtigo": 537,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA40600",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "D23",
@@ -8618,16 +9578,16 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 486,
+  "IdArtigo": 538,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA40601",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "D23",
@@ -8636,16 +9596,16 @@
   "Comprimento": 230,
   "Largura": 173,
   "Altura": 220,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 487,
+  "IdArtigo": 539,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA40800",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "M10",
@@ -8654,16 +9614,16 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 488,
+  "IdArtigo": 540,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA40801",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "M10",
@@ -8672,16 +9632,16 @@
   "Comprimento": 260,
   "Largura": 173,
   "Altura": 222,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 489,
+  "IdArtigo": 541,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA41050",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "M11",
@@ -8690,16 +9650,16 @@
   "Comprimento": 303,
   "Largura": 173,
   "Altura": 225,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 490,
+  "IdArtigo": 542,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA41051",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "M11",
@@ -8708,16 +9668,16 @@
   "Comprimento": 303,
   "Largura": 173,
   "Altura": 225,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 491,
+  "IdArtigo": 543,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA6110C",
   "Descricao": "Bateria de arranque CGA Power PLUS",
   "Bloco": "BCI31",
@@ -8731,11 +9691,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 492,
+  "IdArtigo": 544,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61150",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C13",
@@ -8744,16 +9704,16 @@
   "Comprimento": 344,
   "Largura": 171,
   "Altura": 232,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 493,
+  "IdArtigo": 545,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61151",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C13",
@@ -8762,16 +9722,16 @@
   "Comprimento": 344,
   "Largura": 171,
   "Altura": 232,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 494,
+  "IdArtigo": 546,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61300",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "H13",
@@ -8780,16 +9740,16 @@
   "Comprimento": 344,
   "Largura": 171,
   "Altura": 283,
-  "EsqLigacao": 0,
+  "EsqLigacao": "0+direita",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 495,
+  "IdArtigo": 547,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61301",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "H13",
@@ -8798,16 +9758,16 @@
   "Comprimento": 344,
   "Largura": 171,
   "Altura": 283,
-  "EsqLigacao": 1,
+  "EsqLigacao": "1+esquerda",
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 496,
+  "IdArtigo": 548,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61403",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "MAC",
@@ -8821,11 +9781,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 497,
+  "IdArtigo": 549,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61404",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "MAC",
@@ -8839,11 +9799,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 498,
+  "IdArtigo": 550,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61453",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "A",
@@ -8857,11 +9817,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 499,
+  "IdArtigo": 551,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61656",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "D",
@@ -8875,11 +9835,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 500,
+  "IdArtigo": 552,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61803",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -8893,11 +9853,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 501,
+  "IdArtigo": 553,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61903",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -8911,11 +9871,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 502,
+  "IdArtigo": 554,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61904",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -8929,11 +9889,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 503,
+  "IdArtigo": 555,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA61903SMF",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -8947,11 +9907,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 504,
+  "IdArtigo": 556,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA72203",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C ",
@@ -8965,11 +9925,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 505,
+  "IdArtigo": 557,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA72253",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C ",
@@ -8983,11 +9943,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 506,
+  "IdArtigo": 558,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA72254",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
@@ -9001,11 +9961,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 507,
+  "IdArtigo": 559,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA72253SMF",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C ",
@@ -9019,11 +9979,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 508,
+  "IdArtigo": 560,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA72403",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
@@ -9037,11 +9997,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 509,
+  "IdArtigo": 561,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA62003SHDSMF",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "B",
@@ -9055,11 +10015,11 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 510,
+  "IdArtigo": 562,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
-  "Marca": "CGA BATERIAS",
+  "Marca": "CGA",
   "Referencia": "CGA72453SHDSMF",
   "Descricao": "Bateria de arranque CGA TRUCK HD",
   "Bloco": "C",
