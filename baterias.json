@@ -2,679 +2,6 @@
  {
   "IdArtigo": 1,
   "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN35J",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": 53520,
-  "CapAh": 35,
-  "CCAaEN": 270,
-  "Comprimento": 196,
-  "Largura": 134,
-  "Altura": "205/226",
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 2,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN45Q",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "L0",
-  "CapAh": 45,
-  "CCAaEN": 400,
-  "Comprimento": 175,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 3,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN44B",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "LB2",
-  "CapAh": 44,
-  "CCAaEN": 360,
-  "Comprimento": 207,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 4,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN45A",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "L1",
-  "CapAh": 45,
-  "CCAaEN": 400,
-  "Comprimento": 207,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
-  "RefAlternativa": "IN44B"
- },
- {
-  "IdArtigo": 5,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN50A",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "L1",
-  "CapAh": 50,
-  "CCAaEN": 450,
-  "Comprimento": 207,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
-  "RefAlternativa": "IN50B"
- },
- {
-  "IdArtigo": 6,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN50B",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "LB2",
-  "CapAh": 50,
-  "CCAaEN": 390,
-  "Comprimento": 207,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 7,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN55B",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "LB2",
-  "CapAh": 55,
-  "CCAaEN": 450,
-  "Comprimento": 242,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 8,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN55A",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "L2",
-  "CapAh": 55,
-  "CCAaEN": 500,
-  "Comprimento": 242,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
-  "RefAlternativa": "IN55B"
- },
- {
-  "IdArtigo": 9,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN60B",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "LB2",
-  "CapAh": 60,
-  "CCAaEN": 550,
-  "Comprimento": 242,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 10,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN60A",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "L2",
-  "CapAh": 60,
-  "CCAaEN": 600,
-  "Comprimento": 242,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
-  "RefAlternativa": "IN60B"
- },
- {
-  "IdArtigo": 11,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN71B",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "LB3",
-  "CapAh": 71,
-  "CCAaEN": 640,
-  "Comprimento": 278,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 12,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN74B",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "LB3",
-  "CapAh": 74,
-  "CCAaEN": 670,
-  "Comprimento": 278,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 13,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN71A",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "L3",
-  "CapAh": 71,
-  "CCAaEN": 640,
-  "Comprimento": 278,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
-  "RefAlternativa": "IN71B"
- },
- {
-  "IdArtigo": 14,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN74A",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "L3",
-  "CapAh": 74,
-  "CCAaEN": 640,
-  "Comprimento": 278,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
-  "RefAlternativa": "IN74B"
- },
- {
-  "IdArtigo": 15,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN75.4",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": 57029,
-  "CapAh": 75,
-  "CCAaEN": 570,
-  "Comprimento": 269,
-  "Largura": 173,
-  "Altura": "198/218",
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 16,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN75.5",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": 57024,
-  "CapAh": 75,
-  "CCAaEN": 570,
-  "Comprimento": 269,
-  "Largura": 173,
-  "Altura": "198/218",
-  "EsqLigacao": "1+esquerda",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 17,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN92B",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "LB5",
-  "CapAh": 92,
-  "CCAaEN": 750,
-  "Comprimento": 353,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 18,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN100B",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "LB5",
-  "CapAh": 100,
-  "CCAaEN": 850,
-  "Comprimento": 353,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 19,
-  "Segmento": "AUTO",
-  "Tecnologia": "Convencional",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "IN100A",
-  "Descricao": "Bateria de Arranque InnovParts Plus",
-  "Bloco": "L5",
-  "CapAh": 100,
-  "CCAaEN": 900,
-  "Comprimento": 353,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
-  "RefAlternativa": "IN100B"
- },
- {
-  "IdArtigo": 20,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB55V",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": "L1",
-  "CapAh": 55,
-  "CCAaEN": 560,
-  "Comprimento": 207,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 21,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB65J",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": 56068,
-  "CapAh": 65,
-  "CCAaEN": 600,
-  "Comprimento": 230,
-  "Largura": 173,
-  "Altura": "200/220",
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 22,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB65JX",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": 56069,
-  "CapAh": 65,
-  "CCAaEN": 600,
-  "Comprimento": 230,
-  "Largura": 173,
-  "Altura": "200/220",
-  "EsqLigacao": "1+esquerda",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 23,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB60",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": "L2",
-  "CapAh": 60,
-  "CCAaEN": 640,
-  "Comprimento": 242,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 24,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB65",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": "LB3",
-  "CapAh": 65,
-  "CCAaEN": 650,
-  "Comprimento": 278,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 25,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB70",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": "L3",
-  "CapAh": 70,
-  "CCAaEN": 760,
-  "Comprimento": 278,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 26,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB70J",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": 57029,
-  "CapAh": 70,
-  "CCAaEN": 680,
-  "Comprimento": 259,
-  "Largura": 175,
-  "Altura": "200/221",
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 27,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB70JX",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": 57024,
-  "CapAh": 70,
-  "CCAaEN": 680,
-  "Comprimento": 259,
-  "Largura": 175,
-  "Altura": "200/221",
-  "EsqLigacao": "1+esquerda",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 28,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB75",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": "LB4",
-  "CapAh": 75,
-  "CCAaEN": 730,
-  "Comprimento": 315,
-  "Largura": 175,
-  "Altura": 175,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 29,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB80",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": "L4",
-  "CapAh": 80,
-  "CCAaEN": 800,
-  "Comprimento": 315,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 30,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB90",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": "L5",
-  "CapAh": 90,
-  "CCAaEN": 850,
-  "Comprimento": 353,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 31,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB10J",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": 59518,
-  "CapAh": 105,
-  "CCAaEN": 900,
-  "Comprimento": 303,
-  "Largura": 175,
-  "Altura": 227,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 32,
-  "Segmento": "AUTO",
-  "Tecnologia": "EFB",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INEFB10JX",
-  "Descricao": "Bateria de Arranque InnovParts EFB",
-  "Bloco": 59518,
-  "CapAh": 105,
-  "CCAaEN": 900,
-  "Comprimento": 303,
-  "Largura": 175,
-  "Altura": 227,
-  "EsqLigacao": "1+esquerda",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 33,
-  "Segmento": "AUTO",
-  "Tecnologia": "AGM",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INAGM60",
-  "Descricao": "Bateria de Arranque InnovParts AGM",
-  "Bloco": "L2",
-  "CapAh": 60,
-  "CCAaEN": 680,
-  "Comprimento": 242,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 34,
-  "Segmento": "AUTO",
-  "Tecnologia": "AGM",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INAGM70",
-  "Descricao": "Bateria de Arranque InnovParts AGM",
-  "Bloco": "L3",
-  "CapAh": 70,
-  "CCAaEN": 760,
-  "Comprimento": 278,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 35,
-  "Segmento": "AUTO",
-  "Tecnologia": "AGM",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INAGM80",
-  "Descricao": "Bateria de Arranque InnovParts AGM",
-  "Bloco": "L4",
-  "CapAh": 80,
-  "CCAaEN": 800,
-  "Comprimento": 315,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 36,
-  "Segmento": "AUTO",
-  "Tecnologia": "AGM",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INAGM95",
-  "Descricao": "Bateria de Arranque InnovParts AGM",
-  "Bloco": "L5",
-  "CapAh": 95,
-  "CCAaEN": 850,
-  "Comprimento": 353,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 37,
-  "Segmento": "AUTO",
-  "Tecnologia": "AGM",
-  "IdMarca": 90001,
-  "Marca": "INNOVPARTS",
-  "Referencia": "INAGM105",
-  "Descricao": "Bateria de Arranque InnovParts AGM",
-  "Bloco": "L6",
-  "CapAh": 105,
-  "CCAaEN": 950,
-  "Comprimento": 394,
-  "Largura": 175,
-  "Altura": 190,
-  "EsqLigacao": "0+direita",
-  "Terminal": 1,
-  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
- },
- {
-  "IdArtigo": 38,
-  "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
   "Marca": "TUDOR",
@@ -692,7 +19,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 39,
+  "IdArtigo": 2,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -711,7 +38,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 40,
+  "IdArtigo": 3,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -730,7 +57,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 41,
+  "IdArtigo": 4,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -749,7 +76,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 42,
+  "IdArtigo": 5,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -768,7 +95,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 43,
+  "IdArtigo": 6,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -787,7 +114,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 44,
+  "IdArtigo": 7,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -806,7 +133,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 45,
+  "IdArtigo": 8,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -825,7 +152,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 46,
+  "IdArtigo": 9,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -844,7 +171,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 47,
+  "IdArtigo": 10,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -863,7 +190,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 48,
+  "IdArtigo": 11,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -882,7 +209,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 49,
+  "IdArtigo": 12,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -901,7 +228,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 50,
+  "IdArtigo": 13,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -920,7 +247,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 51,
+  "IdArtigo": 14,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -939,7 +266,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 52,
+  "IdArtigo": 15,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -958,7 +285,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 53,
+  "IdArtigo": 16,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -977,7 +304,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 54,
+  "IdArtigo": 17,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -996,7 +323,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 55,
+  "IdArtigo": 18,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 212,
@@ -1015,7 +342,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 56,
+  "IdArtigo": 19,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -1034,7 +361,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 57,
+  "IdArtigo": 20,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -1053,7 +380,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 58,
+  "IdArtigo": 21,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -1072,7 +399,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 59,
+  "IdArtigo": 22,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -1091,7 +418,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 60,
+  "IdArtigo": 23,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -1110,7 +437,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 61,
+  "IdArtigo": 24,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1129,7 +456,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 62,
+  "IdArtigo": 25,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1148,7 +475,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 63,
+  "IdArtigo": 26,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1167,7 +494,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 64,
+  "IdArtigo": 27,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1186,7 +513,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 65,
+  "IdArtigo": 28,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1205,7 +532,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 66,
+  "IdArtigo": 29,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1224,7 +551,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 67,
+  "IdArtigo": 30,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1243,7 +570,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 68,
+  "IdArtigo": 31,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1262,7 +589,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 69,
+  "IdArtigo": 32,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1281,7 +608,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 70,
+  "IdArtigo": 33,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1300,7 +627,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 71,
+  "IdArtigo": 34,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1319,7 +646,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 72,
+  "IdArtigo": 35,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1338,7 +665,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 73,
+  "IdArtigo": 36,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1357,7 +684,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 74,
+  "IdArtigo": 37,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1376,7 +703,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 75,
+  "IdArtigo": 38,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1395,7 +722,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 76,
+  "IdArtigo": 39,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1414,7 +741,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 77,
+  "IdArtigo": 40,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1433,7 +760,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 78,
+  "IdArtigo": 41,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1452,7 +779,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 79,
+  "IdArtigo": 42,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1471,7 +798,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 80,
+  "IdArtigo": 43,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1490,7 +817,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 81,
+  "IdArtigo": 44,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1509,7 +836,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 82,
+  "IdArtigo": 45,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1528,7 +855,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 83,
+  "IdArtigo": 46,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1547,7 +874,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 84,
+  "IdArtigo": 47,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1566,7 +893,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 85,
+  "IdArtigo": 48,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1585,7 +912,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 86,
+  "IdArtigo": 49,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1604,7 +931,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 87,
+  "IdArtigo": 50,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1623,7 +950,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 88,
+  "IdArtigo": 51,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1642,7 +969,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 89,
+  "IdArtigo": 52,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1661,7 +988,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 90,
+  "IdArtigo": 53,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1680,7 +1007,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 91,
+  "IdArtigo": 54,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1699,7 +1026,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 92,
+  "IdArtigo": 55,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1718,7 +1045,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 93,
+  "IdArtigo": 56,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1737,7 +1064,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 94,
+  "IdArtigo": 57,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1756,7 +1083,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 95,
+  "IdArtigo": 58,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1775,7 +1102,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 96,
+  "IdArtigo": 59,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1794,7 +1121,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 97,
+  "IdArtigo": 60,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1813,7 +1140,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 98,
+  "IdArtigo": 61,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1832,7 +1159,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 99,
+  "IdArtigo": 62,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1851,7 +1178,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 100,
+  "IdArtigo": 63,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1870,7 +1197,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 101,
+  "IdArtigo": 64,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1889,7 +1216,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 102,
+  "IdArtigo": 65,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1908,7 +1235,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 103,
+  "IdArtigo": 66,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1927,7 +1254,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 104,
+  "IdArtigo": 67,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1946,7 +1273,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 105,
+  "IdArtigo": 68,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1965,7 +1292,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 106,
+  "IdArtigo": 69,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -1984,7 +1311,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 107,
+  "IdArtigo": 70,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2003,7 +1330,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 108,
+  "IdArtigo": 71,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2022,7 +1349,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 109,
+  "IdArtigo": 72,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2041,7 +1368,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 110,
+  "IdArtigo": 73,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2060,7 +1387,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 111,
+  "IdArtigo": 74,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2079,7 +1406,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 112,
+  "IdArtigo": 75,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2098,7 +1425,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 113,
+  "IdArtigo": 76,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2117,7 +1444,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 114,
+  "IdArtigo": 77,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2136,7 +1463,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 115,
+  "IdArtigo": 78,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2155,7 +1482,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 116,
+  "IdArtigo": 79,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2174,7 +1501,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 117,
+  "IdArtigo": 80,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2193,7 +1520,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 118,
+  "IdArtigo": 81,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2212,7 +1539,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 119,
+  "IdArtigo": 82,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2231,7 +1558,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 120,
+  "IdArtigo": 83,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2250,7 +1577,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 121,
+  "IdArtigo": 84,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2269,7 +1596,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 122,
+  "IdArtigo": 85,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2288,7 +1615,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 123,
+  "IdArtigo": 86,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2307,7 +1634,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 124,
+  "IdArtigo": 87,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2326,7 +1653,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 125,
+  "IdArtigo": 88,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2345,7 +1672,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 126,
+  "IdArtigo": 89,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2364,7 +1691,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 127,
+  "IdArtigo": 90,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2383,7 +1710,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 128,
+  "IdArtigo": 91,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2402,7 +1729,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 129,
+  "IdArtigo": 92,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2421,7 +1748,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 130,
+  "IdArtigo": 93,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2440,7 +1767,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 131,
+  "IdArtigo": 94,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2459,7 +1786,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 132,
+  "IdArtigo": 95,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2478,7 +1805,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 133,
+  "IdArtigo": 96,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2497,7 +1824,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 134,
+  "IdArtigo": 97,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2516,7 +1843,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 135,
+  "IdArtigo": 98,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2535,7 +1862,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 136,
+  "IdArtigo": 99,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2554,7 +1881,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 137,
+  "IdArtigo": 100,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2573,7 +1900,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 138,
+  "IdArtigo": 101,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2592,7 +1919,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 139,
+  "IdArtigo": 102,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2611,7 +1938,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 140,
+  "IdArtigo": 103,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2630,7 +1957,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 141,
+  "IdArtigo": 104,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2649,7 +1976,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 142,
+  "IdArtigo": 105,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2668,7 +1995,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 143,
+  "IdArtigo": 106,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2687,7 +2014,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 144,
+  "IdArtigo": 107,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2706,7 +2033,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 145,
+  "IdArtigo": 108,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2725,7 +2052,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 146,
+  "IdArtigo": 109,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2744,7 +2071,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 147,
+  "IdArtigo": 110,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2763,7 +2090,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 148,
+  "IdArtigo": 111,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2782,7 +2109,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 149,
+  "IdArtigo": 112,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2801,7 +2128,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 150,
+  "IdArtigo": 113,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2820,7 +2147,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 151,
+  "IdArtigo": 114,
   "Segmento": "Auto",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -2838,7 +2165,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 152,
+  "IdArtigo": 115,
   "Segmento": "Auto",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -2856,7 +2183,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 153,
+  "IdArtigo": 116,
   "Segmento": "Auto",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -2874,7 +2201,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 154,
+  "IdArtigo": 117,
   "Segmento": "Auto",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -2892,7 +2219,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 155,
+  "IdArtigo": 118,
   "Segmento": "Auto",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -2910,7 +2237,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 156,
+  "IdArtigo": 119,
   "Segmento": "Auto",
   "Tecnologia": "AGM",
   "IdMarca": 212,
@@ -2928,7 +2255,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 157,
+  "IdArtigo": 120,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2946,7 +2273,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 158,
+  "IdArtigo": 121,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2964,7 +2291,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 159,
+  "IdArtigo": 122,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -2982,7 +2309,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 160,
+  "IdArtigo": 123,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -3000,7 +2327,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 161,
+  "IdArtigo": 124,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -3018,7 +2345,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 162,
+  "IdArtigo": 125,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -3036,7 +2363,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 163,
+  "IdArtigo": 126,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -3054,7 +2381,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 164,
+  "IdArtigo": 127,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -3072,7 +2399,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 165,
+  "IdArtigo": 128,
   "Segmento": "Auto",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 212,
@@ -3090,7 +2417,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/Tudor-logo.png.webp?itok=KfFP4N-l"
  },
  {
-  "IdArtigo": 166,
+  "IdArtigo": 129,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -3110,7 +2437,7 @@
   "Wh": 1600
  },
  {
-  "IdArtigo": 167,
+  "IdArtigo": 130,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3129,7 +2456,7 @@
   "Wh": 290
  },
  {
-  "IdArtigo": 168,
+  "IdArtigo": 131,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3148,7 +2475,7 @@
   "Wh": 450
  },
  {
-  "IdArtigo": 169,
+  "IdArtigo": 132,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3167,7 +2494,7 @@
   "Wh": 650
  },
  {
-  "IdArtigo": 170,
+  "IdArtigo": 133,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3186,7 +2513,7 @@
   "Wh": 900
  },
  {
-  "IdArtigo": 171,
+  "IdArtigo": 134,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3205,7 +2532,7 @@
   "Wh": 950
  },
  {
-  "IdArtigo": 172,
+  "IdArtigo": 135,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3225,7 +2552,7 @@
   "Wh": 1000
  },
  {
-  "IdArtigo": 173,
+  "IdArtigo": 136,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3245,7 +2572,7 @@
   "Wh": 1100
  },
  {
-  "IdArtigo": 174,
+  "IdArtigo": 137,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3264,7 +2591,7 @@
   "Wh": 1200
  },
  {
-  "IdArtigo": 175,
+  "IdArtigo": 138,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3283,7 +2610,7 @@
   "Wh": 1300
  },
  {
-  "IdArtigo": 176,
+  "IdArtigo": 139,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3302,7 +2629,7 @@
   "Wh": 1350
  },
  {
-  "IdArtigo": 177,
+  "IdArtigo": 140,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3321,7 +2648,7 @@
   "Wh": 1600
  },
  {
-  "IdArtigo": 178,
+  "IdArtigo": 141,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "GEL EQUIPAMENTO",
   "IdMarca": 24,
@@ -3340,7 +2667,7 @@
   "Wh": 2400
  },
  {
-  "IdArtigo": 179,
+  "IdArtigo": 142,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 24,
@@ -3360,7 +2687,7 @@
   "Wh": 600
  },
  {
-  "IdArtigo": 180,
+  "IdArtigo": 143,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 24,
@@ -3380,7 +2707,7 @@
   "Wh": 800
  },
  {
-  "IdArtigo": 181,
+  "IdArtigo": 144,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 24,
@@ -3400,7 +2727,7 @@
   "Wh": 1000
  },
  {
-  "IdArtigo": 182,
+  "IdArtigo": 145,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
@@ -3419,7 +2746,7 @@
   "Wh": 550
  },
  {
-  "IdArtigo": 183,
+  "IdArtigo": 146,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
@@ -3438,7 +2765,7 @@
   "Wh": 650
  },
  {
-  "IdArtigo": 184,
+  "IdArtigo": 147,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
@@ -3457,7 +2784,7 @@
   "Wh": 950
  },
  {
-  "IdArtigo": 185,
+  "IdArtigo": 148,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
@@ -3476,7 +2803,7 @@
   "Wh": 1300
  },
  {
-  "IdArtigo": 186,
+  "IdArtigo": 149,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EQUIPAMENTO",
   "IdMarca": 24,
@@ -3495,7 +2822,7 @@
   "Wh": 1600
  },
  {
-  "IdArtigo": 187,
+  "IdArtigo": 150,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
@@ -3515,7 +2842,7 @@
   "Wh": 450
  },
  {
-  "IdArtigo": 188,
+  "IdArtigo": 151,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
@@ -3535,7 +2862,7 @@
   "Wh": 500
  },
  {
-  "IdArtigo": 189,
+  "IdArtigo": 152,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
@@ -3555,7 +2882,7 @@
   "Wh": 600
  },
  {
-  "IdArtigo": 190,
+  "IdArtigo": 153,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
@@ -3575,7 +2902,7 @@
   "Wh": 800
  },
  {
-  "IdArtigo": 191,
+  "IdArtigo": 154,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
@@ -3595,7 +2922,7 @@
   "Wh": 900
  },
  {
-  "IdArtigo": 192,
+  "IdArtigo": 155,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
@@ -3615,7 +2942,7 @@
   "Wh": 1200
  },
  {
-  "IdArtigo": 193,
+  "IdArtigo": 156,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
@@ -3635,7 +2962,7 @@
   "Wh": 1500
  },
  {
-  "IdArtigo": 194,
+  "IdArtigo": 157,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM DUAL",
   "IdMarca": 24,
@@ -3655,7 +2982,7 @@
   "Wh": 2100
  },
  {
-  "IdArtigo": 195,
+  "IdArtigo": 158,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EFB",
   "IdMarca": 24,
@@ -3675,7 +3002,7 @@
   "Wh": 600
  },
  {
-  "IdArtigo": 196,
+  "IdArtigo": 159,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EFB",
   "IdMarca": 24,
@@ -3695,7 +3022,7 @@
   "Wh": 850
  },
  {
-  "IdArtigo": 197,
+  "IdArtigo": 160,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "EFB",
   "IdMarca": 24,
@@ -3715,7 +3042,7 @@
   "Wh": 850
  },
  {
-  "IdArtigo": 198,
+  "IdArtigo": 161,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -3735,7 +3062,7 @@
   "Wh": 350
  },
  {
-  "IdArtigo": 199,
+  "IdArtigo": 162,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -3755,7 +3082,7 @@
   "Wh": 450
  },
  {
-  "IdArtigo": 200,
+  "IdArtigo": 163,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -3775,7 +3102,7 @@
   "Wh": 550
  },
  {
-  "IdArtigo": 201,
+  "IdArtigo": 164,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -3795,7 +3122,7 @@
   "Wh": 650
  },
  {
-  "IdArtigo": 202,
+  "IdArtigo": 165,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -3815,7 +3142,7 @@
   "Wh": 660
  },
  {
-  "IdArtigo": 203,
+  "IdArtigo": 166,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "DUAL",
   "IdMarca": 24,
@@ -3835,7 +3162,7 @@
   "Wh": 850
  },
  {
-  "IdArtigo": 204,
+  "IdArtigo": 167,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM START",
   "IdMarca": 24,
@@ -3855,7 +3182,7 @@
   "Wh": 900
  },
  {
-  "IdArtigo": 205,
+  "IdArtigo": 168,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM START",
   "IdMarca": 24,
@@ -3875,7 +3202,7 @@
   "Wh": 1000
  },
  {
-  "IdArtigo": 206,
+  "IdArtigo": 169,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "AGM START",
   "IdMarca": 24,
@@ -3895,7 +3222,7 @@
   "Wh": 960
  },
  {
-  "IdArtigo": 207,
+  "IdArtigo": 170,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -3915,7 +3242,7 @@
   "Wh": 500
  },
  {
-  "IdArtigo": 208,
+  "IdArtigo": 171,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -3935,7 +3262,7 @@
   "Wh": 600
  },
  {
-  "IdArtigo": 209,
+  "IdArtigo": 172,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -3955,7 +3282,7 @@
   "Wh": 750
  },
  {
-  "IdArtigo": 210,
+  "IdArtigo": 173,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -3975,7 +3302,7 @@
   "Wh": 800
  },
  {
-  "IdArtigo": 211,
+  "IdArtigo": 174,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -3995,7 +3322,7 @@
   "Wh": 850
  },
  {
-  "IdArtigo": 212,
+  "IdArtigo": 175,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -4015,7 +3342,7 @@
   "Wh": 900
  },
  {
-  "IdArtigo": 213,
+  "IdArtigo": 176,
   "Segmento": "MARÍTIMO;LAZER",
   "Tecnologia": "START",
   "IdMarca": 24,
@@ -4035,7 +3362,7 @@
   "Wh": 1100
  },
  {
-  "IdArtigo": 214,
+  "IdArtigo": 177,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -4054,7 +3381,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 215,
+  "IdArtigo": 178,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -4073,7 +3400,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 216,
+  "IdArtigo": 179,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -4092,7 +3419,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 217,
+  "IdArtigo": 180,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -4111,7 +3438,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 218,
+  "IdArtigo": 181,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -4130,7 +3457,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 219,
+  "IdArtigo": 182,
   "Segmento": "AUTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 24,
@@ -4149,7 +3476,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 220,
+  "IdArtigo": 183,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4165,7 +3492,7 @@
   "Wh": 24
  },
  {
-  "IdArtigo": 221,
+  "IdArtigo": 184,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4181,7 +3508,7 @@
   "Wh": 28.8
  },
  {
-  "IdArtigo": 222,
+  "IdArtigo": 185,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4197,7 +3524,7 @@
   "Wh": 36
  },
  {
-  "IdArtigo": 223,
+  "IdArtigo": 186,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4213,7 +3540,7 @@
   "Wh": 36
  },
  {
-  "IdArtigo": 224,
+  "IdArtigo": 187,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4229,7 +3556,7 @@
   "Wh": 42
  },
  {
-  "IdArtigo": 225,
+  "IdArtigo": 188,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4245,7 +3572,7 @@
   "Wh": 48
  },
  {
-  "IdArtigo": 226,
+  "IdArtigo": 189,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4261,7 +3588,7 @@
   "Wh": 48
  },
  {
-  "IdArtigo": 227,
+  "IdArtigo": 190,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4277,7 +3604,7 @@
   "Wh": 60
  },
  {
-  "IdArtigo": 228,
+  "IdArtigo": 191,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4293,7 +3620,7 @@
   "Wh": 60
  },
  {
-  "IdArtigo": 229,
+  "IdArtigo": 192,
   "Segmento": "MOTO",
   "Tecnologia": "Li-ion",
   "IdMarca": 24,
@@ -4309,7 +3636,7 @@
   "Wh": 84
  },
  {
-  "IdArtigo": 230,
+  "IdArtigo": 193,
   "Segmento": "MOTO",
   "Tecnologia": "GEL",
   "IdMarca": 24,
@@ -4325,7 +3652,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 231,
+  "IdArtigo": 194,
   "Segmento": "MOTO",
   "Tecnologia": "GEL",
   "IdMarca": 24,
@@ -4341,7 +3668,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 232,
+  "IdArtigo": 195,
   "Segmento": "MOTO",
   "Tecnologia": "GEL",
   "IdMarca": 24,
@@ -4357,7 +3684,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 233,
+  "IdArtigo": 196,
   "Segmento": "MOTO",
   "Tecnologia": "GEL",
   "IdMarca": 24,
@@ -4373,7 +3700,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 234,
+  "IdArtigo": 197,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4389,7 +3716,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 235,
+  "IdArtigo": 198,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4405,7 +3732,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 236,
+  "IdArtigo": 199,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4421,7 +3748,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 237,
+  "IdArtigo": 200,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4437,7 +3764,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 238,
+  "IdArtigo": 201,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4453,7 +3780,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 239,
+  "IdArtigo": 202,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4469,7 +3796,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 240,
+  "IdArtigo": 203,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4485,7 +3812,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 241,
+  "IdArtigo": 204,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4501,7 +3828,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 242,
+  "IdArtigo": 205,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4517,7 +3844,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 243,
+  "IdArtigo": 206,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4533,7 +3860,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 244,
+  "IdArtigo": 207,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4549,7 +3876,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 245,
+  "IdArtigo": 208,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4565,7 +3892,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 246,
+  "IdArtigo": 209,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4581,7 +3908,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 247,
+  "IdArtigo": 210,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4597,7 +3924,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 248,
+  "IdArtigo": 211,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4613,7 +3940,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 249,
+  "IdArtigo": 212,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4629,7 +3956,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 250,
+  "IdArtigo": 213,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4645,7 +3972,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 251,
+  "IdArtigo": 214,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4661,7 +3988,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 252,
+  "IdArtigo": 215,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4677,7 +4004,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 253,
+  "IdArtigo": 216,
   "Segmento": "MOTO",
   "Tecnologia": "AGM READY",
   "IdMarca": 24,
@@ -4693,7 +4020,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 254,
+  "IdArtigo": 217,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4709,7 +4036,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 255,
+  "IdArtigo": 218,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4725,7 +4052,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 256,
+  "IdArtigo": 219,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4741,7 +4068,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 257,
+  "IdArtigo": 220,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4757,7 +4084,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 258,
+  "IdArtigo": 221,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4773,7 +4100,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 259,
+  "IdArtigo": 222,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4789,7 +4116,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 260,
+  "IdArtigo": 223,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4805,7 +4132,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 261,
+  "IdArtigo": 224,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4821,7 +4148,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 262,
+  "IdArtigo": 225,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4837,7 +4164,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 263,
+  "IdArtigo": 226,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4853,7 +4180,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 264,
+  "IdArtigo": 227,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4869,7 +4196,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 265,
+  "IdArtigo": 228,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4885,7 +4212,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 266,
+  "IdArtigo": 229,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4901,7 +4228,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 267,
+  "IdArtigo": 230,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4917,7 +4244,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 268,
+  "IdArtigo": 231,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4933,7 +4260,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 269,
+  "IdArtigo": 232,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4949,7 +4276,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 270,
+  "IdArtigo": 233,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4965,7 +4292,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 271,
+  "IdArtigo": 234,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4981,7 +4308,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 272,
+  "IdArtigo": 235,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -4997,7 +4324,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 273,
+  "IdArtigo": 236,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -5013,7 +4340,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 274,
+  "IdArtigo": 237,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -5029,7 +4356,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 275,
+  "IdArtigo": 238,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -5045,7 +4372,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 276,
+  "IdArtigo": 239,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -5061,7 +4388,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 277,
+  "IdArtigo": 240,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -5077,7 +4404,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 278,
+  "IdArtigo": 241,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -5093,7 +4420,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 279,
+  "IdArtigo": 242,
   "Segmento": "MOTO",
   "Tecnologia": "AGM",
   "IdMarca": 24,
@@ -5109,7 +4436,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 280,
+  "IdArtigo": 243,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5125,7 +4452,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 281,
+  "IdArtigo": 244,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5141,7 +4468,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 282,
+  "IdArtigo": 245,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5157,7 +4484,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 283,
+  "IdArtigo": 246,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5173,7 +4500,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 284,
+  "IdArtigo": 247,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5189,7 +4516,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 285,
+  "IdArtigo": 248,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5205,7 +4532,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 286,
+  "IdArtigo": 249,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5221,7 +4548,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 287,
+  "IdArtigo": 250,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5237,7 +4564,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 288,
+  "IdArtigo": 251,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5253,7 +4580,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 289,
+  "IdArtigo": 252,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5269,7 +4596,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 290,
+  "IdArtigo": 253,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5285,7 +4612,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 291,
+  "IdArtigo": 254,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5301,7 +4628,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 292,
+  "IdArtigo": 255,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5317,7 +4644,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 293,
+  "IdArtigo": 256,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5333,7 +4660,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 294,
+  "IdArtigo": 257,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5349,7 +4676,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 295,
+  "IdArtigo": 258,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5365,7 +4692,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 296,
+  "IdArtigo": 259,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5381,7 +4708,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 297,
+  "IdArtigo": 260,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5397,7 +4724,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 298,
+  "IdArtigo": 261,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5413,7 +4740,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 299,
+  "IdArtigo": 262,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5429,7 +4756,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 300,
+  "IdArtigo": 263,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5445,7 +4772,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 301,
+  "IdArtigo": 264,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5461,7 +4788,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 302,
+  "IdArtigo": 265,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5477,7 +4804,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 303,
+  "IdArtigo": 266,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5493,7 +4820,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 304,
+  "IdArtigo": 267,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5509,7 +4836,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 305,
+  "IdArtigo": 268,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5525,7 +4852,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 306,
+  "IdArtigo": 269,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5541,7 +4868,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 307,
+  "IdArtigo": 270,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5557,7 +4884,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 308,
+  "IdArtigo": 271,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5573,7 +4900,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 309,
+  "IdArtigo": 272,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5589,7 +4916,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 310,
+  "IdArtigo": 273,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5605,7 +4932,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 311,
+  "IdArtigo": 274,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5621,7 +4948,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 312,
+  "IdArtigo": 275,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5637,7 +4964,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 313,
+  "IdArtigo": 276,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5653,7 +4980,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 314,
+  "IdArtigo": 277,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5669,7 +4996,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 315,
+  "IdArtigo": 278,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5685,7 +5012,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 316,
+  "IdArtigo": 279,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5701,7 +5028,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 317,
+  "IdArtigo": 280,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5717,7 +5044,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 318,
+  "IdArtigo": 281,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5733,7 +5060,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 319,
+  "IdArtigo": 282,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5749,7 +5076,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 320,
+  "IdArtigo": 283,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5765,7 +5092,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 321,
+  "IdArtigo": 284,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5781,7 +5108,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 322,
+  "IdArtigo": 285,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5797,7 +5124,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 323,
+  "IdArtigo": 286,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5813,7 +5140,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 324,
+  "IdArtigo": 287,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5829,7 +5156,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 325,
+  "IdArtigo": 288,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 24,
@@ -5845,7 +5172,7 @@
   "imgUrl": "https://www.exidegroup.com/pt/sites/default/files/styles/medium/public/2022-11/EXIDE-LOGO.png.webp?itok=wYC5Ku2Z"
  },
  {
-  "IdArtigo": 326,
+  "IdArtigo": 289,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5864,7 +5191,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 327,
+  "IdArtigo": 290,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5883,7 +5210,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 328,
+  "IdArtigo": 291,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5901,7 +5228,7 @@
   "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 329,
+  "IdArtigo": 292,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5920,7 +5247,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 330,
+  "IdArtigo": 293,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5939,7 +5266,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 331,
+  "IdArtigo": 294,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5958,7 +5285,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 332,
+  "IdArtigo": 295,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5975,7 +5302,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 333,
+  "IdArtigo": 296,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -5992,7 +5319,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 334,
+  "IdArtigo": 297,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6009,7 +5336,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 335,
+  "IdArtigo": 298,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6028,7 +5355,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 336,
+  "IdArtigo": 299,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6047,7 +5374,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 337,
+  "IdArtigo": 300,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6066,7 +5393,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 338,
+  "IdArtigo": 301,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6085,7 +5412,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 339,
+  "IdArtigo": 302,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6104,7 +5431,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 340,
+  "IdArtigo": 303,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6123,7 +5450,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 341,
+  "IdArtigo": 304,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6141,7 +5468,7 @@
   "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 342,
+  "IdArtigo": 305,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6160,7 +5487,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 343,
+  "IdArtigo": 306,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6179,7 +5506,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 344,
+  "IdArtigo": 307,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6197,7 +5524,7 @@
   "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 345,
+  "IdArtigo": 308,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6216,7 +5543,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 346,
+  "IdArtigo": 309,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6234,7 +5561,7 @@
   "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 347,
+  "IdArtigo": 310,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6252,7 +5579,7 @@
   "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 348,
+  "IdArtigo": 311,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6270,7 +5597,7 @@
   "RefAlternativa": "IN92B"
  },
  {
-  "IdArtigo": 349,
+  "IdArtigo": 312,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6289,7 +5616,7 @@
   "DesignacaoComercialSubstituta": "Bateria de Arranque InnovParts Plus"
  },
  {
-  "IdArtigo": 350,
+  "IdArtigo": 313,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6307,7 +5634,7 @@
   "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 351,
+  "IdArtigo": 314,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6325,7 +5652,7 @@
   "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 352,
+  "IdArtigo": 315,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6342,7 +5669,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 353,
+  "IdArtigo": 316,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6359,7 +5686,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 354,
+  "IdArtigo": 317,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6376,7 +5703,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 355,
+  "IdArtigo": 318,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6393,7 +5720,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 356,
+  "IdArtigo": 319,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6410,7 +5737,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 357,
+  "IdArtigo": 320,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6427,7 +5754,7 @@
   "Terminal": 1
  },
  {
-  "IdArtigo": 358,
+  "IdArtigo": 321,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90001,
@@ -6445,7 +5772,7 @@
   "RefSubstituta": "Descontinuada"
  },
  {
-  "IdArtigo": 359,
+  "IdArtigo": 322,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6459,7 +5786,7 @@
   "Altura": 85
  },
  {
-  "IdArtigo": 360,
+  "IdArtigo": 323,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6473,7 +5800,7 @@
   "Altura": 85.5
  },
  {
-  "IdArtigo": 361,
+  "IdArtigo": 324,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6487,7 +5814,7 @@
   "Altura": 85
  },
  {
-  "IdArtigo": 362,
+  "IdArtigo": 325,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6501,7 +5828,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 363,
+  "IdArtigo": 326,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6515,7 +5842,7 @@
   "Altura": 85
  },
  {
-  "IdArtigo": 364,
+  "IdArtigo": 327,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6529,7 +5856,7 @@
   "Altura": 93
  },
  {
-  "IdArtigo": 365,
+  "IdArtigo": 328,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6543,7 +5870,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 366,
+  "IdArtigo": 329,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6557,7 +5884,7 @@
   "Altura": 93
  },
  {
-  "IdArtigo": 367,
+  "IdArtigo": 330,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6571,7 +5898,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 368,
+  "IdArtigo": 331,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6585,7 +5912,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 369,
+  "IdArtigo": 332,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6599,7 +5926,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 370,
+  "IdArtigo": 333,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6613,7 +5940,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 371,
+  "IdArtigo": 334,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6627,7 +5954,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 372,
+  "IdArtigo": 335,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6641,7 +5968,7 @@
   "Altura": 105
  },
  {
-  "IdArtigo": 373,
+  "IdArtigo": 336,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6655,7 +5982,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 374,
+  "IdArtigo": 337,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6669,7 +5996,7 @@
   "Altura": 110
  },
  {
-  "IdArtigo": 375,
+  "IdArtigo": 338,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6683,7 +6010,7 @@
   "Altura": 145
  },
  {
-  "IdArtigo": 376,
+  "IdArtigo": 339,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6697,7 +6024,7 @@
   "Altura": 145
  },
  {
-  "IdArtigo": 377,
+  "IdArtigo": 340,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6711,7 +6038,7 @@
   "Altura": 110
  },
  {
-  "IdArtigo": 378,
+  "IdArtigo": 341,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6725,7 +6052,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 379,
+  "IdArtigo": 342,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6739,7 +6066,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 380,
+  "IdArtigo": 343,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6753,7 +6080,7 @@
   "Altura": 155
  },
  {
-  "IdArtigo": 381,
+  "IdArtigo": 344,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6767,7 +6094,7 @@
   "Altura": 167
  },
  {
-  "IdArtigo": 382,
+  "IdArtigo": 345,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6781,7 +6108,7 @@
   "Altura": 110
  },
  {
-  "IdArtigo": 383,
+  "IdArtigo": 346,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6795,7 +6122,7 @@
   "Altura": 92
  },
  {
-  "IdArtigo": 384,
+  "IdArtigo": 347,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6809,7 +6136,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 385,
+  "IdArtigo": 348,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6823,7 +6150,7 @@
   "Altura": 133
  },
  {
-  "IdArtigo": 386,
+  "IdArtigo": 349,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6837,7 +6164,7 @@
   "Altura": 114
  },
  {
-  "IdArtigo": 387,
+  "IdArtigo": 350,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6851,7 +6178,7 @@
   "Altura": 133
  },
  {
-  "IdArtigo": 388,
+  "IdArtigo": 351,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6865,7 +6192,7 @@
   "Altura": 139
  },
  {
-  "IdArtigo": 389,
+  "IdArtigo": 352,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6879,7 +6206,7 @@
   "Altura": 139
  },
  {
-  "IdArtigo": 390,
+  "IdArtigo": 353,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6893,7 +6220,7 @@
   "Altura": 145
  },
  {
-  "IdArtigo": 391,
+  "IdArtigo": 354,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6907,7 +6234,7 @@
   "Altura": 160
  },
  {
-  "IdArtigo": 392,
+  "IdArtigo": 355,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6921,7 +6248,7 @@
   "Altura": 160
  },
  {
-  "IdArtigo": 393,
+  "IdArtigo": 356,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6935,7 +6262,7 @@
   "Altura": 166
  },
  {
-  "IdArtigo": 394,
+  "IdArtigo": 357,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6949,7 +6276,7 @@
   "Altura": 166
  },
  {
-  "IdArtigo": 395,
+  "IdArtigo": 358,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6963,7 +6290,7 @@
   "Altura": 166
  },
  {
-  "IdArtigo": 396,
+  "IdArtigo": 359,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6977,7 +6304,7 @@
   "Altura": 166
  },
  {
-  "IdArtigo": 397,
+  "IdArtigo": 360,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -6991,7 +6318,7 @@
   "Altura": 162
  },
  {
-  "IdArtigo": 398,
+  "IdArtigo": 361,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -7005,7 +6332,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 399,
+  "IdArtigo": 362,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -7019,7 +6346,7 @@
   "Altura": 180
  },
  {
-  "IdArtigo": 400,
+  "IdArtigo": 363,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -7033,7 +6360,7 @@
   "Altura": 155
  },
  {
-  "IdArtigo": 401,
+  "IdArtigo": 364,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -7047,7 +6374,7 @@
   "Altura": 162
  },
  {
-  "IdArtigo": 402,
+  "IdArtigo": 365,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -7061,7 +6388,7 @@
   "Altura": 170
  },
  {
-  "IdArtigo": 403,
+  "IdArtigo": 366,
   "Segmento": "MOTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -7075,7 +6402,7 @@
   "Altura": 176
  },
  {
-  "IdArtigo": 404,
+  "IdArtigo": 367,
   "Segmento": "JARDIM",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -7089,7 +6416,7 @@
   "Altura": "160/185"
  },
  {
-  "IdArtigo": 405,
+  "IdArtigo": 368,
   "Segmento": "JARDIM",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90063,
@@ -7103,7 +6430,7 @@
   "Altura": "160/185"
  },
  {
-  "IdArtigo": 406,
+  "IdArtigo": 369,
   "Segmento": "LAZER",
   "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 90063,
@@ -7116,7 +6443,7 @@
   "Altura": "94/100"
  },
  {
-  "IdArtigo": 407,
+  "IdArtigo": 370,
   "Segmento": "LAZER",
   "Tecnologia": "AGM EQUIPAMENTO",
   "IdMarca": 90063,
@@ -7129,7 +6456,7 @@
   "Altura": "98/100"
  },
  {
-  "IdArtigo": 408,
+  "IdArtigo": 371,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7143,7 +6470,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 409,
+  "IdArtigo": 372,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7157,7 +6484,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 410,
+  "IdArtigo": 373,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7171,7 +6498,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 411,
+  "IdArtigo": 374,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7185,7 +6512,7 @@
   "Altura": 95
  },
  {
-  "IdArtigo": 412,
+  "IdArtigo": 375,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7199,7 +6526,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 413,
+  "IdArtigo": 376,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7213,7 +6540,7 @@
   "Altura": 130
  },
  {
-  "IdArtigo": 414,
+  "IdArtigo": 377,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7227,7 +6554,7 @@
   "Altura": 161
  },
  {
-  "IdArtigo": 415,
+  "IdArtigo": 378,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7241,7 +6568,7 @@
   "Altura": 114
  },
  {
-  "IdArtigo": 416,
+  "IdArtigo": 379,
   "Segmento": "MOTO",
   "Tecnologia": "VINTAGE",
   "IdMarca": 90063,
@@ -7255,7 +6582,7 @@
   "Altura": 145
  },
  {
-  "IdArtigo": 417,
+  "IdArtigo": 380,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7276,7 +6603,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 418,
+  "IdArtigo": 381,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7296,7 +6623,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 419,
+  "IdArtigo": 382,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7316,7 +6643,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 420,
+  "IdArtigo": 383,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7336,7 +6663,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 421,
+  "IdArtigo": 384,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7356,7 +6683,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 422,
+  "IdArtigo": 385,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7377,7 +6704,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 423,
+  "IdArtigo": 386,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7398,7 +6725,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 424,
+  "IdArtigo": 387,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7418,7 +6745,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 425,
+  "IdArtigo": 388,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7439,7 +6766,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 426,
+  "IdArtigo": 389,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7459,7 +6786,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 427,
+  "IdArtigo": 390,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7480,7 +6807,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 428,
+  "IdArtigo": 391,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7500,7 +6827,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 429,
+  "IdArtigo": 392,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7521,7 +6848,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 430,
+  "IdArtigo": 393,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7541,7 +6868,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 431,
+  "IdArtigo": 394,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7561,7 +6888,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 432,
+  "IdArtigo": 395,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7582,7 +6909,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 433,
+  "IdArtigo": 396,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7602,7 +6929,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 434,
+  "IdArtigo": 397,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7622,7 +6949,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power"
  },
  {
-  "IdArtigo": 435,
+  "IdArtigo": 398,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7642,7 +6969,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
-  "IdArtigo": 436,
+  "IdArtigo": 399,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7662,7 +6989,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
-  "IdArtigo": 437,
+  "IdArtigo": 400,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7682,7 +7009,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
-  "IdArtigo": 438,
+  "IdArtigo": 401,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7700,7 +7027,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgagold.png"
  },
  {
-  "IdArtigo": 439,
+  "IdArtigo": 402,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7720,7 +7047,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Gold"
  },
  {
-  "IdArtigo": 440,
+  "IdArtigo": 403,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -7740,7 +7067,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 441,
+  "IdArtigo": 404,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -7760,7 +7087,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 442,
+  "IdArtigo": 405,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -7780,7 +7107,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 443,
+  "IdArtigo": 406,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -7800,7 +7127,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 444,
+  "IdArtigo": 407,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -7820,7 +7147,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB"
  },
  {
-  "IdArtigo": 445,
+  "IdArtigo": 408,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -7840,7 +7167,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 446,
+  "IdArtigo": 409,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -7861,7 +7188,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 447,
+  "IdArtigo": 410,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -7881,7 +7208,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 448,
+  "IdArtigo": 411,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -7901,7 +7228,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 449,
+  "IdArtigo": 412,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -7921,7 +7248,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA AGM"
  },
  {
-  "IdArtigo": 450,
+  "IdArtigo": 413,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7941,7 +7268,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 451,
+  "IdArtigo": 414,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7961,7 +7288,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 452,
+  "IdArtigo": 415,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -7981,7 +7308,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 453,
+  "IdArtigo": 416,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8001,7 +7328,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 454,
+  "IdArtigo": 417,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8021,7 +7348,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 455,
+  "IdArtigo": 418,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8041,7 +7368,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 456,
+  "IdArtigo": 419,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8061,7 +7388,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 457,
+  "IdArtigo": 420,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8081,7 +7408,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 458,
+  "IdArtigo": 421,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8101,7 +7428,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 459,
+  "IdArtigo": 422,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8122,7 +7449,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 460,
+  "IdArtigo": 423,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8143,7 +7470,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 461,
+  "IdArtigo": 424,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8163,7 +7490,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA Power PLUS"
  },
  {
-  "IdArtigo": 462,
+  "IdArtigo": 425,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8183,7 +7510,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 463,
+  "IdArtigo": 426,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8203,7 +7530,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 464,
+  "IdArtigo": 427,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8223,7 +7550,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 465,
+  "IdArtigo": 428,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8243,7 +7570,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 466,
+  "IdArtigo": 429,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8263,7 +7590,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 467,
+  "IdArtigo": 430,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8283,7 +7610,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 468,
+  "IdArtigo": 431,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8303,7 +7630,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 469,
+  "IdArtigo": 432,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8323,7 +7650,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 470,
+  "IdArtigo": 433,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8343,7 +7670,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 471,
+  "IdArtigo": 434,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8363,7 +7690,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 472,
+  "IdArtigo": 435,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8383,7 +7710,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 473,
+  "IdArtigo": 436,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8403,7 +7730,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 474,
+  "IdArtigo": 437,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8423,7 +7750,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 475,
+  "IdArtigo": 438,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8443,7 +7770,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 476,
+  "IdArtigo": 439,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8463,7 +7790,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 477,
+  "IdArtigo": 440,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8483,7 +7810,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 478,
+  "IdArtigo": 441,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8503,7 +7830,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 479,
+  "IdArtigo": 442,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8523,7 +7850,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 480,
+  "IdArtigo": 443,
   "Segmento": "AUTO",
   "Tecnologia": "CONVENCIONAL",
   "IdMarca": 90062,
@@ -8543,7 +7870,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA TRUCK HD"
  },
  {
-  "IdArtigo": 481,
+  "IdArtigo": 444,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -8563,7 +7890,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 482,
+  "IdArtigo": 445,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -8583,7 +7910,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 483,
+  "IdArtigo": 446,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -8603,7 +7930,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 484,
+  "IdArtigo": 447,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -8623,7 +7950,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 485,
+  "IdArtigo": 448,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -8643,7 +7970,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB JIS"
  },
  {
-  "IdArtigo": 486,
+  "IdArtigo": 449,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -8663,7 +7990,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB TRUCK HD"
  },
  {
-  "IdArtigo": 487,
+  "IdArtigo": 450,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -8683,7 +8010,7 @@
   "DesignacaoComercialSubstituta": "Bateria de arranque CGA EFB TRUCK HD"
  },
  {
-  "IdArtigo": 488,
+  "IdArtigo": 451,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8701,7 +8028,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 489,
+  "IdArtigo": 452,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8719,7 +8046,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 490,
+  "IdArtigo": 453,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8737,7 +8064,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 491,
+  "IdArtigo": 454,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8755,7 +8082,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 492,
+  "IdArtigo": 455,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8773,7 +8100,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 493,
+  "IdArtigo": 456,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8791,7 +8118,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 494,
+  "IdArtigo": 457,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8809,7 +8136,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 495,
+  "IdArtigo": 458,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8827,7 +8154,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 496,
+  "IdArtigo": 459,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8845,7 +8172,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 497,
+  "IdArtigo": 460,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8863,7 +8190,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 498,
+  "IdArtigo": 461,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8881,7 +8208,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 499,
+  "IdArtigo": 462,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8899,7 +8226,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 500,
+  "IdArtigo": 463,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8917,7 +8244,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 501,
+  "IdArtigo": 464,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8935,7 +8262,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 502,
+  "IdArtigo": 465,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8953,7 +8280,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 503,
+  "IdArtigo": 466,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8971,7 +8298,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 504,
+  "IdArtigo": 467,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -8989,7 +8316,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 505,
+  "IdArtigo": 468,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9007,7 +8334,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 506,
+  "IdArtigo": 469,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9025,7 +8352,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 507,
+  "IdArtigo": 470,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9043,7 +8370,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 508,
+  "IdArtigo": 471,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9061,7 +8388,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 509,
+  "IdArtigo": 472,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9079,7 +8406,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 510,
+  "IdArtigo": 473,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9097,7 +8424,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 511,
+  "IdArtigo": 474,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9115,7 +8442,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 512,
+  "IdArtigo": 475,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9133,7 +8460,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 513,
+  "IdArtigo": 476,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9151,7 +8478,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 514,
+  "IdArtigo": 477,
   "Segmento": "AUTO",
   "Tecnologia": "POWER",
   "IdMarca": 90062,
@@ -9169,7 +8496,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgapower.png"
  },
  {
-  "IdArtigo": 515,
+  "IdArtigo": 478,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9187,7 +8514,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 516,
+  "IdArtigo": 479,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9205,7 +8532,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 517,
+  "IdArtigo": 480,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9223,7 +8550,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 518,
+  "IdArtigo": 481,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9241,7 +8568,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 519,
+  "IdArtigo": 482,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9259,7 +8586,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 520,
+  "IdArtigo": 483,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9277,7 +8604,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 521,
+  "IdArtigo": 484,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9295,7 +8622,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 522,
+  "IdArtigo": 485,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9313,7 +8640,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 523,
+  "IdArtigo": 486,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9331,7 +8658,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 524,
+  "IdArtigo": 487,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9349,7 +8676,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 525,
+  "IdArtigo": 488,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9367,7 +8694,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 526,
+  "IdArtigo": 489,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9385,7 +8712,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 527,
+  "IdArtigo": 490,
   "Segmento": "AUTO",
   "Tecnologia": "EFB",
   "IdMarca": 90062,
@@ -9403,7 +8730,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaefb.png"
  },
  {
-  "IdArtigo": 528,
+  "IdArtigo": 491,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -9421,7 +8748,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 529,
+  "IdArtigo": 492,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -9439,7 +8766,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 530,
+  "IdArtigo": 493,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -9457,7 +8784,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 531,
+  "IdArtigo": 494,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -9475,7 +8802,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 532,
+  "IdArtigo": 495,
   "Segmento": "AUTO",
   "Tecnologia": "AGM",
   "IdMarca": 90062,
@@ -9493,7 +8820,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgaagm.png"
  },
  {
-  "IdArtigo": 533,
+  "IdArtigo": 496,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9511,7 +8838,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 534,
+  "IdArtigo": 497,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9529,7 +8856,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 535,
+  "IdArtigo": 498,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9547,7 +8874,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 536,
+  "IdArtigo": 499,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9565,7 +8892,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 537,
+  "IdArtigo": 500,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9583,7 +8910,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 538,
+  "IdArtigo": 501,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9601,7 +8928,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 539,
+  "IdArtigo": 502,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9619,7 +8946,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 540,
+  "IdArtigo": 503,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9637,7 +8964,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 541,
+  "IdArtigo": 504,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9655,7 +8982,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 542,
+  "IdArtigo": 505,
   "Segmento": "AUTO",
   "Tecnologia": "JIS",
   "IdMarca": 90062,
@@ -9673,7 +9000,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgajis.png"
  },
  {
-  "IdArtigo": 543,
+  "IdArtigo": 506,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9691,7 +9018,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 544,
+  "IdArtigo": 507,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9709,7 +9036,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 545,
+  "IdArtigo": 508,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9727,7 +9054,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 546,
+  "IdArtigo": 509,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9745,7 +9072,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 547,
+  "IdArtigo": 510,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9763,7 +9090,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 548,
+  "IdArtigo": 511,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9781,7 +9108,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 549,
+  "IdArtigo": 512,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9799,7 +9126,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 550,
+  "IdArtigo": 513,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9817,7 +9144,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 551,
+  "IdArtigo": 514,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9835,7 +9162,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 552,
+  "IdArtigo": 515,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9853,7 +9180,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 553,
+  "IdArtigo": 516,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9871,7 +9198,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 554,
+  "IdArtigo": 517,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9889,7 +9216,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 555,
+  "IdArtigo": 518,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9907,7 +9234,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 556,
+  "IdArtigo": 519,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9925,7 +9252,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 557,
+  "IdArtigo": 520,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9943,7 +9270,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 558,
+  "IdArtigo": 521,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9961,7 +9288,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 559,
+  "IdArtigo": 522,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9979,7 +9306,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 560,
+  "IdArtigo": 523,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -9997,7 +9324,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 561,
+  "IdArtigo": 524,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -10015,7 +9342,7 @@
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
  },
  {
-  "IdArtigo": 562,
+  "IdArtigo": 525,
   "Segmento": "AUTO",
   "Tecnologia": "TRUCK",
   "IdMarca": 90062,
@@ -10031,5 +9358,678 @@
   "EsqLigacao": 3,
   "Terminal": 1,
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/cgatruck.png"
+ },
+ {
+  "IdArtigo": 526,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN35J",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 53520,
+  "CapAh": 35,
+  "CCAaEN": 270,
+  "Comprimento": 196,
+  "Largura": 134,
+  "Altura": "205/226",
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 527,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN45Q",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L0",
+  "CapAh": 45,
+  "CCAaEN": 400,
+  "Comprimento": 175,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 528,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN44B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB2",
+  "CapAh": 44,
+  "CCAaEN": 360,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 529,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN45A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L1",
+  "CapAh": 45,
+  "CCAaEN": 400,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN44B"
+ },
+ {
+  "IdArtigo": 530,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN50A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L1",
+  "CapAh": 50,
+  "CCAaEN": 450,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN50B"
+ },
+ {
+  "IdArtigo": 531,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN50B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB2",
+  "CapAh": 50,
+  "CCAaEN": 390,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 532,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN55B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB2",
+  "CapAh": 55,
+  "CCAaEN": 450,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 533,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN55A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L2",
+  "CapAh": 55,
+  "CCAaEN": 500,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN55B"
+ },
+ {
+  "IdArtigo": 534,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN60B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB2",
+  "CapAh": 60,
+  "CCAaEN": 550,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 535,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN60A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 600,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN60B"
+ },
+ {
+  "IdArtigo": 536,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN71B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB3",
+  "CapAh": 71,
+  "CCAaEN": 640,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 537,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN74B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB3",
+  "CapAh": 74,
+  "CCAaEN": 670,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 538,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN71A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L3",
+  "CapAh": 71,
+  "CCAaEN": 640,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN71B"
+ },
+ {
+  "IdArtigo": 539,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN74A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L3",
+  "CapAh": 74,
+  "CCAaEN": 640,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN74B"
+ },
+ {
+  "IdArtigo": 540,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN75.4",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 57029,
+  "CapAh": 75,
+  "CCAaEN": 570,
+  "Comprimento": 269,
+  "Largura": 173,
+  "Altura": "198/218",
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 541,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN75.5",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": 57024,
+  "CapAh": 75,
+  "CCAaEN": 570,
+  "Comprimento": 269,
+  "Largura": 173,
+  "Altura": "198/218",
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 542,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN92B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB5",
+  "CapAh": 92,
+  "CCAaEN": 750,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 543,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN100B",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "LB5",
+  "CapAh": 100,
+  "CCAaEN": 850,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 544,
+  "Segmento": "AUTO",
+  "Tecnologia": "Convencional",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "IN100A",
+  "Descricao": "Bateria de Arranque InnovParts Plus",
+  "Bloco": "L5",
+  "CapAh": 100,
+  "CCAaEN": 900,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png",
+  "RefAlternativa": "IN100B"
+ },
+ {
+  "IdArtigo": 545,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB55V",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L1",
+  "CapAh": 55,
+  "CCAaEN": 560,
+  "Comprimento": 207,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 546,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB65J",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 56068,
+  "CapAh": 65,
+  "CCAaEN": 600,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": "200/220",
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 547,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB65JX",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 56069,
+  "CapAh": 65,
+  "CCAaEN": 600,
+  "Comprimento": 230,
+  "Largura": 173,
+  "Altura": "200/220",
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 548,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB60",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 640,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 549,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB65",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "LB3",
+  "CapAh": 65,
+  "CCAaEN": 650,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 550,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB70",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L3",
+  "CapAh": 70,
+  "CCAaEN": 760,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 551,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB70J",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 57029,
+  "CapAh": 70,
+  "CCAaEN": 680,
+  "Comprimento": 259,
+  "Largura": 175,
+  "Altura": "200/221",
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 552,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB70JX",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 57024,
+  "CapAh": 70,
+  "CCAaEN": 680,
+  "Comprimento": 259,
+  "Largura": 175,
+  "Altura": "200/221",
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 553,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB75",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "LB4",
+  "CapAh": 75,
+  "CCAaEN": 730,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 175,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 554,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB80",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L4",
+  "CapAh": 80,
+  "CCAaEN": 800,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 555,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB90",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": "L5",
+  "CapAh": 90,
+  "CCAaEN": 850,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 556,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB10J",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 59518,
+  "CapAh": 105,
+  "CCAaEN": 900,
+  "Comprimento": 303,
+  "Largura": 175,
+  "Altura": 227,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 557,
+  "Segmento": "AUTO",
+  "Tecnologia": "EFB",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INEFB10JX",
+  "Descricao": "Bateria de Arranque InnovParts EFB",
+  "Bloco": 59518,
+  "CapAh": 105,
+  "CCAaEN": 900,
+  "Comprimento": 303,
+  "Largura": 175,
+  "Altura": 227,
+  "EsqLigacao": "1+esquerda",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 558,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM60",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L2",
+  "CapAh": 60,
+  "CCAaEN": 680,
+  "Comprimento": 242,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 559,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM70",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L3",
+  "CapAh": 70,
+  "CCAaEN": 760,
+  "Comprimento": 278,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 560,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM80",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L4",
+  "CapAh": 80,
+  "CCAaEN": 800,
+  "Comprimento": 315,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 561,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM95",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L5",
+  "CapAh": 95,
+  "CCAaEN": 850,
+  "Comprimento": 353,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
+ },
+ {
+  "IdArtigo": 562,
+  "Segmento": "AUTO",
+  "Tecnologia": "AGM",
+  "IdMarca": 90001,
+  "Marca": "INNOVPARTS",
+  "Referencia": "INAGM105",
+  "Descricao": "Bateria de Arranque InnovParts AGM",
+  "Bloco": "L6",
+  "CapAh": 105,
+  "CCAaEN": 950,
+  "Comprimento": 394,
+  "Largura": 175,
+  "Altura": 190,
+  "EsqLigacao": "0+direita",
+  "Terminal": 1,
+  "imgUrl": "https://redeinnov.pt/wp-content/uploads/2016/05/innovparts.png"
  }
 ]
