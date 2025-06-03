@@ -228,5 +228,25 @@
   "Destaque": 1,
   "ImgUrl": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1407825200/d66ensoxanphb7sar0gn.png",
   "PdfUrl": "../assets/pdf/campanhas/Campanha_CTR"
+ },
+ {
+  "Id": 23,
+  "Titulo": "Campanha JBM",
+  "Descricao": "Campanha JBM - Junho 2025",
+  "DataInicio": "2025-06-02",
+  "DataFim": "2025-06-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/jbm.png",
+  "PdfUrl": "../assets/pdf/campanhas/CampanhaJBMJun25.pdf"
+ },
+ {
+  "Id": 24,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - Junho 2025",
+  "DataInicio": "2025-06-02",
+  "DataFim": "2025-06-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/CampanhaKroftoolsJun25.pdf"
  }
  ]
