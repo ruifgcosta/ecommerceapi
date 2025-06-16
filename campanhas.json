@@ -217,7 +217,7 @@
   "DataFim": "2025-07-31",
   "Destaque": 1,
   "ImgUrl": "https://achedosol.com/wp-content/uploads/2023/03/wigam.jpg",
-  "PdfUrl": "../assets/pdf/campanhas/Campanha_Wigam"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_Wigam.pdf"
  },
  {
   "Id": 22,
@@ -227,7 +227,7 @@
   "DataFim": "2025-07-31",
   "Destaque": 1,
   "ImgUrl": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1407825200/d66ensoxanphb7sar0gn.png",
-  "PdfUrl": "../assets/pdf/campanhas/Campanha_CTR"
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_CTR.pdf"
  },
  {
   "Id": 23,
