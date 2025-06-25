@@ -546,7 +546,8 @@
   "Descricao": "DS180E Kit",
   "NomeComercial": "DS 180E Kit",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS180E%20Kit.jpg",
-  "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech"
+  "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech",
+  "FichaTecnica": "../assets/pdf/DelphiDS180EKit.pdf"
  },
  {
   "IdArtigo": 53,
@@ -557,7 +558,8 @@
   "Descricao": "DS 480E Tablet And Bluetech",
   "NomeComercial": "DS 480E Tablet And Bluetech",
   "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS%20480E%20Tablet%20And%20Bluetech.jpg",
-  "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech"
+  "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech",
+  "FichaTecnica": "../assets/pdf/DS480ETabletAndBluetech.pdf"
  },
  {
   "IdArtigo": 54,
