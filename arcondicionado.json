@@ -303,7 +303,7 @@
     "NomeComercial": "RECO +",
     "imgUrl": "https://innovaftermarket.pt/images/Reco1.jpg",
     "Gas": "R1234yf",
-    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMRECO.pdf",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasWIGAMRECO.pdf",
     "Funcionamento": "Automática"
   },
   {
@@ -433,7 +433,7 @@
     "NomeComercial": "PICOLLA R744",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/PICCOLA_R744.jpg",
     "Gas": "R744",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMPICCOLAR744.pdf",
     "ArtigoRelacionado": "SOLD1176£Botija 14 L. R744 (10 Kg De Carga);14025171£Kit de conectividade Wi -Fi;14028033£Kit Recipientes Herméticos (Uv+Pag+R744+Ligações)",
     "Funcionamento": "Totalmente Automática"
   },
@@ -508,7 +508,7 @@
     "NomeComercial": "150 HP",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/150HP.jpg",
     "Gas": "R134a, R1234yf, R404a, R407c, R452a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAM150HP.pdf",
     "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5000 m - R134A, R407C, R404A, R407C, R452A;14010115£Kit Conexões e Mangueiras - 5 m - R1234YF",
     "Funcionamento": "Automática"
   },
@@ -699,7 +699,7 @@
     "NomeComercial": "X-TREME/20",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/XTREME20.jpg",
     "Gas": "R134a, R1234yf, R404a, R407c, R452a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasWIGAMXTREME20.pdf",
     "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5 m - R1234yf, R134A , R407C, R404A, R407C, R452A",
     "Funcionamento": "Automática"
   },
@@ -761,7 +761,7 @@
     "NomeComercial": "150 HP",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/150HP.jpg",
     "Gas": "R134a, R1234yf, R404a, R407c, R452a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAM150HP.pdf",
     "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5000 m - R134A, R407C, R404A, R407C, R452A;14010115£Kit Conexões e Mangueiras - 5 m - R1234YF",
     "Funcionamento": "Automática"
   },
@@ -775,7 +775,7 @@
     "NomeComercial": "OPTIMA",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA_VARIANT.jpg",
     "Gas": "R134a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMA.pdf",
     "Descontinuar": "Descontinuado",
     "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Automática"
@@ -837,7 +837,7 @@
     "NomeComercial": "OPTIMA",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA_VARIANT.jpg",
     "Gas": "R134a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMA.pdf",
     "Descontinuar": "Descontinuado",
     "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Automática"
@@ -900,7 +900,7 @@
     "NomeComercial": "X-CROSS",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/XCROSS.jpg",
     "Gas": "R134a, R1234yf",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasWIGAMXCROSS.pdf",
     "ArtigoRelacionado": "14010100£kit conexões e mangueiras 2500 mm - R134A;14010101£kit conexões e mangueiras 2500 mm - R1234yf;14010109£Kit Conexões e Mangueiras 5 m - R1234yf;14025171£Kit de conectividade Wi -Fi",
     "Funcionamento": "Automática"
   },
@@ -1115,7 +1115,7 @@
     "NomeComercial": "OPTIMA +",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA%2B_VARIANT.jpg",
     "Gas": "R134a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMAplus.pdf",
     "Descontinuar": "Descontinuado",
     "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Totalmente Automática"
@@ -1269,7 +1269,7 @@
     "NomeComercial": "OPTIMA",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA_VARIANT.jpg",
     "Gas": "R134a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMA.pdf",
     "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Automática"
   },
@@ -1283,7 +1283,7 @@
     "NomeComercial": "OPTIMA",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA_VARIANT.jpg",
     "Gas": "R1234yf",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMA.pdf",
     "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Automática"
   },
@@ -1573,7 +1573,7 @@
     "NomeComercial": "OPTIMA +",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA%2BA_VARIANT.jpg",
     "Gas": "R1234yf",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMAplus.pdf",
     "Descontinuar": "Descontinuado",
     "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Totalmente Automática"
@@ -1625,7 +1625,7 @@
     "NomeComercial": "OPTIMA",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA_VARIANT.jpg",
     "Gas": "R1234yf",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMA.pdf",
     "Descontinuar": "Descontinuado",
     "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Automática"
@@ -1767,7 +1767,7 @@
     "NomeComercial": "RECO +",
     "imgUrl": "https://innovaftermarket.pt/images/Reco1.jpg",
     "Gas": "R134a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasWIGAMRECO.pdf",
     "Funcionamento": "Automática"
   },
   {
@@ -1792,7 +1792,7 @@
     "NomeComercial": "OPTIMA +",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA%2B_VARIANT.jpg",
     "Gas": "R1234yf",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMAplus.pdf",
     "Descontinuar": "Descontinuado",
     "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Totalmente Automática"
@@ -1890,7 +1890,7 @@
     "NomeComercial": "OPTIMA",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA_VARIANT.jpg",
     "Gas": "R1234yf",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMA.pdf",
     "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Automática"
   },
@@ -2140,7 +2140,7 @@
     "NomeComercial": "OPTIMA",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA_VARIANT.jpg",
     "Gas": "R1234yf",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMA.pdf",
     "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml);",
     "Funcionamento": "Automática"
   },
@@ -2213,7 +2213,7 @@
     "NomeComercial": "OPTIMA +",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA%2BA_VARIANT.jpg",
     "Gas": "R134a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMAplus.pdf",
     "Descontinuar": "Descontinuado",
     "ArtigoRelacionado": "12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Totalmente Automática"
@@ -2278,7 +2278,7 @@
     "NomeComercial": "OPTIMA",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/dashboard-3/product/OPTIMA_VARIANT.jpg",
     "Gas": "R134a",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/CaracteristicasMaquinasWIGAMOPTIMA.pdf",
     "ArtigoRelacionado": "09017024£Kit de analisador de refrigerante;12001069K£Kit opcional de recipientes herméticamente fechados (oléo POE 250 ml + aditivo UV 125 ml)",
     "Funcionamento": "Automática"
   },
@@ -3033,7 +3033,9 @@
     "NomeComercial": "KRISTAL",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Kristal.jpg",
     "Gas": "R1234yf",
-    "Funcionamento": "Totalmente Automática"
+    "Funcionamento": "Totalmente Automática",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasCTRKRISTAL.pdf",
+    "Manual": "../assets/pdf/KRISTALManual.pdf"
   },
   {
     "IdArtigo": 264,
@@ -3689,7 +3691,9 @@
     "NomeComercial": "KRISTAL",
     "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy21vUzWUcfrs4RqpHl_m5jU5ERPrnTKlNtg&s",
     "Gas": "R1234yf",
-    "Funcionamento": "Totalmente Automática"
+    "Funcionamento": "Totalmente Automática",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasCTRKRISTAL.pdf",
+    "Manual": "../assets/pdf/KRISTALManual.pdf"
   },
   {
     "IdArtigo": 329,
@@ -4155,7 +4159,9 @@
     "NomeComercial": "KRISTAL",
     "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy21vUzWUcfrs4RqpHl_m5jU5ERPrnTKlNtg&s",
     "Gas": "R1234yf",
-    "Funcionamento": "Totalmente Automática"
+    "Funcionamento": "Totalmente Automática",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasCTRKRISTAL.pdf",
+    "Manual": "../assets/pdf/KRISTALManual.pdf"
   },
   {
     "IdArtigo": 375,
@@ -6172,7 +6178,9 @@
     "NomeComercial": "KRISTAL",
     "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy21vUzWUcfrs4RqpHl_m5jU5ERPrnTKlNtg&s",
     "Gas": "R1234yf",
-    "Funcionamento": "Totalmente Automática"
+    "Funcionamento": "Totalmente Automática",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasCTRKRISTAL.pdf",
+    "Manual": "../assets/pdf/KRISTALManual.pdf"
   },
   {
     "IdArtigo": 575,
@@ -9145,7 +9153,9 @@
     "NomeComercial": "DUAL",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Dual.jpg",
     "Gas": "R134a, R1234yf",
-    "Funcionamento": "Totalmente Automática"
+    "Funcionamento": "Totalmente Automática",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasCTRDUAL.pdf",
+    "Manual": "../assets/pdf/DUALManual.pdf"
   },
   {
     "IdArtigo": 869,
@@ -9931,7 +9941,9 @@
     "NomeComercial": "KHEOS",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Kheos.jpg",
     "Gas": "R134a",
-    "Funcionamento": "Semi-Automática"
+    "Funcionamento": "Semi-Automática",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasCTRKHEOS.pdf",
+    "Manual": "../assets/pdf/KHEOSManual.pdf"
   },
   {
     "IdArtigo": 947,
@@ -10024,7 +10036,9 @@
     "NomeComercial": "KHEOS PLUS",
     "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Kheos%20Plus.jpg",
     "Gas": "R134a",
-    "Funcionamento": "Automática"
+    "Funcionamento": "Automática",
+    "FichaTecnica": "../assets/pdf/CaracteristicasMaquinasCTRKHEOSPLUS.pdf",
+    "Manual": "../assets/pdf/KHEOSPLUSManual.pdf"
   },
   {
     "IdArtigo": 956,
