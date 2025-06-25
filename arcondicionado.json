@@ -303,7 +303,7 @@
     "NomeComercial": "RECO +",
     "imgUrl": "https://innovaftermarket.pt/images/Reco1.jpg",
     "Gas": "R1234yf",
-    "FichaTecnica": "https://www.wigam.es/sites/default/files/Cat%C3%A1logo_Auto_2024_Extendido_Baja.pdf",
+    "FichaTecnica": "../assets/pdf/campanhas/Caracteristicas Maquinas WIGAM RECO +.pdf",
     "Funcionamento": "Automática"
   },
   {
