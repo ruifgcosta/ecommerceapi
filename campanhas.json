@@ -258,5 +258,35 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
   "PdfUrl": "../assets/pdf/campanhas/KROFToolsJulho25.pdf"
+ },
+ {
+  "Id": 27,
+  "Titulo": "Campanha CGA - Escovas",
+  "Descricao": "Campanha CGA ESCOVAS - Julho 2025",
+  "DataInicio": "2025-07-01",
+  "DataFim": "2025-07-31",
+  "Destaque": 1,
+  "ImgUrl": "https://oficinascga.com/img/logo_cga_slogan_atr.png",
+  "PdfUrl": "../assets/pdf/campanhas/PromocaoEscovasCGAPT.pdf"
+ },
+ {
+  "Id": 28,
+  "Titulo": "Campanha WIX",
+  "Descricao": "Campanha WIX - Julho 2025",
+  "DataInicio": "2025-07-01",
+  "DataFim": "2025-07-31",
+  "Destaque": 1,
+  "ImgUrl": "https://completefilter.com/cdn/shop/collections/Brands_WixFilters_444x300.png?v=1540926643",
+  "PdfUrl": "../assets/pdf/campanhas/wixJULHO2025.png"
+ },
+ {
+  "Id": 29,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - Jul/Ago 2025",
+  "DataInicio": "2025-07-01",
+  "DataFim": "2025-08-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/autelJULAGO2025.pdf"
  }
  ]
