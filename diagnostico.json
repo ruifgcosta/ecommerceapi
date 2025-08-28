@@ -2869,5 +2869,29 @@
   "NomeComercial": "Chave Yamaha",
   "imgUrl": "https://www.auteltech.com/r/cms/www/default/atImg/header_logo.png",
   "Construtor": "Yamaha"
+ },
+ {
+  "IdArtigo": 258,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60338",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "DS580E Tablet And Bluetech",
+  "NomeComercial": "DS580E Tablet And Bluetech",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Logo%20Delphi.jpg",
+  "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech",
+  "FichaTecnica": "../assets/pdf/DS580Tablet.pdf"
+ },
+ {
+  "IdArtigo": 259,
+  "IdMarca": "00089",
+  "Marca": "DELPHI",
+  "Referencia": "SV60371",
+  "Produto": "Máquinas Diagnóstico",
+  "Descricao": "DS380E Tablet And Bluetech",
+  "NomeComercial": "DS380E Tablet And Bluetech",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Logo%20Delphi.jpg",
+  "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech",
+  "FichaTecnica": "../assets/pdf/DS380Tablet.pdf"
  }
 ]
