@@ -288,5 +288,15 @@
   "Destaque": 1,
   "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
   "PdfUrl": "../assets/pdf/campanhas/autelJULAGO2025.pdf"
+ },
+ {
+  "Id": 30,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - SET/OUT 2025",
+  "DataInicio": "2025-08-01",
+  "DataFim": "2025-10-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/RED_30_SET_OUT_2025.pdf"
  }
  ]
